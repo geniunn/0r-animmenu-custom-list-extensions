@@ -1204,7 +1204,7 @@ RES.TR.Customs.Shared = {
         "eniyiarkadaslar2",
         imageId = "bestfriends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["eniyiarkadaslar2"] = {
@@ -1214,7 +1214,7 @@ RES.TR.Customs.Shared = {
         "eniyiarkadaslar1",
         imageId = "bestfriends2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Attachto = true,
             bone = 0,
             pos = {
@@ -2919,7 +2919,7 @@ RES.TR.Customs.Shared = {
         "tatliopucukdudakkadin",
         imageId = "kisslips2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tatliopucukdudakkadin"] = {
@@ -2929,7 +2929,7 @@ RES.TR.Customs.Shared = {
         "tatliopucukdudakerkek",
         imageId = "kisslips",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Attachto = true,
             bone = 0,
             pos = {
@@ -3205,7 +3205,2086 @@ RES.TR.Customs.Shared = {
 
 RES.TR.Customs.Dances = {}
 
-RES.TR.Customs.AnimalEmotes = {}
+RES.TR.Customs.AnimalEmotes = {
+    ["altinsilahkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Altın Silah (Küçük Köpek)",
+        imageId = "sdogggun",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "w_pi_pistol_luxe",
+            PropBone = 12844,
+            PropPlacement = {
+                [1] = 0.201,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["altinsilahoturkucukkopek2"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Altın Silah Otur (Küçük Köpek) 2",
+        imageId = "sdoggun2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "w_pi_pistol_luxe",
+            PropBone = 12844,
+            PropPlacement = {
+                [1] = 0.201,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["arabadaoturbuyukkopek"] = {
+        "creatures@rottweiler@incar@",
+        "sit",
+        "Arabada Otur (Büyük Köpek)",
+        imageId = "bdogsitcar",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["asagigosterbuyukkopek"] = {
+        "creatures@rottweiler@indication@",
+        "indicate_low",
+        "Aşağı Göster (Büyük Köpek)",
+        imageId = "bdogindicatelow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["beyzboltopukucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Beyzbol Topu (Küçük Köpek)",
+        imageId = "sdogbb",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "w_am_baseball",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.05,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+            },
+        },
+    },
+    ["biftek2kucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_c",
+        "Biftek 2 (Küçük Köpek)",
+        imageId = "sdogsteak2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "prop_cs_steak",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.18,
+                [2] = -0.02,
+                [3] = 0.0,
+                [4] = 90.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["biftekkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Biftek (Küçük Köpek)",
+        imageId = "sdogsteak",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_cs_steak",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.18,
+                [2] = -0.02,
+                [3] = 0.0,
+                [4] = 90.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["burgerkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Burger (Küçük Köpek)",
+        imageId = "sdogburger",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_cs_burger_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.04,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 0.0,
+            },
+        },
+    },
+    ["burusukparakucukkopek2"] = {
+        "creatures@pug@move",
+        "nill",
+        "Buruşuk Para (Küçük Köpek) 2",
+        imageId = "sdogdolla2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "bkr_prop_scrunched_moneypage",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.17,
+                [2] = 0.0,
+                [3] = 0.0,
+                [4] = 90.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["dans2kucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans 2 (Küçük Köpek)",
+        imageId = "sdogdance2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "ba_prop_battle_glowstick_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.03,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["danskucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans (Küçük Köpek)",
+        imageId = "sdogdance",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "ba_prop_battle_glowstick_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.03,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+            },
+        },
+    },
+    ["dansprideakucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride A (Küçük Köpek)",
+        imageId = "sdogdancepridea",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag1",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["danspridebkucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride B (Küçük Köpek)",
+        imageId = "sdogdanceprideb",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag2",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["dansprideckucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride C (Küçük Köpek)",
+        imageId = "sdogdancepridec",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag3",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["danspridedkucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride D (Küçük Köpek)",
+        imageId = "sdogdanceprided",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag4",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["dansprideekucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride E (Küçük Köpek)",
+        imageId = "sdogdancepridee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag5",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["danspridefkucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride F (Küçük Köpek)",
+        imageId = "sdogdancepridef",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag6",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["danspridegkucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride G (Küçük Köpek)",
+        imageId = "sdogdanceprideg",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag7",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["danspridehkucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride H (Küçük Köpek)",
+        imageId = "sdogdanceprideh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag8",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["dansprideikucukkopek"] = {
+        "creatures@pug@move",
+        "idle_turn_0",
+        "Dans Pride I (Küçük Köpek)",
+        imageId = "sdogdancepridei",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag9",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+            SecondProp = "prop_cs_sol_glasses",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["dolarkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Dolar (Küçük Köpek)",
+        imageId = "sdogdolla",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "p_banknote_onedollar_s",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.17,
+                [2] = -0.01,
+                [3] = 0.0,
+                [4] = 90.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["frizbibuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "nill",
+        "Frizbi (Büyük Köpek)",
+        imageId = "bdogfris",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Moving,
+            Prop = "p_ld_frisbee_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.26,
+                [2] = 0.02,
+                [3] = -0.06,
+                [4] = -173.7526,
+                [5] = -169.4149,
+                [6] = 21.4173,
+            },
+        },
+    },
+    ["frizbikucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Frizbi (Küçük Köpek)",
+        imageId = "sdogfris",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Moving,
+            Prop = "p_ld_frisbee_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = -0.015,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 120.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["gozlukaviatorkucukkopek1"] = {
+        "creatures@pug@move",
+        "nill",
+        "Gözlük - Aviator (Küçük Köpek) 1",
+        imageId = "sdoggl1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_aviators_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.05,
+                [2] = 0.04,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["gozlukaviatoroturkucukkopek2"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Gözlük - Aviator Otur (Küçük Köpek) 2",
+        imageId = "sdoggl2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "prop_aviators_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.05,
+                [2] = 0.04,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["gulileoturkucukkopek2"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Gül ile Otur (Küçük Köpek) 2",
+        imageId = "sdogrose2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "prop_single_rose",
+            PropBone = 12844,
+            PropPlacement = {
+                [1] = 0.109,
+                [2] = -0.014,
+                [3] = 0.05,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["gulkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Gül (Küçük Köpek)",
+        imageId = "sdogrose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_single_rose",
+            PropBone = 12844,
+            PropPlacement = {
+                [1] = 0.109,
+                [2] = -0.014,
+                [3] = 0.05,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["gunesgozlugukucukkopek3"] = {
+        "creatures@pug@move",
+        "nill",
+        "Güneş Gözlüğü (Küçük Köpek) 3",
+        imageId = "sdoggl3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_cs_sol_glasses",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["gunesgozluguoturkucukkopek4"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Güneş Gözlüğü Otur (Küçük Köpek) 4",
+        imageId = "sdoggl4",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "prop_cs_sol_glasses",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.05,
+                [2] = 0.03,
+                [3] = 0.0,
+                [4] = -100.0000003,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["havaifisekbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "nill",
+        "Havai Fişek (Büyük Köpek)",
+        imageId = "bdogfw",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Moving,
+            Prop = "ind_prop_firework_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.14,
+                [2] = 0.33,
+                [3] = -0.08,
+                [4] = -85.606,
+                [5] = -176.74,
+                [6] = -9.8767,
+            },
+            PtfxAsset = "scr_indep_fireworks",
+            PtfxColor = {
+                [1] = {
+                    ["A"] = 1.0,
+                    ["B"] = 0,
+                    ["G"] = 0,
+                    ["R"] = 255,
+                },
+                [2] = {
+                    ["A"] = 1.0,
+                    ["B"] = 0,
+                    ["G"] = 255,
+                    ["R"] = 0,
+                },
+                [3] = {
+                    ["A"] = 1.0,
+                    ["B"] = 255,
+                    ["G"] = 0,
+                    ["R"] = 0,
+                },
+                [4] = {
+                    ["A"] = 1.0,
+                    ["B"] = 245,
+                    ["G"] = 5,
+                    ["R"] = 177,
+                },
+                [5] = {
+                    ["A"] = 1.0,
+                    ["B"] = 255,
+                    ["G"] = 3,
+                    ["R"] = 251,
+                },
+                [6] = {
+                    ["A"] = 1.0,
+                    ["B"] = 250,
+                    ["G"] = 238,
+                    ["R"] = 2,
+                },
+                [7] = {
+                    ["A"] = 1.0,
+                    ["B"] = 0,
+                    ["G"] = 248,
+                    ["R"] = 252,
+                },
+                [8] = {
+                    ["A"] = 1.0,
+                    ["B"] = 245,
+                    ["G"] = 245,
+                    ["R"] = 245,
+                },
+            },
+            PtfxInfo = "animations.firework",
+            PtfxName = "scr_indep_firework_trail_spawn",
+            PtfxPlacement = {
+                [1] = 0.0,
+                [2] = 0.0,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+                [7] = 0.6,
+            },
+            PtfxWait = 200,
+        },
+    },
+    ["havaifisekkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Havai Fişek (Küçük Köpek)",
+        imageId = "sdogfw",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Moving,
+            Prop = "ind_prop_firework_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.133,
+                [2] = -0.021,
+                [3] = -0.276,
+                [4] = 0.0,
+                [5] = -180.0,
+                [6] = 44.0,
+            },
+            PtfxAsset = "scr_indep_fireworks",
+            PtfxColor = {
+                [1] = {
+                    ["A"] = 1.0,
+                    ["B"] = 0,
+                    ["G"] = 0,
+                    ["R"] = 255,
+                },
+                [2] = {
+                    ["A"] = 1.0,
+                    ["B"] = 0,
+                    ["G"] = 255,
+                    ["R"] = 0,
+                },
+                [3] = {
+                    ["A"] = 1.0,
+                    ["B"] = 255,
+                    ["G"] = 0,
+                    ["R"] = 0,
+                },
+                [4] = {
+                    ["A"] = 1.0,
+                    ["B"] = 245,
+                    ["G"] = 5,
+                    ["R"] = 177,
+                },
+                [5] = {
+                    ["A"] = 1.0,
+                    ["B"] = 255,
+                    ["G"] = 3,
+                    ["R"] = 251,
+                },
+                [6] = {
+                    ["A"] = 1.0,
+                    ["B"] = 250,
+                    ["G"] = 238,
+                    ["R"] = 2,
+                },
+                [7] = {
+                    ["A"] = 1.0,
+                    ["B"] = 0,
+                    ["G"] = 248,
+                    ["R"] = 252,
+                },
+                [8] = {
+                    ["A"] = 1.0,
+                    ["B"] = 245,
+                    ["G"] = 245,
+                    ["R"] = 245,
+                },
+            },
+            PtfxInfo = "animations.firework",
+            PtfxName = "scr_indep_firework_trail_spawn",
+            PtfxPlacement = {
+                [1] = 0.0,
+                [2] = 0.0,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+                [7] = 0.6,
+            },
+            PtfxWait = 200,
+        },
+    },
+    ["havla2buyukkopek"] = {
+        "creatures@retriever@amb@world_dog_barking@idle_a",
+        "idle_a",
+        "Havla 2 (Büyük Köpek)",
+        imageId = "bdogbark2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["havlabuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_barking@idle_a",
+        "idle_a",
+        "Havla (Büyük Köpek)",
+        imageId = "bdogbark",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["havlakucukkopek"] = {
+        "creatures@pug@amb@world_dog_barking@idle_a",
+        "idle_a",
+        "Havla (Küçük Köpek)",
+        imageId = "sdogbark",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["heyecanlibuyukkopek"] = {
+        "creatures@retriever@amb@world_dog_barking@idle_a",
+        "idle_c",
+        "Heyecanlı (Büyük Köpek)",
+        imageId = "bdogexcited",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["ilerigosterbuyukkopek"] = {
+        "creatures@rottweiler@indication@",
+        "indicate_ahead",
+        "İleri Göster (Büyük Köpek)",
+        imageId = "bdogindicateahead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["ise2buyukkopek"] = {
+        "creatures@rottweiler@move",
+        "pee_right_idle",
+        "İşe 2 (Büyük Köpek)",
+        imageId = "bdogpee2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            PtfxAsset = "scr_amb_chop",
+            PtfxCanHold = true,
+            PtfxInfo = "animations.pee",
+            PtfxName = "ent_anim_dog_peeing",
+            PtfxNoProp = true,
+            PtfxPlacement = {
+                [1] = 0.15,
+                [2] = -0.35,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 90.0,
+                [6] = 0.0,
+                [7] = 1.0,
+            },
+            PtfxWait = 0,
+        },
+    },
+    ["isebuyukkopek"] = {
+        "creatures@rottweiler@move",
+        "pee_left_idle",
+        "İşe (Büyük Köpek)",
+        imageId = "bdogpee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            PtfxAsset = "scr_amb_chop",
+            PtfxCanHold = true,
+            PtfxInfo = "animations.pee",
+            PtfxName = "ent_anim_dog_peeing",
+            PtfxNoProp = true,
+            PtfxPlacement = {
+                [1] = -0.15,
+                [2] = -0.35,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 90.0,
+                [6] = 180.0,
+                [7] = 1.0,
+            },
+            PtfxWait = 0,
+        },
+    },
+    ["isekucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "İşe (Küçük Köpek)",
+        imageId = "sdogpee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            PtfxAsset = "scr_amb_chop",
+            PtfxCanHold = true,
+            PtfxInfo = "animations.pee",
+            PtfxName = "ent_anim_dog_peeing",
+            PtfxNoProp = true,
+            PtfxPlacement = {
+                [1] = -0.01,
+                [2] = -0.17,
+                [3] = 0.09,
+                [4] = 0.0,
+                [5] = 90.0,
+                [6] = 140.0,
+                [7] = 1.0,
+            },
+            PtfxWait = 0,
+        },
+    },
+    ["isiklicubukbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "nill",
+        "Işıklı Çubuk (Büyük Köpek)",
+        imageId = "bdogglowa",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Moving,
+            Prop = "ba_prop_battle_glowstick_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.2,
+                [2] = 0.0,
+                [3] = -0.06,
+                [4] = 90.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["isiklicubukoturbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Işıklı Çubuk Otur (Büyük Köpek)",
+        imageId = "bdogglowb",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "ba_prop_battle_glowstick_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.2,
+                [2] = 0.0,
+                [3] = -0.06,
+                [4] = 90.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["kakayapbuyukkopek"] = {
+        "creatures@rottweiler@move",
+        "dump_loop",
+        "Kaka Yap (Büyük Köpek)",
+        imageId = "bdogshit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            PtfxAsset = "scr_amb_chop",
+            PtfxCanHold = true,
+            PtfxInfo = "animations.poop",
+            PtfxName = "ent_anim_dog_poo",
+            PtfxNoProp = true,
+            PtfxPlacement = {
+                [1] = 0.1,
+                [2] = -0.08,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 90.0,
+                [6] = 180.0,
+                [7] = 1.0,
+            },
+            PtfxWait = 0,
+        },
+    },
+    ["kakayapkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Kaka Yap (Küçük Köpek)",
+        imageId = "sdogshit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Moving,
+            PtfxAsset = "scr_amb_chop",
+            PtfxBone = 11816,
+            PtfxCanHold = true,
+            PtfxInfo = "animations.poop",
+            PtfxName = "ent_anim_dog_poo",
+            PtfxNoProp = true,
+            PtfxPlacement = {
+                [1] = -0.033,
+                [2] = 0.021,
+                [3] = -0.004,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+                [7] = 0.5,
+            },
+            PtfxWait = 0,
+        },
+    },
+    ["kasinbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@idle_a",
+        "idle_a",
+        "Kaşın (Büyük Köpek)",
+        imageId = "bdogitch",
+        AnimationOptions = {
+            EmoteDuration = 2000,
+        },
+    },
+    ["kasinkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_a",
+        "Kaşın (Küçük Köpek)",
+        imageId = "sdogitch",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+        },
+    },
+    ["kask1kucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Kask 1 (Küçük Köpek)",
+        imageId = "sdoghlmt1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "ba_prop_battle_sports_helmet",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.0,
+                [2] = -0.02,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["kask2kucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Kask 2 (Küçük Köpek)",
+        imageId = "sdoghlmt2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_hard_hat_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.0,
+                [2] = 0.13,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["mikrofonkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Mikrofon (Küçük Köpek)",
+        imageId = "sdogmic",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "p_ing_microphonel_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.017,
+                [3] = 0.03,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["oturbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Otur (Büyük Köpek)",
+        imageId = "bdogsit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+        },
+    },
+    ["oturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Otur (Küçük Köpek)",
+        imageId = "sdogsit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+        },
+    },
+    ["oyuncakayikucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Oyuncak Ayı (Küçük Köpek)",
+        imageId = "sdogteddy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "v_ilev_mr_rasberryclean",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.11,
+                [3] = -0.23,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["oyuncakayioturkucukkopek2"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Oyuncak Ayı Otur (Küçük Köpek) 2",
+        imageId = "sdogteddy2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "v_ilev_mr_rasberryclean",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.11,
+                [3] = -0.23,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["oyunkolukucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Oyun Kolu (Küçük Köpek)",
+        imageId = "sdogcontroller",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_controller_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.18,
+                [2] = -0.03,
+                [3] = 0.0,
+                [4] = -180.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["paracantasikucukkopek4"] = {
+        "creatures@pug@move",
+        "nill",
+        "Para Çantası (Küçük Köpek) 4",
+        imageId = "sdogdolla4",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "ch_prop_ch_moneybag_01a",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.12,
+                [2] = -0.2,
+                [3] = 0.0,
+                [4] = -79.9999997,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["paradestesikucukkopek3"] = {
+        "creatures@pug@move",
+        "nill",
+        "Para Destesi (Küçük Köpek) 3",
+        imageId = "sdogdolla3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "bkr_prop_money_wrapped_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.17,
+                [2] = -0.01,
+                [3] = 0.0,
+                [4] = 90.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["pativerbuyukkopek2"] = {
+        "creatures@rottweiler@tricks@",
+        "paw_right_loop",
+        "Pati Ver (Büyük Köpek) 2",
+        imageId = "bdogbeg2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["prideabuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride A (Büyük Köpek)",
+        imageId = "bdogpridea",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag1",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag1",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["prideakucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride A (Küçük Köpek)",
+        imageId = "sdogpridea",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag1",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideaoturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride A Otur (Küçük Köpek)",
+        imageId = "sdogpridesita",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag1",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridebkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride B (Küçük Köpek)",
+        imageId = "sdogprideb",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag2",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideblgbtqiabuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride B - LGBTQIA (Büyük Köpek)",
+        imageId = "bdogprideb",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag2",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag2",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["prideboturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride B Otur (Küçük Köpek)",
+        imageId = "sdogpridesitb",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag2",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridecbiseksuelbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride C - Biseksüel (Büyük Köpek)",
+        imageId = "bdogpridec",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag3",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag3",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["prideckucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride C (Küçük Köpek)",
+        imageId = "sdogpridec",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag3",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridecoturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride C Otur (Küçük Köpek)",
+        imageId = "sdogpridesitc",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag3",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridedkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride D (Küçük Köpek)",
+        imageId = "sdogprided",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag4",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridedlezbiyenbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride D - Lezbiyen (Büyük Köpek)",
+        imageId = "bdogprided",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag4",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag4",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["pridedoturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride D Otur (Küçük Köpek)",
+        imageId = "sdogpridesitd",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag4",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideekucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride E (Küçük Köpek)",
+        imageId = "sdogpridee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag5",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideeoturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride E Otur (Küçük Köpek)",
+        imageId = "sdogpridesite",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag5",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideepanseksuelbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride E - Panseksüel (Büyük Köpek)",
+        imageId = "bdogpridee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag5",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag5",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["pridefkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride F (Küçük Köpek)",
+        imageId = "sdogpridef",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag6",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridefoturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride F Otur (Küçük Köpek)",
+        imageId = "sdogpridesitf",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag6",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideftransbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride F - Trans (Büyük Köpek)",
+        imageId = "bdogpridef",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag6",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag6",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["pridegkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride G (Küçük Köpek)",
+        imageId = "sdogprideg",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag6",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridegnonbinarybuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride G - Non Binary (Büyük Köpek)",
+        imageId = "bdogprideg",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag7",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag7",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["pridegoturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride G Otur (Küçük Köpek)",
+        imageId = "sdogpridesitg",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag7",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridehaseksuelbuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride H - Aseksüel (Büyük Köpek)",
+        imageId = "bdogprideh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag8",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag8",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["pridehkucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride H (Küçük Köpek)",
+        imageId = "sdogprideh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag7",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["pridehoturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride H Otur (Küçük Köpek)",
+        imageId = "sdogpridesith",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag8",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideikucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Pride I (Küçük Köpek)",
+        imageId = "sdogpridei",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "lilprideflag8",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideioturkucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Pride I Otur (Küçük Köpek)",
+        imageId = "sdogpridesiti",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "lilprideflag9",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.124,
+                [2] = -0.008,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -74.6999,
+            },
+        },
+    },
+    ["prideistraightallybuyukkopek"] = {
+        "creatures@rottweiler@amb@world_dog_sitting@base",
+        "base",
+        "Pride I - Straight Ally (Büyük Köpek)",
+        imageId = "bdogpridei",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogup",
+            Prop = "lilprideflag9",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.19,
+                [2] = 0.0,
+                [3] = -0.05,
+                [4] = 100.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+            SecondProp = "lilprideflag9",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.194,
+                [2] = 0.02,
+                [3] = -0.05,
+                [4] = -90.0,
+                [5] = -90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["sagayatbuyukkopek"] = {
+        "creatures@rottweiler@move",
+        "dead_right",
+        "Sağa Yat (Büyük Köpek)",
+        imageId = "bdoglayright",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["sapka1kucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Şapka 1 (Küçük Köpek)",
+        imageId = "sdoghat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_proxy_hat_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.0,
+                [2] = 0.12,
+                [3] = 0.0,
+                [4] = -99.8510766,
+                [5] = 80.1489234,
+                [6] = 1.7279411,
+            },
+            SecondProp = "prop_aviators_01",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.04,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["sapka2kucukkopek"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Şapka 2 (Küçük Köpek)",
+        imageId = "sdoghat2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "prop_proxy_hat_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.0,
+                [2] = 0.12,
+                [3] = 0.0,
+                [4] = -99.8510766,
+                [5] = 80.1489234,
+                [6] = 1.7279411,
+            },
+            SecondProp = "prop_aviators_01",
+            SecondPropBone = 31086,
+            SecondPropPlacement = {
+                [1] = 0.05,
+                [2] = 0.04,
+                [3] = 0.0,
+                [4] = -90.0,
+                [5] = 90.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["silkelenkucukkopek"] = {
+        "creatures@pug@amb@world_dog_barking@idle_a",
+        "idle_c",
+        "Silkelen (Küçük Köpek)",
+        imageId = "sdogshake",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["soktabancasikucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Şok Tabancası (Küçük Köpek)",
+        imageId = "sdogstun",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "w_pi_stungun",
+            PropBone = 12844,
+            PropPlacement = {
+                [1] = 0.14,
+                [2] = -0.01,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+            PtfxAsset = "core",
+            PtfxInfo = "animations.stun",
+            PtfxName = "blood_stungun",
+            PtfxPlacement = {
+                [1] = 0.208,
+                [2] = 0.0,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+                [7] = 1.0,
+            },
+            PtfxWait = 200,
+        },
+    },
+    ["solayatbuyukkopek"] = {
+        "creatures@rottweiler@move",
+        "dead_left",
+        "Sola Yat (Büyük Köpek)",
+        imageId = "bdoglayleft",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["sosislikucukkopek1"] = {
+        "creatures@pug@move",
+        "nill",
+        "Sosisli (Küçük Köpek) 1",
+        imageId = "sdoghd1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_cs_hotdog_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.13,
+                [2] = -0.025,
+                [3] = 0.0,
+                [4] = -88.272053,
+                [5] = -9.8465858,
+                [6] = -0.1488562,
+            },
+        },
+    },
+    ["sosislioturkucukkopek2"] = {
+        "creatures@pug@amb@world_dog_sitting@idle_a",
+        "idle_b",
+        "Sosisli Otur (Küçük Köpek) 2",
+        imageId = "sdoghd2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+            Prop = "prop_cs_hotdog_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.13,
+                [2] = -0.025,
+                [3] = 0.0,
+                [4] = -88.272053,
+                [5] = -9.8465858,
+                [6] = -0.1488562,
+            },
+        },
+    },
+    ["surtunmedisibuyukkopek"] = {
+        "creatures@rottweiler@amb@",
+        "hump_loop_ladydog",
+        "Sürtünme - Dişi (Büyük Köpek)",
+        imageId = "bdogfhump",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+        AdultAnimation = true,
+        AnimalEmote = true,
+    },
+    ["surtunmeerkekbuyukkopek"] = {
+        "creatures@rottweiler@amb@",
+        "hump_loop_chop",
+        "Sürtünme - Erkek (Büyük Köpek)",
+        imageId = "bdogmhump",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+        AdultAnimation = true,
+        AnimalEmote = true,
+    },
+    ["tenisraketikucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Tenis Raketi (Küçük Köpek)",
+        imageId = "sdogtennisr",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_tennis_rack_01",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.02,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = -28.0,
+            },
+        },
+    },
+    ["tenistopukucukkopek"] = {
+        "creatures@pug@move",
+        "nill",
+        "Tenis Topu (Küçük Köpek)",
+        imageId = "sdogtennis",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            Prop = "prop_tennis_ball",
+            PropBone = 31086,
+            PropPlacement = {
+                [1] = 0.15,
+                [2] = -0.06,
+                [3] = 0.0,
+                [4] = 0.0,
+                [5] = 0.0,
+                [6] = 0.0,
+            },
+        },
+    },
+    ["uyubuyukkopek"] = {
+        "creatures@rottweiler@amb@sleep_in_kennel@",
+        "sleep_in_kennel",
+        "Uyu (Büyük Köpek)",
+        imageId = "bdogsleep",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "bdogupk",
+        },
+    },
+    ["yalvarbuyukkopek"] = {
+        "creatures@rottweiler@tricks@",
+        "beg_loop",
+        "Yalvar (Büyük Köpek)",
+        imageId = "bdogbeg",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+    ["yatkucukkopek"] = {
+        "misssnowie@little_doggy_lying_down",
+        "base",
+        "Yat (Küçük Köpek)",
+        imageId = "sdogld",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+            ExitEmote = "sdogup",
+        },
+    },
+    ["yukarigosterbuyukkopek"] = {
+        "creatures@rottweiler@indication@",
+        "indicate_high",
+        "Yukarı Göster (Büyük Köpek)",
+        imageId = "bdogindicatehigh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlagNumbers.Loop,
+        },
+    },
+}
 
 RES.TR.Customs.Exits = {}
 
@@ -3216,7 +5295,7 @@ RES.TR.Customs.General = {
         "Afrodit Pozu",
         imageId = "aphroditepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["afroditpozu2"] = {
@@ -3225,7 +5304,7 @@ RES.TR.Customs.General = {
         "Afrodit Pozu 2",
         imageId = "aphroditepose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["afroditpozu3"] = {
@@ -3234,7 +5313,7 @@ RES.TR.Customs.General = {
         "Afrodit Pozu 3",
         imageId = "aphroditepose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["alkis"] = {
@@ -3243,7 +5322,7 @@ RES.TR.Customs.General = {
         "Alkış",
         imageId = "clap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["anahtarkumandasi"] = {
@@ -3252,7 +5331,7 @@ RES.TR.Customs.General = {
         "Anahtar Kumandası",
         imageId = "keyfob",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -3398,7 +5477,7 @@ RES.TR.Customs.General = {
         "Arabayı İncele",
         imageId = "checkcar",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arabayiincele2"] = {
@@ -3407,7 +5486,7 @@ RES.TR.Customs.General = {
         "Arabayı İncele 2",
         imageId = "checkcar2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aracicidurus"] = {
@@ -3416,7 +5495,7 @@ RES.TR.Customs.General = {
         "Araç İçi Duruş",
         imageId = "dock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["arkayayaslanarakotur6"] = {
@@ -3425,7 +5504,7 @@ RES.TR.Customs.General = {
         "Arkaya Yaslanarak Otur 6",
         imageId = "sitchair6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -3435,7 +5514,7 @@ RES.TR.Customs.General = {
         "Aşağıyı Göster",
         imageId = "pointdown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -3445,7 +5524,7 @@ RES.TR.Customs.General = {
         "Asker Selamı",
         imageId = "salute",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["askerselami2"] = {
@@ -3454,7 +5533,7 @@ RES.TR.Customs.General = {
         "Asker Selamı 2",
         imageId = "salute2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["askerselami3"] = {
@@ -3463,7 +5542,7 @@ RES.TR.Customs.General = {
         "Asker Selamı 3",
         imageId = "salute3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["askpozu"] = {
@@ -3500,7 +5579,7 @@ RES.TR.Customs.General = {
         "Ayakkabı Gösterme",
         imageId = "shoepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             StartDelay = 240,
         },
     },
@@ -3510,7 +5589,7 @@ RES.TR.Customs.General = {
         "Ayakkabı Kontrol (Erkek)",
         imageId = "maleshoecheck",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ayaktapoz"] = {
@@ -3559,7 +5638,7 @@ RES.TR.Customs.General = {
         "Bacak Bacak Üstüne At 5",
         imageId = "sitchair5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -3569,7 +5648,7 @@ RES.TR.Customs.General = {
         "Baddie Barış Pozu",
         imageId = "baddiepeace",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["baddieegilme"] = {
@@ -3578,7 +5657,7 @@ RES.TR.Customs.General = {
         "Baddie Eğilme",
         imageId = "baddiebendova",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["baddietirnakpozu"] = {
@@ -3587,7 +5666,7 @@ RES.TR.Customs.General = {
         "Baddie Tırnak Pozu",
         imageId = "baddienailpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["baebi"] = {
@@ -3659,7 +5738,7 @@ RES.TR.Customs.General = {
         "Bağımlı",
         imageId = "addict",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["balerinpozu"] = {
@@ -3678,7 +5757,7 @@ RES.TR.Customs.General = {
         "Balık Dansı",
         imageId = "fishdance",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bangbang"] = {
@@ -3696,7 +5775,7 @@ RES.TR.Customs.General = {
         "Bara Yaslan 2",
         imageId = "leanbar2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["barayaslan3"] = {
@@ -3705,7 +5784,7 @@ RES.TR.Customs.General = {
         "Bara Yaslan 3",
         imageId = "leanbar3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["barayaslan4"] = {
@@ -3714,7 +5793,7 @@ RES.TR.Customs.General = {
         "Bara Yaslan 4",
         imageId = "leanbar4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["baris"] = {
@@ -3723,7 +5802,7 @@ RES.TR.Customs.General = {
         "Barış",
         imageId = "peace",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["baris2"] = {
@@ -3732,7 +5811,7 @@ RES.TR.Customs.General = {
         "Barış 2",
         imageId = "peace2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["baris3"] = {
@@ -3741,7 +5820,7 @@ RES.TR.Customs.General = {
         "Barış 3",
         imageId = "peace3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["baris4"] = {
@@ -3750,7 +5829,7 @@ RES.TR.Customs.General = {
         "Barış 4",
         imageId = "peace4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["baris5"] = {
@@ -3759,7 +5838,7 @@ RES.TR.Customs.General = {
         "Barış 5",
         imageId = "peace5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["baris6"] = {
@@ -3768,7 +5847,7 @@ RES.TR.Customs.General = {
         "Barış 6",
         imageId = "peace6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["baris7"] = {
@@ -3777,7 +5856,7 @@ RES.TR.Customs.General = {
         "Barış 7",
         imageId = "peace7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bariskadin"] = {
@@ -3786,7 +5865,7 @@ RES.TR.Customs.General = {
         "Barış (Kadın)",
         imageId = "peacef",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["barmen"] = {
@@ -3795,7 +5874,7 @@ RES.TR.Customs.General = {
         "Barmen",
         imageId = "bartender",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["basparmak2"] = {
@@ -3804,7 +5883,7 @@ RES.TR.Customs.General = {
         "Baş Parmak 2",
         imageId = "thumbsup2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["basparmak3"] = {
@@ -3813,7 +5892,7 @@ RES.TR.Customs.General = {
         "Baş Parmak 3",
         imageId = "thumbsup3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3000,
         },
     },
@@ -3823,7 +5902,7 @@ RES.TR.Customs.General = {
         "Baş Parmak (Onay)",
         imageId = "thumbsup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["batiyakasi"] = {
@@ -3842,7 +5921,7 @@ RES.TR.Customs.General = {
         "Bayılma",
         imageId = "passout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3853,7 +5932,7 @@ RES.TR.Customs.General = {
         "Bayılma 2",
         imageId = "passout2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3864,7 +5943,7 @@ RES.TR.Customs.General = {
         "Bayılma 3",
         imageId = "passout3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3875,7 +5954,7 @@ RES.TR.Customs.General = {
         "Bayılma 4",
         imageId = "passout4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3886,7 +5965,7 @@ RES.TR.Customs.General = {
         "Bayılma 5",
         imageId = "passout5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3897,7 +5976,7 @@ RES.TR.Customs.General = {
         "Bayılma 6",
         imageId = "passout6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3908,7 +5987,7 @@ RES.TR.Customs.General = {
         "Bayılma 7",
         imageId = "passout7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3919,7 +5998,7 @@ RES.TR.Customs.General = {
         "Bayılma 8",
         imageId = "passout8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -3930,7 +6009,7 @@ RES.TR.Customs.General = {
         "Bekle",
         imageId = "wait",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle10"] = {
@@ -3939,7 +6018,7 @@ RES.TR.Customs.General = {
         "Bekle 10",
         imageId = "wait10",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle11"] = {
@@ -3948,7 +6027,7 @@ RES.TR.Customs.General = {
         "Bekle 11",
         imageId = "wait11",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle12"] = {
@@ -3957,7 +6036,7 @@ RES.TR.Customs.General = {
         "Bekle 12",
         imageId = "wait12",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle13"] = {
@@ -3966,7 +6045,7 @@ RES.TR.Customs.General = {
         "Bekle 13",
         imageId = "wait13",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle2"] = {
@@ -3975,7 +6054,7 @@ RES.TR.Customs.General = {
         "Bekle 2",
         imageId = "wait2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle3"] = {
@@ -3984,7 +6063,7 @@ RES.TR.Customs.General = {
         "Bekle 3",
         imageId = "wait3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle4"] = {
@@ -3993,7 +6072,7 @@ RES.TR.Customs.General = {
         "Bekle 4",
         imageId = "wait4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle5"] = {
@@ -4002,7 +6081,7 @@ RES.TR.Customs.General = {
         "Bekle 5",
         imageId = "wait5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle6"] = {
@@ -4011,7 +6090,7 @@ RES.TR.Customs.General = {
         "Bekle 6",
         imageId = "wait6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle7"] = {
@@ -4020,7 +6099,7 @@ RES.TR.Customs.General = {
         "Bekle 7",
         imageId = "wait7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle8"] = {
@@ -4029,7 +6108,7 @@ RES.TR.Customs.General = {
         "Bekle 8",
         imageId = "wait8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bekle9"] = {
@@ -4038,7 +6117,7 @@ RES.TR.Customs.General = {
         "Bekle 9",
         imageId = "wait9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ben"] = {
@@ -4047,7 +6126,7 @@ RES.TR.Customs.General = {
         "Ben",
         imageId = "me",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -4069,7 +6148,7 @@ RES.TR.Customs.General = {
         "Beyin Yanması",
         imageId = "mindblown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 4000,
         },
     },
@@ -4079,7 +6158,7 @@ RES.TR.Customs.General = {
         "Beyin Yanması 2",
         imageId = "mindblown2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 4000,
         },
     },
@@ -4118,7 +6197,7 @@ RES.TR.Customs.General = {
         "Boks",
         imageId = "boxing",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 4000,
         },
     },
@@ -4128,7 +6207,7 @@ RES.TR.Customs.General = {
         "Boks 2",
         imageId = "boxing2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 4000,
         },
     },
@@ -4138,7 +6217,7 @@ RES.TR.Customs.General = {
         "Boks 3",
         imageId = "boxing3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta10"] = {
@@ -4147,7 +6226,7 @@ RES.TR.Customs.General = {
         "Boşta 10",
         imageId = "idle10",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bosta11"] = {
@@ -4156,7 +6235,7 @@ RES.TR.Customs.General = {
         "Boşta 11",
         imageId = "idle11",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta12"] = {
@@ -4165,7 +6244,7 @@ RES.TR.Customs.General = {
         "Boşta 12",
         imageId = "idle12",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta13"] = {
@@ -4174,7 +6253,7 @@ RES.TR.Customs.General = {
         "Boşta 13",
         imageId = "idle13",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta14"] = {
@@ -4183,7 +6262,7 @@ RES.TR.Customs.General = {
         "Boşta 14",
         imageId = "idle14",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta15"] = {
@@ -4192,7 +6271,7 @@ RES.TR.Customs.General = {
         "Boşta 15",
         imageId = "idle15",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta16"] = {
@@ -4201,7 +6280,7 @@ RES.TR.Customs.General = {
         "Boşta 16",
         imageId = "idle16",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta17"] = {
@@ -4210,7 +6289,7 @@ RES.TR.Customs.General = {
         "Boşta 17",
         imageId = "idle17",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta18"] = {
@@ -4219,7 +6298,7 @@ RES.TR.Customs.General = {
         "Boşta 18",
         imageId = "idle18",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta19"] = {
@@ -4228,7 +6307,7 @@ RES.TR.Customs.General = {
         "Boşta 19",
         imageId = "idle19",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta2"] = {
@@ -4237,7 +6316,7 @@ RES.TR.Customs.General = {
         "Boşta 2",
         imageId = "idle2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta3"] = {
@@ -4246,7 +6325,7 @@ RES.TR.Customs.General = {
         "Boşta 3",
         imageId = "idle3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta4"] = {
@@ -4255,7 +6334,7 @@ RES.TR.Customs.General = {
         "Boşta 4",
         imageId = "idle4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta5"] = {
@@ -4264,7 +6343,7 @@ RES.TR.Customs.General = {
         "Boşta 5",
         imageId = "idle5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta6"] = {
@@ -4273,7 +6352,7 @@ RES.TR.Customs.General = {
         "Boşta 6",
         imageId = "idle6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta7"] = {
@@ -4282,7 +6361,7 @@ RES.TR.Customs.General = {
         "Boşta 7",
         imageId = "idle7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosta8"] = {
@@ -4297,7 +6376,7 @@ RES.TR.Customs.General = {
         "Boşta 9",
         imageId = "idle9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["braces1"] = {
@@ -4360,7 +6439,7 @@ RES.TR.Customs.General = {
         "Bulutları İzle",
         imageId = "cloudgaze",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -4371,7 +6450,7 @@ RES.TR.Customs.General = {
         "Bulutları İzle 2",
         imageId = "cloudgaze2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -4382,7 +6461,7 @@ RES.TR.Customs.General = {
         "Burun Karıştır",
         imageId = "nosepick",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["buyulebenipozu1"] = {
@@ -4391,7 +6470,7 @@ RES.TR.Customs.General = {
         "Büyüle Beni Pozu 1",
         imageId = "dazzle1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buyulebenipozu2"] = {
@@ -4400,7 +6479,7 @@ RES.TR.Customs.General = {
         "Büyüle Beni Pozu 2",
         imageId = "dazzle2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buyulebenipozu3"] = {
@@ -4409,7 +6488,7 @@ RES.TR.Customs.General = {
         "Büyüle Beni Pozu 3",
         imageId = "dazzle3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buyulebenipozu4"] = {
@@ -4418,7 +6497,7 @@ RES.TR.Customs.General = {
         "Büyüle Beni Pozu 4",
         imageId = "dazzle4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buyulebenipozu5"] = {
@@ -4427,7 +6506,7 @@ RES.TR.Customs.General = {
         "Büyüle Beni Pozu 5",
         imageId = "dazzle5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buyulebenipozu6"] = {
@@ -4436,7 +6515,7 @@ RES.TR.Customs.General = {
         "Büyüle Beni Pozu 6",
         imageId = "dazzle6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buyulebenipozu7"] = {
@@ -4445,7 +6524,7 @@ RES.TR.Customs.General = {
         "Büyüle Beni Pozu 7",
         imageId = "dazzle7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["canavar"] = {
@@ -4454,7 +6533,7 @@ RES.TR.Customs.General = {
         "Canavar",
         imageId = "beast",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 5000,
         },
     },
@@ -4473,7 +6552,7 @@ RES.TR.Customs.General = {
         "Çapkın Yaslanma",
         imageId = "leanflirt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["capoeira"] = {
@@ -4482,7 +6561,7 @@ RES.TR.Customs.General = {
         "Capoeira",
         imageId = "capoeira",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["capoeira2"] = {
@@ -4491,7 +6570,7 @@ RES.TR.Customs.General = {
         "Capoeira 2",
         imageId = "capoeira2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cazelleri"] = {
@@ -4500,7 +6579,7 @@ RES.TR.Customs.General = {
         "Caz Elleri",
         imageId = "jazzhands",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 6000,
         },
     },
@@ -4510,7 +6589,7 @@ RES.TR.Customs.General = {
         "Çek",
         imageId = "pull",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ceteisareti"] = {
@@ -4519,7 +6598,7 @@ RES.TR.Customs.General = {
         "Çete İşareti",
         imageId = "gangsign",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ceteisareti2"] = {
@@ -4528,7 +6607,7 @@ RES.TR.Customs.General = {
         "Çete İşareti 2",
         imageId = "gangsign2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ceteisareti3"] = {
@@ -4537,7 +6616,7 @@ RES.TR.Customs.General = {
         "Çete İşareti 3",
         imageId = "gangsign3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ceteisareti4"] = {
@@ -4546,7 +6625,7 @@ RES.TR.Customs.General = {
         "Çete İşareti 4",
         imageId = "gangsign4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cetepozu1"] = {
@@ -4845,7 +6924,7 @@ RES.TR.Customs.General = {
         "Çömelmiş Silah Pozu",
         imageId = "squatgunpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["comelmissilahpozu3"] = {
@@ -4854,7 +6933,7 @@ RES.TR.Customs.General = {
         "Çömelmiş Silah Pozu 3",
         imageId = "squatgunpose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dab"] = {
@@ -4863,7 +6942,7 @@ RES.TR.Customs.General = {
         "Dab",
         imageId = "dab",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dikkatcekme1"] = {
@@ -4922,7 +7001,7 @@ RES.TR.Customs.General = {
         "Dikkatli Otur 7",
         imageId = "sitchair7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -4932,7 +7011,7 @@ RES.TR.Customs.General = {
         "Dirsek 2 (Pencere)",
         imageId = "elbow2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dirsekpencere"] = {
@@ -4941,7 +7020,7 @@ RES.TR.Customs.General = {
         "Dirsek (Pencere)",
         imageId = "elbow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dizcok2"] = {
@@ -4950,7 +7029,7 @@ RES.TR.Customs.General = {
         "Diz Çök 2",
         imageId = "kneel2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dizcok3"] = {
@@ -4959,7 +7038,7 @@ RES.TR.Customs.General = {
         "Diz Çök 3",
         imageId = "kneel3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dizcok4"] = {
@@ -4968,7 +7047,7 @@ RES.TR.Customs.General = {
         "Diz Çök 4",
         imageId = "kneel4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dizcok5"] = {
@@ -4977,7 +7056,7 @@ RES.TR.Customs.General = {
         "Diz Çök 5",
         imageId = "kneel5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dizcokupsaklan"] = {
@@ -4986,7 +7065,7 @@ RES.TR.Customs.General = {
         "Diz Çöküp Saklan",
         imageId = "kneelhide",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dizustubaris"] = {
@@ -4995,7 +7074,7 @@ RES.TR.Customs.General = {
         "Diz Üstü Barış",
         imageId = "kneelpeace",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
             StartDelay = 200,
         },
@@ -5006,7 +7085,7 @@ RES.TR.Customs.General = {
         "Diz Üstü İlgi Çekici Poz",
         imageId = "kneelthot",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
             StartDelay = 200,
         },
@@ -5017,7 +7096,7 @@ RES.TR.Customs.General = {
         "Doğa Yürüyüşü",
         imageId = "hikinga",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dur"] = {
@@ -5026,7 +7105,7 @@ RES.TR.Customs.General = {
         "Dur",
         imageId = "stop",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dus2erkek"] = {
@@ -5035,7 +7114,7 @@ RES.TR.Customs.General = {
         "Duş 2 (Erkek)",
         imageId = "showerm2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dus2kadin"] = {
@@ -5044,7 +7123,7 @@ RES.TR.Customs.General = {
         "Duş 2 (Kadın)",
         imageId = "showerf2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dus3erkek"] = {
@@ -5053,7 +7132,7 @@ RES.TR.Customs.General = {
         "Duş 3 (Erkek)",
         imageId = "showerm3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dus3kadin"] = {
@@ -5062,7 +7141,7 @@ RES.TR.Customs.General = {
         "Duş 3 (Kadın)",
         imageId = "showerf3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dus4erkek"] = {
@@ -5071,7 +7150,7 @@ RES.TR.Customs.General = {
         "Duş 4 (Erkek)",
         imageId = "showerm4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duserkek"] = {
@@ -5080,7 +7159,7 @@ RES.TR.Customs.General = {
         "Duş (Erkek)",
         imageId = "showerm",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duskadin"] = {
@@ -5089,7 +7168,7 @@ RES.TR.Customs.General = {
         "Duş (Kadın)",
         imageId = "showerf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dusme"] = {
@@ -5128,7 +7207,7 @@ RES.TR.Customs.General = {
         "Düşün",
         imageId = "think",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dusun2"] = {
@@ -5137,7 +7216,7 @@ RES.TR.Customs.General = {
         "Düşün 2",
         imageId = "think2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dusun3"] = {
@@ -5146,7 +7225,7 @@ RES.TR.Customs.General = {
         "Düşün 3",
         imageId = "think3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dusun4"] = {
@@ -5155,7 +7234,7 @@ RES.TR.Customs.General = {
         "Düşün 4",
         imageId = "think4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dusun5"] = {
@@ -5164,7 +7243,7 @@ RES.TR.Customs.General = {
         "Düşün 5",
         imageId = "think5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2000,
         },
     },
@@ -5174,7 +7253,7 @@ RES.TR.Customs.General = {
         "Duvar Pozu",
         imageId = "wallpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duvarpozu2"] = {
@@ -5183,7 +7262,7 @@ RES.TR.Customs.General = {
         "Duvar Pozu 2",
         imageId = "wallpose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duvarpozu3"] = {
@@ -5192,7 +7271,7 @@ RES.TR.Customs.General = {
         "Duvar Pozu 3",
         imageId = "wallpose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duvarpozu4"] = {
@@ -5201,7 +7280,7 @@ RES.TR.Customs.General = {
         "Duvar Pozu 4",
         imageId = "wallpose4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duvarpozu5"] = {
@@ -5210,7 +7289,7 @@ RES.TR.Customs.General = {
         "Duvar Pozu 5",
         imageId = "wallpose5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duzelt"] = {
@@ -5219,7 +7298,7 @@ RES.TR.Customs.General = {
         "Düzelt",
         imageId = "adjust",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 4000,
         },
     },
@@ -5229,7 +7308,7 @@ RES.TR.Customs.General = {
         "Eğil",
         imageId = "bend",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             StartDelay = 600,
         },
     },
@@ -5239,7 +7318,7 @@ RES.TR.Customs.General = {
         "Eğilerek Selamla",
         imageId = "bow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["egilerekselamla2"] = {
@@ -5248,7 +7327,7 @@ RES.TR.Customs.General = {
         "Eğilerek Selamla 2",
         imageId = "bow2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["egilveuzan"] = {
@@ -5257,7 +7336,7 @@ RES.TR.Customs.General = {
         "Eğil ve Uzan",
         imageId = "crouchreach",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             StartDelay = 700,
         },
     },
@@ -5267,7 +7346,7 @@ RES.TR.Customs.General = {
         "Eğil ve Uzan 2",
         imageId = "crouchreach2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             StartDelay = 700,
         },
     },
@@ -5277,7 +7356,7 @@ RES.TR.Customs.General = {
         "El Hareketi Çek",
         imageId = "flipoff",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elhareketicek2"] = {
@@ -5286,7 +7365,7 @@ RES.TR.Customs.General = {
         "El Hareketi Çek 2",
         imageId = "flipoff2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elindengeleniyap"] = {
@@ -5295,7 +7374,7 @@ RES.TR.Customs.General = {
         "Elinden Geleni Yap",
         imageId = "bringiton",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3000,
         },
     },
@@ -5315,7 +7394,7 @@ RES.TR.Customs.General = {
         "Eller Cepte (Kapüşonlu)",
         imageId = "pockets",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ellericaprazla"] = {
@@ -5324,7 +7403,7 @@ RES.TR.Customs.General = {
         "Elleri Çaprazla",
         imageId = "crosshands",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elleriniyika"] = {
@@ -5333,7 +7412,7 @@ RES.TR.Customs.General = {
         "Ellerini Yıka",
         imageId = "cleanhands",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elleryukari"] = {
@@ -5342,7 +7421,7 @@ RES.TR.Customs.General = {
         "Eller Yukarı",
         imageId = "handsup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elleryukari2"] = {
@@ -5351,7 +7430,7 @@ RES.TR.Customs.General = {
         "Eller Yukarı 2",
         imageId = "handsup2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elleryukari3"] = {
@@ -5360,7 +7439,7 @@ RES.TR.Customs.General = {
         "Eller Yukarı 3",
         imageId = "handsup3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elleryukari4"] = {
@@ -5369,7 +7448,7 @@ RES.TR.Customs.General = {
         "Eller Yukarı 4",
         imageId = "handsup4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elleryukari5"] = {
@@ -5378,7 +7457,7 @@ RES.TR.Customs.General = {
         "Eller Yukarı 5",
         imageId = "handsup5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elpozu"] = {
@@ -5407,7 +7486,7 @@ RES.TR.Customs.General = {
         "El Salla",
         imageId = "wave",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elsalla2"] = {
@@ -5416,7 +7495,7 @@ RES.TR.Customs.General = {
         "El Salla 2",
         imageId = "wave2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elsalla3"] = {
@@ -5425,7 +7504,7 @@ RES.TR.Customs.General = {
         "El Salla 3",
         imageId = "wave3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elsalla4"] = {
@@ -5434,7 +7513,7 @@ RES.TR.Customs.General = {
         "El Salla 4",
         imageId = "wave4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3000,
         },
     },
@@ -5444,7 +7523,7 @@ RES.TR.Customs.General = {
         "El Salla 5",
         imageId = "wave5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elsalla6"] = {
@@ -5453,7 +7532,7 @@ RES.TR.Customs.General = {
         "El Salla 6",
         imageId = "wave6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elsalla7"] = {
@@ -5462,7 +7541,7 @@ RES.TR.Customs.General = {
         "El Salla 7",
         imageId = "wave7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elsalla8"] = {
@@ -5471,7 +7550,7 @@ RES.TR.Customs.General = {
         "El Salla 8",
         imageId = "wave8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elsalla9"] = {
@@ -5480,7 +7559,7 @@ RES.TR.Customs.General = {
         "El Salla 9",
         imageId = "wave9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["erkekcetepozu"] = {
@@ -5489,7 +7568,7 @@ RES.TR.Customs.General = {
         "Erkek Çete Pozu",
         imageId = "malegangpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekdurusu"] = {
@@ -5498,7 +7577,7 @@ RES.TR.Customs.General = {
         "Erkek Duruşu",
         imageId = "malestandpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekkolbaglama"] = {
@@ -5507,7 +7586,7 @@ RES.TR.Customs.General = {
         "Erkek Kol Bağlama",
         imageId = "malecrossarms",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekortaparmak"] = {
@@ -5516,7 +7595,7 @@ RES.TR.Customs.General = {
         "Erkek Orta Parmak",
         imageId = "malemiddlefinger",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozlari"] = {
@@ -5585,7 +7664,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu 1",
         imageId = "malepose1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozu2"] = {
@@ -5594,7 +7673,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu 2",
         imageId = "malepose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozu3"] = {
@@ -5603,7 +7682,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu 3",
         imageId = "malepose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozu4"] = {
@@ -5612,7 +7691,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu 4",
         imageId = "malepose4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozu5"] = {
@@ -5621,7 +7700,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu 5",
         imageId = "malepose5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozua"] = {
@@ -5630,7 +7709,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu A",
         imageId = "maleposea",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozub"] = {
@@ -5639,7 +7718,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu B",
         imageId = "maleposeb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozuc"] = {
@@ -5648,7 +7727,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu C",
         imageId = "maleposec",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozud"] = {
@@ -5657,7 +7736,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu D",
         imageId = "maleposed",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozue"] = {
@@ -5666,7 +7745,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu E",
         imageId = "maleposee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozue1"] = {
@@ -5675,7 +7754,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu E1",
         imageId = "maleposee1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozuf"] = {
@@ -5684,7 +7763,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu F",
         imageId = "maleposef",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozuf1"] = {
@@ -5693,7 +7772,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu F1",
         imageId = "maleposef1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekpozug"] = {
@@ -5702,7 +7781,7 @@ RES.TR.Customs.General = {
         "Erkek Pozu G",
         imageId = "maleposeg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkeksilahpozu1"] = {
@@ -5711,7 +7790,7 @@ RES.TR.Customs.General = {
         "Erkek Silah Pozu 1",
         imageId = "malegunpose1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["erkekyumrukyuz"] = {
@@ -5720,7 +7799,7 @@ RES.TR.Customs.General = {
         "Erkek Yumruk Yüz",
         imageId = "malefistface",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["esneme"] = {
@@ -5729,7 +7808,7 @@ RES.TR.Customs.General = {
         "Esneme",
         imageId = "stretch",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["esneme2"] = {
@@ -5738,7 +7817,7 @@ RES.TR.Customs.General = {
         "Esneme 2",
         imageId = "stretch2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["esneme3"] = {
@@ -5747,7 +7826,7 @@ RES.TR.Customs.General = {
         "Esneme 3",
         imageId = "stretch3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["esneme4"] = {
@@ -5756,7 +7835,7 @@ RES.TR.Customs.General = {
         "Esneme 4",
         imageId = "stretch4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["evet"] = {
@@ -5765,7 +7844,7 @@ RES.TR.Customs.General = {
         "Evet",
         imageId = "yeah",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["evetevet2"] = {
@@ -5782,7 +7861,7 @@ RES.TR.Customs.General = {
         "Evsiz Uykusu",
         imageId = "bumsleep",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             StartDelay = 700,
@@ -5803,7 +7882,7 @@ RES.TR.Customs.General = {
         "F Seks Pozu",
         imageId = "fspose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
         AdultAnimation = true,
     },
@@ -5813,7 +7892,7 @@ RES.TR.Customs.General = {
         "F Seks Pozu 2",
         imageId = "fspose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
         AdultAnimation = true,
     },
@@ -5823,7 +7902,7 @@ RES.TR.Customs.General = {
         "F Seks Pozu 3",
         imageId = "fspose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
         AdultAnimation = true,
     },
@@ -5928,7 +8007,7 @@ RES.TR.Customs.General = {
         "Gelsene Kardeşim",
         imageId = "comeatmebro",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2000,
         },
     },
@@ -5938,7 +8017,7 @@ RES.TR.Customs.General = {
         "Gergin",
         imageId = "nervousa",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gergin2"] = {
@@ -5947,7 +8026,7 @@ RES.TR.Customs.General = {
         "Gergin 2",
         imageId = "nervous2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gergin3"] = {
@@ -5956,7 +8035,7 @@ RES.TR.Customs.General = {
         "Gergin 3",
         imageId = "nervous3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gergin4"] = {
@@ -5973,7 +8052,7 @@ RES.TR.Customs.General = {
         "Geri Sayım",
         imageId = "countdown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gogusgoster"] = {
@@ -6002,7 +8081,7 @@ RES.TR.Customs.General = {
         "Göz At",
         imageId = "peek",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gulmelol"] = {
@@ -6011,7 +8090,7 @@ RES.TR.Customs.General = {
         "Gülme (LOL)",
         imageId = "lol",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gulmelol2"] = {
@@ -6020,7 +8099,7 @@ RES.TR.Customs.General = {
         "Gülme (LOL) 2",
         imageId = "lol2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["guneslen"] = {
@@ -6029,7 +8108,7 @@ RES.TR.Customs.General = {
         "Güneşlen",
         imageId = "sunbathe",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -6040,7 +8119,7 @@ RES.TR.Customs.General = {
         "Güneşlen 2",
         imageId = "sunbathe2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -6051,7 +8130,7 @@ RES.TR.Customs.General = {
         "Güneşlen 3",
         imageId = "sunbathe3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -6062,7 +8141,7 @@ RES.TR.Customs.General = {
         "Hadi Oradan",
         imageId = "screwyou",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ellercepte2"] = {
@@ -6187,7 +8266,7 @@ RES.TR.Customs.General = {
         "Hava Kuvvetleri - Geçit Töreni 3",
         imageId = "airforce03",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["havakuvvetlerihazirol2"] = {
@@ -6196,7 +8275,7 @@ RES.TR.Customs.General = {
         "Hava Kuvvetleri - Hazır Ol 2",
         imageId = "airforce02",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["havakuvvetlerirahat1"] = {
@@ -6205,7 +8284,7 @@ RES.TR.Customs.General = {
         "Hava Kuvvetleri - Rahat 1",
         imageId = "airforce01",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["havakuvvetleriselam4"] = {
@@ -6214,7 +8293,7 @@ RES.TR.Customs.General = {
         "Hava Kuvvetleri - Selam 4",
         imageId = "airforce04",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["havapiyanosu"] = {
@@ -6235,7 +8314,7 @@ RES.TR.Customs.General = {
         "Hayallere Dal",
         imageId = "daydream",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hayatisevpozu"] = {
@@ -6254,7 +8333,7 @@ RES.TR.Customs.General = {
         "Hayır",
         imageId = "no",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 4000,
         },
     },
@@ -6264,7 +8343,7 @@ RES.TR.Customs.General = {
         "Hayır 2",
         imageId = "no2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -6274,7 +8353,7 @@ RES.TR.Customs.General = {
         "Heykel 2",
         imageId = "statue2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["heykel3"] = {
@@ -6283,7 +8362,7 @@ RES.TR.Customs.General = {
         "Heykel 3",
         imageId = "statue3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["holdcap"] = {
@@ -6311,7 +8390,7 @@ RES.TR.Customs.General = {
         "İlluminati",
         imageId = "illuminati",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["illuminati2"] = {
@@ -6320,7 +8399,7 @@ RES.TR.Customs.General = {
         "İlluminati 2",
         imageId = "illuminati2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["illuminati3"] = {
@@ -6329,7 +8408,7 @@ RES.TR.Customs.General = {
         "İlluminati 3",
         imageId = "illuminati3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["imkansiz"] = {
@@ -6338,7 +8417,7 @@ RES.TR.Customs.General = {
         "İmkansız",
         imageId = "noway",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1500,
         },
     },
@@ -6366,7 +8445,7 @@ RES.TR.Customs.General = {
         "İşaret Dili Evet",
         imageId = "aslyes",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1030,
         },
     },
@@ -6376,7 +8455,7 @@ RES.TR.Customs.General = {
         "İşaret Dili Görüşürüz",
         imageId = "aslcya",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1200,
         },
     },
@@ -6386,7 +8465,7 @@ RES.TR.Customs.General = {
         "İşaret Dili Hayır",
         imageId = "aslno",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2080,
         },
     },
@@ -6396,7 +8475,7 @@ RES.TR.Customs.General = {
         "İşaret Dili İyiyim",
         imageId = "aslimgood",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3940,
         },
     },
@@ -6406,7 +8485,7 @@ RES.TR.Customs.General = {
         "İşaret Dili Ne",
         imageId = "aslwhat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1480,
         },
     },
@@ -6416,7 +8495,7 @@ RES.TR.Customs.General = {
         "İşaret Et",
         imageId = "point",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["isaretpozu"] = {
@@ -6425,7 +8504,7 @@ RES.TR.Customs.General = {
         "İşaret Pozu",
         imageId = "pointpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["iseme"] = {
@@ -6459,7 +8538,7 @@ RES.TR.Customs.General = {
         "İşeme 2",
         imageId = "pee2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             PtfxAsset = "scr_amb_chop",
             PtfxCanHold = true,
             PtfxInfo = "animations.pee",
@@ -6484,7 +8563,7 @@ RES.TR.Customs.General = {
         "İşeme 3",
         imageId = "pee3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             PtfxAsset = "scr_amb_chop",
             PtfxCanHold = true,
             PtfxInfo = "animations.pee",
@@ -6509,7 +8588,7 @@ RES.TR.Customs.General = {
         "Isınma",
         imageId = "warmth",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["islik"] = {
@@ -6518,7 +8597,7 @@ RES.TR.Customs.General = {
         "Islık",
         imageId = "whistle",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1300,
         },
     },
@@ -6528,7 +8607,7 @@ RES.TR.Customs.General = {
         "Islık 2",
         imageId = "whistle2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2000,
         },
     },
@@ -6538,7 +8617,7 @@ RES.TR.Customs.General = {
         "İt",
         imageId = "push",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["it2"] = {
@@ -6547,7 +8626,7 @@ RES.TR.Customs.General = {
         "İt 2",
         imageId = "push2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadincetepozu"] = {
@@ -6566,7 +8645,7 @@ RES.TR.Customs.General = {
         "Kadın Diz Üstü",
         imageId = "femaleonknees",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
         },
     },
@@ -6576,7 +8655,7 @@ RES.TR.Customs.General = {
         "Kadın Diz Üstü 1",
         imageId = "femaleonknees1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
         },
     },
@@ -6586,7 +8665,7 @@ RES.TR.Customs.General = {
         "Kadın Diz Üstü 2",
         imageId = "femaleonknees2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -6616,7 +8695,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu R",
         imageId = "femaleposer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinpozus"] = {
@@ -6625,7 +8704,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu S",
         imageId = "femaleposes",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinpozut"] = {
@@ -6634,7 +8713,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu T",
         imageId = "femaleposet",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinpozuu"] = {
@@ -6643,7 +8722,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu U",
         imageId = "femaleposeu",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -6653,7 +8732,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu V",
         imageId = "femaleposev",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinpozuw"] = {
@@ -6662,7 +8741,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu W",
         imageId = "femaleposew",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinpozux"] = {
@@ -6671,7 +8750,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu X",
         imageId = "femaleposex",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinpozuy"] = {
@@ -6680,7 +8759,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu Y",
         imageId = "femaleposey",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinpozuz"] = {
@@ -6689,7 +8768,7 @@ RES.TR.Customs.General = {
         "Kadın Pozu Z",
         imageId = "femaleposez",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinsirindurusu"] = {
@@ -6698,7 +8777,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Duruşu",
         imageId = "femalestandcute",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinsirindurusu1"] = {
@@ -6707,7 +8786,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Duruşu 1",
         imageId = "femalestandcute1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinsirindurusu2"] = {
@@ -6716,7 +8795,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Duruşu 2",
         imageId = "femalestandcute2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinsirindurusu3"] = {
@@ -6725,7 +8804,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Duruşu 3",
         imageId = "femalestandcute3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinsirindurusu4"] = {
@@ -6734,7 +8813,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Duruşu 4",
         imageId = "femalestandcute4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kadinsirinoturus"] = {
@@ -6743,7 +8822,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Oturuş",
         imageId = "femalesitcute",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -6753,7 +8832,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Oturuş 1",
         imageId = "femalesitcute1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -6763,7 +8842,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Oturuş 2",
         imageId = "femalesitcute2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -6773,7 +8852,7 @@ RES.TR.Customs.General = {
         "Kadın Şirin Parmak",
         imageId = "femalestandcutefinger",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kafaat"] = {
@@ -6810,7 +8889,7 @@ RES.TR.Customs.General = {
         "Kahretsin",
         imageId = "damn",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -6820,7 +8899,7 @@ RES.TR.Customs.General = {
         "Kahretsin 2",
         imageId = "damn2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -6830,7 +8909,7 @@ RES.TR.Customs.General = {
         "Kalp Eller",
         imageId = "hhands",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kalpmasaji"] = {
@@ -6839,7 +8918,7 @@ RES.TR.Customs.General = {
         "Kalp Masajı",
         imageId = "cpr",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kalpmasaji2"] = {
@@ -6848,7 +8927,7 @@ RES.TR.Customs.General = {
         "Kalp Masajı 2",
         imageId = "cpr2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kapical"] = {
@@ -6857,7 +8936,7 @@ RES.TR.Customs.General = {
         "Kapı Çal",
         imageId = "knock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kapical2"] = {
@@ -6866,7 +8945,7 @@ RES.TR.Customs.General = {
         "Kapı Çal 2",
         imageId = "knock2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["karate"] = {
@@ -6887,7 +8966,7 @@ RES.TR.Customs.General = {
         "Kas Göster 2",
         imageId = "flex2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kasin"] = {
@@ -7004,7 +9083,7 @@ RES.TR.Customs.General = {
         "Kelepçeli - Arka",
         imageId = "cuffedback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "breakfreeback",
         },
     },
@@ -7014,7 +9093,7 @@ RES.TR.Customs.General = {
         "Kelepçeli - Ön",
         imageId = "cuffedfront",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "breakfreefont",
         },
     },
@@ -7024,7 +9103,7 @@ RES.TR.Customs.General = {
         "Kenarda Dur",
         imageId = "ledge",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kilifakoy"] = {
@@ -7033,7 +9112,7 @@ RES.TR.Customs.General = {
         "Kılıfa Koy",
         imageId = "holster",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kilifakoy2"] = {
@@ -7042,7 +9121,7 @@ RES.TR.Customs.General = {
         "Kılıfa Koy 2",
         imageId = "holster2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kilifakoy3"] = {
@@ -7051,7 +9130,7 @@ RES.TR.Customs.General = {
         "Kılıfa Koy 3",
         imageId = "holster3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kiliftadur2"] = {
@@ -7060,7 +9139,7 @@ RES.TR.Customs.General = {
         "Kılıfta Dur 2",
         imageId = "holster5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kiliftadur4"] = {
@@ -7069,7 +9148,7 @@ RES.TR.Customs.General = {
         "Kılıfta Dur 4",
         imageId = "holster4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kitty1"] = {
@@ -7150,7 +9229,7 @@ RES.TR.Customs.General = {
         "Kıyafet Dene",
         imageId = "tryclothes",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kiyafetdene2"] = {
@@ -7159,7 +9238,7 @@ RES.TR.Customs.General = {
         "Kıyafet Dene 2",
         imageId = "tryclothes2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kiyafetdene3"] = {
@@ -7168,7 +9247,7 @@ RES.TR.Customs.General = {
         "Kıyafet Dene 3",
         imageId = "tryclothes3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kiyafetdene4"] = {
@@ -7256,7 +9335,7 @@ RES.TR.Customs.General = {
         "Kokla",
         imageId = "smell",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["koku"] = {
@@ -7265,7 +9344,7 @@ RES.TR.Customs.General = {
         "Koku",
         imageId = "stink",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kolbaglamahareketi"] = {
@@ -7284,7 +9363,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla",
         imageId = "crossarms",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla2"] = {
@@ -7293,7 +9372,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 2",
         imageId = "crossarms2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla3"] = {
@@ -7302,7 +9381,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 3",
         imageId = "crossarms3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla4"] = {
@@ -7311,7 +9390,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 4",
         imageId = "crossarms4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla5"] = {
@@ -7320,7 +9399,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 5",
         imageId = "crossarms5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla6"] = {
@@ -7329,7 +9408,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 6",
         imageId = "crossarms6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla7"] = {
@@ -7338,7 +9417,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 7",
         imageId = "crossarms7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla8"] = {
@@ -7347,7 +9426,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 8",
         imageId = "crossarms8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollaribagla9"] = {
@@ -7356,7 +9435,7 @@ RES.TR.Customs.General = {
         "Kolları Bağla 9",
         imageId = "crossarms9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kollarikavustur"] = {
@@ -7365,7 +9444,7 @@ RES.TR.Customs.General = {
         "Kolları Kavuştur",
         imageId = "foldarms",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollarikavustur2"] = {
@@ -7374,7 +9453,7 @@ RES.TR.Customs.General = {
         "Kolları Kavuştur 2",
         imageId = "foldarms2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollariyanabagla"] = {
@@ -7383,7 +9462,7 @@ RES.TR.Customs.General = {
         "Kolları Yana Bağla",
         imageId = "crossarmsside",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kollariyanabagla2"] = {
@@ -7392,7 +9471,7 @@ RES.TR.Customs.General = {
         "Kolları Yana Bağla 2",
         imageId = "crossarmsside2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kopegesaril"] = {
@@ -7401,7 +9480,7 @@ RES.TR.Customs.General = {
         "Köpeğe Sarıl",
         imageId = "k9pose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kopekcagir"] = {
@@ -7410,7 +9489,7 @@ RES.TR.Customs.General = {
         "Köpek Çağır",
         imageId = "calldog",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kopekcagirsag"] = {
@@ -7435,7 +9514,7 @@ RES.TR.Customs.General = {
         "Korkmuş",
         imageId = "scared",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["korkmus2"] = {
@@ -7444,7 +9523,7 @@ RES.TR.Customs.General = {
         "Korkmuş 2",
         imageId = "scared2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["korkmus3"] = {
@@ -7453,7 +9532,7 @@ RES.TR.Customs.General = {
         "Korkmuş 3",
         imageId = "scared3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["korkmusotur"] = {
@@ -7462,7 +9541,7 @@ RES.TR.Customs.General = {
         "Korkmuş Otur",
         imageId = "sitscared",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
         },
@@ -7473,7 +9552,7 @@ RES.TR.Customs.General = {
         "Korkmuş Otur 2",
         imageId = "sitscared2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
         },
@@ -7484,7 +9563,7 @@ RES.TR.Customs.General = {
         "Korkmuş Otur 3",
         imageId = "sitscared3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
         },
@@ -7495,7 +9574,7 @@ RES.TR.Customs.General = {
         "Koşu 2",
         imageId = "jog2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kosu3"] = {
@@ -7504,7 +9583,7 @@ RES.TR.Customs.General = {
         "Koşu 3",
         imageId = "jog3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kosu4"] = {
@@ -7513,7 +9592,7 @@ RES.TR.Customs.General = {
         "Koşu 4",
         imageId = "jog4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kosu5"] = {
@@ -7522,7 +9601,7 @@ RES.TR.Customs.General = {
         "Koşu 5",
         imageId = "jog5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kravatduzelt"] = {
@@ -7531,7 +9610,7 @@ RES.TR.Customs.General = {
         "Kravat Düzelt",
         imageId = "adjusttie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 5000,
         },
     },
@@ -7547,7 +9626,7 @@ RES.TR.Customs.General = {
         "Kutlama",
         imageId = "celebrate",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lamp"] = {
@@ -7574,7 +9653,7 @@ RES.TR.Customs.General = {
         "Masaya Yaslan",
         imageId = "leanplan",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offtable",
             StartDelay = 200,
         },
@@ -7585,7 +9664,7 @@ RES.TR.Customs.General = {
         "Mastürbasyon",
         imageId = "wank",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
         AdultAnimation = true,
     },
@@ -7595,7 +9674,7 @@ RES.TR.Customs.General = {
         "Mastürbasyon 2",
         imageId = "wank2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
         AdultAnimation = true,
     },
@@ -7605,7 +9684,7 @@ RES.TR.Customs.General = {
         "Mastürbasyon 3",
         imageId = "wank3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
         AdultAnimation = true,
     },
@@ -7615,7 +9694,7 @@ RES.TR.Customs.General = {
         "Mastürbasyon 4",
         imageId = "wank4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
         AdultAnimation = true,
     },
@@ -7634,7 +9713,7 @@ RES.TR.Customs.General = {
         "Maymuncuk",
         imageId = "picklock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["meangirl"] = {
@@ -7688,7 +9767,7 @@ RES.TR.Customs.General = {
         "Meditasyon",
         imageId = "meditate",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "meditateup",
             StartDelay = 300,
         },
@@ -7699,7 +9778,7 @@ RES.TR.Customs.General = {
         "Meditasyon 2",
         imageId = "meditate2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "meditateup",
             StartDelay = 300,
         },
@@ -7710,7 +9789,7 @@ RES.TR.Customs.General = {
         "Meditasyon 3",
         imageId = "meditate3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "meditateup",
             StartDelay = 300,
         },
@@ -7721,7 +9800,7 @@ RES.TR.Customs.General = {
         "Mekik 5",
         imageId = "gym5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 550,
         },
@@ -7732,7 +9811,7 @@ RES.TR.Customs.General = {
         "Mekik (Bisiklet) 2",
         imageId = "gym2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 400,
         },
@@ -7743,7 +9822,7 @@ RES.TR.Customs.General = {
         "Mekik Çekme",
         imageId = "situp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mekikpozu4"] = {
@@ -7752,7 +9831,7 @@ RES.TR.Customs.General = {
         "Mekik Pozu 4",
         imageId = "gympose4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             StartDelay = 510,
@@ -7764,7 +9843,7 @@ RES.TR.Customs.General = {
         "Metalci",
         imageId = "metal",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["miw"] = {
@@ -7836,7 +9915,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 1",
         imageId = "fashionpose1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modapozu2"] = {
@@ -7845,7 +9924,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 2",
         imageId = "fashionpose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
         },
     },
@@ -7855,7 +9934,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 3",
         imageId = "fashionpose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modapozu4"] = {
@@ -7864,7 +9943,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 4",
         imageId = "fashionpose4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modapozu5"] = {
@@ -7873,7 +9952,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 5",
         imageId = "fashionpose5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modapozu6"] = {
@@ -7882,7 +9961,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 6",
         imageId = "fashionpose6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modapozu7"] = {
@@ -7891,7 +9970,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 7",
         imageId = "fashionpose7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modapozu8"] = {
@@ -7900,7 +9979,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 8",
         imageId = "fashionpose8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modapozu9"] = {
@@ -7909,7 +9988,7 @@ RES.TR.Customs.General = {
         "Moda Pozu 9",
         imageId = "fashionpose9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
         },
     },
@@ -7919,7 +9998,7 @@ RES.TR.Customs.General = {
         "Model Pozu",
         imageId = "model",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modelpozu2"] = {
@@ -7928,7 +10007,7 @@ RES.TR.Customs.General = {
         "Model Pozu 2",
         imageId = "model2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modelpozu3"] = {
@@ -7937,7 +10016,7 @@ RES.TR.Customs.General = {
         "Model Pozu 3",
         imageId = "model3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["movienight"] = {
@@ -8000,7 +10079,7 @@ RES.TR.Customs.General = {
         "Namaste",
         imageId = "namaste",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["nefesnefese"] = {
@@ -8024,7 +10103,7 @@ RES.TR.Customs.General = {
         "Oğlum",
         imageId = "boi",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3000,
         },
     },
@@ -8034,7 +10113,7 @@ RES.TR.Customs.General = {
         "Öksür",
         imageId = "cough",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["olutaklidi2"] = {
@@ -8051,7 +10130,7 @@ RES.TR.Customs.General = {
         "Omuz Silk",
         imageId = "shrug",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -8061,7 +10140,7 @@ RES.TR.Customs.General = {
         "Omuz Silk 2",
         imageId = "shrug2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1000,
         },
     },
@@ -8077,7 +10156,7 @@ RES.TR.Customs.General = {
         "Öpücük At 2",
         imageId = "blowkiss2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2000,
         },
     },
@@ -8087,7 +10166,7 @@ RES.TR.Customs.General = {
         "Ordu 1",
         imageId = "army1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ordu1sag"] = {
@@ -8096,7 +10175,7 @@ RES.TR.Customs.General = {
         "Ordu 1 Sağ",
         imageId = "army1p",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ordu1sol"] = {
@@ -8105,7 +10184,7 @@ RES.TR.Customs.General = {
         "Ordu 1 Sol",
         imageId = "army1l",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ordu2"] = {
@@ -8114,7 +10193,7 @@ RES.TR.Customs.General = {
         "Ordu 2",
         imageId = "army2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ordu2sag"] = {
@@ -8123,7 +10202,7 @@ RES.TR.Customs.General = {
         "Ordu 2 Sağ",
         imageId = "army2p",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ordu2sol"] = {
@@ -8132,7 +10211,7 @@ RES.TR.Customs.General = {
         "Ordu 2 Sol",
         imageId = "army2l",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ortaparmak"] = {
@@ -8141,7 +10220,7 @@ RES.TR.Customs.General = {
         "Orta Parmak",
         imageId = "finger",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ortaparmak2"] = {
@@ -8150,7 +10229,7 @@ RES.TR.Customs.General = {
         "Orta Parmak 2",
         imageId = "finger2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ortaparmakpozu"] = {
@@ -8169,7 +10248,7 @@ RES.TR.Customs.General = {
         "Örümcek Adam",
         imageId = "spiderman",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["otomat"] = {
@@ -8186,7 +10265,7 @@ RES.TR.Customs.General = {
         "Otostop",
         imageId = "lift",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["otur"] = {
@@ -8195,7 +10274,7 @@ RES.TR.Customs.General = {
         "Otur",
         imageId = "sit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8205,7 +10284,7 @@ RES.TR.Customs.General = {
         "Otur 10",
         imageId = "sit10",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8215,7 +10294,7 @@ RES.TR.Customs.General = {
         "Otur 2",
         imageId = "sit2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8225,7 +10304,7 @@ RES.TR.Customs.General = {
         "Otur 3",
         imageId = "sit3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8235,7 +10314,7 @@ RES.TR.Customs.General = {
         "Otur 4",
         imageId = "sit4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8245,7 +10324,7 @@ RES.TR.Customs.General = {
         "Otur 5",
         imageId = "sit5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8255,7 +10334,7 @@ RES.TR.Customs.General = {
         "Otur 6",
         imageId = "sit6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8265,7 +10344,7 @@ RES.TR.Customs.General = {
         "Otur 7",
         imageId = "sit7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 900,
         },
@@ -8276,7 +10355,7 @@ RES.TR.Customs.General = {
         "Otur 8",
         imageId = "sit8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8286,7 +10365,7 @@ RES.TR.Customs.General = {
         "Otur 9",
         imageId = "sit9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8296,7 +10375,7 @@ RES.TR.Customs.General = {
         "Oturarak El Hareketi",
         imageId = "sitfu",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8306,7 +10385,7 @@ RES.TR.Customs.General = {
         "Oturarak Sigara & Silah",
         imageId = "smokengun",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "ng_proc_cigarette01a",
@@ -8342,7 +10421,7 @@ RES.TR.Customs.General = {
         "Oturarak Yaslan",
         imageId = "sitlean",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8352,7 +10431,7 @@ RES.TR.Customs.General = {
         "Oturarak Yaslan 2",
         imageId = "sitlean2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -8362,7 +10441,7 @@ RES.TR.Customs.General = {
         "Oturarak Yaslan 3",
         imageId = "sitlean3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -8832,7 +10911,7 @@ RES.TR.Customs.General = {
         "Palyaço",
         imageId = "clown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["palyaco2"] = {
@@ -8841,7 +10920,7 @@ RES.TR.Customs.General = {
         "Palyaço 2",
         imageId = "clown2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["palyaco3"] = {
@@ -8850,7 +10929,7 @@ RES.TR.Customs.General = {
         "Palyaço 3",
         imageId = "clown3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["palyaco4"] = {
@@ -8859,7 +10938,7 @@ RES.TR.Customs.General = {
         "Palyaço 4",
         imageId = "clown4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["palyaco5"] = {
@@ -8868,7 +10947,7 @@ RES.TR.Customs.General = {
         "Palyaço 5",
         imageId = "clown5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["parmakcitlat"] = {
@@ -8877,7 +10956,7 @@ RES.TR.Customs.General = {
         "Parmak Çıtlat",
         imageId = "knucklecrunch",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["plankpozu3"] = {
@@ -8886,7 +10965,7 @@ RES.TR.Customs.General = {
         "Plank Pozu 3",
         imageId = "gympose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
             ExitEmoteType = "Exits",
             StartDelay = 550,
@@ -8898,7 +10977,7 @@ RES.TR.Customs.General = {
         "Polis 2",
         imageId = "cop2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["polis3"] = {
@@ -8907,7 +10986,7 @@ RES.TR.Customs.General = {
         "Polis 3",
         imageId = "cop3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poliskalabalikkontrolu"] = {
@@ -8916,7 +10995,7 @@ RES.TR.Customs.General = {
         "Polis Kalabalık Kontrolü",
         imageId = "policecrowd",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poliskalabalikkontrolu2"] = {
@@ -8925,7 +11004,7 @@ RES.TR.Customs.General = {
         "Polis Kalabalık Kontrolü 2",
         imageId = "policecrowd2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poz"] = {
@@ -8961,7 +11040,7 @@ RES.TR.Customs.General = {
         "Rahatla",
         imageId = "relax",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 800,
         },
@@ -8972,7 +11051,7 @@ RES.TR.Customs.General = {
         "Rahatla 2",
         imageId = "relax2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 800,
         },
@@ -8983,7 +11062,7 @@ RES.TR.Customs.General = {
         "Rahatsız",
         imageId = "annoyed",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rapyap"] = {
@@ -8992,7 +11071,7 @@ RES.TR.Customs.General = {
         "Rap Yap",
         imageId = "rap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rawr"] = {
@@ -9001,7 +11080,7 @@ RES.TR.Customs.General = {
         "Rawr",
         imageId = "rawr",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["reverans"] = {
@@ -9016,7 +11095,7 @@ RES.TR.Customs.General = {
         "Saate Bak",
         imageId = "checkwatch",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sabirsiz2"] = {
@@ -9025,7 +11104,7 @@ RES.TR.Customs.General = {
         "Sabırsız 2",
         imageId = "impatient2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sagacek"] = {
@@ -9034,7 +11113,7 @@ RES.TR.Customs.General = {
         "Sağa Çek",
         imageId = "pullover",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 1300,
         },
     },
@@ -9044,7 +11123,7 @@ RES.TR.Customs.General = {
         "Sağı Göster",
         imageId = "pointright",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["saglikci2"] = {
@@ -9053,7 +11132,7 @@ RES.TR.Customs.General = {
         "Sağlıkçı 2",
         imageId = "medic2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sakinles"] = {
@@ -9062,7 +11141,7 @@ RES.TR.Customs.General = {
         "Sakinleş",
         imageId = "chill",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 200,
         },
@@ -9073,7 +11152,7 @@ RES.TR.Customs.General = {
         "Sandalyede Otur",
         imageId = "sitchair",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -9083,7 +11162,7 @@ RES.TR.Customs.General = {
         "Sandalyede Otur 2",
         imageId = "sitchair2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -9093,7 +11172,7 @@ RES.TR.Customs.General = {
         "Sandalyede Otur 3 (Kadın)",
         imageId = "sitchair3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -9103,7 +11182,7 @@ RES.TR.Customs.General = {
         "Sandalyede Otur 4 - Yan",
         imageId = "sitchair4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -9123,7 +11202,7 @@ RES.TR.Customs.General = {
         "Sarhoş Bekleme",
         imageId = "idledrunk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sarhosbekleme2"] = {
@@ -9132,7 +11211,7 @@ RES.TR.Customs.General = {
         "Sarhoş Bekleme 2",
         imageId = "idledrunk2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sarhosbekleme3"] = {
@@ -9141,7 +11220,7 @@ RES.TR.Customs.General = {
         "Sarhoş Bekleme 3",
         imageId = "idledrunk3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sarhosotur"] = {
@@ -9150,7 +11229,7 @@ RES.TR.Customs.General = {
         "Sarhoş Otur",
         imageId = "sitdrunk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -9172,7 +11251,7 @@ RES.TR.Customs.General = {
         "Saygı (Erkek)",
         imageId = "respect",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["saygikadin"] = {
@@ -9181,7 +11260,7 @@ RES.TR.Customs.General = {
         "Saygı (Kadın)",
         imageId = "respectf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["seksipoz"] = {
@@ -9190,7 +11269,7 @@ RES.TR.Customs.General = {
         "Seksi Poz",
         imageId = "sexypose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seksipoz2"] = {
@@ -9199,7 +11278,7 @@ RES.TR.Customs.General = {
         "Seksi Poz 2",
         imageId = "sexypose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seksipoz3"] = {
@@ -9208,7 +11287,7 @@ RES.TR.Customs.General = {
         "Seksi Poz 3",
         imageId = "sexypose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seksipoz4"] = {
@@ -9217,7 +11296,7 @@ RES.TR.Customs.General = {
         "Seksi Poz 4",
         imageId = "sexypose4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seksipoz5"] = {
@@ -9226,7 +11305,7 @@ RES.TR.Customs.General = {
         "Seksi Poz 5",
         imageId = "sexypose5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seksipoz6"] = {
@@ -9235,7 +11314,7 @@ RES.TR.Customs.General = {
         "Seksi Poz 6",
         imageId = "sexypose6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seksipoz7"] = {
@@ -9244,7 +11323,7 @@ RES.TR.Customs.General = {
         "Seksi Poz 7",
         imageId = "sexypose7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seksipozel"] = {
@@ -9273,7 +11352,7 @@ RES.TR.Customs.General = {
         "Seksi Uzanma",
         imageId = "laysexy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -9284,7 +11363,7 @@ RES.TR.Customs.General = {
         "Seksi Yatış",
         imageId = "laydownsexy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -9305,7 +11384,7 @@ RES.TR.Customs.General = {
         "Sersemlemiş",
         imageId = "stunned",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sevmekopek"] = {
@@ -9314,7 +11393,7 @@ RES.TR.Customs.General = {
         "Sevme (Köpek)",
         imageId = "petting",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sexywall"] = {
@@ -9341,7 +11420,7 @@ RES.TR.Customs.General = {
         "Shaka",
         imageId = "shaka",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shaka2"] = {
@@ -9350,7 +11429,7 @@ RES.TR.Customs.General = {
         "Shaka 2",
         imageId = "shaka2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sigarapozu"] = {
@@ -9389,7 +11468,7 @@ RES.TR.Customs.General = {
         "Sigara ve Viski",
         imageId = "smokendrink",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_drink_whisky",
             PropBone = 26612,
             PropPlacement = {
@@ -9433,7 +11512,7 @@ RES.TR.Customs.General = {
         "Sıkılaştır (Yoga)",
         imageId = "tighten",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -9443,7 +11522,7 @@ RES.TR.Customs.General = {
         "Sıkılmış Diz Üstü",
         imageId = "kneelbored",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
             StartDelay = 200,
         },
@@ -9454,7 +11533,7 @@ RES.TR.Customs.General = {
         "Silah Doğrult",
         imageId = "gunpoint",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["silahsakla"] = {
@@ -9463,7 +11542,7 @@ RES.TR.Customs.General = {
         "Silah Sakla",
         imageId = "hidegun",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["simarik"] = {
@@ -9472,7 +11551,7 @@ RES.TR.Customs.General = {
         "Şımarık",
         imageId = "sassy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sinav"] = {
@@ -9481,7 +11560,7 @@ RES.TR.Customs.General = {
         "Şınav",
         imageId = "pushup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sinirlialkis"] = {
@@ -9490,7 +11569,7 @@ RES.TR.Customs.General = {
         "Sinirli Alkış",
         imageId = "clapangry",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirinerkekpozu"] = {
@@ -9499,7 +11578,7 @@ RES.TR.Customs.General = {
         "Şirin Erkek Pozu",
         imageId = "posecutem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirinkadinpozu"] = {
@@ -9508,7 +11587,7 @@ RES.TR.Customs.General = {
         "Şirin Kadın Pozu",
         imageId = "posecutef",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirinkadinpozu2"] = {
@@ -9517,7 +11596,7 @@ RES.TR.Customs.General = {
         "Şirin Kadın Pozu 2",
         imageId = "posecutef2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirinkadinpozu3"] = {
@@ -9526,7 +11605,7 @@ RES.TR.Customs.General = {
         "Şirin Kadın Pozu 3",
         imageId = "posecutef3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirinkadinpozu4"] = {
@@ -9535,7 +11614,7 @@ RES.TR.Customs.General = {
         "Şirin Kadın Pozu 4",
         imageId = "posecutef4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirinkafapozu"] = {
@@ -9554,7 +11633,7 @@ RES.TR.Customs.General = {
         "Şirin Otur",
         imageId = "sitcute",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -9584,7 +11663,7 @@ RES.TR.Customs.General = {
         "Soygun",
         imageId = "solo_stickup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["spider"] = {
@@ -9602,7 +11681,7 @@ RES.TR.Customs.General = {
         "Spor Pozu",
         imageId = "gympose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["squat"] = {
@@ -9611,7 +11690,7 @@ RES.TR.Customs.General = {
         "Squat",
         imageId = "gym",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stay1"] = {
@@ -9675,7 +11754,7 @@ RES.TR.Customs.General = {
         "Sümkür",
         imageId = "snot",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 4500,
         },
     },
@@ -9685,7 +11764,7 @@ RES.TR.Customs.General = {
         "Güneşlenme 4",
         imageId = "Sunbathe4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -9696,7 +11775,7 @@ RES.TR.Customs.General = {
         "Güneşlenme 5",
         imageId = "Sunbathe5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -9707,7 +11786,7 @@ RES.TR.Customs.General = {
         "Güneşlenme 6",
         imageId = "Sunbathe6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -9718,7 +11797,7 @@ RES.TR.Customs.General = {
         "Güneşlenme 7",
         imageId = "Sunbathe7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -9729,7 +11808,7 @@ RES.TR.Customs.General = {
         "Süper Kahraman",
         imageId = "superhero",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["superkahraman2"] = {
@@ -9738,7 +11817,7 @@ RES.TR.Customs.General = {
         "Süper Kahraman 2",
         imageId = "superhero2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["surtunme"] = {
@@ -9747,7 +11826,7 @@ RES.TR.Customs.General = {
         "Sürtünme",
         imageId = "hump",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
         AdultAnimation = true,
     },
@@ -9757,7 +11836,7 @@ RES.TR.Customs.General = {
         "Sürünme",
         imageId = "crawl",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "meditateup",
             StartDelay = 700,
         },
@@ -9768,7 +11847,7 @@ RES.TR.Customs.General = {
         "Tai Chi",
         imageId = "taichi",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["taichi2"] = {
@@ -9797,7 +11876,7 @@ RES.TR.Customs.General = {
         "Tamam",
         imageId = "ok",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tamirci"] = {
@@ -9806,7 +11885,7 @@ RES.TR.Customs.General = {
         "Tamirci",
         imageId = "mechanic",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tamirci2"] = {
@@ -9815,7 +11894,7 @@ RES.TR.Customs.General = {
         "Tamirci 2",
         imageId = "mechanic2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tamirci3"] = {
@@ -9824,7 +11903,7 @@ RES.TR.Customs.General = {
         "Tamirci 3",
         imageId = "mechanic3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -9834,7 +11913,7 @@ RES.TR.Customs.General = {
         "Tamirci 4",
         imageId = "mechanic4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tamirci5"] = {
@@ -9843,7 +11922,7 @@ RES.TR.Customs.General = {
         "Tamirci 5",
         imageId = "mechanic5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tartis"] = {
@@ -9852,7 +11931,7 @@ RES.TR.Customs.General = {
         "Tartış",
         imageId = "argue",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tartis2"] = {
@@ -9861,7 +11940,7 @@ RES.TR.Customs.General = {
         "Tartış 2",
         imageId = "argue2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tartis3"] = {
@@ -9870,7 +11949,7 @@ RES.TR.Customs.General = {
         "Tartış 3",
         imageId = "argue3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tartis4"] = {
@@ -9879,7 +11958,7 @@ RES.TR.Customs.General = {
         "Tartış 4",
         imageId = "argue4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 6000,
         },
     },
@@ -9889,7 +11968,7 @@ RES.TR.Customs.General = {
         "Tartış (Sinirli 1)",
         imageId = "argue5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tartissinirli2"] = {
@@ -9898,7 +11977,7 @@ RES.TR.Customs.General = {
         "Tartış (Sinirli 2)",
         imageId = "argue6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["taskagitmakas"] = {
@@ -9933,7 +12012,7 @@ RES.TR.Customs.General = {
         "Tavuk",
         imageId = "chicken",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tehditet"] = {
@@ -9942,7 +12021,7 @@ RES.TR.Customs.General = {
         "Tehdit Et",
         imageId = "threaten",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tekelsinavpozu2"] = {
@@ -9951,7 +12030,7 @@ RES.TR.Customs.General = {
         "Tek El Şınav Pozu 2",
         imageId = "gympose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "standup",
             ExitEmoteType = "Exits",
             StartDelay = 550,
@@ -9963,7 +12042,7 @@ RES.TR.Customs.General = {
         "Tekme",
         imageId = "kick",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tekme2"] = {
@@ -9972,7 +12051,7 @@ RES.TR.Customs.General = {
         "Tekme 2",
         imageId = "kick2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tekme3"] = {
@@ -10018,7 +12097,7 @@ RES.TR.Customs.General = {
         "Telsiz",
         imageId = "radio",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["teslimol"] = {
@@ -10027,7 +12106,7 @@ RES.TR.Customs.General = {
         "Teslim Ol",
         imageId = "surrender",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "surrender_exit",
         },
     },
@@ -10037,7 +12116,7 @@ RES.TR.Customs.General = {
         "Teslim Ol 2",
         imageId = "surrender2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10047,7 +12126,7 @@ RES.TR.Customs.General = {
         "Teslim Ol 3",
         imageId = "surrender3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10057,7 +12136,7 @@ RES.TR.Customs.General = {
         "Teslim Ol 4",
         imageId = "surrender4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10067,7 +12146,7 @@ RES.TR.Customs.General = {
         "Teslim Ol 5",
         imageId = "surrender5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "surrender_exit",
         },
     },
@@ -10077,7 +12156,7 @@ RES.TR.Customs.General = {
         "Teslim Ol 6",
         imageId = "surrender6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10087,7 +12166,7 @@ RES.TR.Customs.General = {
         "Teslim Ol 7",
         imageId = "surrender7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10097,7 +12176,7 @@ RES.TR.Customs.General = {
         "Tokalaşma",
         imageId = "solo_handshake",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3000,
         },
     },
@@ -10107,7 +12186,7 @@ RES.TR.Customs.General = {
         "Tokalaşma 2",
         imageId = "solo_handshake2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3000,
         },
     },
@@ -10117,7 +12196,7 @@ RES.TR.Customs.General = {
         "Tokat",
         imageId = "solo_slap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2000,
         },
     },
@@ -10127,7 +12206,7 @@ RES.TR.Customs.General = {
         "Tökezle",
         imageId = "stumble",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tpozu"] = {
@@ -10136,7 +12215,7 @@ RES.TR.Customs.General = {
         "T Pozu",
         imageId = "tpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tpozu2"] = {
@@ -10145,7 +12224,7 @@ RES.TR.Customs.General = {
         "T Pozu 2",
         imageId = "tpose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tufekpozu1"] = {
@@ -10154,7 +12233,7 @@ RES.TR.Customs.General = {
         "Tüfek Pozu 1",
         imageId = "gungirl1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tuvaletteotur"] = {
@@ -10163,7 +12242,7 @@ RES.TR.Customs.General = {
         "Tuvalette Otur",
         imageId = "sittoilet",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -10173,7 +12252,7 @@ RES.TR.Customs.General = {
         "Tuvalette Otur 2",
         imageId = "sittoilet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -10183,7 +12262,7 @@ RES.TR.Customs.General = {
         "Uçak Hareketi",
         imageId = "airplane",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ustunusilkele"] = {
@@ -10192,7 +12271,7 @@ RES.TR.Customs.General = {
         "Üstünü Silkele",
         imageId = "shakeoff",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 3500,
         },
     },
@@ -10202,7 +12281,7 @@ RES.TR.Customs.General = {
         "UwU",
         imageId = "uwu",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["uwu2"] = {
@@ -10211,7 +12290,7 @@ RES.TR.Customs.General = {
         "UwU 2",
         imageId = "uwu2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["uyu"] = {
@@ -10220,7 +12299,7 @@ RES.TR.Customs.General = {
         "Uyu",
         imageId = "sleep",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             StartDelay = 700,
@@ -10232,7 +12311,7 @@ RES.TR.Customs.General = {
         "Uyuyakal",
         imageId = "fallasleep",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["uyuyakal2"] = {
@@ -10241,7 +12320,7 @@ RES.TR.Customs.General = {
         "Uyuyakal 2",
         imageId = "fallasleep2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["uzgunotur"] = {
@@ -10250,7 +12329,7 @@ RES.TR.Customs.General = {
         "Üzgün Otur",
         imageId = "sitsad",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10260,7 +12339,7 @@ RES.TR.Customs.General = {
         "Üzgün Otur 2",
         imageId = "sitsad2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10270,7 +12349,7 @@ RES.TR.Customs.General = {
         "Üzgün Otur 3",
         imageId = "sitsad3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10280,7 +12359,7 @@ RES.TR.Customs.General = {
         "Üzgün Otur 4",
         imageId = "sitsad4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 600,
         },
@@ -10291,7 +12370,7 @@ RES.TR.Customs.General = {
         "Vale",
         imageId = "valet",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vale2"] = {
@@ -10300,7 +12379,7 @@ RES.TR.Customs.General = {
         "Vale 2",
         imageId = "valet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vale3"] = {
@@ -10309,7 +12388,7 @@ RES.TR.Customs.General = {
         "Vale 3",
         imageId = "valet3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vurucu"] = {
@@ -10324,7 +12403,7 @@ RES.TR.Customs.General = {
         "Vurulma",
         imageId = "shot",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
         },
     },
@@ -10343,7 +12422,7 @@ RES.TR.Customs.General = {
         "Yalnız Otur 8",
         imageId = "sitchair8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "offchair",
         },
     },
@@ -10373,7 +12452,7 @@ RES.TR.Customs.General = {
         "Yan Yaslan",
         imageId = "leanside",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yanyaslan2"] = {
@@ -10382,7 +12461,7 @@ RES.TR.Customs.General = {
         "Yan Yaslan 2",
         imageId = "leanside2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yanyaslan3"] = {
@@ -10391,7 +12470,7 @@ RES.TR.Customs.General = {
         "Yan Yaslan 3",
         imageId = "leanside3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yanyaslan4"] = {
@@ -10400,7 +12479,7 @@ RES.TR.Customs.General = {
         "Yan Yaslan 4",
         imageId = "leanside4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yanyaslan5"] = {
@@ -10409,7 +12488,7 @@ RES.TR.Customs.General = {
         "Yan Yaslan 5",
         imageId = "leanside5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yardimistesurunerek"] = {
@@ -10428,7 +12507,7 @@ RES.TR.Customs.General = {
         "Yaslan 2",
         imageId = "lean2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yaslan3"] = {
@@ -10437,7 +12516,7 @@ RES.TR.Customs.General = {
         "Yaslan 3",
         imageId = "lean3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yaslan4"] = {
@@ -10446,7 +12525,7 @@ RES.TR.Customs.General = {
         "Yaslan 4",
         imageId = "lean4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yaslan5"] = {
@@ -10455,7 +12534,7 @@ RES.TR.Customs.General = {
         "Yaslan 5",
         imageId = "lean5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yaslan6"] = {
@@ -10464,7 +12543,7 @@ RES.TR.Customs.General = {
         "Yaslan 6",
         imageId = "lean6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yastut"] = {
@@ -10473,7 +12552,7 @@ RES.TR.Customs.General = {
         "Yas Tut",
         imageId = "grieve",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yatveagla"] = {
@@ -10482,7 +12561,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla",
         imageId = "layncry",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10493,7 +12572,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla 2",
         imageId = "layncry2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10504,7 +12583,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla 3",
         imageId = "layncry3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10515,7 +12594,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla 4",
         imageId = "layncry4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10526,7 +12605,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla 5",
         imageId = "layncry5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10537,7 +12616,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla 6",
         imageId = "layncry6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10548,7 +12627,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla 7",
         imageId = "layncry7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10559,7 +12638,7 @@ RES.TR.Customs.General = {
         "Yat ve Ağla 8",
         imageId = "layncry8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10570,7 +12649,7 @@ RES.TR.Customs.General = {
         "Yavaş Alkış",
         imageId = "slowclap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yavasalkis2"] = {
@@ -10579,7 +12658,7 @@ RES.TR.Customs.General = {
         "Yavaş Alkış 2",
         imageId = "slowclap2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yavasalkis3"] = {
@@ -10588,7 +12667,7 @@ RES.TR.Customs.General = {
         "Yavaş Alkış 3",
         imageId = "slowclap3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yaziyaz"] = {
@@ -10597,7 +12676,7 @@ RES.TR.Customs.General = {
         "Yazı Yaz",
         imageId = "type",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yaziyaz2"] = {
@@ -10606,7 +12685,7 @@ RES.TR.Customs.General = {
         "Yazı Yaz 2",
         imageId = "type2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yaziyaz3"] = {
@@ -10615,7 +12694,7 @@ RES.TR.Customs.General = {
         "Yazı Yaz 3",
         imageId = "type3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yaziyaz4"] = {
@@ -10624,7 +12703,7 @@ RES.TR.Customs.General = {
         "Yazı Yaz 4",
         imageId = "type4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yaziyaz5"] = {
@@ -10633,7 +12712,7 @@ RES.TR.Customs.General = {
         "Yazı Yaz 5",
         imageId = "type5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yelektut"] = {
@@ -10642,7 +12721,7 @@ RES.TR.Customs.General = {
         "Yelek Tut",
         imageId = "vest",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yelektut2"] = {
@@ -10651,7 +12730,7 @@ RES.TR.Customs.General = {
         "Yelek Tut 2",
         imageId = "vest2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yelektut3"] = {
@@ -10660,7 +12739,7 @@ RES.TR.Customs.General = {
         "Yelek Tut 3",
         imageId = "vest3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yelektut4"] = {
@@ -10669,7 +12748,7 @@ RES.TR.Customs.General = {
         "Yelek Tut 4",
         imageId = "vest4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yelektut5"] = {
@@ -10678,7 +12757,7 @@ RES.TR.Customs.General = {
         "Yelek Tut 5",
         imageId = "vest5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yelektut6"] = {
@@ -10687,7 +12766,7 @@ RES.TR.Customs.General = {
         "Yelek Tut 6",
         imageId = "vest6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yerdenal"] = {
@@ -10702,7 +12781,7 @@ RES.TR.Customs.General = {
         "Yere Yat",
         imageId = "prone",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             StartDelay = 700,
         },
@@ -10758,7 +12837,7 @@ RES.TR.Customs.General = {
         "Yoga 2",
         imageId = "yoga2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yuksekyaslanma"] = {
@@ -10767,7 +12846,7 @@ RES.TR.Customs.General = {
         "Yüksek Yaslanma",
         imageId = "leanhigh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yuksekyaslanma2"] = {
@@ -10776,7 +12855,7 @@ RES.TR.Customs.General = {
         "Yüksek Yaslanma 2",
         imageId = "leanhigh2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yumruklama"] = {
@@ -10785,7 +12864,7 @@ RES.TR.Customs.General = {
         "Yumruklama",
         imageId = "punching",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yumruklama2"] = {
@@ -10832,7 +12911,7 @@ RES.TR.Customs.General = {
         "Yüzü Gizle",
         imageId = "block",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yuzunukapat"] = {
@@ -10841,7 +12920,7 @@ RES.TR.Customs.General = {
         "Yüzünü Kapat",
         imageId = "facepalm",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 8000,
         },
     },
@@ -10851,7 +12930,7 @@ RES.TR.Customs.General = {
         "Yüzünü Kapat 2",
         imageId = "facepalm2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 8000,
         },
     },
@@ -10861,7 +12940,7 @@ RES.TR.Customs.General = {
         "Yüzünü Kapat 3",
         imageId = "facepalm3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 8000,
         },
     },
@@ -10871,7 +12950,7 @@ RES.TR.Customs.General = {
         "Yüzünü Kapat 4",
         imageId = "facepalm4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yuzunuyika"] = {
@@ -10880,7 +12959,7 @@ RES.TR.Customs.General = {
         "Yüzünü Yıka",
         imageId = "cleanface",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["zihinkontrolu"] = {
@@ -10889,7 +12968,7 @@ RES.TR.Customs.General = {
         "Zihin Kontrolü",
         imageId = "mindcontrol",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zihinkontrolu2"] = {
@@ -10898,7 +12977,7 @@ RES.TR.Customs.General = {
         "Zihin Kontrolü 2",
         imageId = "mindcontrol2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zilebas"] = {
@@ -10945,7 +13024,7 @@ RES.TR.Customs.General = {
         "Zıplama Egzersizi 3",
         imageId = "gym3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ziplamahareketi"] = {
@@ -10954,7 +13033,7 @@ RES.TR.Customs.General = {
         "Zıplama Hareketi",
         imageId = "jumpingjacks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ziplamahareketijumpingjacks4"] = {
@@ -10963,7 +13042,7 @@ RES.TR.Customs.General = {
         "Zıplama Hareketi (Jumping Jacks) 4",
         imageId = "gym4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombikosusu4"] = {
@@ -10972,7 +13051,7 @@ RES.TR.Customs.General = {
         "Zombi Koşusu 4",
         imageId = "zombiewalk4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombipencesi"] = {
@@ -11005,7 +13084,7 @@ RES.TR.Customs.General = {
         "Zombi Yürüyüşü",
         imageId = "zombiewalk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombiyuruyusu2"] = {
@@ -11014,7 +13093,7 @@ RES.TR.Customs.General = {
         "Zombi Yürüyüşü 2",
         imageId = "zombiewalk2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombiyuruyusu3"] = {
@@ -11023,7 +13102,7 @@ RES.TR.Customs.General = {
         "Zombi Yürüyüşü 3",
         imageId = "zombiewalk3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
 }
@@ -11035,7 +13114,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık",
         imageId = "weights",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_curl_bar_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11054,7 +13133,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık 2",
         imageId = "weights2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_curl_bar_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11073,7 +13152,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık 3 - Poz",
         imageId = "weights3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11092,7 +13171,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık 4 - Poz",
         imageId = "weights4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_01",
             PropBone = 60309,
             PropPlacement = {
@@ -11121,7 +13200,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık 7 - Kadın Poz 3",
         imageId = "weights7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_freeweight_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11140,7 +13219,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 100KG",
         imageId = "weightsbarbell8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_100kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11159,7 +13238,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 10KG",
         imageId = "weightsbarbell",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_10kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11178,7 +13257,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 20KG",
         imageId = "weightsbarbell2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_20kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11197,7 +13276,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 30KG",
         imageId = "weightsbarbell3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_30kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11216,7 +13295,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 40KG",
         imageId = "weightsbarbell4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_40kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11235,7 +13314,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 50KG",
         imageId = "weightsbarbell5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_50kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11254,7 +13333,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 60KG",
         imageId = "weightsbarbell6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_60kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11273,7 +13352,7 @@ RES.TR.Customs.PropEmotes = {
         "Ağırlık - Halter 80KG",
         imageId = "weightsbarbell7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_barbell_80kg",
             PropBone = 28422,
             PropPlacement = {
@@ -11292,7 +13371,7 @@ RES.TR.Customs.PropEmotes = {
         "Akbaba",
         imageId = "vulture",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ch_prop_arcade_gun_bird_01a",
             PropBone = 18905,
             PropPlacement = {
@@ -11311,7 +13390,7 @@ RES.TR.Customs.PropEmotes = {
         "Akşam Yemeği",
         imageId = "dinner",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_plate_01",
             PropBone = 60309,
             PropPlacement = {
@@ -11339,7 +13418,7 @@ RES.TR.Customs.PropEmotes = {
         "Alet Çantası",
         imageId = "toolbox",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tool_box_04",
             PropBone = 28422,
             PropPlacement = {
@@ -11358,7 +13437,7 @@ RES.TR.Customs.PropEmotes = {
         "Alet Çantası 2",
         imageId = "toolbox2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "imp_prop_tool_box_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -11377,7 +13456,7 @@ RES.TR.Customs.PropEmotes = {
         "Alet Çantası 3",
         imageId = "toolbox3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_tool_box_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -11396,7 +13475,7 @@ RES.TR.Customs.PropEmotes = {
         "Alet Çantası 4",
         imageId = "toolbox4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_tool_box_02a",
             PropBone = 28422,
             PropPlacement = {
@@ -11415,7 +13494,7 @@ RES.TR.Customs.PropEmotes = {
         "Alışveriş Çanta",
         imageId = "shopbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "vw_prop_casino_shopping_bag_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -11434,7 +13513,7 @@ RES.TR.Customs.PropEmotes = {
         "Alışveriş Çanta 2",
         imageId = "shopbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_shopping_bags02",
             PropBone = 28422,
             PropPlacement = {
@@ -11453,7 +13532,7 @@ RES.TR.Customs.PropEmotes = {
         "Alışveriş Çanta 3",
         imageId = "shopbag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_shopping_bag",
             PropBone = 28422,
             PropPlacement = {
@@ -11472,7 +13551,7 @@ RES.TR.Customs.PropEmotes = {
         "Alışveriş Çanta 4",
         imageId = "shopbag4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_carrier_bag_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11548,7 +13627,7 @@ RES.TR.Customs.PropEmotes = {
         "Ananas",
         imageId = "pineapple",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_pineapple_01a",
             PropBone = 18905,
             PropPlacement = {
@@ -11567,7 +13646,7 @@ RES.TR.Customs.PropEmotes = {
         "Aşk Pasta 4",
         imageId = "cake4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_love_001",
             PropBone = 18905,
             PropPlacement = {
@@ -11586,7 +13665,7 @@ RES.TR.Customs.PropEmotes = {
         "Ateş Torch",
         imageId = "ftorch",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_torch_fire001",
             PropBone = 18905,
             PropPlacement = {
@@ -11605,7 +13684,7 @@ RES.TR.Customs.PropEmotes = {
         "Ateş Torch 2",
         imageId = "ftorch2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_torch_fire001",
             PropBone = 28422,
             PropPlacement = {
@@ -11624,7 +13703,7 @@ RES.TR.Customs.PropEmotes = {
         "Balık Tut 1",
         imageId = "fishing1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_fishing_rod_01",
             PropBone = 60309,
             PropPlacement = {
@@ -11643,7 +13722,7 @@ RES.TR.Customs.PropEmotes = {
         "Balık Tut 2",
         imageId = "fishing2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_fishing_rod_01",
             PropBone = 60309,
             PropPlacement = {
@@ -11662,7 +13741,7 @@ RES.TR.Customs.PropEmotes = {
         "Balık Tut 3",
         imageId = "fishing3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_fishing_rod_01",
             PropBone = 60309,
             PropPlacement = {
@@ -11681,7 +13760,7 @@ RES.TR.Customs.PropEmotes = {
         "Balkabağı",
         imageId = "pump",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_veg_crop_03_pump",
             PropBone = 28422,
             PropPlacement = {
@@ -11700,7 +13779,7 @@ RES.TR.Customs.PropEmotes = {
         "Balkabağı 2",
         imageId = "pump2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_veg_crop_03_pump",
             PropBone = 28422,
             PropPlacement = {
@@ -11719,7 +13798,7 @@ RES.TR.Customs.PropEmotes = {
         "Balkabağı 3",
         imageId = "pump3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "reh_prop_reh_lantern_pk_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -11738,7 +13817,7 @@ RES.TR.Customs.PropEmotes = {
         "Balkabağı 4",
         imageId = "pump4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "reh_prop_reh_lantern_pk_01b",
             PropBone = 28422,
             PropPlacement = {
@@ -11757,7 +13836,7 @@ RES.TR.Customs.PropEmotes = {
         "Balkabağı 5",
         imageId = "pump5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "reh_prop_reh_lantern_pk_01c",
             PropBone = 28422,
             PropPlacement = {
@@ -11776,7 +13855,7 @@ RES.TR.Customs.PropEmotes = {
         "Balon",
         imageId = "balloon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "heart_balloon",
             PropBone = 60309,
             PropPlacement = {
@@ -11796,7 +13875,7 @@ RES.TR.Customs.PropEmotes = {
         "Balta",
         imageId = "axe",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tool_fireaxe",
             PropBone = 18905,
             PropPlacement = {
@@ -11815,7 +13894,7 @@ RES.TR.Customs.PropEmotes = {
         "Balta - Kazma 3",
         imageId = "axe3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tool_pickaxe",
             PropBone = 57005,
             PropPlacement = {
@@ -11834,7 +13913,7 @@ RES.TR.Customs.PropEmotes = {
         "Balta - Kazma Yer Vuruş 4",
         imageId = "axe4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_pickaxe",
             PropBone = 57005,
             PropPlacement = {
@@ -11853,7 +13932,7 @@ RES.TR.Customs.PropEmotes = {
         "Balta - Yer Vuruş 2",
         imageId = "axe2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_fireaxe",
             PropBone = 57005,
             PropPlacement = {
@@ -11872,7 +13951,7 @@ RES.TR.Customs.PropEmotes = {
         "Bardak",
         imageId = "cup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_plastic_cup_02",
             PropBone = 28422,
             PropPlacement = {
@@ -11891,7 +13970,7 @@ RES.TR.Customs.PropEmotes = {
         "Baseball Sopa Pozu",
         imageId = "bbat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "p_cs_bbbat_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11910,7 +13989,7 @@ RES.TR.Customs.PropEmotes = {
         "Basketbol Potaya Giriş Poz 5",
         imageId = "bball5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_bskball_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11929,7 +14008,7 @@ RES.TR.Customs.PropEmotes = {
         "Basketbol Poz 2",
         imageId = "bball2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bskball_01",
             PropBone = 60309,
             PropPlacement = {
@@ -11948,7 +14027,7 @@ RES.TR.Customs.PropEmotes = {
         "Basketbol Tut",
         imageId = "bball",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bskball_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11967,7 +14046,7 @@ RES.TR.Customs.PropEmotes = {
         "Basketbol Tut 2",
         imageId = "bball3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bskball_01",
             PropBone = 28422,
             PropPlacement = {
@@ -11986,7 +14065,7 @@ RES.TR.Customs.PropEmotes = {
         "Basketbol Tut 3",
         imageId = "bball4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_bskball_01",
             PropBone = 28422,
             PropPlacement = {
@@ -12005,7 +14084,7 @@ RES.TR.Customs.PropEmotes = {
         "Bavul",
         imageId = "suitcase",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ld_suitcase_01",
             PropBone = 57005,
             PropPlacement = {
@@ -12024,7 +14103,7 @@ RES.TR.Customs.PropEmotes = {
         "Bavul 2",
         imageId = "suitcase2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_security_case_01",
             PropBone = 57005,
             PropPlacement = {
@@ -12043,7 +14122,7 @@ RES.TR.Customs.PropEmotes = {
         "BBQ (Kadın)",
         imageId = "bbqf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_fish_slice_01",
             PropBone = 28422,
             PropPlacement = {
@@ -12062,7 +14141,7 @@ RES.TR.Customs.PropEmotes = {
         "Bebek Pasta 2",
         imageId = "cake2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_baby_001",
             PropBone = 18905,
             PropPlacement = {
@@ -12081,7 +14160,7 @@ RES.TR.Customs.PropEmotes = {
         "Bilardo 2 (Poz) Oyna",
         imageId = "poolcue2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_pool_cue",
             PropBone = 57005,
             PropPlacement = {
@@ -12100,7 +14179,7 @@ RES.TR.Customs.PropEmotes = {
         "Bilardo 3 (Poz) Oyna",
         imageId = "poolcue3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_pool_cue",
             PropBone = 57005,
             PropPlacement = {
@@ -12119,7 +14198,7 @@ RES.TR.Customs.PropEmotes = {
         "Bilardo 4 (Poz) Oyna",
         imageId = "poolcue4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_pool_cue",
             PropBone = 61163,
             PropPlacement = {
@@ -12138,7 +14217,7 @@ RES.TR.Customs.PropEmotes = {
         "Bilardo Oyna",
         imageId = "poolcue",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_pool_cue",
             PropBone = 57005,
             PropPlacement = {
@@ -12157,7 +14236,7 @@ RES.TR.Customs.PropEmotes = {
         "Bilardo Oyna 5",
         imageId = "poolcue5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_pool_cue",
             PropBone = 57005,
             PropPlacement = {
@@ -12176,7 +14255,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira 2",
         imageId = "beer2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_amb_beer_bottle",
             PropBone = 28422,
             PropPlacement = {
@@ -12195,7 +14274,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira 3",
         imageId = "beer3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_cs_bottle_01",
             PropBone = 28422,
             PropPlacement = {
@@ -12214,7 +14293,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira 4 - Dostlar İçin Dök",
         imageId = "beer4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_cs_bottle_01",
             PropBone = 28422,
             PropPlacement = {
@@ -12233,7 +14312,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira 5",
         imageId = "beer5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_cs_bottle_01",
             PropBone = 28422,
             PropPlacement = {
@@ -12252,7 +14331,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira İç",
         imageId = "beer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_amb_beer_bottle",
             PropBone = 28422,
             PropPlacement = {
@@ -12271,7 +14350,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kadın",
         imageId = "beerf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_amb_beer_bottle",
             PropBone = 28422,
             PropPlacement = {
@@ -12290,7 +14369,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kadın 3",
         imageId = "beerf3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_amb_beer_bottle",
             PropBone = 28422,
             PropPlacement = {
@@ -12309,7 +14388,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kadın 4",
         imageId = "beerf4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_amb_beer_bottle",
             PropBone = 28422,
             PropPlacement = {
@@ -12328,7 +14407,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kadın 5",
         imageId = "beerf5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_amb_beer_bottle",
             PropBone = 28422,
             PropPlacement = {
@@ -12347,7 +14426,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu 1",
         imageId = "beerbox",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerdus",
             PropBone = 57005,
             PropPlacement = {
@@ -12366,7 +14445,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu 2",
         imageId = "beerbox2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beeram",
             PropBone = 57005,
             PropPlacement = {
@@ -12385,7 +14464,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu 3",
         imageId = "beercan3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "h4_prop_h4_can_beer_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -12404,7 +14483,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu 3",
         imageId = "beerbox3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerpride",
             PropBone = 57005,
             PropPlacement = {
@@ -12423,7 +14502,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu 4",
         imageId = "beerbox4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerbar",
             PropBone = 57005,
             PropPlacement = {
@@ -12442,7 +14521,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu Taşı",
         imageId = "cbbox",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerben1",
             PropBone = 28422,
             PropPlacement = {
@@ -12461,7 +14540,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu Taşı 2",
         imageId = "cbbox2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerbla1",
             PropBone = 28422,
             PropPlacement = {
@@ -12480,7 +14559,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu Taşı 3",
         imageId = "cbbox3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerjak1",
             PropBone = 28422,
             PropPlacement = {
@@ -12499,7 +14578,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu Taşı 4",
         imageId = "cbbox4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerlog1",
             PropBone = 28422,
             PropPlacement = {
@@ -12518,7 +14597,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu Taşı 5",
         imageId = "cbbox5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ml_beerpis1",
             PropBone = 28422,
             PropPlacement = {
@@ -12537,7 +14616,7 @@ RES.TR.Customs.PropEmotes = {
         "Bira Kutu Taşı 6",
         imageId = "cbbox6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beer_box_01",
             PropBone = 28422,
             PropPlacement = {
@@ -12556,7 +14635,7 @@ RES.TR.Customs.PropEmotes = {
         "Bistüri",
         imageId = "scalpel",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_scalpel",
             PropBone = 18905,
             PropPlacement = {
@@ -12575,7 +14654,7 @@ RES.TR.Customs.PropEmotes = {
         "Bong İç",
         imageId = "bong",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bong_01",
             PropBone = 18905,
             PropPlacement = {
@@ -12610,7 +14689,7 @@ RES.TR.Customs.PropEmotes = {
         "Bong İç 2",
         imageId = "bong2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_bong_01a",
             PropBone = 18905,
             PropPlacement = {
@@ -12645,7 +14724,7 @@ RES.TR.Customs.PropEmotes = {
         "Bong İç 3 - Otur & Rip",
         imageId = "bong3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_bong_01",
@@ -12682,7 +14761,7 @@ RES.TR.Customs.PropEmotes = {
         "Bong İç 4 - Otur & Rip Mor",
         imageId = "bong4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "xm3_prop_xm3_bong_01a",
@@ -12719,7 +14798,7 @@ RES.TR.Customs.PropEmotes = {
         "Bongo Davul",
         imageId = "bongos",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bongos_01",
             PropBone = 60309,
             PropPlacement = {
@@ -12738,7 +14817,7 @@ RES.TR.Customs.PropEmotes = {
         "Bubble Tea",
         imageId = "boba",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scully_boba",
             PropBone = 28422,
             PropPlacement = {
@@ -12757,7 +14836,7 @@ RES.TR.Customs.PropEmotes = {
         "Bubble Tea 2",
         imageId = "boba2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scully_boba2",
             PropBone = 28422,
             PropPlacement = {
@@ -12776,7 +14855,7 @@ RES.TR.Customs.PropEmotes = {
         "Bubble Tea 3",
         imageId = "boba3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scully_boba3",
             PropBone = 28422,
             PropPlacement = {
@@ -12795,7 +14874,7 @@ RES.TR.Customs.PropEmotes = {
         "Burger - Poz",
         imageId = "burgerpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_burger_01",
             PropBone = 60309,
             PropPlacement = {
@@ -12824,7 +14903,7 @@ RES.TR.Customs.PropEmotes = {
         "Burger Ye",
         imageId = "burger",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_burger_01",
             PropBone = 60309,
             PropPlacement = {
@@ -12843,7 +14922,7 @@ RES.TR.Customs.PropEmotes = {
         "Business Çanta",
         imageId = "businessbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_med_bag_01b",
             PropBone = 60309,
             PropPlacement = {
@@ -12862,7 +14941,7 @@ RES.TR.Customs.PropEmotes = {
         "Business Çanta - Poz 2",
         imageId = "businessbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_med_bag_01b",
             PropBone = 60309,
             PropPlacement = {
@@ -12881,7 +14960,7 @@ RES.TR.Customs.PropEmotes = {
         "Buz Balık Tut",
         imageId = "icefishing",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "pprp_icefishing_box_02",
             PropBone = 0,
             PropPlacement = {
@@ -12900,7 +14979,7 @@ RES.TR.Customs.PropEmotes = {
         "Buz Balık Tut 2",
         imageId = "icefishing2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pprp_icefishing_box_01",
             PropBone = 28422,
             PropPlacement = {
@@ -12929,7 +15008,7 @@ RES.TR.Customs.PropEmotes = {
         "Çağır",
         imageId = "summon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "m24_1_prop_m41_zombiestaff_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -12948,7 +15027,7 @@ RES.TR.Customs.PropEmotes = {
         "Çağır2",
         imageId = "summon2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "m24_1_prop_m41_zombiestaff_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -12967,7 +15046,7 @@ RES.TR.Customs.PropEmotes = {
         "Çakmak - Puro",
         imageId = "lighter",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "lux_prop_lighter_luxe",
             PropBone = 26612,
             PropPlacement = {
@@ -13011,7 +15090,7 @@ RES.TR.Customs.PropEmotes = {
         "Çakmak - Puro Otur 2",
         imageId = "lighter2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "lux_prop_lighter_luxe",
@@ -13057,7 +15136,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Dur Tabela",
         imageId = "ssign",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_road_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -13076,7 +15155,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Dur Tabela Snow 9",
         imageId = "ssign9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_snow_sign_road_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -13095,7 +15174,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Freeway Tabela 8",
         imageId = "ssign8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_freewayentrance",
             PropBone = 60309,
             PropPlacement = {
@@ -13114,7 +15193,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Hospital Tabela 3",
         imageId = "ssign3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_road_03d",
             PropBone = 60309,
             PropPlacement = {
@@ -13133,7 +15212,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Lastik 1",
         imageId = "stire",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_wheel_01",
             PropBone = 18905,
             PropPlacement = {
@@ -13152,7 +15231,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Lastik 2",
         imageId = "stire2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_wheel_02",
             PropBone = 18905,
             PropPlacement = {
@@ -13171,7 +15250,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Parking Tabela 2",
         imageId = "ssign5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_road_04w",
             PropBone = 60309,
             PropPlacement = {
@@ -13190,7 +15269,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Parking Tabela 4",
         imageId = "ssign4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_road_04a",
             PropBone = 60309,
             PropPlacement = {
@@ -13209,7 +15288,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Street Tabela 7",
         imageId = "ssign7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_road_05t",
             PropBone = 60309,
             PropPlacement = {
@@ -13228,7 +15307,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal TV",
         imageId = "stealtv",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xs_prop_arena_screen_tv_01",
             PropBone = 28252,
             PropPlacement = {
@@ -13247,7 +15326,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Yaya Tabela 6",
         imageId = "ssign6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_road_05a",
             PropBone = 60309,
             PropPlacement = {
@@ -13266,7 +15345,7 @@ RES.TR.Customs.PropEmotes = {
         "Çal Yol Ver Tabela 2",
         imageId = "ssign2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sign_road_02a",
             PropBone = 60309,
             PropPlacement = {
@@ -13285,7 +15364,7 @@ RES.TR.Customs.PropEmotes = {
         "Çapa",
         imageId = "hoe",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_shovel5",
             PropBone = 28422,
             PropPlacement = {
@@ -13304,7 +15383,7 @@ RES.TR.Customs.PropEmotes = {
         "Çapa 2",
         imageId = "hoe2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_shovel5",
             PropBone = 28422,
             PropPlacement = {
@@ -13323,7 +15402,7 @@ RES.TR.Customs.PropEmotes = {
         "Çapa 3",
         imageId = "hoe3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_shovel5",
             PropBone = 28422,
             PropPlacement = {
@@ -13342,7 +15421,7 @@ RES.TR.Customs.PropEmotes = {
         "Çapa 4",
         imageId = "hoe4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_shovel5",
             PropBone = 28422,
             PropPlacement = {
@@ -13361,7 +15440,7 @@ RES.TR.Customs.PropEmotes = {
         "Casino Pasta 3",
         imageId = "cake3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_casino001",
             PropBone = 18905,
             PropPlacement = {
@@ -13380,7 +15459,7 @@ RES.TR.Customs.PropEmotes = {
         "Chill Tekila",
         imageId = "chillteq",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "prop_tequila",
             PropBone = 60309,
@@ -13400,7 +15479,7 @@ RES.TR.Customs.PropEmotes = {
         "Çiçek Buketi",
         imageId = "bouquet",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_snow_flower_02",
             PropBone = 60309,
             PropPlacement = {
@@ -13419,7 +15498,7 @@ RES.TR.Customs.PropEmotes = {
         "Çiçek Buketi 2",
         imageId = "bouquet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_freevalentinesday3",
             PropBone = 28422,
             PropPlacement = {
@@ -13438,7 +15517,7 @@ RES.TR.Customs.PropEmotes = {
         "Çikolata Mud Pasta 7",
         imageId = "cake7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_cake3",
             PropBone = 28422,
             PropPlacement = {
@@ -13457,7 +15536,7 @@ RES.TR.Customs.PropEmotes = {
         "Cinayet Balta 1",
         imageId = "murder1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "bzzz_murder_axe001",
             PropBone = 18905,
             PropPlacement = {
@@ -13486,7 +15565,7 @@ RES.TR.Customs.PropEmotes = {
         "Cinayet Pala 3",
         imageId = "murder3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "bzzz_murder_machete001",
             PropBone = 18905,
             PropPlacement = {
@@ -13515,7 +15594,7 @@ RES.TR.Customs.PropEmotes = {
         "Cinayet Tabanca 2",
         imageId = "murder2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "w_pi_heavypistol",
             PropBone = 18905,
             PropPlacement = {
@@ -13544,7 +15623,7 @@ RES.TR.Customs.PropEmotes = {
         "Çivi Tabancası",
         imageId = "nailgun",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tool_nailgun",
             PropBone = 28422,
             PropPlacement = {
@@ -13563,7 +15642,7 @@ RES.TR.Customs.PropEmotes = {
         "Çömel Maske Beyaz - Poz 1",
         imageId = "squatmask1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "scarymask2",
             PropBone = 64065,
             PropPlacement = {
@@ -13582,7 +15661,7 @@ RES.TR.Customs.PropEmotes = {
         "Çömel Maske Black - Poz 2",
         imageId = "squatmask2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "scarymask3",
             PropBone = 64065,
             PropPlacement = {
@@ -13601,7 +15680,7 @@ RES.TR.Customs.PropEmotes = {
         "Çömel Maske Kırmızı - Poz",
         imageId = "squatmask",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "scarymask1",
             PropBone = 64065,
             PropPlacement = {
@@ -13620,7 +15699,7 @@ RES.TR.Customs.PropEmotes = {
         "Çömel Nakit - Poz",
         imageId = "squatcash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_cash_pile_02",
             PropBone = 28422,
             PropPlacement = {
@@ -13639,7 +15718,7 @@ RES.TR.Customs.PropEmotes = {
         "Çömel Tabanca Poz 2 - Sağ",
         imageId = "squatgunpose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "w_pi_pistolsmg_m31",
             PropBone = 26614,
             PropPlacement = {
@@ -13658,7 +15737,7 @@ RES.TR.Customs.PropEmotes = {
         "Cone Kafa",
         imageId = "conehead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_roadcone02b",
             PropBone = 31086,
             PropPlacement = {
@@ -13677,7 +15756,7 @@ RES.TR.Customs.PropEmotes = {
         "Cop 4",
         imageId = "cop4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_parking_wand_01",
             PropBone = 57005,
             PropPlacement = {
@@ -13696,7 +15775,7 @@ RES.TR.Customs.PropEmotes = {
         "Çöp Çanta",
         imageId = "gbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_street_binbag_01",
             PropBone = 28422,
             PropPlacement = {
@@ -13715,7 +15794,7 @@ RES.TR.Customs.PropEmotes = {
         "Cop Işığı",
         imageId = "copbeacon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_parking_wand_01",
             PropBone = 57005,
             PropPlacement = {
@@ -13734,7 +15813,7 @@ RES.TR.Customs.PropEmotes = {
         "Çöp Kovası",
         imageId = "gbin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bin_08open",
             PropBone = 28422,
             PropPlacement = {
@@ -13753,7 +15832,7 @@ RES.TR.Customs.PropEmotes = {
         "Çöp Kovası 2",
         imageId = "gbin2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_bin_01",
             PropBone = 28422,
             PropPlacement = {
@@ -13772,7 +15851,7 @@ RES.TR.Customs.PropEmotes = {
         "Çöp Kovası 3",
         imageId = "gbin3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_bin_03",
             PropBone = 28422,
             PropPlacement = {
@@ -13791,7 +15870,7 @@ RES.TR.Customs.PropEmotes = {
         "Çöp Kovası 4",
         imageId = "gbin4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bin_08a",
             PropBone = 28422,
             PropPlacement = {
@@ -13810,7 +15889,7 @@ RES.TR.Customs.PropEmotes = {
         "Çöp Kovası 5",
         imageId = "gbin5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bin_07d",
             PropBone = 28422,
             PropPlacement = {
@@ -13829,7 +15908,7 @@ RES.TR.Customs.PropEmotes = {
         "Crack Kafa",
         imageId = "crackhead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_bowie_knife",
             PropBone = 28422,
             PropPlacement = {
@@ -13858,7 +15937,7 @@ RES.TR.Customs.PropEmotes = {
         "Çubuk Kelebek",
         imageId = "stickbutterfly",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_stickbfly",
             PropBone = 18905,
             PropPlacement = {
@@ -13877,7 +15956,7 @@ RES.TR.Customs.PropEmotes = {
         "Çubuk Sinekkuşu",
         imageId = "stickhummingbird",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_stickhbird",
             PropBone = 18905,
             PropPlacement = {
@@ -13896,7 +15975,7 @@ RES.TR.Customs.PropEmotes = {
         "Ders Çalış",
         imageId = "study",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "xm_prop_x17_laptop_lester_01",
             PropBone = 28422,
@@ -13916,7 +15995,7 @@ RES.TR.Customs.PropEmotes = {
         "dessert Ye",
         imageId = "desert",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_dessert_a",
             PropBone = 18905,
             PropPlacement = {
@@ -13935,7 +16014,7 @@ RES.TR.Customs.PropEmotes = {
         "Devriye Araç - Ön",
         imageId = "patrolcar",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_cs_police_torch_02",
             PropBone = 28422,
             PropPlacement = {
@@ -13954,7 +16033,7 @@ RES.TR.Customs.PropEmotes = {
         "Devriye Araç - Sağ",
         imageId = "patrolcarr",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_cs_police_torch_02",
             PropBone = 28422,
             PropPlacement = {
@@ -13973,7 +16052,7 @@ RES.TR.Customs.PropEmotes = {
         "Devriye Araç - Sol",
         imageId = "patrolcarl",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_cs_police_torch_02",
             PropBone = 28422,
             PropPlacement = {
@@ -13992,7 +16071,7 @@ RES.TR.Customs.PropEmotes = {
         "Devriye - Yaya 1",
         imageId = "patrolf1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_police_torch_02",
             PropBone = 60309,
             PropPlacement = {
@@ -14011,7 +16090,7 @@ RES.TR.Customs.PropEmotes = {
         "Devriye - Yaya 2",
         imageId = "patrolf2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_police_torch_02",
             PropBone = 60309,
             PropPlacement = {
@@ -14030,7 +16109,7 @@ RES.TR.Customs.PropEmotes = {
         "Devriye - Yaya 3",
         imageId = "patrolf3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_police_torch_02",
             PropBone = 60309,
             PropPlacement = {
@@ -14049,7 +16128,7 @@ RES.TR.Customs.PropEmotes = {
         "Devriye - Yaya 4 Over Omuz",
         imageId = "patrolf4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_police_torch_02",
             PropBone = 28422,
             PropPlacement = {
@@ -14078,7 +16157,7 @@ RES.TR.Customs.PropEmotes = {
         "Dijital Tarama 1",
         imageId = "digiscan",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "w_am_digiscanner",
             PropBone = 28422,
             PropPlacement = {
@@ -14097,7 +16176,7 @@ RES.TR.Customs.PropEmotes = {
         "Dijital Tarama 2",
         imageId = "digiscan2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "w_am_digiscanner",
             PropBone = 28422,
             PropPlacement = {
@@ -14116,7 +16195,7 @@ RES.TR.Customs.PropEmotes = {
         "Dijital Tarama 3",
         imageId = "digiscan3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "w_am_digiscanner",
             PropBone = 28422,
             PropPlacement = {
@@ -14135,7 +16214,7 @@ RES.TR.Customs.PropEmotes = {
         "Diş Fırçala",
         imageId = "brushteeth",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_toothbrush_01",
             PropBone = 18905,
             PropPlacement = {
@@ -14154,7 +16233,7 @@ RES.TR.Customs.PropEmotes = {
         "Doğum Günü Pasta",
         imageId = "cake",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_birthday_001",
             PropBone = 18905,
             PropPlacement = {
@@ -14173,7 +16252,7 @@ RES.TR.Customs.PropEmotes = {
         "Dolar",
         imageId = "dollar",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_banknote_onedollar_s",
             PropBone = 60309,
             PropPlacement = {
@@ -14192,7 +16271,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Ahududu",
         imageId = "icecreame",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_raspberry",
             PropBone = 18905,
             PropPlacement = {
@@ -14211,7 +16290,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Çikolata",
         imageId = "icecreamb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_chocolate",
             PropBone = 18905,
             PropPlacement = {
@@ -14230,7 +16309,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Çilek",
         imageId = "icecreamg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_strawberry",
             PropBone = 18905,
             PropPlacement = {
@@ -14249,7 +16328,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Kiraz",
         imageId = "icecreama",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_cherry",
             PropBone = 18905,
             PropPlacement = {
@@ -14268,7 +16347,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Limon",
         imageId = "icecreamc",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_lemon",
             PropBone = 18905,
             PropPlacement = {
@@ -14287,7 +16366,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Pistachio",
         imageId = "icecreamd",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_pistachio",
             PropBone = 18905,
             PropPlacement = {
@@ -14306,7 +16385,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Stracciatella",
         imageId = "icecreamf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_stracciatella",
             PropBone = 18905,
             PropPlacement = {
@@ -14325,7 +16404,7 @@ RES.TR.Customs.PropEmotes = {
         "Dondurma Walnut",
         imageId = "icecreamh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_icecream_walnut",
             PropBone = 18905,
             PropPlacement = {
@@ -14344,7 +16423,7 @@ RES.TR.Customs.PropEmotes = {
         "Donut Ahududu 3",
         imageId = "donut3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_foodpack_donut001",
             PropBone = 60309,
             PropPlacement = {
@@ -14363,7 +16442,7 @@ RES.TR.Customs.PropEmotes = {
         "Donut Çikolata 2",
         imageId = "donut2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_foodpack_donut002",
             PropBone = 60309,
             PropPlacement = {
@@ -14382,7 +16461,7 @@ RES.TR.Customs.PropEmotes = {
         "Donut Ye",
         imageId = "donut",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_amb_donut",
             PropBone = 18905,
             PropPlacement = {
@@ -14401,7 +16480,7 @@ RES.TR.Customs.PropEmotes = {
         "Dürbün",
         imageId = "binoculars",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_binoc_01",
             PropBone = 28422,
             PropPlacement = {
@@ -14420,7 +16499,7 @@ RES.TR.Customs.PropEmotes = {
         "Dürbün 2",
         imageId = "binoculars2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_binoc_01",
             PropBone = 28422,
             PropPlacement = {
@@ -14439,7 +16518,7 @@ RES.TR.Customs.PropEmotes = {
         "Dur Tabela",
         imageId = "stopsign",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_flagger_sign_01",
             PropBone = 28422,
             PropPlacement = {
@@ -14458,7 +16537,7 @@ RES.TR.Customs.PropEmotes = {
         "Dur Tabela 2 - Slow Down",
         imageId = "stopsign2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_flagger_sign_01",
             PropBone = 28422,
             PropPlacement = {
@@ -14477,7 +16556,7 @@ RES.TR.Customs.PropEmotes = {
         "Dur Tabela 3 - Dur",
         imageId = "stopsign3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_flagger_sign_02",
             PropBone = 28422,
             PropPlacement = {
@@ -14496,7 +16575,7 @@ RES.TR.Customs.PropEmotes = {
         "Dur Tabela 4 - Slow Down",
         imageId = "stopsign4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_flagger_sign_02",
             PropBone = 28422,
             PropPlacement = {
@@ -14515,7 +16594,7 @@ RES.TR.Customs.PropEmotes = {
         "Ego Bar (Çikolata)",
         imageId = "egobar",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_choc_ego",
             PropBone = 60309,
             PropPlacement = {
@@ -14534,7 +16613,7 @@ RES.TR.Customs.PropEmotes = {
         "El Çanta",
         imageId = "handbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_amb_handbag_01",
             PropBone = 28422,
             PropPlacement = {
@@ -14553,7 +16632,7 @@ RES.TR.Customs.PropEmotes = {
         "El Çanta 2",
         imageId = "handbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ps_bag_02",
             PropBone = 28422,
             PropPlacement = {
@@ -14572,7 +16651,7 @@ RES.TR.Customs.PropEmotes = {
         "Elektronik Sigara",
         imageId = "vape",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ba_prop_battle_vape_01",
             PropBone = 28422,
             PropPlacement = {
@@ -14607,7 +16686,7 @@ RES.TR.Customs.PropEmotes = {
         "Elektronik Sigara 2",
         imageId = "vape2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_vape_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -14642,7 +16721,7 @@ RES.TR.Customs.PropEmotes = {
         "Elma",
         imageId = "apple",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_apple_01b",
             PropBone = 60309,
             PropPlacement = {
@@ -14661,7 +16740,7 @@ RES.TR.Customs.PropEmotes = {
         "Enerji İç - Kutu 2",
         imageId = "edrink2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_can_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -14680,7 +16759,7 @@ RES.TR.Customs.PropEmotes = {
         "Enerji İç - Şişe",
         imageId = "edrink",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_energy_drink",
             PropBone = 60309,
             PropPlacement = {
@@ -14699,7 +16778,7 @@ RES.TR.Customs.PropEmotes = {
         "Enerji İç - XXL Kutu 3",
         imageId = "edrink3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_p_sf_grass_gls_s_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -14718,7 +16797,7 @@ RES.TR.Customs.PropEmotes = {
         "Erkek Ayna Özçekim",
         imageId = "malemirrorselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4169,
             PropPlacement = {
@@ -14784,7 +16863,7 @@ RES.TR.Customs.PropEmotes = {
         "Erkek Ayna Özçekim 1",
         imageId = "malemirrorselfie1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4169,
             PropPlacement = {
@@ -14850,7 +16929,7 @@ RES.TR.Customs.PropEmotes = {
         "Erkek Ayna Özçekim 2",
         imageId = "malemirrorselfie2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -14918,7 +16997,7 @@ RES.TR.Customs.PropEmotes = {
         "Erkek Ayna Özçekim 3",
         imageId = "malemirrorselfie3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4169,
             PropPlacement = {
@@ -14984,7 +17063,7 @@ RES.TR.Customs.PropEmotes = {
         "Erkek Ayna Özçekim 4",
         imageId = "malemirrorselfie4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4169,
             PropPlacement = {
@@ -15050,7 +17129,7 @@ RES.TR.Customs.PropEmotes = {
         "Evlenme Teklifi",
         imageId = "propose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ultra_ringcase",
             PropBone = 28422,
             PropPlacement = {
@@ -15069,7 +17148,7 @@ RES.TR.Customs.PropEmotes = {
         "Evlenme Teklifi 2 - Sevgililer Günü",
         imageId = "propose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "pata_freevalentinesday",
             PropBone = 64064,
             PropPlacement = {
@@ -15088,7 +17167,7 @@ RES.TR.Customs.PropEmotes = {
         "Evlenme Teklifi 3",
         imageId = "propose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "pata_freevalentinesday2",
             PropBone = 64064,
             PropPlacement = {
@@ -15107,7 +17186,7 @@ RES.TR.Customs.PropEmotes = {
         "Evrak Çantası",
         imageId = "brief",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ld_case_01",
             PropBone = 57005,
             PropPlacement = {
@@ -15126,7 +17205,7 @@ RES.TR.Customs.PropEmotes = {
         "Evrak Çantası 2",
         imageId = "brief2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ld_case_01",
             PropBone = 57005,
             PropPlacement = {
@@ -15145,7 +17224,7 @@ RES.TR.Customs.PropEmotes = {
         "Evraklar",
         imageId = "papers",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_papers_01a",
             PropBone = 18905,
             PropPlacement = {
@@ -15164,7 +17243,7 @@ RES.TR.Customs.PropEmotes = {
         "Fasulye",
         imageId = "beans",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "h4_prop_h4_caviar_tin_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -15193,7 +17272,7 @@ RES.TR.Customs.PropEmotes = {
         "Firework Tut",
         imageId = "holdfw",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ind_prop_firework_01",
             PropBone = 18905,
             PropPlacement = {
@@ -15275,7 +17354,7 @@ RES.TR.Customs.PropEmotes = {
         "Flüt",
         imageId = "flute",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_champ_flute",
             PropBone = 18905,
             PropPlacement = {
@@ -15294,7 +17373,7 @@ RES.TR.Customs.PropEmotes = {
         "Frappé",
         imageId = "frappe",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_heartfrappe",
             PropBone = 28422,
             PropPlacement = {
@@ -15313,7 +17392,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazete",
         imageId = "newspaper",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cliff_paper",
             PropBone = 60309,
             PropPlacement = {
@@ -15332,7 +17411,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazete 2",
         imageId = "newspaper2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_paper_news_quik",
             PropBone = 60309,
             PropPlacement = {
@@ -15351,7 +17430,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazete 3",
         imageId = "newspaper3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_paper_news_rag",
             PropBone = 60309,
             PropPlacement = {
@@ -15370,7 +17449,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 2 - Sprunk Kutu",
         imageId = "soda2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_sodacan_01b",
             PropBone = 28422,
             PropPlacement = {
@@ -15389,7 +17468,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 3 - P",
         imageId = "soda3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_fh_bscup",
             PropBone = 28422,
             PropPlacement = {
@@ -15408,7 +17487,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 4 - Burger Shot Bardak",
         imageId = "soda4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_bs_cup",
             PropBone = 28422,
             PropPlacement = {
@@ -15427,7 +17506,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 5 - Hercules Güç Yakıt Bardak",
         imageId = "soda5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda03",
             PropBone = 28422,
             PropPlacement = {
@@ -15446,7 +17525,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 6 - Orang - O - Tang Bardak",
         imageId = "soda6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda04",
             PropBone = 28422,
             PropPlacement = {
@@ -15465,7 +17544,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 7 - Abur Cubur Bardak",
         imageId = "soda7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda01",
             PropBone = 28422,
             PropPlacement = {
@@ -15484,7 +17563,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 8 - Abur Cubur Bardak",
         imageId = "soda8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda02",
             PropBone = 28422,
             PropPlacement = {
@@ -15503,7 +17582,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz 9 - Portakal Aromalı Kutu",
         imageId = "soda9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_orang_can_01",
             PropBone = 28422,
             PropPlacement = {
@@ -15522,7 +17601,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz Bardak Yudumla - Abur Cubur",
         imageId = "sipsoda",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda01",
             PropBone = 28422,
             PropPlacement = {
@@ -15541,7 +17620,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz Bardak Yudumla - Hercules Güç Yakıt",
         imageId = "sipsodac",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda03",
             PropBone = 28422,
             PropPlacement = {
@@ -15560,7 +17639,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz Bardak Yudumla - Orang - O - Tang",
         imageId = "sipsodad",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda04",
             PropBone = 28422,
             PropPlacement = {
@@ -15579,7 +17658,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz Bardak Yudumla - Sprunk",
         imageId = "sipsodab",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_soda02",
             PropBone = 28422,
             PropPlacement = {
@@ -15598,7 +17677,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz - eCola Kutu İç",
         imageId = "soda",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ecola_can",
             PropBone = 28422,
             PropPlacement = {
@@ -15617,7 +17696,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz Orta Parmak eCola",
         imageId = "sodafu",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ecola_can",
             PropBone = 26613,
             PropPlacement = {
@@ -15636,7 +17715,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz Orta Parmak Sprunk 2",
         imageId = "sodafu2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_sodacan_01b",
             PropBone = 26613,
             PropPlacement = {
@@ -15655,7 +17734,7 @@ RES.TR.Customs.PropEmotes = {
         "Gazoz - Şaka",
         imageId = "dbsoda",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "dumbbitchjuice",
             PropBone = 28422,
             PropPlacement = {
@@ -15674,7 +17753,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar",
         imageId = "guitar",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_acc_guitar_01",
             PropBone = 24818,
             PropPlacement = {
@@ -15693,7 +17772,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar 2",
         imageId = "guitar2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_acc_guitar_01",
             PropBone = 24818,
             PropPlacement = {
@@ -15712,7 +17791,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar 3 - Pembe",
         imageId = "guitar3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_rpemotesreborn_guitar_001",
             PropBone = 24818,
             PropPlacement = {
@@ -15731,7 +17810,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar 4 - Pembe",
         imageId = "guitar4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_rpemotesreborn_guitar_001",
             PropBone = 24818,
             PropPlacement = {
@@ -15750,7 +17829,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Case Taşı",
         imageId = "guitarcarry",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_guitar_case_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -15769,7 +17848,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Elektro",
         imageId = "guitarelectric",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_el_guitar_01",
             PropBone = 24818,
             PropPlacement = {
@@ -15788,7 +17867,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Elektro 2",
         imageId = "guitarelectric2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_el_guitar_03",
             PropBone = 24818,
             PropPlacement = {
@@ -15807,7 +17886,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar - Onur 2",
         imageId = "guitar6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_rpemotesreborn_guitar_002",
             PropBone = 24818,
             PropPlacement = {
@@ -15826,7 +17905,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar - Onur 5",
         imageId = "guitar5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_rpemotesreborn_guitar_002",
             PropBone = 24818,
             PropPlacement = {
@@ -15845,7 +17924,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Otur ve Oyna",
         imageId = "guitarsit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "prop_acc_guitar_01",
             PropBone = 24818,
@@ -15865,7 +17944,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Otur ve Oyna 2 - Onur",
         imageId = "guitarsit3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "prop_rpemotesreborn_guitar_002",
             PropBone = 24818,
@@ -15885,7 +17964,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Otur ve Oyna 2 - Pembe",
         imageId = "guitarsit2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "prop_rpemotesreborn_guitar_001",
             PropBone = 24818,
@@ -15905,7 +17984,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Akustik 2",
         imageId = "guitarcarry2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_acc_guitar_01",
             PropBone = 28422,
             PropPlacement = {
@@ -15924,7 +18003,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Akustik - Onur 4",
         imageId = "guitarcarry4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_rpemotesreborn_guitar_002",
             PropBone = 28422,
             PropPlacement = {
@@ -15943,7 +18022,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Akustik - Pembe 3",
         imageId = "guitarcarry3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_rpemotesreborn_guitar_001",
             PropBone = 28422,
             PropPlacement = {
@@ -15962,7 +18041,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Elektro 2",
         imageId = "guitarcarry6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_el_guitar_02",
             PropBone = 28422,
             PropPlacement = {
@@ -15981,7 +18060,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Elektro 3",
         imageId = "guitarcarry7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_el_guitar_03",
             PropBone = 28422,
             PropPlacement = {
@@ -16000,7 +18079,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Elektro 4",
         imageId = "guitarcarry8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "vw_prop_casino_art_guitar_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -16019,7 +18098,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Elektro 5",
         imageId = "guitarcarry9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_el_guitar_02a",
             PropBone = 28422,
             PropPlacement = {
@@ -16038,7 +18117,7 @@ RES.TR.Customs.PropEmotes = {
         "Gitar Taşı Elektro 5",
         imageId = "guitarcarry5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_el_guitar_01",
             PropBone = 28422,
             PropPlacement = {
@@ -16057,7 +18136,7 @@ RES.TR.Customs.PropEmotes = {
         "Golf Vuruşu",
         imageId = "golfswing",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_golf_wood_01",
             PropBone = 28422,
             PropPlacement = {
@@ -16076,7 +18155,7 @@ RES.TR.Customs.PropEmotes = {
         "Grafiti 7",
         imageId = "tag7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "m24_1_prop_m41_spraycan_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -16095,7 +18174,7 @@ RES.TR.Customs.PropEmotes = {
         "Grafiti Erkek 1",
         imageId = "tag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_spray_can",
             PropBone = 28422,
             PropPlacement = {
@@ -16114,7 +18193,7 @@ RES.TR.Customs.PropEmotes = {
         "Grafiti Erkek 2",
         imageId = "tag4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_spray_can",
             PropBone = 28422,
             PropPlacement = {
@@ -16133,7 +18212,7 @@ RES.TR.Customs.PropEmotes = {
         "Grafiti Kadın 1",
         imageId = "tag5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_spray_can",
             PropBone = 28422,
             PropPlacement = {
@@ -16152,7 +18231,7 @@ RES.TR.Customs.PropEmotes = {
         "Grafiti Kadın 2",
         imageId = "tag6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_spray_can",
             PropBone = 28422,
             PropPlacement = {
@@ -16171,7 +18250,7 @@ RES.TR.Customs.PropEmotes = {
         "Grafiti Shake Kutu Erkek",
         imageId = "tag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_spray_can",
             PropBone = 28422,
             PropPlacement = {
@@ -16190,7 +18269,7 @@ RES.TR.Customs.PropEmotes = {
         "Grafiti Shake Kutu Kadın 2",
         imageId = "tag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_spray_can",
             PropBone = 28422,
             PropPlacement = {
@@ -16209,7 +18288,7 @@ RES.TR.Customs.PropEmotes = {
         "Gül",
         imageId = "rose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_single_rose",
             PropBone = 18905,
             PropPlacement = {
@@ -16228,7 +18307,7 @@ RES.TR.Customs.PropEmotes = {
         "Gül 2 (Erkek)",
         imageId = "rose2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_single_rose",
             PropBone = 31086,
             PropPlacement = {
@@ -16247,7 +18326,7 @@ RES.TR.Customs.PropEmotes = {
         "Gül 3 (Kadın)",
         imageId = "rose3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_single_rose",
             PropBone = 31086,
             PropPlacement = {
@@ -16266,7 +18345,7 @@ RES.TR.Customs.PropEmotes = {
         "Haber Boom Mikrofon",
         imageId = "newsbmic",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_v_bmike_01",
             PropBone = 28422,
             PropPlacement = {
@@ -16285,7 +18364,7 @@ RES.TR.Customs.PropEmotes = {
         "Haber Kamera",
         imageId = "newscam",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_v_cam_01",
             PropBone = 28422,
             PropPlacement = {
@@ -16304,7 +18383,7 @@ RES.TR.Customs.PropEmotes = {
         "Haber Mikrofon",
         imageId = "newsmic",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_ing_microphonel_01",
             PropBone = 4154,
             PropPlacement = {
@@ -16323,7 +18402,7 @@ RES.TR.Customs.PropEmotes = {
         "Harita",
         imageId = "map",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tourist_map_01",
             PropBone = 28422,
             PropPlacement = {
@@ -16342,7 +18421,7 @@ RES.TR.Customs.PropEmotes = {
         "Harita 2",
         imageId = "map2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tourist_map_01",
             PropBone = 28422,
             PropPlacement = {
@@ -16361,7 +18440,7 @@ RES.TR.Customs.PropEmotes = {
         "Havalı Kız (Gyat) Özçekim",
         imageId = "baddiegyat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4169,
             PropPlacement = {
@@ -16414,7 +18493,7 @@ RES.TR.Customs.PropEmotes = {
         "Havalimanı Çanta",
         imageId = "airportbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_suitcase_01c",
             PropBone = 28422,
             PropPlacement = {
@@ -16433,7 +18512,7 @@ RES.TR.Customs.PropEmotes = {
         "Havalimanı Çanta 2 - Telefon",
         imageId = "airportbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_suitcase_03",
             PropBone = 60309,
             PropPlacement = {
@@ -16509,7 +18588,7 @@ RES.TR.Customs.PropEmotes = {
         "Havalimanı Çanta 3 - Poz",
         imageId = "airportbag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_suitcase_03",
             PropBone = 58869,
             PropPlacement = {
@@ -16528,7 +18607,7 @@ RES.TR.Customs.PropEmotes = {
         "Hediye",
         imageId = "gift",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_gift_orange",
             PropBone = 60309,
             PropPlacement = {
@@ -16547,7 +18626,7 @@ RES.TR.Customs.PropEmotes = {
         "Hediye",
         imageId = "present",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_present_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -16566,7 +18645,7 @@ RES.TR.Customs.PropEmotes = {
         "Hediye 2",
         imageId = "gift2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_gift_purple",
             PropBone = 60309,
             PropPlacement = {
@@ -16585,7 +18664,7 @@ RES.TR.Customs.PropEmotes = {
         "İç",
         imageId = "drink",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ld_flow_bottle",
             PropBone = 18905,
             PropPlacement = {
@@ -16603,7 +18682,7 @@ RES.TR.Customs.PropEmotes = {
         "İtfaiyeci K12 Testere",
         imageId = "k12saw",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tool_consaw",
             PropBone = 28422,
             PropPlacement = {
@@ -16637,7 +18716,7 @@ RES.TR.Customs.PropEmotes = {
         "İtfaiyeci Maske",
         imageId = "maskdown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["itfaiyecimaskeyicikar"] = {
@@ -16646,7 +18725,7 @@ RES.TR.Customs.PropEmotes = {
         "İtfaiyeci Maskeyi Çıkar",
         imageId = "maskup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["itfaiyecipsipompalama"] = {
@@ -16655,7 +18734,7 @@ RES.TR.Customs.PropEmotes = {
         "İtfaiyeci PSI Pompalama",
         imageId = "adjustpanel",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["itfaiyecitupcantaayarla"] = {
@@ -16664,7 +18743,7 @@ RES.TR.Customs.PropEmotes = {
         "İtfaiyeci Tüp/Çanta Ayarla",
         imageId = "adjustbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 9500,
         },
     },
@@ -16674,7 +18753,7 @@ RES.TR.Customs.PropEmotes = {
         "İtfaiyeci Yangın Tüpü",
         imageId = "carryextinguisher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_fire_exting_1a",
             PropBone = 28422,
             PropPlacement = {
@@ -16693,7 +18772,7 @@ RES.TR.Customs.PropEmotes = {
         "JerkOff! Kadın",
         imageId = "jerkf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_dildo_01",
             PropBone = 28422,
             PropPlacement = {
@@ -16713,7 +18792,7 @@ RES.TR.Customs.PropEmotes = {
         "Joint İç",
         imageId = "joint",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2600,
             Prop = "p_cs_joint_01",
             PropBone = 47419,
@@ -16748,7 +18827,7 @@ RES.TR.Customs.PropEmotes = {
         "Kadeh Kaldır",
         imageId = "raiseglass",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_champ_flute_s",
             PropBone = 64065,
             PropPlacement = {
@@ -16767,7 +18846,7 @@ RES.TR.Customs.PropEmotes = {
         "Kadeh Kaldır 2",
         imageId = "raiseglass2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_champ_flute_s",
             PropBone = 64065,
             PropPlacement = {
@@ -16786,7 +18865,7 @@ RES.TR.Customs.PropEmotes = {
         "Kadın Ayna Özçekim",
         imageId = "femalemirrorselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4089,
             PropPlacement = {
@@ -16852,7 +18931,7 @@ RES.TR.Customs.PropEmotes = {
         "Kadın Ayna Özçekim 1",
         imageId = "femalemirrorselfie1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4153,
             PropPlacement = {
@@ -16918,7 +18997,7 @@ RES.TR.Customs.PropEmotes = {
         "Kadın Scary Maske Beyaz - Poz 3",
         imageId = "femscaremask3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scarymask3",
             PropBone = 64064,
             PropPlacement = {
@@ -16937,7 +19016,7 @@ RES.TR.Customs.PropEmotes = {
         "Kadın Scary Maske Black - Poz 2",
         imageId = "femscaremask2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scarymask2",
             PropBone = 64064,
             PropPlacement = {
@@ -16956,7 +19035,7 @@ RES.TR.Customs.PropEmotes = {
         "Kadın Scary Maske Kırmızı - Poz",
         imageId = "femscaremask",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scarymask1",
             PropBone = 64064,
             PropPlacement = {
@@ -16975,7 +19054,7 @@ RES.TR.Customs.PropEmotes = {
         "Kafatası Testeresi",
         imageId = "cranialsaw",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cranial_saw",
             PropBone = 28422,
             PropPlacement = {
@@ -16994,7 +19073,7 @@ RES.TR.Customs.PropEmotes = {
         "Kahve & Burger Poz",
         imageId = "cofpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_fib_coffee",
             PropBone = 28422,
             PropPlacement = {
@@ -17023,7 +19102,7 @@ RES.TR.Customs.PropEmotes = {
         "Kahve İç",
         imageId = "coffee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_amb_coffeecup_01",
             PropBone = 28422,
             PropPlacement = {
@@ -17042,7 +19121,7 @@ RES.TR.Customs.PropEmotes = {
         "Kahve Telefon Görüşmesi",
         imageId = "coffeecall",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_ing_coffeecup_01",
             PropBone = 28422,
             PropPlacement = {
@@ -17104,7 +19183,7 @@ RES.TR.Customs.PropEmotes = {
         "Kalkan",
         imageId = "shield",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_riot_shield",
             PropBone = 18905,
             PropPlacement = {
@@ -17123,7 +19202,7 @@ RES.TR.Customs.PropEmotes = {
         "Kalkan 2",
         imageId = "shield2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ballistic_shield",
             PropBone = 18905,
             PropPlacement = {
@@ -17142,7 +19221,7 @@ RES.TR.Customs.PropEmotes = {
         "Kalp Prop",
         imageId = "heartprop",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_heart",
             PropBone = 28422,
             PropPlacement = {
@@ -17161,7 +19240,7 @@ RES.TR.Customs.PropEmotes = {
         "Kamera",
         imageId = "camera",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_pap_camera_01",
             PropBone = 57005,
             PropPlacement = {
@@ -17193,7 +19272,7 @@ RES.TR.Customs.PropEmotes = {
         "Kamera 2",
         imageId = "camera2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_pap_camera_01",
             PropBone = 28422,
             PropPlacement = {
@@ -17225,7 +19304,7 @@ RES.TR.Customs.PropEmotes = {
         "Kamera 3",
         imageId = "camera3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ing_camera_01",
             PropBone = 28422,
             PropPlacement = {
@@ -17257,7 +19336,7 @@ RES.TR.Customs.PropEmotes = {
         "Kamera 4",
         imageId = "camera4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ing_camera_01",
             PropBone = 28422,
             PropPlacement = {
@@ -17289,7 +19368,7 @@ RES.TR.Customs.PropEmotes = {
         "Kamera 5",
         imageId = "camera5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ing_camera_01",
             PropBone = 60309,
             PropPlacement = {
@@ -17321,7 +19400,7 @@ RES.TR.Customs.PropEmotes = {
         "Kamera 6 - Haber Kamera Taşı",
         imageId = "camera6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_v_cam_01",
             PropBone = 28422,
             PropPlacement = {
@@ -17340,7 +19419,7 @@ RES.TR.Customs.PropEmotes = {
         "Kamera Photography",
         imageId = "cameraphotography",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_pap_camera_01",
             PropBone = 26613,
             PropPlacement = {
@@ -17372,7 +19451,7 @@ RES.TR.Customs.PropEmotes = {
         "Kasa",
         imageId = "register",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_gc_cashreg",
             PropBone = 60309,
             PropPlacement = {
@@ -17391,7 +19470,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Erkek DRX Tut 7",
         imageId = "skatehold7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_skateboard02",
             PropBone = 64080,
             PropPlacement = {
@@ -17410,7 +19489,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Erkek Tut 2",
         imageId = "skatehold5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_skateboard02",
             PropBone = 28422,
             PropPlacement = {
@@ -17429,7 +19508,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Erkek Tut 3",
         imageId = "skatehold6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "rpemotesreborn_skateboard02",
             PropBone = 28422,
             PropPlacement = {
@@ -17448,7 +19527,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Erkek Tutuş 4",
         imageId = "skatehold4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_sol_glasses",
             PropBone = 31086,
             PropPlacement = {
@@ -17477,7 +19556,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Kadın DRX Tut 8",
         imageId = "skatehold8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_skateboard01",
             PropBone = 64080,
             PropPlacement = {
@@ -17496,7 +19575,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Kadın Tut 2",
         imageId = "skatehold2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "rpemotesreborn_skateboard01",
             PropBone = 28422,
             PropPlacement = {
@@ -17515,7 +19594,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Kadın Tut 3",
         imageId = "skatehold3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "rpemotesreborn_skateboard01",
             PropBone = 28422,
             PropPlacement = {
@@ -17534,7 +19613,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Kadın Tutuş",
         imageId = "skatehold",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_sol_glasses",
             PropBone = 31086,
             PropPlacement = {
@@ -17563,7 +19642,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay Kneeling 2 - Kadın",
         imageId = "skatekneel2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "rpemotesreborn_skateboard01",
             PropBone = 64064,
             PropPlacement = {
@@ -17582,7 +19661,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay Kneeling - Erkek",
         imageId = "skatekneel",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "rpemotesreborn_skateboard02",
             PropBone = 64064,
             PropPlacement = {
@@ -17601,7 +19680,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Otur",
         imageId = "skatesit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "rpemotesreborn_skateboard01",
             PropBone = 0,
             PropPlacement = {
@@ -17620,7 +19699,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaykay - Otur 2",
         imageId = "skatesit2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "rpemotesreborn_skateboard02",
             PropBone = 0,
             PropPlacement = {
@@ -17639,7 +19718,7 @@ RES.TR.Customs.PropEmotes = {
         "Kaz",
         imageId = "dig",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_shovel",
             PropBone = 28422,
             PropPlacement = {
@@ -17669,7 +19748,7 @@ RES.TR.Customs.PropEmotes = {
         "Kemik Testeresi",
         imageId = "bonesaw",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_bonesaw",
             PropBone = 18905,
             PropPlacement = {
@@ -17688,7 +19767,7 @@ RES.TR.Customs.PropEmotes = {
         "Kılıf 6 - Flash Işık",
         imageId = "holster6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_police_torch_02",
             PropBone = 60309,
             PropPlacement = {
@@ -17707,7 +19786,7 @@ RES.TR.Customs.PropEmotes = {
         "Kılıf 8 El Feneri 2",
         imageId = "holster8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_police_torch_02",
             PropBone = 60309,
             PropPlacement = {
@@ -17726,7 +19805,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 1",
         imageId = "idcard",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_franklin_dl",
             PropBone = 28422,
             PropPlacement = {
@@ -17746,7 +19825,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 2 - FIB",
         imageId = "idcardb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_fib_badge",
             PropBone = 28422,
             PropPlacement = {
@@ -17766,7 +19845,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 3",
         imageId = "idcardc",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_michael_sec_id",
             PropBone = 28422,
             PropPlacement = {
@@ -17786,7 +19865,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 4",
         imageId = "idcardd",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_trev_sec_id",
             PropBone = 28422,
             PropPlacement = {
@@ -17806,7 +19885,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 5",
         imageId = "idcarde",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_casey_sec_id",
             PropBone = 28422,
             PropPlacement = {
@@ -17826,7 +19905,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 6 (Kadın)",
         imageId = "idcardf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_r_business_card",
             PropBone = 28422,
             PropPlacement = {
@@ -17846,7 +19925,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 7",
         imageId = "idcardg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_ld_id_card_002",
             PropBone = 28422,
             PropPlacement = {
@@ -17866,7 +19945,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 8 - Cop Badge",
         imageId = "idcardh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cop_badge",
             PropBone = 28422,
             PropPlacement = {
@@ -17886,7 +19965,7 @@ RES.TR.Customs.PropEmotes = {
         "Kimlik Kartı 9 - Sürücü Belgesi",
         imageId = "idcardi",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_fakeid_singledriverl",
             PropBone = 28422,
             PropPlacement = {
@@ -17906,7 +19985,7 @@ RES.TR.Customs.PropEmotes = {
         "Kitap",
         imageId = "book",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_novel_01",
             PropBone = 6286,
             PropPlacement = {
@@ -17925,7 +20004,7 @@ RES.TR.Customs.PropEmotes = {
         "Kitap 2",
         imageId = "bookb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_book_01",
             PropBone = 57005,
             PropPlacement = {
@@ -17944,7 +20023,7 @@ RES.TR.Customs.PropEmotes = {
         "Kitap 3",
         imageId = "bookc",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_michael_backpack",
             PropBone = 40269,
             PropPlacement = {
@@ -17973,7 +20052,7 @@ RES.TR.Customs.PropEmotes = {
         "Kitap 4",
         imageId = "bookd",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_stock_book",
             PropBone = 18905,
             PropPlacement = {
@@ -17992,7 +20071,7 @@ RES.TR.Customs.PropEmotes = {
         "Kitap 5",
         imageId = "booke",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_stock_book",
             PropBone = 57005,
             PropPlacement = {
@@ -18011,7 +20090,7 @@ RES.TR.Customs.PropEmotes = {
         "Kitap 6 (Kadın)",
         imageId = "bookf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "v_ilev_mp_bedsidebook",
             PropBone = 18905,
@@ -18031,7 +20110,7 @@ RES.TR.Customs.PropEmotes = {
         "Köpek Pozu",
         imageId = "doggy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm3_prop_xm3_toy_dog_01a",
             PropBone = 24817,
             PropPlacement = {
@@ -18050,7 +20129,7 @@ RES.TR.Customs.PropEmotes = {
         "Kruvasan Ye",
         imageId = "croissant",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_foodpack_croissant001",
             PropBone = 60309,
             PropPlacement = {
@@ -18069,7 +20148,7 @@ RES.TR.Customs.PropEmotes = {
         "Kus",
         imageId = "puke",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             PtfxAsset = "scr_paletoscore",
             PtfxBone = 31086,
             PtfxCanHold = true,
@@ -18094,7 +20173,7 @@ RES.TR.Customs.PropEmotes = {
         "Kus 2",
         imageId = "puke2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             PtfxAsset = "scr_paletoscore",
             PtfxBone = 31086,
             PtfxCanHold = true,
@@ -18119,7 +20198,7 @@ RES.TR.Customs.PropEmotes = {
         "Kus 3",
         imageId = "puke3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             PtfxAsset = "scr_paletoscore",
             PtfxBone = 31086,
             PtfxCanHold = true,
@@ -18144,7 +20223,7 @@ RES.TR.Customs.PropEmotes = {
         "Kus 4",
         imageId = "puke4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             PtfxAsset = "scr_paletoscore",
             PtfxBone = 31086,
             PtfxCanHold = true,
@@ -18169,7 +20248,7 @@ RES.TR.Customs.PropEmotes = {
         "Kutu",
         imageId = "box",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "hei_prop_heist_box",
             PropBone = 60309,
             PropPlacement = {
@@ -18188,7 +20267,7 @@ RES.TR.Customs.PropEmotes = {
         "Lastik",
         imageId = "tire",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_wheel_tyre",
             PropBone = 60309,
             PropPlacement = {
@@ -18207,7 +20286,7 @@ RES.TR.Customs.PropEmotes = {
         "Telefonla Yaslanma",
         imageId = "leanphone",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -18260,7 +20339,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Dönüş Kırmızı",
         imageId = "lollipop2a",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spin01",
             PropBone = 60309,
             PropPlacement = {
@@ -18279,7 +20358,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Dönüş Pembe ve Beyaz",
         imageId = "lollipop2e",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spin05",
             PropBone = 60309,
             PropPlacement = {
@@ -18298,7 +20377,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Dönüş Sarı ve Beyaz",
         imageId = "lollipop2d",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spin04",
             PropBone = 60309,
             PropPlacement = {
@@ -18317,7 +20396,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Dönüş Sarı ve Pembe",
         imageId = "lollipop2b",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spin02",
             PropBone = 60309,
             PropPlacement = {
@@ -18336,7 +20415,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Dönüş Sarı ve Yeşil",
         imageId = "lollipop2c",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spin03",
             PropBone = 60309,
             PropPlacement = {
@@ -18355,7 +20434,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Spiral Kırmızı 1",
         imageId = "lollipop1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spiral01",
             PropBone = 60309,
             PropPlacement = {
@@ -18374,7 +20453,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Spiral Mavi",
         imageId = "lollipop1d",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spiral04",
             PropBone = 60309,
             PropPlacement = {
@@ -18393,7 +20472,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Spiral Mor (Kadın)",
         imageId = "lollipop1f",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spiral06",
             PropBone = 60309,
             PropPlacement = {
@@ -18412,7 +20491,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Spiral Pembe",
         imageId = "lollipop1b",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spiral02",
             PropBone = 60309,
             PropPlacement = {
@@ -18431,7 +20510,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Spiral Sarı",
         imageId = "lollipop1e",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spiral05",
             PropBone = 60309,
             PropPlacement = {
@@ -18450,7 +20529,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Spiral Yeşil",
         imageId = "lollipop1c",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "natty_lollipop_spiral03",
             PropBone = 60309,
             PropPlacement = {
@@ -18469,7 +20548,7 @@ RES.TR.Customs.PropEmotes = {
         "Lolipop Suck",
         imageId = "lollipop3a",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2600,
             Prop = "natty_lollipop01",
             PropBone = 47419,
@@ -18489,7 +20568,7 @@ RES.TR.Customs.PropEmotes = {
         "Mafia Boss - Tabanca Point",
         imageId = "mafia",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "w_pi_revolver_b",
             PropBone = 28422,
             PropPlacement = {
@@ -18533,7 +20612,7 @@ RES.TR.Customs.PropEmotes = {
         "Makaron Ye",
         imageId = "macaroon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_macaroon_a",
             PropBone = 18905,
             PropPlacement = {
@@ -18552,7 +20631,7 @@ RES.TR.Customs.PropEmotes = {
         "Make It Yağmur",
         imageId = "makeitrain",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_anim_cash_pile_01",
             PropBone = 60309,
             PropPlacement = {
@@ -18585,7 +20664,7 @@ RES.TR.Customs.PropEmotes = {
         "Marshmallow A Çatal - Beyaz 4",
         imageId = "mallow4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_food_marshmallow",
             PropBone = 18905,
             PropPlacement = {
@@ -18604,7 +20683,7 @@ RES.TR.Customs.PropEmotes = {
         "Marshmallow A Çatal - Burnt 6",
         imageId = "mallow6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_food_melloburnt",
             PropBone = 18905,
             PropPlacement = {
@@ -18623,7 +20702,7 @@ RES.TR.Customs.PropEmotes = {
         "Marshmallow A Çatal - Pembe 5",
         imageId = "mallow5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_food_mellopink",
             PropBone = 18905,
             PropPlacement = {
@@ -18642,7 +20721,7 @@ RES.TR.Customs.PropEmotes = {
         "Marshmallow Çubuk - Beyaz",
         imageId = "mallow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_stick_marshmallow",
             PropBone = 64080,
             PropPlacement = {
@@ -18661,7 +20740,7 @@ RES.TR.Customs.PropEmotes = {
         "Marshmallow Çubuk - Burnt 3",
         imageId = "mallow3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_stick_melloburnt",
             PropBone = 64080,
             PropPlacement = {
@@ -18680,7 +20759,7 @@ RES.TR.Customs.PropEmotes = {
         "Marshmallow Çubuk - Pembe 2",
         imageId = "mallow2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_stick_mellopink",
             PropBone = 64080,
             PropPlacement = {
@@ -18699,7 +20778,7 @@ RES.TR.Customs.PropEmotes = {
         "Maskeyi Çıkar",
         imageId = "masktakeoff",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["meatacatal2"] = {
@@ -18708,7 +20787,7 @@ RES.TR.Customs.PropEmotes = {
         "Meat A Çatal 2",
         imageId = "meat2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_food_kebab",
             PropBone = 18905,
             PropPlacement = {
@@ -18727,7 +20806,7 @@ RES.TR.Customs.PropEmotes = {
         "Meat A Çubuk",
         imageId = "meat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_camp_stick_kebab",
             PropBone = 64080,
             PropPlacement = {
@@ -18746,7 +20825,7 @@ RES.TR.Customs.PropEmotes = {
         "Medik Çanta",
         imageId = "medbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm_prop_x17_bag_med_01a",
             PropBone = 57005,
             PropPlacement = {
@@ -18765,7 +20844,7 @@ RES.TR.Customs.PropEmotes = {
         "Medik Çanta 2",
         imageId = "medbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_ta_firstaid",
             PropBone = 57005,
             PropPlacement = {
@@ -18784,7 +20863,7 @@ RES.TR.Customs.PropEmotes = {
         "Medik Kutu",
         imageId = "medbox",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xm_prop_smug_crate_s_medical",
             PropBone = 28422,
             PropPlacement = {
@@ -18803,7 +20882,7 @@ RES.TR.Customs.PropEmotes = {
         "Megafon",
         imageId = "megaphone",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_megaphone_01",
             PropBone = 28422,
             PropPlacement = {
@@ -18822,7 +20901,7 @@ RES.TR.Customs.PropEmotes = {
         "Megafon 2",
         imageId = "megaphone2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_megaphone_01",
             PropBone = 28422,
             PropPlacement = {
@@ -18841,7 +20920,7 @@ RES.TR.Customs.PropEmotes = {
         "Megafon 3",
         imageId = "megaphone3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_megaphone_01",
             PropBone = 60309,
             PropPlacement = {
@@ -18860,7 +20939,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock",
         imageId = "microck",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -18879,7 +20958,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 10",
         imageId = "microckj",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -18898,7 +20977,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 2",
         imageId = "microckb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -18917,7 +20996,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 3",
         imageId = "microckc",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -18936,7 +21015,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 4",
         imageId = "microckd",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -18955,7 +21034,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 5",
         imageId = "microcke",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -18974,7 +21053,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 6 (Kadın)",
         imageId = "microckf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ilev_fos_mic",
             PropBone = 28422,
             PropPlacement = {
@@ -18993,7 +21072,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 7",
         imageId = "microckg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ilev_fos_mic",
             PropBone = 28422,
             PropPlacement = {
@@ -19012,7 +21091,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 8",
         imageId = "microckh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -19031,7 +21110,7 @@ RES.TR.Customs.PropEmotes = {
         "Mikrofon Rock 9",
         imageId = "microcki",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -19050,7 +21129,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Ahududu",
         imageId = "mshakej",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_raspberry",
             PropBone = 28422,
             PropPlacement = {
@@ -19069,7 +21148,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Balon Sakızı İç",
         imageId = "mshake",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_bubblegum",
             PropBone = 28422,
             PropPlacement = {
@@ -19088,7 +21167,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Çift Çikolata",
         imageId = "mshakee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_doublechocolate",
             PropBone = 28422,
             PropPlacement = {
@@ -19107,7 +21186,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Çikolata",
         imageId = "mshakec",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_chocolate",
             PropBone = 28422,
             PropPlacement = {
@@ -19126,7 +21205,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Çilek İç",
         imageId = "mshakei",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_strawberry",
             PropBone = 28422,
             PropPlacement = {
@@ -19145,7 +21224,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Frappé (Kadın)",
         imageId = "mshakef",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_frappe",
             PropBone = 28422,
             PropPlacement = {
@@ -19164,7 +21243,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Kahve",
         imageId = "mshaked",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_coffee",
             PropBone = 28422,
             PropPlacement = {
@@ -19183,7 +21262,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Kiraz İç",
         imageId = "mshakeb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_cherry",
             PropBone = 28422,
             PropPlacement = {
@@ -19202,7 +21281,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Limon İç",
         imageId = "mshakeg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_lemon",
             PropBone = 28422,
             PropPlacement = {
@@ -19221,7 +21300,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Nane İç",
         imageId = "mshakeh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_mint",
             PropBone = 28422,
             PropPlacement = {
@@ -19240,7 +21319,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Tuzlu İç",
         imageId = "mshakek",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_salted",
             PropBone = 28422,
             PropPlacement = {
@@ -19259,7 +21338,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake - Vanilya İç",
         imageId = "mshakel",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_vanilla",
             PropBone = 28422,
             PropPlacement = {
@@ -19278,7 +21357,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Ahududu",
         imageId = "sipshakej",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_raspberry",
             PropBone = 28422,
             PropPlacement = {
@@ -19297,7 +21376,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Balon Sakızı",
         imageId = "sipshake",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_raspberry",
             PropBone = 28422,
             PropPlacement = {
@@ -19316,7 +21395,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Çift Çikolata",
         imageId = "sipshakee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_doublechocolate",
             PropBone = 28422,
             PropPlacement = {
@@ -19335,7 +21414,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Çikolata",
         imageId = "sipshakec",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_chocolate",
             PropBone = 28422,
             PropPlacement = {
@@ -19354,7 +21433,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Çilek",
         imageId = "sipshakei",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_strawberry",
             PropBone = 28422,
             PropPlacement = {
@@ -19373,7 +21452,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Frappé (Kadın)",
         imageId = "sipshakef",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_frappe",
             PropBone = 28422,
             PropPlacement = {
@@ -19392,7 +21471,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Kahve",
         imageId = "sipshaked",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_coffee",
             PropBone = 28422,
             PropPlacement = {
@@ -19411,7 +21490,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Kiraz",
         imageId = "sipshakeb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_cherry",
             PropBone = 28422,
             PropPlacement = {
@@ -19430,7 +21509,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Limon",
         imageId = "sipshakeg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_lemon",
             PropBone = 28422,
             PropPlacement = {
@@ -19449,7 +21528,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Nane",
         imageId = "sipshakeh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_mint",
             PropBone = 28422,
             PropPlacement = {
@@ -19468,7 +21547,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Tuzlu",
         imageId = "sipshakek",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_salted",
             PropBone = 28422,
             PropPlacement = {
@@ -19487,7 +21566,7 @@ RES.TR.Customs.PropEmotes = {
         "Milkshake Yudumla - Vanilya",
         imageId = "sipshakel",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "brum_cherryshake_vanilla",
             PropBone = 28422,
             PropPlacement = {
@@ -19506,7 +21585,7 @@ RES.TR.Customs.PropEmotes = {
         "Mojito İç",
         imageId = "mojito",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_mojito",
             PropBone = 28422,
             PropPlacement = {
@@ -19525,7 +21604,7 @@ RES.TR.Customs.PropEmotes = {
         "Müzik Seti",
         imageId = "boombox",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_boombox_01",
             PropBone = 57005,
             PropPlacement = {
@@ -19544,7 +21623,7 @@ RES.TR.Customs.PropEmotes = {
         "Müzik Seti 2",
         imageId = "boombox2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_sol_glasses",
             PropBone = 31086,
             PropPlacement = {
@@ -19573,7 +21652,7 @@ RES.TR.Customs.PropEmotes = {
         "Nakit Evrak Çantası",
         imageId = "cashcase",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_biker_case_shut",
             PropBone = 28422,
             PropPlacement = {
@@ -19592,7 +21671,7 @@ RES.TR.Customs.PropEmotes = {
         "Nakit Evrak Çantası 2",
         imageId = "cashcase2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cash_case_01",
             PropBone = 28422,
             PropPlacement = {
@@ -19611,7 +21690,7 @@ RES.TR.Customs.PropEmotes = {
         "Nakit Evrak Çantası 3",
         imageId = "cashcase3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cash_case_02",
             PropBone = 28422,
             PropPlacement = {
@@ -19630,7 +21709,7 @@ RES.TR.Customs.PropEmotes = {
         "Nakit Evrak Çantası 4 - Elmaslar",
         imageId = "cashcase4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ch_prop_ch_security_case_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -19649,7 +21728,7 @@ RES.TR.Customs.PropEmotes = {
         "Nakit Kutu",
         imageId = "cashbox",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "m23_1_prop_m31_cashbox_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -19668,7 +21747,7 @@ RES.TR.Customs.PropEmotes = {
         "Not Defteri",
         imageId = "notepad",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_notepad_01",
             PropBone = 18905,
             PropPlacement = {
@@ -19697,7 +21776,7 @@ RES.TR.Customs.PropEmotes = {
         "Old Adam Walking Çubuk",
         imageId = "old",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_walking_stick",
             PropBone = 28422,
             PropPlacement = {
@@ -19773,7 +21852,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 2 - LGBTQ",
         imageId = "pflag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag2",
             PropBone = 18905,
             PropPlacement = {
@@ -19792,7 +21871,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 3 - Biseksüel",
         imageId = "pflag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag3",
             PropBone = 18905,
             PropPlacement = {
@@ -19811,7 +21890,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 4 - Lezbiyen",
         imageId = "pflag4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag4",
             PropBone = 18905,
             PropPlacement = {
@@ -19830,7 +21909,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 5 - Panseksüel",
         imageId = "pflag5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag5",
             PropBone = 18905,
             PropPlacement = {
@@ -19849,7 +21928,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 6 - Trans",
         imageId = "pflag6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag6",
             PropBone = 18905,
             PropPlacement = {
@@ -19868,7 +21947,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 7 - Non Binary",
         imageId = "pflag7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag7",
             PropBone = 18905,
             PropPlacement = {
@@ -19887,7 +21966,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 8 - Aseksüel",
         imageId = "pflag8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag8",
             PropBone = 18905,
             PropPlacement = {
@@ -19906,7 +21985,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı 9 - Straight Müttefik",
         imageId = "pflag9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag9",
             PropBone = 18905,
             PropPlacement = {
@@ -19925,7 +22004,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Bayrağı - Gökkuşağı",
         imageId = "pflag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prideflag1",
             PropBone = 18905,
             PropPlacement = {
@@ -19944,7 +22023,7 @@ RES.TR.Customs.PropEmotes = {
         "Onur Pasta 6",
         imageId = "cake6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_cake2",
             PropBone = 28422,
             PropPlacement = {
@@ -19963,7 +22042,7 @@ RES.TR.Customs.PropEmotes = {
         "Ot Kovası",
         imageId = "weedbucket",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_weed_bucket_open_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -19982,7 +22061,7 @@ RES.TR.Customs.PropEmotes = {
         "Otostop",
         imageId = "hitchhike",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "w_am_jerrycan",
             PropBone = 18905,
             PropPlacement = {
@@ -20011,7 +22090,7 @@ RES.TR.Customs.PropEmotes = {
         "Ot Tuğlası",
         imageId = "weedbrick",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_weed_block_01",
             PropBone = 60309,
             PropPlacement = {
@@ -20030,7 +22109,7 @@ RES.TR.Customs.PropEmotes = {
         "Ot Tuğlası Büyük 2",
         imageId = "weedbrick2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_weed_bigbag_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -20049,7 +22128,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Arms Folded 2",
         imageId = "sitchairf2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ba_prop_battle_club_chair_03",
             PropBone = 0,
             PropPlacement = {
@@ -20068,7 +22147,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Berjer (Kadın)",
         imageId = "sitchairf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "p_armchair_01_s",
             PropBone = 11816,
             PropPlacement = {
@@ -20087,7 +22166,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Kitap 8",
         imageId = "sitchairf8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "v_ilev_mp_bedsidebook",
             PropBone = 28422,
             PropPlacement = {
@@ -20116,7 +22195,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Laptop 6",
         imageId = "sitchairf6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ba_prop_club_laptop_dj_02",
             PropBone = 57005,
             PropPlacement = {
@@ -20145,7 +22224,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Öne Eğilme 3",
         imageId = "sitchairf3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ba_prop_battle_club_chair_03",
             PropBone = 0,
             PropPlacement = {
@@ -20164,7 +22243,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Legs Crossed 5",
         imageId = "sitchairf5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ba_prop_battle_club_chair_03",
             PropBone = 0,
             PropPlacement = {
@@ -20183,7 +22262,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Smart 4",
         imageId = "sitchairf4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ba_prop_battle_club_chair_03",
             PropBone = 0,
             PropPlacement = {
@@ -20202,7 +22281,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur Sandalye - Tablet 7",
         imageId = "sitchairf7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "hei_prop_dlc_tablet",
             PropBone = 28422,
             PropPlacement = {
@@ -20231,7 +22310,7 @@ RES.TR.Customs.PropEmotes = {
         "Otur TV",
         imageId = "sittv",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "v_res_tre_remote",
             PropBone = 57005,
             PropPlacement = {
@@ -20250,7 +22329,7 @@ RES.TR.Customs.PropEmotes = {
         "Oyuncak Ayı",
         imageId = "teddy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ilev_mr_rasberryclean",
             PropBone = 24817,
             PropPlacement = {
@@ -20269,7 +22348,7 @@ RES.TR.Customs.PropEmotes = {
         "Oyuncu",
         imageId = "gamer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "prop_controller_01",
             PropBone = 18905,
@@ -20289,7 +22368,7 @@ RES.TR.Customs.PropEmotes = {
         "Oyuncu - Yüzüstü Yat 2",
         imageId = "gamer2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "prop_controller_01",
             PropBone = 18905,
@@ -20309,7 +22388,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim",
         imageId = "selfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 60309,
             PropPlacement = {
@@ -20375,7 +22454,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 2",
         imageId = "selfie2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20441,7 +22520,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 3 - West Side",
         imageId = "selfie3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20507,7 +22586,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 4 - Parmak",
         imageId = "selfie4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20573,7 +22652,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 5 - Parmak 2",
         imageId = "selfie5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20639,7 +22718,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 6 - Boğaz Kesme",
         imageId = "selfie6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20705,7 +22784,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 7 - Göğüs Çarpma",
         imageId = "selfie7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20771,7 +22850,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 8 - Tampon Fotoğrafları",
         imageId = "selfie8",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20837,7 +22916,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim 9 - Özçekim Kontrol",
         imageId = "selfie9",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -20903,7 +22982,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Aşırı Seksi Poz",
         imageId = "selfieslut",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 58868,
             PropPlacement = {
@@ -20970,7 +23049,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Barış",
         imageId = "selfiepeace",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 57005,
             PropPlacement = {
@@ -21036,7 +23115,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Çömel Erkek",
         imageId = "selfiesquat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_cash_pile_02",
             PropBone = 26614,
             PropPlacement = {
@@ -21112,7 +23191,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Çömelme",
         imageId = "selfiecrouch",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 18905,
             PropPlacement = {
@@ -21178,7 +23257,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Çömelme 2",
         imageId = "selfiecrouch2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -21246,7 +23325,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Çömelme 3",
         imageId = "selfiecrouch3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 60309,
             PropPlacement = {
@@ -21312,7 +23391,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Çömelme 4",
         imageId = "selfiecrouch4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 18905,
             PropPlacement = {
@@ -21378,7 +23457,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim E Kız",
         imageId = "selfieegirl",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 26613,
             PropPlacement = {
@@ -21444,7 +23523,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim El Çanta",
         imageId = "selfiehb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_amb_handbag_01",
             PropBone = 28422,
             PropPlacement = {
@@ -21520,7 +23599,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Erkek Poz",
         imageId = "selfiemale",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 60309,
             PropPlacement = {
@@ -21586,7 +23665,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Kalp Eller",
         imageId = "selfiehhands",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 64096,
             PropPlacement = {
@@ -21652,7 +23731,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Meh",
         imageId = "selfiemeh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 58868,
             PropPlacement = {
@@ -21718,7 +23797,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Orta Parmak",
         imageId = "selfiefu",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -21784,7 +23863,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Orta Parmak 2",
         imageId = "selfiefu2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 64097,
             PropPlacement = {
@@ -21850,7 +23929,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Orta Parmak Seksi Poz 3",
         imageId = "selfiefu3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_cs_dildo_01",
@@ -21929,7 +24008,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Oturma",
         imageId = "selfiesit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 57005,
             PropPlacement = {
@@ -21958,7 +24037,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Oturma 2",
         imageId = "selfiesit2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4090,
             PropPlacement = {
@@ -22024,7 +24103,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Oturma 3",
         imageId = "selfiesit3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -22092,7 +24171,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Oturma 4",
         imageId = "selfiesit4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4169,
             PropPlacement = {
@@ -22158,7 +24237,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Oturma 5",
         imageId = "selfiesit5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -22226,7 +24305,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Plaj Bum",
         imageId = "selfiebbum",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 26613,
             PropPlacement = {
@@ -22292,7 +24371,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Şarap",
         imageId = "selfiewine",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_wine_glass_s",
             PropBone = 28422,
             PropPlacement = {
@@ -22368,7 +24447,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim & Şarap 3",
         imageId = "selfiefloor3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "p_wine_glass_s",
             PropBone = 28422,
@@ -22445,7 +24524,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Seksi",
         imageId = "selfiesexy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 58870,
             PropPlacement = {
@@ -22511,7 +24590,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Seksi 2",
         imageId = "selfiesexy2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 64064,
             PropPlacement = {
@@ -22577,7 +24656,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Seksi 3 - Çömel",
         imageId = "selfiesexy3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 64064,
             PropPlacement = {
@@ -22643,7 +24722,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Seksi 4",
         imageId = "selfiesexy4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 64064,
             PropPlacement = {
@@ -22709,7 +24788,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Seksi 5",
         imageId = "selfiesexy5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 64064,
             PropPlacement = {
@@ -22775,7 +24854,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Seksi Instagram",
         imageId = "selfiethot",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -22843,7 +24922,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Tatlı",
         imageId = "selfiecute",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 26613,
             PropPlacement = {
@@ -22909,7 +24988,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Tatlı 2",
         imageId = "selfiecute2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 60309,
             PropPlacement = {
@@ -22975,7 +25054,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Tatlı 3",
         imageId = "selfiecute3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 26614,
             PropPlacement = {
@@ -23041,7 +25120,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Tatlı 4",
         imageId = "selfiecute4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 41851,
             PropPlacement = {
@@ -23107,7 +25186,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Tatlı 5",
         imageId = "selfiecute5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_phone_ing",
             PropBone = 4185,
             PropPlacement = {
@@ -23173,7 +25252,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Yüksek",
         imageId = "selfiehigh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 26611,
             PropPlacement = {
@@ -23239,7 +25318,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Zemin 2",
         imageId = "selfiefloor2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -23307,7 +25386,7 @@ RES.TR.Customs.PropEmotes = {
         "Özçekim Zemin Instagram",
         imageId = "selfiefloor",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -23375,7 +25454,7 @@ RES.TR.Customs.PropEmotes = {
         "Pano",
         imageId = "clipboard",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_amb_clipboard_01",
             PropBone = 36029,
             PropPlacement = {
@@ -23394,7 +25473,7 @@ RES.TR.Customs.PropEmotes = {
         "Party Çakmak",
         imageId = "party_lighter",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "samnick_prop_lighter01",
             PropBone = 18905,
             PropPlacement = {
@@ -23413,7 +25492,7 @@ RES.TR.Customs.PropEmotes = {
         "Paskalya Sepet",
         imageId = "easter",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_event_easter_basket_b",
             PropBone = 28422,
             PropPlacement = {
@@ -23442,7 +25521,7 @@ RES.TR.Customs.PropEmotes = {
         "Paskalya Tavşanı 2",
         imageId = "easter2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_event_easter_bunny_a",
             PropBone = 60309,
             PropPlacement = {
@@ -23461,7 +25540,7 @@ RES.TR.Customs.PropEmotes = {
         "Paspas",
         imageId = "mop",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_mop_s",
             PropBone = 28422,
             PropPlacement = {
@@ -23480,7 +25559,7 @@ RES.TR.Customs.PropEmotes = {
         "Paspas 2",
         imageId = "mop2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_mop_s",
             PropBone = 28422,
             PropPlacement = {
@@ -23499,7 +25578,7 @@ RES.TR.Customs.PropEmotes = {
         "Pasta Garson - Aşk 4",
         imageId = "cakew4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_love_001",
             PropBone = 28422,
             PropPlacement = {
@@ -23518,7 +25597,7 @@ RES.TR.Customs.PropEmotes = {
         "Pasta Garson - Bebek 2",
         imageId = "cakew2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_baby_001",
             PropBone = 28422,
             PropPlacement = {
@@ -23537,7 +25616,7 @@ RES.TR.Customs.PropEmotes = {
         "Pasta Garson - Casino 3",
         imageId = "cakew3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_casino001",
             PropBone = 28422,
             PropPlacement = {
@@ -23556,7 +25635,7 @@ RES.TR.Customs.PropEmotes = {
         "Pasta Garson - Çikolata Mud 7",
         imageId = "cakew7",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_cake3",
             PropBone = 28422,
             PropPlacement = {
@@ -23575,7 +25654,7 @@ RES.TR.Customs.PropEmotes = {
         "Pasta Garson - Doğum Günü",
         imageId = "cakew",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_prop_cake_birthday_001",
             PropBone = 28422,
             PropPlacement = {
@@ -23594,7 +25673,7 @@ RES.TR.Customs.PropEmotes = {
         "Pasta Garson - Onur 6",
         imageId = "cakew6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_cake2",
             PropBone = 28422,
             PropPlacement = {
@@ -23613,7 +25692,7 @@ RES.TR.Customs.PropEmotes = {
         "Pasta Garson - Tekboynuz 5",
         imageId = "cakew5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_cake",
             PropBone = 28422,
             PropPlacement = {
@@ -23632,7 +25711,7 @@ RES.TR.Customs.PropEmotes = {
         "Patlamış Mısır Ye",
         imageId = "popcorn",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "xs_prop_trinket_cup_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -23651,7 +25730,7 @@ RES.TR.Customs.PropEmotes = {
         "Pho Çorbası",
         imageId = "pho",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scully_pho",
             PropBone = 60309,
             PropPlacement = {
@@ -23680,7 +25759,7 @@ RES.TR.Customs.PropEmotes = {
         "Pizza Dilimi - Çift Pepperoni 5",
         imageId = "pizzas5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "knjgh_pizzaslice5",
             PropBone = 60309,
             PropPlacement = {
@@ -23699,7 +25778,7 @@ RES.TR.Customs.PropEmotes = {
         "Pizza Dilimi - Domates ve Pesto 2",
         imageId = "pizzas2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "knjgh_pizzaslice2",
             PropBone = 60309,
             PropPlacement = {
@@ -23718,7 +25797,7 @@ RES.TR.Customs.PropEmotes = {
         "Pizza Dilimi - Jalapeño ve Pepperoni",
         imageId = "pizzas",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "knjgh_pizzaslice1",
             PropBone = 60309,
             PropPlacement = {
@@ -23737,7 +25816,7 @@ RES.TR.Customs.PropEmotes = {
         "Pizza Dilimi - Jalapeño ve Pepperoni",
         imageId = "pizzaslice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "knjgh_pizzaslice1",
             PropBone = 60309,
             PropPlacement = {
@@ -23756,7 +25835,7 @@ RES.TR.Customs.PropEmotes = {
         "Pizza Dilimi - Mantar 3",
         imageId = "pizzas3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "knjgh_pizzaslice3",
             PropBone = 60309,
             PropPlacement = {
@@ -23775,7 +25854,7 @@ RES.TR.Customs.PropEmotes = {
         "Pizza Dilimi - Margherita 4",
         imageId = "pizzas4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "knjgh_pizzaslice4",
             PropBone = 60309,
             PropPlacement = {
@@ -23794,7 +25873,7 @@ RES.TR.Customs.PropEmotes = {
         "Pizza Kutu Taşı",
         imageId = "carrypizza",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_pizza_box_02",
             PropBone = 28422,
             PropPlacement = {
@@ -23813,7 +25892,7 @@ RES.TR.Customs.PropEmotes = {
         "Plaj Çanta",
         imageId = "beachbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beachbag_05",
             PropBone = 28422,
             PropPlacement = {
@@ -23832,7 +25911,7 @@ RES.TR.Customs.PropEmotes = {
         "Plaj Çanta 2",
         imageId = "beachbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beachbag_06",
             PropBone = 28422,
             PropPlacement = {
@@ -23851,7 +25930,7 @@ RES.TR.Customs.PropEmotes = {
         "Plaj Çanta 3",
         imageId = "beachbag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beachbag_01",
             PropBone = 28422,
             PropPlacement = {
@@ -23870,7 +25949,7 @@ RES.TR.Customs.PropEmotes = {
         "Plaj Deniz Simidi",
         imageId = "beachring",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beach_ring_01",
             PropBone = 0,
             PropPlacement = {
@@ -23889,7 +25968,7 @@ RES.TR.Customs.PropEmotes = {
         "Porno Dergi",
         imageId = "pornmag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_porn_mag_02",
             PropBone = 60309,
             PropPlacement = {
@@ -23909,7 +25988,7 @@ RES.TR.Customs.PropEmotes = {
         "Porno Dergi 2",
         imageId = "pornmag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_magazine",
             PropBone = 60309,
             PropPlacement = {
@@ -23929,7 +26008,7 @@ RES.TR.Customs.PropEmotes = {
         "Porno Dergi 3",
         imageId = "pornmag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_porn_mag_03",
             PropBone = 60309,
             PropPlacement = {
@@ -23949,7 +26028,7 @@ RES.TR.Customs.PropEmotes = {
         "Protesto",
         imageId = "protest",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_protest_sign_01",
             PropBone = 57005,
             PropPlacement = {
@@ -23968,7 +26047,7 @@ RES.TR.Customs.PropEmotes = {
         "Protesto 2 - Onur",
         imageId = "protest2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pride_sign_01",
             PropBone = 57005,
             PropPlacement = {
@@ -23987,7 +26066,7 @@ RES.TR.Customs.PropEmotes = {
         "Protesto 3 - BLM",
         imageId = "protest3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "scully_blm",
             PropBone = 57005,
             PropPlacement = {
@@ -24006,7 +26085,7 @@ RES.TR.Customs.PropEmotes = {
         "Puro 2",
         imageId = "cigar2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2600,
             Prop = "prop_cigar_01",
             PropBone = 47419,
@@ -24041,7 +26120,7 @@ RES.TR.Customs.PropEmotes = {
         "Puro İç",
         imageId = "cigar",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2600,
             Prop = "prop_cigar_02",
             PropBone = 47419,
@@ -24076,7 +26155,7 @@ RES.TR.Customs.PropEmotes = {
         "Rap / Şarkı Söyle 2 - Mikrofon",
         imageId = "rap2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24095,7 +26174,7 @@ RES.TR.Customs.PropEmotes = {
         "Rap / Şarkı Söyle 3 - Mikrofon Rock El Tabela",
         imageId = "rap3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24114,7 +26193,7 @@ RES.TR.Customs.PropEmotes = {
         "Rap / Şarkı Söyle 4 - Mikrofon Bend Back",
         imageId = "rap4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24133,7 +26212,7 @@ RES.TR.Customs.PropEmotes = {
         "Rap / Şarkı Söyle 5 - Mikrofon Kneel",
         imageId = "rap5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
@@ -24153,7 +26232,7 @@ RES.TR.Customs.PropEmotes = {
         "Rap / Şarkı Söyle 6 - Mikrofon",
         imageId = "rap6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "sf_prop_sf_mic_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24172,7 +26251,7 @@ RES.TR.Customs.PropEmotes = {
         "Sabıka Fotoğrafı",
         imageId = "mugshot",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_police_id_board",
             PropBone = 58868,
             PropPlacement = {
@@ -24191,7 +26270,7 @@ RES.TR.Customs.PropEmotes = {
         "Saksafon 1",
         imageId = "sax",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_ld_sax",
             PropBone = 57005,
             PropPlacement = {
@@ -24210,7 +26289,7 @@ RES.TR.Customs.PropEmotes = {
         "Saksı Bitkisi (Büyük) 3",
         imageId = "potplant3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_weed_lrg_01b",
             PropBone = 60309,
             PropPlacement = {
@@ -24229,7 +26308,7 @@ RES.TR.Customs.PropEmotes = {
         "Saksı Bitkisi (Küçük)",
         imageId = "potplant",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_weed_01_small_01c",
             PropBone = 60309,
             PropPlacement = {
@@ -24248,7 +26327,7 @@ RES.TR.Customs.PropEmotes = {
         "Saksı Bitkisi (Orta) 2",
         imageId = "potplant2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_weed_01_small_01b",
             PropBone = 60309,
             PropPlacement = {
@@ -24267,7 +26346,7 @@ RES.TR.Customs.PropEmotes = {
         "Şampanya Garson",
         imageId = "champw",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "vw_prop_vw_tray_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24296,7 +26375,7 @@ RES.TR.Customs.PropEmotes = {
         "Şampanya Garson 2",
         imageId = "champw2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "h4_prop_h4_champ_tray_01b",
             PropBone = 28422,
             PropPlacement = {
@@ -24315,7 +26394,7 @@ RES.TR.Customs.PropEmotes = {
         "Şampanya Garson 3",
         imageId = "champw3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "h4_prop_h4_champ_tray_01c",
             PropBone = 28422,
             PropPlacement = {
@@ -24334,7 +26413,7 @@ RES.TR.Customs.PropEmotes = {
         "Şampanya İç",
         imageId = "champagne",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_drink_champ",
             PropBone = 18905,
             PropPlacement = {
@@ -24353,7 +26432,7 @@ RES.TR.Customs.PropEmotes = {
         "Şampanya Sprey",
         imageId = "champagnespray",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ba_prop_battle_champ_open",
             PropBone = 28422,
             PropPlacement = {
@@ -24385,7 +26464,7 @@ RES.TR.Customs.PropEmotes = {
         "Sandviç Ye",
         imageId = "sandwich",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sandwich_01",
             PropBone = 18905,
             PropPlacement = {
@@ -24404,7 +26483,7 @@ RES.TR.Customs.PropEmotes = {
         "Şarap 2 - Şişe",
         imageId = "wine2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_wine_rose",
             PropBone = 28422,
             PropPlacement = {
@@ -24423,7 +26502,7 @@ RES.TR.Customs.PropEmotes = {
         "Şarap 3 - Şişe",
         imageId = "wine3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_wine_rose",
             PropBone = 28422,
             PropPlacement = {
@@ -24442,7 +26521,7 @@ RES.TR.Customs.PropEmotes = {
         "Şarap İç",
         imageId = "wine",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_drink_redwine",
             PropBone = 18905,
             PropPlacement = {
@@ -24461,7 +26540,7 @@ RES.TR.Customs.PropEmotes = {
         "Şeker",
         imageId = "candy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_candy_pqs",
             PropBone = 60309,
             PropPlacement = {
@@ -24480,7 +26559,7 @@ RES.TR.Customs.PropEmotes = {
         "Şeker Elma",
         imageId = "candyapple",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "apple_1",
             PropBone = 18905,
             PropPlacement = {
@@ -24499,7 +26578,7 @@ RES.TR.Customs.PropEmotes = {
         "Şemsiye 2 - Sağ Omuz",
         imageId = "umbrella2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "shakeitoffhuman",
             Prop = "p_amb_brolly_01",
             PropBone = 28422,
@@ -24519,7 +26598,7 @@ RES.TR.Customs.PropEmotes = {
         "Şemsiye 3 - Yağmur Kontrol",
         imageId = "umbrella3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "shakeitoffhuman",
             Prop = "p_amb_brolly_01",
             PropBone = 58867,
@@ -24539,7 +26618,7 @@ RES.TR.Customs.PropEmotes = {
         "Şemsiye 4 - Sol Elle Tut",
         imageId = "umbrella4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "shakeitoffhuman",
             Prop = "p_amb_brolly_01",
             PropBone = 60309,
@@ -24559,7 +26638,7 @@ RES.TR.Customs.PropEmotes = {
         "Şemsiye - Orta",
         imageId = "umbrella",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "shakeitoffhuman",
             Prop = "p_amb_brolly_01",
             PropBone = 28422,
@@ -24579,7 +26658,7 @@ RES.TR.Customs.PropEmotes = {
         "Şezlong",
         imageId = "lawnchair",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_skid_chair_02",
             PropBone = 0,
             PropPlacement = {
@@ -24598,7 +26677,7 @@ RES.TR.Customs.PropEmotes = {
         "Şezlong 2",
         imageId = "lawnchair2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_skid_chair_02",
             PropBone = 0,
             PropPlacement = {
@@ -24617,7 +26696,7 @@ RES.TR.Customs.PropEmotes = {
         "Şezlong 3",
         imageId = "lawnchair3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_skid_chair_02",
             PropBone = 0,
             PropPlacement = {
@@ -24636,7 +26715,7 @@ RES.TR.Customs.PropEmotes = {
         "Sıç",
         imageId = "shit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_toilet_roll_01",
             PropBone = 28422,
             PropPlacement = {
@@ -24672,7 +26751,7 @@ RES.TR.Customs.PropEmotes = {
         "Sigara",
         imageId = "cig",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             EmoteDuration = 2600,
             Prop = "ng_proc_cigarette01a",
             PropBone = 47419,
@@ -24707,7 +26786,7 @@ RES.TR.Customs.PropEmotes = {
         "Sigara İç 2",
         imageId = "smoke2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_cigarette01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24741,7 +26820,7 @@ RES.TR.Customs.PropEmotes = {
         "Sigara İç 3",
         imageId = "smoke3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_cigarette01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24775,7 +26854,7 @@ RES.TR.Customs.PropEmotes = {
         "Sigara İç 4",
         imageId = "smoke4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_cigarette01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24809,7 +26888,7 @@ RES.TR.Customs.PropEmotes = {
         "Sigara İç 5",
         imageId = "smoke5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ng_proc_cigarette01a",
             PropBone = 64097,
             PropPlacement = {
@@ -24843,7 +26922,7 @@ RES.TR.Customs.PropEmotes = {
         "Sigara İç 6",
         imageId = "smoke6",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ng_proc_cigarette01a",
             PropBone = 28422,
             PropPlacement = {
@@ -24877,7 +26956,7 @@ RES.TR.Customs.PropEmotes = {
         "Silah Çantası",
         imageId = "guncase",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_gun_case_01",
             PropBone = 57005,
             PropPlacement = {
@@ -24896,7 +26975,7 @@ RES.TR.Customs.PropEmotes = {
         "Simit Ye",
         imageId = "bagel",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_ing_bagel_01",
             PropBone = 18905,
             PropPlacement = {
@@ -24915,7 +26994,7 @@ RES.TR.Customs.PropEmotes = {
         "Şırınga",
         imageId = "syringe",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_single_rose",
             PropBone = 18905,
             PropPlacement = {
@@ -24934,7 +27013,7 @@ RES.TR.Customs.PropEmotes = {
         "Sırt Çantası",
         imageId = "backpack",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_michael_backpack_s",
             PropBone = 24818,
             PropPlacement = {
@@ -24953,7 +27032,7 @@ RES.TR.Customs.PropEmotes = {
         "SMS Gönder",
         imageId = "sms",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "phoneaway",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -25021,7 +27100,7 @@ RES.TR.Customs.PropEmotes = {
         "SMS Gönder 2",
         imageId = "sms2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "phoneaway",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -25089,7 +27168,7 @@ RES.TR.Customs.PropEmotes = {
         "SMS Gönder 3",
         imageId = "sms3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "phoneaway",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -25157,7 +27236,7 @@ RES.TR.Customs.PropEmotes = {
         "SMS Gönder 4",
         imageId = "sms4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "phoneaway",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -25225,7 +27304,7 @@ RES.TR.Customs.PropEmotes = {
         "SMS Gönder 5",
         imageId = "sms5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             ExitEmote = "phoneaway",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -25293,7 +27372,7 @@ RES.TR.Customs.PropEmotes = {
         "SMS Gönder Otur",
         imageId = "smssit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             ExitEmote = "getup",
             ExitEmoteType = "Exits",
             Prop = "prop_phone_ing",
@@ -25361,7 +27440,7 @@ RES.TR.Customs.PropEmotes = {
         "Sörf Tahtası",
         imageId = "surfboard",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_surf_board_ldn_02",
             PropBone = 28252,
             PropPlacement = {
@@ -25380,7 +27459,7 @@ RES.TR.Customs.PropEmotes = {
         "Sosisli Ye",
         imageId = "hotdog",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_hotdog_02",
             PropBone = 60309,
             PropPlacement = {
@@ -25399,7 +27478,7 @@ RES.TR.Customs.PropEmotes = {
         "Spor Çantası Çanta",
         imageId = "dufbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_big_bag_01",
             PropBone = 28422,
             PropPlacement = {
@@ -25418,7 +27497,7 @@ RES.TR.Customs.PropEmotes = {
         "Spor Çantası Çanta 2",
         imageId = "dufbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "v_ret_gc_bag02",
             PropBone = 28422,
             PropPlacement = {
@@ -25437,7 +27516,7 @@ RES.TR.Customs.PropEmotes = {
         "Spor Çantası Çanta 3",
         imageId = "dufbag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bkr_prop_duffel_bag_01a",
             PropBone = 28422,
             PropPlacement = {
@@ -25456,7 +27535,7 @@ RES.TR.Customs.PropEmotes = {
         "Stoner Babe Poz",
         imageId = "stonerbabepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "p_cs_joint_01",
             PropBone = 57005,
             PropPlacement = {
@@ -25475,7 +27554,7 @@ RES.TR.Customs.PropEmotes = {
         "Striptiz İzle 2",
         imageId = "watchstripper2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beer_am",
             PropBone = 60309,
             PropPlacement = {
@@ -25495,7 +27574,7 @@ RES.TR.Customs.PropEmotes = {
         "Süpürge",
         imageId = "broom",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_broom",
             PropBone = 28422,
             PropPlacement = {
@@ -25514,7 +27593,7 @@ RES.TR.Customs.PropEmotes = {
         "Süpürge 2",
         imageId = "broom2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_broom",
             PropBone = 28422,
             PropPlacement = {
@@ -25533,7 +27612,7 @@ RES.TR.Customs.PropEmotes = {
         "Süpürge 3",
         imageId = "broom3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_broom",
             PropBone = 28422,
             PropPlacement = {
@@ -25552,7 +27631,7 @@ RES.TR.Customs.PropEmotes = {
         "Süpürge 4",
         imageId = "broom4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_broom",
             PropBone = 28422,
             PropPlacement = {
@@ -25571,7 +27650,7 @@ RES.TR.Customs.PropEmotes = {
         "Sürtünme (Ayı) 2",
         imageId = "hump2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_mr_raspberry_01",
             PropBone = 28422,
             PropPlacement = {
@@ -25591,7 +27670,7 @@ RES.TR.Customs.PropEmotes = {
         "Su Şişesi İç",
         imageId = "water",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "vw_prop_casino_water_bottle_01a",
             PropBone = 60309,
             PropPlacement = {
@@ -25610,7 +27689,7 @@ RES.TR.Customs.PropEmotes = {
         "Süt ve Kurabiye",
         imageId = "mnc",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "m23_2_prop_m32_milkncookies_01a",
             PropBone = 57005,
             PropPlacement = {
@@ -25639,7 +27718,7 @@ RES.TR.Customs.PropEmotes = {
         "Tablet Kullan",
         imageId = "tablet",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_tablet",
             PropBone = 28422,
             PropPlacement = {
@@ -25658,7 +27737,7 @@ RES.TR.Customs.PropEmotes = {
         "Tablet Kullan 2",
         imageId = "tablet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_tablet",
             PropBone = 28422,
             PropPlacement = {
@@ -25677,7 +27756,7 @@ RES.TR.Customs.PropEmotes = {
         "Taco Ye",
         imageId = "taco",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_taco_01",
             PropBone = 60309,
             PropPlacement = {
@@ -25696,7 +27775,7 @@ RES.TR.Customs.PropEmotes = {
         "Tekboynuz Pasta 5",
         imageId = "cake5",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_cake",
             PropBone = 28422,
             PropPlacement = {
@@ -25715,7 +27794,7 @@ RES.TR.Customs.PropEmotes = {
         "Telefon",
         imageId = "phone",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -25768,7 +27847,7 @@ RES.TR.Customs.PropEmotes = {
         "Telefon Görüşmesi",
         imageId = "phonecall",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -25821,7 +27900,7 @@ RES.TR.Customs.PropEmotes = {
         "Telefon Görüşmesi 2",
         imageId = "phonecall2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_phone_ing",
             PropBone = 28422,
             PropPlacement = {
@@ -25874,7 +27953,7 @@ RES.TR.Customs.PropEmotes = {
         "Telsiz",
         imageId = "wt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_hand_radio",
             PropBone = 28422,
             PropPlacement = {
@@ -25893,7 +27972,7 @@ RES.TR.Customs.PropEmotes = {
         "Telsiz 2",
         imageId = "wt2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_cs_hand_radio",
             PropBone = 60309,
             PropPlacement = {
@@ -25912,7 +27991,7 @@ RES.TR.Customs.PropEmotes = {
         "Telsiz 3 Sol",
         imageId = "wt3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_hand_radio",
             PropBone = 60309,
             PropPlacement = {
@@ -25931,7 +28010,7 @@ RES.TR.Customs.PropEmotes = {
         "Telsiz 4",
         imageId = "wt4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_hand_radio",
             PropBone = 28422,
             PropPlacement = {
@@ -25950,7 +28029,7 @@ RES.TR.Customs.PropEmotes = {
         "Temizle",
         imageId = "clean",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sponge_01",
             PropBone = 28422,
             PropPlacement = {
@@ -25969,7 +28048,7 @@ RES.TR.Customs.PropEmotes = {
         "Temizle 2",
         imageId = "clean2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_sponge_01",
             PropBone = 28422,
             PropPlacement = {
@@ -25988,7 +28067,7 @@ RES.TR.Customs.PropEmotes = {
         "Tennis Oyna",
         imageId = "tennisplay",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tennis_bag_01",
             PropBone = 57005,
             PropPlacement = {
@@ -26017,7 +28096,7 @@ RES.TR.Customs.PropEmotes = {
         "Tırmık",
         imageId = "rake",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_rake",
             PropBone = 28422,
             PropPlacement = {
@@ -26036,7 +28115,7 @@ RES.TR.Customs.PropEmotes = {
         "Tırmık 2",
         imageId = "rake2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_rake",
             PropBone = 28422,
             PropPlacement = {
@@ -26055,7 +28134,7 @@ RES.TR.Customs.PropEmotes = {
         "Tırmık 3",
         imageId = "rake3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_rake",
             PropBone = 28422,
             PropPlacement = {
@@ -26074,7 +28153,7 @@ RES.TR.Customs.PropEmotes = {
         "Tırmık 4",
         imageId = "rake4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "prop_tool_rake",
             PropBone = 28422,
             PropPlacement = {
@@ -26093,7 +28172,7 @@ RES.TR.Customs.PropEmotes = {
         "Tokmak",
         imageId = "mallet",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_tool_mallet",
             PropBone = 28422,
             PropPlacement = {
@@ -26112,7 +28191,7 @@ RES.TR.Customs.PropEmotes = {
         "Uzat Joint 2",
         imageId = "joint2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "p_cs_joint_01",
             PropBone = 26612,
             PropPlacement = {
@@ -26146,7 +28225,7 @@ RES.TR.Customs.PropEmotes = {
         "Viski İç",
         imageId = "whiskey",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_drink_whisky",
             PropBone = 28422,
             PropPlacement = {
@@ -26165,7 +28244,7 @@ RES.TR.Customs.PropEmotes = {
         "Viski Şişe",
         imageId = "whiskeyb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ba_prop_battle_whiskey_bottle_2_s",
             PropBone = 28422,
             PropPlacement = {
@@ -26184,7 +28263,7 @@ RES.TR.Customs.PropEmotes = {
         "Viski Şişe 2",
         imageId = "whiskeyb2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "ba_prop_battle_whiskey_bottle_2_s",
             PropBone = 28422,
             PropPlacement = {
@@ -26203,7 +28282,7 @@ RES.TR.Customs.PropEmotes = {
         "Viski Şişe 3",
         imageId = "whiskeyb3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             Prop = "ba_prop_battle_whiskey_bottle_2_s",
             PropBone = 28422,
             PropPlacement = {
@@ -26222,7 +28301,7 @@ RES.TR.Customs.PropEmotes = {
         "Vlog Çek",
         imageId = "vlog",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ing_camera_01",
             PropBone = 28422,
             PropPlacement = {
@@ -26241,7 +28320,7 @@ RES.TR.Customs.PropEmotes = {
         "Vlog Çek 2",
         imageId = "vlog2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_ing_camera_01",
             PropBone = 18905,
             PropPlacement = {
@@ -26260,7 +28339,7 @@ RES.TR.Customs.PropEmotes = {
         "Yakıt",
         imageId = "fuel",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "w_am_jerrycan",
             PropBone = 57005,
             PropPlacement = {
@@ -26279,7 +28358,7 @@ RES.TR.Customs.PropEmotes = {
         "Yakıt 2 (Taşı)",
         imageId = "fuel2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "w_am_jerrycan",
             PropBone = 28422,
             PropPlacement = {
@@ -26298,7 +28377,7 @@ RES.TR.Customs.PropEmotes = {
         "Yalvar",
         imageId = "beg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beggers_sign_03",
             PropBone = 28422,
             PropPlacement = {
@@ -26317,7 +28396,7 @@ RES.TR.Customs.PropEmotes = {
         "Yalvar 2",
         imageId = "beg2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beggers_sign_01",
             PropBone = 28422,
             PropPlacement = {
@@ -26336,7 +28415,7 @@ RES.TR.Customs.PropEmotes = {
         "Yalvar 3",
         imageId = "beg3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beggers_sign_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26355,7 +28434,7 @@ RES.TR.Customs.PropEmotes = {
         "Yalvar 4",
         imageId = "beg4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_beggers_sign_04",
             PropBone = 28422,
             PropPlacement = {
@@ -26374,7 +28453,7 @@ RES.TR.Customs.PropEmotes = {
         "Yaprak Üfleme",
         imageId = "leafblower",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_leaf_blower_01",
             PropBone = 28422,
             PropPlacement = {
@@ -26407,7 +28486,7 @@ RES.TR.Customs.PropEmotes = {
         "Ye",
         imageId = "eat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_cs_burger_01",
             PropBone = 60309,
             PropPlacement = {
@@ -26426,7 +28505,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Çanta Taşı",
         imageId = "carryfoodbag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bs_bag_01",
             PropBone = 57005,
             PropPlacement = {
@@ -26445,7 +28524,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Çanta Taşı 2",
         imageId = "carryfoodbag2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_cb_bag_01",
             PropBone = 57005,
             PropPlacement = {
@@ -26464,7 +28543,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Çanta Taşı 3",
         imageId = "carryfoodbag3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bag1",
             PropBone = 57005,
             PropPlacement = {
@@ -26483,7 +28562,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi",
         imageId = "foodtraya",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bs_tray_03",
             PropBone = 28422,
             PropPlacement = {
@@ -26502,7 +28581,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi B",
         imageId = "foodtrayb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bs_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26521,7 +28600,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi C",
         imageId = "foodtrayc",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_cb_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26540,7 +28619,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi D",
         imageId = "foodtrayd",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26559,7 +28638,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi E",
         imageId = "foodtraye",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_tray_03",
             PropBone = 28422,
             PropPlacement = {
@@ -26578,7 +28657,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi (Erkek)",
         imageId = "foodtraym",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_cb_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26597,7 +28676,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi G",
         imageId = "foodtrayg",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_cb_tray_02",
             PropBone = 57005,
             PropPlacement = {
@@ -26626,7 +28705,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi H",
         imageId = "foodtrayh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_tray_02",
             PropBone = 57005,
             PropPlacement = {
@@ -26655,7 +28734,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi I",
         imageId = "foodtrayi",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_tray_02",
             PropBone = 57005,
             PropPlacement = {
@@ -26684,7 +28763,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi J",
         imageId = "foodtrayj",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bs_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26703,7 +28782,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi K",
         imageId = "foodtrayk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bs_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26722,7 +28801,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi (Kadın)",
         imageId = "foodtrayf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bs_tray_02",
             PropBone = 57005,
             PropPlacement = {
@@ -26751,7 +28830,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi L",
         imageId = "foodtrayl",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_bs_tray_03",
             PropBone = 28422,
             PropPlacement = {
@@ -26770,7 +28849,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi N",
         imageId = "foodtrayn",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26789,7 +28868,7 @@ RES.TR.Customs.PropEmotes = {
         "Yemek Tepsi O",
         imageId = "foodtrayo",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_food_tray_02",
             PropBone = 28422,
             PropPlacement = {
@@ -26808,7 +28887,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Cupcake",
         imageId = "xmascc",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_christmasfood6",
             PropBone = 60309,
             PropPlacement = {
@@ -26827,7 +28906,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Cupcake 2",
         imageId = "xmascc2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_christmasfood8",
             PropBone = 60309,
             PropPlacement = {
@@ -26846,7 +28925,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Dondurma",
         imageId = "xmasic",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_christmasfood7",
             PropBone = 60309,
             PropPlacement = {
@@ -26875,7 +28954,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Kakao",
         imageId = "cocoa",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_christmasfood1",
             PropBone = 28422,
             PropPlacement = {
@@ -26894,7 +28973,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Kar Tanesi Kurabiye",
         imageId = "xmassf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "pata_christmasfood2",
             PropBone = 60309,
             PropPlacement = {
@@ -26913,7 +28992,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Kupa - Çay",
         imageId = "xmasmug",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_mug_a",
             PropBone = 18905,
             PropPlacement = {
@@ -26932,7 +29011,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Kupa - Kahve 2",
         imageId = "xmasmug2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_mug_b",
             PropBone = 18905,
             PropPlacement = {
@@ -26951,7 +29030,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Şeker Baston - Kırmızı",
         imageId = "candycane",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_lollipop_a",
             PropBone = 18905,
             PropPlacement = {
@@ -26970,7 +29049,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Şeker Baston - Mavi",
         imageId = "candycanee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_lollipop_e",
             PropBone = 18905,
             PropPlacement = {
@@ -26989,7 +29068,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Şeker Baston - Mor",
         imageId = "candycanec",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_lollipop_c",
             PropBone = 18905,
             PropPlacement = {
@@ -27008,7 +29087,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Şeker Baston - Sarı",
         imageId = "candycaned",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_lollipop_d",
             PropBone = 18905,
             PropPlacement = {
@@ -27027,7 +29106,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Şeker Baston - Yeşil",
         imageId = "candycaneb",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_lollipop_b",
             PropBone = 18905,
             PropPlacement = {
@@ -27046,7 +29125,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Sıcak Şarap",
         imageId = "xmaswine",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_mulled_wine_a",
             PropBone = 18905,
             PropPlacement = {
@@ -27065,7 +29144,7 @@ RES.TR.Customs.PropEmotes = {
         "Yılbaşı Zencefilli Kurabiye Adam",
         imageId = "gingerbread",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "bzzz_food_xmas_gingerbread_a",
             PropBone = 18905,
             PropPlacement = {
@@ -27084,7 +29163,7 @@ RES.TR.Customs.PropEmotes = {
         "Yürürken Sıç 2",
         imageId = "shit2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             Prop = "prop_toilet_roll_01",
             PropBone = 28422,
             PropPlacement = {

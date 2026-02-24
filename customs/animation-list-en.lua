@@ -90,7 +90,7 @@ RES.EN.Customs.Shared = {
         'bestfriends2',
         imageId = 'bestfriends',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bestfriends2"] = {
@@ -102,7 +102,7 @@ RES.EN.Customs.Shared = {
         AnimationOptions = {
             Attachto = true,
             bone = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             pos = {
                 x = -0.25,
                 y = 0.14,
@@ -1567,7 +1567,7 @@ RES.EN.Customs.Shared = {
         AnimationOptions = {
             Attachto = true,
             bone = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             pos = {
                 x = 0.16,
                 y = 0.27,
@@ -1587,7 +1587,7 @@ RES.EN.Customs.Shared = {
         'kisslips',
         imageId = 'kisslips2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kisslovpose1f"] = {
@@ -3941,7 +3941,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["Sunbathe5"] = {
@@ -3952,7 +3952,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["Sunbathe6"] = {
@@ -3963,7 +3963,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["Sunbathe7"] = {
@@ -3974,7 +3974,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["Woman2"] = {
@@ -4037,7 +4037,7 @@ RES.EN.Customs.General = {
         'Addict',
         imageId = 'addict',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["adjust"] = {
@@ -4047,7 +4047,7 @@ RES.EN.Customs.General = {
         imageId = 'adjust',
         AnimationOptions = {
             EmoteDuration = 4000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["adjusttie"] = {
@@ -4057,7 +4057,7 @@ RES.EN.Customs.General = {
         imageId = 'adjusttie',
         AnimationOptions = {
             EmoteDuration = 5000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["airforce01"] = {
@@ -4066,7 +4066,7 @@ RES.EN.Customs.General = {
         'Airforce - At Ease',
         imageId = 'airforce01',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["airforce02"] = {
@@ -4075,7 +4075,7 @@ RES.EN.Customs.General = {
         'Airforce - Attention',
         imageId = 'airforce02',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["airforce03"] = {
@@ -4084,7 +4084,7 @@ RES.EN.Customs.General = {
         'Airforce - Parade Rest',
         imageId = 'airforce03',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["airforce04"] = {
@@ -4093,7 +4093,7 @@ RES.EN.Customs.General = {
         'Airforce - Salute',
         imageId = 'airforce04',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["airguitar"] = {
@@ -4108,7 +4108,7 @@ RES.EN.Customs.General = {
         'Air Plane',
         imageId = 'airplane',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["airsynth"] = {
@@ -4133,7 +4133,7 @@ RES.EN.Customs.General = {
         'Annoyed',
         imageId = 'annoyed',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aphroditepose"] = {
@@ -4142,7 +4142,7 @@ RES.EN.Customs.General = {
         'Aphrodite Pose',
         imageId = 'aphroditepose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aphroditepose2"] = {
@@ -4151,7 +4151,7 @@ RES.EN.Customs.General = {
         'Aphrodite Pose 2',
         imageId = 'aphroditepose2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aphroditepose3"] = {
@@ -4160,7 +4160,7 @@ RES.EN.Customs.General = {
         'Aphrodite Pose 3',
         imageId = 'aphroditepose3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["argue"] = {
@@ -4169,7 +4169,7 @@ RES.EN.Customs.General = {
         'Argue',
         imageId = 'argue',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["argue2"] = {
@@ -4178,7 +4178,7 @@ RES.EN.Customs.General = {
         'Argue 2',
         imageId = 'argue2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["argue3"] = {
@@ -4187,7 +4187,7 @@ RES.EN.Customs.General = {
         'Argue 3',
         imageId = 'argue3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["argue4"] = {
@@ -4197,7 +4197,7 @@ RES.EN.Customs.General = {
         imageId = 'argue4',
         AnimationOptions = {
             EmoteDuration = 6000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["argue5"] = {
@@ -4206,7 +4206,7 @@ RES.EN.Customs.General = {
         'Argue Angry 1',
         imageId = 'argue5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["argue6"] = {
@@ -4215,7 +4215,7 @@ RES.EN.Customs.General = {
         'Argue Angry 2',
         imageId = 'argue6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["army1"] = {
@@ -4224,7 +4224,7 @@ RES.EN.Customs.General = {
         'Army 1',
         imageId = 'army1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["army1l"] = {
@@ -4233,7 +4233,7 @@ RES.EN.Customs.General = {
         'Army 1 Left',
         imageId = 'army1l',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["army1p"] = {
@@ -4242,7 +4242,7 @@ RES.EN.Customs.General = {
         'Army 1 Right',
         imageId = 'army1p',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["army2"] = {
@@ -4251,7 +4251,7 @@ RES.EN.Customs.General = {
         'Army 2',
         imageId = 'army2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["army2l"] = {
@@ -4260,7 +4260,7 @@ RES.EN.Customs.General = {
         'Army 2 Left',
         imageId = 'army2l',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["army2p"] = {
@@ -4269,7 +4269,7 @@ RES.EN.Customs.General = {
         'Army 2 Right',
         imageId = 'army2p',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aslcya"] = {
@@ -4279,7 +4279,7 @@ RES.EN.Customs.General = {
         imageId = 'aslcya',
         AnimationOptions = {
             EmoteDuration = 1200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["aslimgood"] = {
@@ -4289,7 +4289,7 @@ RES.EN.Customs.General = {
         imageId = 'aslimgood',
         AnimationOptions = {
             EmoteDuration = 3940,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["aslno"] = {
@@ -4299,7 +4299,7 @@ RES.EN.Customs.General = {
         imageId = 'aslno',
         AnimationOptions = {
             EmoteDuration = 2080,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["aslwhat"] = {
@@ -4309,7 +4309,7 @@ RES.EN.Customs.General = {
         imageId = 'aslwhat',
         AnimationOptions = {
             EmoteDuration = 1480,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["aslyes"] = {
@@ -4319,7 +4319,7 @@ RES.EN.Customs.General = {
         imageId = 'aslyes',
         AnimationOptions = {
             EmoteDuration = 1030,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["atlasfm"] = {
@@ -4446,7 +4446,7 @@ RES.EN.Customs.General = {
         'Baddie Bendova Pose',
         imageId = 'baddiebendova',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["baddienailpose"] = {
@@ -4455,7 +4455,7 @@ RES.EN.Customs.General = {
         'Baddie Nail Pose',
         imageId = 'baddienailpose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["baddiepeace"] = {
@@ -4464,7 +4464,7 @@ RES.EN.Customs.General = {
         'Baddie Peace Pose',
         imageId = 'baddiepeace',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ballerin"] = {
@@ -4498,7 +4498,7 @@ RES.EN.Customs.General = {
         'Bartender',
         imageId = 'bartender',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beast"] = {
@@ -4508,7 +4508,7 @@ RES.EN.Customs.General = {
         imageId = 'beast',
         AnimationOptions = {
             EmoteDuration = 5000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bend"] = {
@@ -4518,7 +4518,7 @@ RES.EN.Customs.General = {
         imageId = 'bend',
         AnimationOptions = {
             StartDelay = 600,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bird"] = {
@@ -4533,7 +4533,7 @@ RES.EN.Customs.General = {
         'Block Face',
         imageId = 'block',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["blowkiss"] = {
@@ -4549,7 +4549,7 @@ RES.EN.Customs.General = {
         imageId = 'blowkiss2',
         AnimationOptions = {
             EmoteDuration = 2000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boi"] = {
@@ -4559,7 +4559,7 @@ RES.EN.Customs.General = {
         imageId = 'boi',
         AnimationOptions = {
             EmoteDuration = 3000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bow"] = {
@@ -4568,7 +4568,7 @@ RES.EN.Customs.General = {
         'Bow',
         imageId = 'bow',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bow2"] = {
@@ -4577,7 +4577,7 @@ RES.EN.Customs.General = {
         'Bow 2',
         imageId = 'bow2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boxing"] = {
@@ -4587,7 +4587,7 @@ RES.EN.Customs.General = {
         imageId = 'boxing',
         AnimationOptions = {
             EmoteDuration = 4000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boxing2"] = {
@@ -4597,7 +4597,7 @@ RES.EN.Customs.General = {
         imageId = 'boxing2',
         AnimationOptions = {
             EmoteDuration = 4000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boxing3"] = {
@@ -4606,7 +4606,7 @@ RES.EN.Customs.General = {
         'Boxing 3',
         imageId = 'boxing3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bringiton"] = {
@@ -4616,7 +4616,7 @@ RES.EN.Customs.General = {
         imageId = 'bringiton',
         AnimationOptions = {
             EmoteDuration = 3000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bumsleep"] = {
@@ -4628,7 +4628,7 @@ RES.EN.Customs.General = {
             ExitEmote = 'getup',
             ExitEmoteType = 'Exits',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buzz"] = {
@@ -4645,7 +4645,7 @@ RES.EN.Customs.General = {
         'Call Dog',
         imageId = 'calldog',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["calldogl"] = {
@@ -4670,7 +4670,7 @@ RES.EN.Customs.General = {
         'Capoeira',
         imageId = 'capoeira',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["capoeira2"] = {
@@ -4679,7 +4679,7 @@ RES.EN.Customs.General = {
         'Capoeira 2',
         imageId = 'capoeira2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cartaunt"] = {
@@ -4814,7 +4814,7 @@ RES.EN.Customs.General = {
         'Celebrate',
         imageId = 'celebrate',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["checkcar"] = {
@@ -4823,7 +4823,7 @@ RES.EN.Customs.General = {
         'Check Out · Female',
         imageId = 'checkcar',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["checkcar2"] = {
@@ -4832,7 +4832,7 @@ RES.EN.Customs.General = {
         'Check Out 2 · Male',
         imageId = 'checkcar2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["checkwatch"] = {
@@ -4841,7 +4841,7 @@ RES.EN.Customs.General = {
         'Check Watch',
         imageId = 'checkwatch',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["chicken"] = {
@@ -4850,7 +4850,7 @@ RES.EN.Customs.General = {
         'Chicken',
         imageId = 'chicken',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["chill"] = {
@@ -4861,7 +4861,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["chxstand"] = {
@@ -4920,7 +4920,7 @@ RES.EN.Customs.General = {
         'Clap',
         imageId = 'clap',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["clapangry"] = {
@@ -4929,7 +4929,7 @@ RES.EN.Customs.General = {
         'Clap Angry',
         imageId = 'clapangry',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cleanface"] = {
@@ -4938,7 +4938,7 @@ RES.EN.Customs.General = {
         'Clean Your Face',
         imageId = 'cleanface',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cleanhands"] = {
@@ -4947,7 +4947,7 @@ RES.EN.Customs.General = {
         'Clean Them Filthy Hands',
         imageId = 'cleanhands',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cloudgaze"] = {
@@ -4958,7 +4958,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cloudgaze2"] = {
@@ -4969,7 +4969,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["clown"] = {
@@ -4978,7 +4978,7 @@ RES.EN.Customs.General = {
         'Clown',
         imageId = 'clown',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["clown2"] = {
@@ -4987,7 +4987,7 @@ RES.EN.Customs.General = {
         'Clown 2',
         imageId = 'clown2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["clown3"] = {
@@ -4996,7 +4996,7 @@ RES.EN.Customs.General = {
         'Clown 3',
         imageId = 'clown3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["clown4"] = {
@@ -5005,7 +5005,7 @@ RES.EN.Customs.General = {
         'Clown 4',
         imageId = 'clown4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["clown5"] = {
@@ -5014,7 +5014,7 @@ RES.EN.Customs.General = {
         'Clown 5',
         imageId = 'clown5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["comeatmebro"] = {
@@ -5024,7 +5024,7 @@ RES.EN.Customs.General = {
         imageId = 'comeatmebro',
         AnimationOptions = {
             EmoteDuration = 2000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cop2"] = {
@@ -5033,7 +5033,7 @@ RES.EN.Customs.General = {
         'Cop 2',
         imageId = 'cop2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cop3"] = {
@@ -5042,7 +5042,7 @@ RES.EN.Customs.General = {
         'Cop 3',
         imageId = 'cop3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cough"] = {
@@ -5051,7 +5051,7 @@ RES.EN.Customs.General = {
         'Cough',
         imageId = 'cough',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["countdown"] = {
@@ -5060,7 +5060,7 @@ RES.EN.Customs.General = {
         'Countdown',
         imageId = 'countdown',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cpr"] = {
@@ -5069,7 +5069,7 @@ RES.EN.Customs.General = {
         'CPR',
         imageId = 'cpr',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cpr2"] = {
@@ -5078,7 +5078,7 @@ RES.EN.Customs.General = {
         'CPR 2',
         imageId = 'cpr2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crawl"] = {
@@ -5089,7 +5089,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'meditateup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["crossarms"] = {
@@ -5098,7 +5098,7 @@ RES.EN.Customs.General = {
         'Crossarms',
         imageId = 'crossarms',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms2"] = {
@@ -5107,7 +5107,7 @@ RES.EN.Customs.General = {
         'Crossarms 2',
         imageId = 'crossarms2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms3"] = {
@@ -5116,7 +5116,7 @@ RES.EN.Customs.General = {
         'Crossarms 3',
         imageId = 'crossarms3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms4"] = {
@@ -5125,7 +5125,7 @@ RES.EN.Customs.General = {
         'Crossarms 4',
         imageId = 'crossarms4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms5"] = {
@@ -5134,7 +5134,7 @@ RES.EN.Customs.General = {
         'Crossarms 5',
         imageId = 'crossarms5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms6"] = {
@@ -5143,7 +5143,7 @@ RES.EN.Customs.General = {
         'Crossarms 6',
         imageId = 'crossarms6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms7"] = {
@@ -5152,7 +5152,7 @@ RES.EN.Customs.General = {
         'Crossarms 7',
         imageId = 'crossarms7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms8"] = {
@@ -5161,7 +5161,7 @@ RES.EN.Customs.General = {
         'Crossarms 8',
         imageId = 'crossarms8',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarms9"] = {
@@ -5170,7 +5170,7 @@ RES.EN.Customs.General = {
         'Crossarms 9',
         imageId = 'crossarms9',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["crossarmsside"] = {
@@ -5179,7 +5179,7 @@ RES.EN.Customs.General = {
         'Crossarms Side',
         imageId = 'crossarmsside',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crossarmsside2"] = {
@@ -5188,7 +5188,7 @@ RES.EN.Customs.General = {
         'Crossarms Side 2',
         imageId = 'crossarmsside2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crosshands"] = {
@@ -5197,7 +5197,7 @@ RES.EN.Customs.General = {
         'Cross hands',
         imageId = 'crosshands',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crouchreach"] = {
@@ -5207,7 +5207,7 @@ RES.EN.Customs.General = {
         imageId = 'crouchreach',
         AnimationOptions = {
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["crouchreach2"] = {
@@ -5217,7 +5217,7 @@ RES.EN.Customs.General = {
         imageId = 'crouchreach2',
         AnimationOptions = {
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cuffedback"] = {
@@ -5227,7 +5227,7 @@ RES.EN.Customs.General = {
         imageId = 'cuffedback',
         AnimationOptions = {
             ExitEmote = 'breakfreeback',
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cuffedfront"] = {
@@ -5237,7 +5237,7 @@ RES.EN.Customs.General = {
         imageId = 'cuffedfront',
         AnimationOptions = {
             ExitEmote = 'breakfreefont',
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["curtsy"] = {
@@ -5264,7 +5264,7 @@ RES.EN.Customs.General = {
         'Dab',
         imageId = 'dab',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["damn"] = {
@@ -5274,7 +5274,7 @@ RES.EN.Customs.General = {
         imageId = 'damn',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["damn2"] = {
@@ -5284,7 +5284,7 @@ RES.EN.Customs.General = {
         imageId = 'damn2',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["daydream"] = {
@@ -5293,7 +5293,7 @@ RES.EN.Customs.General = {
         'Daydream In The Clouds',
         imageId = 'daydream',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dazzle1"] = {
@@ -5302,7 +5302,7 @@ RES.EN.Customs.General = {
         'Dazzle Me Pose 1',
         imageId = 'dazzle1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dazzle2"] = {
@@ -5311,7 +5311,7 @@ RES.EN.Customs.General = {
         'Dazzle Me Pose 2',
         imageId = 'dazzle2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dazzle3"] = {
@@ -5320,7 +5320,7 @@ RES.EN.Customs.General = {
         'Dazzle Me Pose 3',
         imageId = 'dazzle3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dazzle4"] = {
@@ -5329,7 +5329,7 @@ RES.EN.Customs.General = {
         'Dazzle Me Pose 4',
         imageId = 'dazzle4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dazzle5"] = {
@@ -5338,7 +5338,7 @@ RES.EN.Customs.General = {
         'Dazzle Me Pose 5',
         imageId = 'dazzle5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dazzle6"] = {
@@ -5347,7 +5347,7 @@ RES.EN.Customs.General = {
         'Dazzle Me Pose 6',
         imageId = 'dazzle6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dazzle7"] = {
@@ -5356,7 +5356,7 @@ RES.EN.Customs.General = {
         'Dazzle Me Pose 7',
         imageId = 'dazzle7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dead2"] = {
@@ -5381,7 +5381,7 @@ RES.EN.Customs.General = {
         'Dock',
         imageId = 'dock',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["elbow"] = {
@@ -5390,7 +5390,7 @@ RES.EN.Customs.General = {
         'Window Elbow',
         imageId = 'elbow',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["elbow2"] = {
@@ -5399,7 +5399,7 @@ RES.EN.Customs.General = {
         'Window Elbow 2',
         imageId = 'elbow2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["facepalm"] = {
@@ -5409,7 +5409,7 @@ RES.EN.Customs.General = {
         imageId = 'facepalm',
         AnimationOptions = {
             EmoteDuration = 8000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["facepalm2"] = {
@@ -5419,7 +5419,7 @@ RES.EN.Customs.General = {
         imageId = 'facepalm2',
         AnimationOptions = {
             EmoteDuration = 8000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["facepalm3"] = {
@@ -5429,7 +5429,7 @@ RES.EN.Customs.General = {
         imageId = 'facepalm3',
         AnimationOptions = {
             EmoteDuration = 8000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["facepalm4"] = {
@@ -5438,7 +5438,7 @@ RES.EN.Customs.General = {
         'Facepalm 4',
         imageId = 'facepalm4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fallasleep"] = {
@@ -5447,7 +5447,7 @@ RES.EN.Customs.General = {
         'Fall Asleep',
         imageId = 'fallasleep',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fallasleep2"] = {
@@ -5456,7 +5456,7 @@ RES.EN.Customs.General = {
         'Fall Asleep 2',
         imageId = 'fallasleep2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fallover"] = {
@@ -5495,7 +5495,7 @@ RES.EN.Customs.General = {
         'Fashion Pose Pose 1',
         imageId = 'fashionpose1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose2"] = {
@@ -5505,7 +5505,7 @@ RES.EN.Customs.General = {
         imageId = 'fashionpose2',
         AnimationOptions = {
             ExitEmote = 'standup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose3"] = {
@@ -5514,7 +5514,7 @@ RES.EN.Customs.General = {
         'Fashion Pose Pose 3',
         imageId = 'fashionpose3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose4"] = {
@@ -5523,7 +5523,7 @@ RES.EN.Customs.General = {
         'Fashion Pose Pose 4',
         imageId = 'fashionpose4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose5"] = {
@@ -5532,7 +5532,7 @@ RES.EN.Customs.General = {
         'Fashion Pose Pose 5',
         imageId = 'fashionpose5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose6"] = {
@@ -5541,7 +5541,7 @@ RES.EN.Customs.General = {
         'Fashion Pose Pose 6',
         imageId = 'fashionpose6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose7"] = {
@@ -5550,7 +5550,7 @@ RES.EN.Customs.General = {
         'Fashion Pose Pose 7',
         imageId = 'fashionpose7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose8"] = {
@@ -5559,7 +5559,7 @@ RES.EN.Customs.General = {
         'Fashion Pose Pose 8',
         imageId = 'fashionpose8',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fashionpose9"] = {
@@ -5569,7 +5569,7 @@ RES.EN.Customs.General = {
         imageId = 'fashionpose9',
         AnimationOptions = {
             ExitEmote = 'standup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleonknees"] = {
@@ -5579,7 +5579,7 @@ RES.EN.Customs.General = {
         imageId = 'femaleonknees',
         AnimationOptions = {
             ExitEmote = 'standup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleonknees1"] = {
@@ -5589,7 +5589,7 @@ RES.EN.Customs.General = {
         imageId = 'femaleonknees1',
         AnimationOptions = {
             ExitEmote = 'standup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleonknees2"] = {
@@ -5599,7 +5599,7 @@ RES.EN.Customs.General = {
         imageId = 'femaleonknees2',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposer"] = {
@@ -5608,7 +5608,7 @@ RES.EN.Customs.General = {
         'Female Pose R',
         imageId = 'femaleposer',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposes"] = {
@@ -5617,7 +5617,7 @@ RES.EN.Customs.General = {
         'Female Pose S',
         imageId = 'femaleposes',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposet"] = {
@@ -5626,7 +5626,7 @@ RES.EN.Customs.General = {
         'Female Pose T',
         imageId = 'femaleposet',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposeu"] = {
@@ -5636,7 +5636,7 @@ RES.EN.Customs.General = {
         imageId = 'femaleposeu',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposev"] = {
@@ -5645,7 +5645,7 @@ RES.EN.Customs.General = {
         'Female Pose V',
         imageId = 'femaleposev',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposew"] = {
@@ -5654,7 +5654,7 @@ RES.EN.Customs.General = {
         'Female Pose W',
         imageId = 'femaleposew',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposex"] = {
@@ -5663,7 +5663,7 @@ RES.EN.Customs.General = {
         'Female Pose X',
         imageId = 'femaleposex',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposey"] = {
@@ -5672,7 +5672,7 @@ RES.EN.Customs.General = {
         'Female Pose Y',
         imageId = 'femaleposey',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femaleposez"] = {
@@ -5681,7 +5681,7 @@ RES.EN.Customs.General = {
         'Female Pose Z',
         imageId = 'femaleposez',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalesitcute"] = {
@@ -5691,7 +5691,7 @@ RES.EN.Customs.General = {
         imageId = 'femalesitcute',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalesitcute1"] = {
@@ -5701,7 +5701,7 @@ RES.EN.Customs.General = {
         imageId = 'femalesitcute1',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalesitcute2"] = {
@@ -5711,7 +5711,7 @@ RES.EN.Customs.General = {
         imageId = 'femalesitcute2',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalestandcute"] = {
@@ -5720,7 +5720,7 @@ RES.EN.Customs.General = {
         'Female Stand Cute Pose',
         imageId = 'femalestandcute',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalestandcute1"] = {
@@ -5729,7 +5729,7 @@ RES.EN.Customs.General = {
         'Female Stand Cute Pose 1',
         imageId = 'femalestandcute1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalestandcute2"] = {
@@ -5738,7 +5738,7 @@ RES.EN.Customs.General = {
         'Female Stand Cute Pose 2',
         imageId = 'femalestandcute2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalestandcute3"] = {
@@ -5747,7 +5747,7 @@ RES.EN.Customs.General = {
         'Female Stand Cute Pose 3',
         imageId = 'femalestandcute3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalestandcute4"] = {
@@ -5756,7 +5756,7 @@ RES.EN.Customs.General = {
         'Female Stand Cute Pose 4',
         imageId = 'femalestandcute4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalestandcutefinger"] = {
@@ -5765,7 +5765,7 @@ RES.EN.Customs.General = {
         'Female Stand Cute Pose Finger',
         imageId = 'femalestandcutefinger',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fightme"] = {
@@ -5786,7 +5786,7 @@ RES.EN.Customs.General = {
         'Finger',
         imageId = 'finger',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["finger2"] = {
@@ -5795,7 +5795,7 @@ RES.EN.Customs.General = {
         'Finger 2',
         imageId = 'finger2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fishdance"] = {
@@ -5804,7 +5804,7 @@ RES.EN.Customs.General = {
         'Fish Dance',
         imageId = 'fishdance',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["flex2"] = {
@@ -5813,7 +5813,7 @@ RES.EN.Customs.General = {
         'Flex 2',
         imageId = 'flex2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["flip"] = {
@@ -5834,7 +5834,7 @@ RES.EN.Customs.General = {
         'Flip Off',
         imageId = 'flipoff',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["flipoff2"] = {
@@ -5843,7 +5843,7 @@ RES.EN.Customs.General = {
         'Flip Off 2',
         imageId = 'flipoff2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foldarms"] = {
@@ -5852,7 +5852,7 @@ RES.EN.Customs.General = {
         'Fold Arms',
         imageId = 'foldarms',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foldarms2"] = {
@@ -5861,7 +5861,7 @@ RES.EN.Customs.General = {
         'Fold Arms 2',
         imageId = 'foldarms2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fort1"] = {
@@ -5891,7 +5891,7 @@ RES.EN.Customs.General = {
         imageId = 'fspose',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fspose2"] = {
@@ -5901,7 +5901,7 @@ RES.EN.Customs.General = {
         imageId = 'fspose2',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fspose3"] = {
@@ -5911,7 +5911,7 @@ RES.EN.Customs.General = {
         imageId = 'fspose3',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fuckpose"] = {
@@ -5940,7 +5940,7 @@ RES.EN.Customs.General = {
         'Gang Sign',
         imageId = 'gangsign',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gangsign2"] = {
@@ -5949,7 +5949,7 @@ RES.EN.Customs.General = {
         'Gang Sign 2',
         imageId = 'gangsign2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gangsign3"] = {
@@ -5958,7 +5958,7 @@ RES.EN.Customs.General = {
         'Gang Sign 3',
         imageId = 'gangsign3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gangsign4"] = {
@@ -5967,7 +5967,7 @@ RES.EN.Customs.General = {
         'Gang Sign 4',
         imageId = 'gangsign4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["grieve"] = {
@@ -5976,7 +5976,7 @@ RES.EN.Customs.General = {
         'Grieve The Dead',
         imageId = 'grieve',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gsign1"] = {
@@ -6265,7 +6265,7 @@ RES.EN.Customs.General = {
         'Rifle Pose',
         imageId = 'gungirl1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gunpoint"] = {
@@ -6274,7 +6274,7 @@ RES.EN.Customs.General = {
         'Gun Point - Robbery',
         imageId = 'gunpoint',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gym"] = {
@@ -6283,7 +6283,7 @@ RES.EN.Customs.General = {
         'Gym - Squats',
         imageId = 'gym',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gym2"] = {
@@ -6294,7 +6294,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 400,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gym3"] = {
@@ -6303,7 +6303,7 @@ RES.EN.Customs.General = {
         'Gym - Jumping',
         imageId = 'gym3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gym4"] = {
@@ -6312,7 +6312,7 @@ RES.EN.Customs.General = {
         'Gym - Jumping Jacks',
         imageId = 'gym4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gym5"] = {
@@ -6323,7 +6323,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 550,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gympose"] = {
@@ -6332,7 +6332,7 @@ RES.EN.Customs.General = {
         'Gym Pose',
         imageId = 'gympose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gympose2"] = {
@@ -6344,7 +6344,7 @@ RES.EN.Customs.General = {
             ExitEmote = 'standup',
             ExitEmoteType = 'Exits',
             StartDelay = 550,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gympose3"] = {
@@ -6356,7 +6356,7 @@ RES.EN.Customs.General = {
             ExitEmote = 'standup',
             ExitEmoteType = 'Exits',
             StartDelay = 550,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gympose4"] = {
@@ -6368,7 +6368,7 @@ RES.EN.Customs.General = {
             ExitEmote = 'getup',
             ExitEmoteType = 'Exits',
             StartDelay = 510,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["handkylie"] = {
@@ -6397,7 +6397,7 @@ RES.EN.Customs.General = {
         'Hands Up',
         imageId = 'handsup',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["handsup2"] = {
@@ -6406,7 +6406,7 @@ RES.EN.Customs.General = {
         'Hands Up 2',
         imageId = 'handsup2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["handsup3"] = {
@@ -6415,7 +6415,7 @@ RES.EN.Customs.General = {
         'Hands Up 3',
         imageId = 'handsup3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["handsup4"] = {
@@ -6424,7 +6424,7 @@ RES.EN.Customs.General = {
         'Hands Up 4',
         imageId = 'handsup4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["handsup5"] = {
@@ -6433,7 +6433,7 @@ RES.EN.Customs.General = {
         'Hands Up 5',
         imageId = 'handsup5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hd"] = {
@@ -6452,7 +6452,7 @@ RES.EN.Customs.General = {
         'Heart Hands',
         imageId = 'hhands',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hidegun"] = {
@@ -6461,7 +6461,7 @@ RES.EN.Customs.General = {
         'Hide a gun',
         imageId = 'hidegun',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hikinga"] = {
@@ -6470,7 +6470,7 @@ RES.EN.Customs.General = {
         'Hiking',
         imageId = 'hikinga',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["holster"] = {
@@ -6479,7 +6479,7 @@ RES.EN.Customs.General = {
         'Holster',
         imageId = 'holster',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["holster2"] = {
@@ -6488,7 +6488,7 @@ RES.EN.Customs.General = {
         'Holster 2',
         imageId = 'holster2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["holster3"] = {
@@ -6497,7 +6497,7 @@ RES.EN.Customs.General = {
         'Holster 3',
         imageId = 'holster3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["holster4"] = {
@@ -6506,7 +6506,7 @@ RES.EN.Customs.General = {
         'Holster 4 - Stop',
         imageId = 'holster4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["holster5"] = {
@@ -6515,7 +6515,7 @@ RES.EN.Customs.General = {
         'Holster 5 - Stop 2',
         imageId = 'holster5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hugme"] = {
@@ -6537,7 +6537,7 @@ RES.EN.Customs.General = {
         imageId = 'hump',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle10"] = {
@@ -6546,7 +6546,7 @@ RES.EN.Customs.General = {
         'Idle 10',
         imageId = 'idle10',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["idle11"] = {
@@ -6555,7 +6555,7 @@ RES.EN.Customs.General = {
         'Idle 11',
         imageId = 'idle11',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle12"] = {
@@ -6564,7 +6564,7 @@ RES.EN.Customs.General = {
         'Idle 12',
         imageId = 'idle12',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle13"] = {
@@ -6573,7 +6573,7 @@ RES.EN.Customs.General = {
         'Idle 13',
         imageId = 'idle13',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle14"] = {
@@ -6582,7 +6582,7 @@ RES.EN.Customs.General = {
         'Idle 14',
         imageId = 'idle14',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle15"] = {
@@ -6591,7 +6591,7 @@ RES.EN.Customs.General = {
         'Idle 15',
         imageId = 'idle15',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle16"] = {
@@ -6600,7 +6600,7 @@ RES.EN.Customs.General = {
         'Idle 16',
         imageId = 'idle16',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle17"] = {
@@ -6609,7 +6609,7 @@ RES.EN.Customs.General = {
         'Idle 17',
         imageId = 'idle17',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle18"] = {
@@ -6618,7 +6618,7 @@ RES.EN.Customs.General = {
         'Idle 18',
         imageId = 'idle18',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle19"] = {
@@ -6627,7 +6627,7 @@ RES.EN.Customs.General = {
         'Idle 19',
         imageId = 'idle19',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle2"] = {
@@ -6636,7 +6636,7 @@ RES.EN.Customs.General = {
         'Idle 2',
         imageId = 'idle2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle3"] = {
@@ -6645,7 +6645,7 @@ RES.EN.Customs.General = {
         'Idle 3',
         imageId = 'idle3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle4"] = {
@@ -6654,7 +6654,7 @@ RES.EN.Customs.General = {
         'Idle 4',
         imageId = 'idle4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle5"] = {
@@ -6663,7 +6663,7 @@ RES.EN.Customs.General = {
         'Idle 5',
         imageId = 'idle5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle6"] = {
@@ -6672,7 +6672,7 @@ RES.EN.Customs.General = {
         'Idle 6',
         imageId = 'idle6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle7"] = {
@@ -6681,7 +6681,7 @@ RES.EN.Customs.General = {
         'Idle 7',
         imageId = 'idle7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idle8"] = {
@@ -6696,7 +6696,7 @@ RES.EN.Customs.General = {
         'Idle 9',
         imageId = 'idle9',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idledrunk"] = {
@@ -6705,7 +6705,7 @@ RES.EN.Customs.General = {
         'Idle Drunk',
         imageId = 'idledrunk',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idledrunk2"] = {
@@ -6714,7 +6714,7 @@ RES.EN.Customs.General = {
         'Idle Drunk 2',
         imageId = 'idledrunk2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["idledrunk3"] = {
@@ -6723,7 +6723,7 @@ RES.EN.Customs.General = {
         'Idle Drunk 3',
         imageId = 'idledrunk3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["illuminati"] = {
@@ -6732,7 +6732,7 @@ RES.EN.Customs.General = {
         'Illuminati Hand Sign',
         imageId = 'illuminati',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["illuminati2"] = {
@@ -6741,7 +6741,7 @@ RES.EN.Customs.General = {
         'Illuminati Hand Sign 2',
         imageId = 'illuminati2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["illuminati3"] = {
@@ -6750,7 +6750,7 @@ RES.EN.Customs.General = {
         'Illuminati Hand Sign 3',
         imageId = 'illuminati3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["impatient2"] = {
@@ -6759,7 +6759,7 @@ RES.EN.Customs.General = {
         'impatient 2',
         imageId = 'impatient2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["inspect"] = {
@@ -6787,7 +6787,7 @@ RES.EN.Customs.General = {
         imageId = 'jazzhands',
         AnimationOptions = {
             EmoteDuration = 6000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["jog2"] = {
@@ -6796,7 +6796,7 @@ RES.EN.Customs.General = {
         'Jog 2',
         imageId = 'jog2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["jog3"] = {
@@ -6805,7 +6805,7 @@ RES.EN.Customs.General = {
         'Jog 3',
         imageId = 'jog3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["jog4"] = {
@@ -6814,7 +6814,7 @@ RES.EN.Customs.General = {
         'Jog 4',
         imageId = 'jog4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["jog5"] = {
@@ -6823,7 +6823,7 @@ RES.EN.Customs.General = {
         'Jog 5',
         imageId = 'jog5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["jump"] = {
@@ -6862,7 +6862,7 @@ RES.EN.Customs.General = {
         'Jumping Jacks',
         imageId = 'jumpingjacks',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["jxbottle"] = {
@@ -6901,7 +6901,7 @@ RES.EN.Customs.General = {
         'Hug Dog',
         imageId = 'k9pose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["karate"] = {
@@ -6923,7 +6923,7 @@ RES.EN.Customs.General = {
         imageId = 'keyfob',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["kick"] = {
@@ -6932,7 +6932,7 @@ RES.EN.Customs.General = {
         'Kick',
         imageId = 'kick',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kick2"] = {
@@ -6941,7 +6941,7 @@ RES.EN.Customs.General = {
         'Kick 2',
         imageId = 'kick2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kick3"] = {
@@ -6959,7 +6959,7 @@ RES.EN.Customs.General = {
         'Kneel 2',
         imageId = 'kneel2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kneel3"] = {
@@ -6968,7 +6968,7 @@ RES.EN.Customs.General = {
         'Kneel 3',
         imageId = 'kneel3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kneel4"] = {
@@ -6977,7 +6977,7 @@ RES.EN.Customs.General = {
         'Kneel 4',
         imageId = 'kneel4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kneel5"] = {
@@ -6986,7 +6986,7 @@ RES.EN.Customs.General = {
         'Kneel 5',
         imageId = 'kneel5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kneelbored"] = {
@@ -6997,7 +6997,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'standup',
             StartDelay = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kneelhide"] = {
@@ -7006,7 +7006,7 @@ RES.EN.Customs.General = {
         'Kneel Hide',
         imageId = 'kneelhide',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kneelpeace"] = {
@@ -7017,7 +7017,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'standup',
             StartDelay = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kneelthot"] = {
@@ -7028,7 +7028,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'standup',
             StartDelay = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["knock"] = {
@@ -7037,7 +7037,7 @@ RES.EN.Customs.General = {
         'Knock',
         imageId = 'knock',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["knock2"] = {
@@ -7046,7 +7046,7 @@ RES.EN.Customs.General = {
         'Knock 2',
         imageId = 'knock2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["knucklecrunch"] = {
@@ -7055,7 +7055,7 @@ RES.EN.Customs.General = {
         'Knuckle Crunch',
         imageId = 'knucklecrunch',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["laydownsexy"] = {
@@ -7066,7 +7066,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry"] = {
@@ -7077,7 +7077,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry2"] = {
@@ -7088,7 +7088,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry3"] = {
@@ -7099,7 +7099,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry4"] = {
@@ -7110,7 +7110,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry5"] = {
@@ -7121,7 +7121,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry6"] = {
@@ -7132,7 +7132,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry7"] = {
@@ -7143,7 +7143,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["layncry8"] = {
@@ -7154,7 +7154,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["laysexy"] = {
@@ -7165,7 +7165,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lean2"] = {
@@ -7174,7 +7174,7 @@ RES.EN.Customs.General = {
         'Lean 2',
         imageId = 'lean2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lean3"] = {
@@ -7183,7 +7183,7 @@ RES.EN.Customs.General = {
         'Lean 3',
         imageId = 'lean3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lean4"] = {
@@ -7192,7 +7192,7 @@ RES.EN.Customs.General = {
         'Lean 4',
         imageId = 'lean4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lean5"] = {
@@ -7201,7 +7201,7 @@ RES.EN.Customs.General = {
         'Lean 5',
         imageId = 'lean5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lean6"] = {
@@ -7210,7 +7210,7 @@ RES.EN.Customs.General = {
         'Lean 6',
         imageId = 'lean6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leanbar2"] = {
@@ -7219,7 +7219,7 @@ RES.EN.Customs.General = {
         'Lean Bar 2',
         imageId = 'leanbar2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leanbar3"] = {
@@ -7228,7 +7228,7 @@ RES.EN.Customs.General = {
         'Lean Bar 3',
         imageId = 'leanbar3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leanbar4"] = {
@@ -7237,7 +7237,7 @@ RES.EN.Customs.General = {
         'Lean Bar 4',
         imageId = 'leanbar4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leanflirt"] = {
@@ -7246,7 +7246,7 @@ RES.EN.Customs.General = {
         'Lean Flirt',
         imageId = 'leanflirt',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leanhigh"] = {
@@ -7255,7 +7255,7 @@ RES.EN.Customs.General = {
         'Lean High',
         imageId = 'leanhigh',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["leanhigh2"] = {
@@ -7264,7 +7264,7 @@ RES.EN.Customs.General = {
         'Lean High 2',
         imageId = 'leanhigh2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["leanplan"] = {
@@ -7275,7 +7275,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'offtable',
             StartDelay = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leanside"] = {
@@ -7284,7 +7284,7 @@ RES.EN.Customs.General = {
         'Leanside',
         imageId = 'leanside',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["leanside2"] = {
@@ -7293,7 +7293,7 @@ RES.EN.Customs.General = {
         'Leanside 2',
         imageId = 'leanside2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["leanside3"] = {
@@ -7302,7 +7302,7 @@ RES.EN.Customs.General = {
         'Leanside 3',
         imageId = 'leanside3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["leanside4"] = {
@@ -7311,7 +7311,7 @@ RES.EN.Customs.General = {
         'Leanside 4',
         imageId = 'leanside4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leanside5"] = {
@@ -7320,7 +7320,7 @@ RES.EN.Customs.General = {
         'Leanside 5',
         imageId = 'leanside5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ledge"] = {
@@ -7329,7 +7329,7 @@ RES.EN.Customs.General = {
         'Ledge',
         imageId = 'ledge',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lift"] = {
@@ -7338,7 +7338,7 @@ RES.EN.Customs.General = {
         'Lift',
         imageId = 'lift',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["littlebaby"] = {
@@ -7417,7 +7417,7 @@ RES.EN.Customs.General = {
         'LOL',
         imageId = 'lol',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lol2"] = {
@@ -7426,7 +7426,7 @@ RES.EN.Customs.General = {
         'LOL 2',
         imageId = 'lol2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lostconfused"] = {
@@ -7463,7 +7463,7 @@ RES.EN.Customs.General = {
         'Male Cross Arms',
         imageId = 'malecrossarms',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malefistface"] = {
@@ -7472,7 +7472,7 @@ RES.EN.Customs.General = {
         'Male Fist Face',
         imageId = 'malefistface',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malegangpose"] = {
@@ -7481,7 +7481,7 @@ RES.EN.Customs.General = {
         'Male Gang Pose',
         imageId = 'malegangpose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malegunpose1"] = {
@@ -7490,7 +7490,7 @@ RES.EN.Customs.General = {
         'Male Gun Pose 1',
         imageId = 'malegunpose1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malemiddlefinger"] = {
@@ -7499,7 +7499,7 @@ RES.EN.Customs.General = {
         'Male Middle Finger',
         imageId = 'malemiddlefinger',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malepose1"] = {
@@ -7508,7 +7508,7 @@ RES.EN.Customs.General = {
         'Male Pose 1',
         imageId = 'malepose1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malepose2"] = {
@@ -7517,7 +7517,7 @@ RES.EN.Customs.General = {
         'Male Pose 2',
         imageId = 'malepose2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malepose3"] = {
@@ -7526,7 +7526,7 @@ RES.EN.Customs.General = {
         'Male Pose 3',
         imageId = 'malepose3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malepose4"] = {
@@ -7535,7 +7535,7 @@ RES.EN.Customs.General = {
         'Male Pose 4',
         imageId = 'malepose4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malepose5"] = {
@@ -7544,7 +7544,7 @@ RES.EN.Customs.General = {
         'Male Pose 5',
         imageId = 'malepose5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposea"] = {
@@ -7553,7 +7553,7 @@ RES.EN.Customs.General = {
         'Male Pose A',
         imageId = 'maleposea',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposeb"] = {
@@ -7562,7 +7562,7 @@ RES.EN.Customs.General = {
         'Male Pose B',
         imageId = 'maleposeb',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposec"] = {
@@ -7571,7 +7571,7 @@ RES.EN.Customs.General = {
         'Male Pose C',
         imageId = 'maleposec',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposed"] = {
@@ -7580,7 +7580,7 @@ RES.EN.Customs.General = {
         'Male Pose D',
         imageId = 'maleposed',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposee"] = {
@@ -7589,7 +7589,7 @@ RES.EN.Customs.General = {
         'Male Pose E',
         imageId = 'maleposee',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposee1"] = {
@@ -7598,7 +7598,7 @@ RES.EN.Customs.General = {
         'Male Pose E1',
         imageId = 'maleposee1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposef"] = {
@@ -7607,7 +7607,7 @@ RES.EN.Customs.General = {
         'Male Pose F',
         imageId = 'maleposef',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposef1"] = {
@@ -7616,7 +7616,7 @@ RES.EN.Customs.General = {
         'Male Pose F1',
         imageId = 'maleposef1',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleposeg"] = {
@@ -7625,7 +7625,7 @@ RES.EN.Customs.General = {
         'Male Pose G',
         imageId = 'maleposeg',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maleshoecheck"] = {
@@ -7634,7 +7634,7 @@ RES.EN.Customs.General = {
         'Male Shoe Check Pose',
         imageId = 'maleshoecheck',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malestandpose"] = {
@@ -7643,7 +7643,7 @@ RES.EN.Customs.General = {
         'Male Stand Pose',
         imageId = 'malestandpose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["me"] = {
@@ -7653,7 +7653,7 @@ RES.EN.Customs.General = {
         imageId = 'me',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mechanic"] = {
@@ -7662,7 +7662,7 @@ RES.EN.Customs.General = {
         'Mechanic',
         imageId = 'mechanic',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mechanic2"] = {
@@ -7671,7 +7671,7 @@ RES.EN.Customs.General = {
         'Mechanic 2',
         imageId = 'mechanic2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mechanic3"] = {
@@ -7681,7 +7681,7 @@ RES.EN.Customs.General = {
         imageId = 'mechanic3',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mechanic4"] = {
@@ -7690,7 +7690,7 @@ RES.EN.Customs.General = {
         'Mechanic 4',
         imageId = 'mechanic4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mechanic5"] = {
@@ -7699,7 +7699,7 @@ RES.EN.Customs.General = {
         'Mechanic 5',
         imageId = 'mechanic5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["medic2"] = {
@@ -7708,7 +7708,7 @@ RES.EN.Customs.General = {
         'Medic 2',
         imageId = 'medic2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["meditate"] = {
@@ -7719,7 +7719,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'meditateup',
             StartDelay = 300,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["meditate2"] = {
@@ -7730,7 +7730,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'meditateup',
             StartDelay = 300,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["meditate3"] = {
@@ -7741,7 +7741,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'meditateup',
             StartDelay = 300,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["metal"] = {
@@ -7750,7 +7750,7 @@ RES.EN.Customs.General = {
         'Metal',
         imageId = 'metal',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mindblown"] = {
@@ -7760,7 +7760,7 @@ RES.EN.Customs.General = {
         imageId = 'mindblown',
         AnimationOptions = {
             EmoteDuration = 4000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mindblown2"] = {
@@ -7770,7 +7770,7 @@ RES.EN.Customs.General = {
         imageId = 'mindblown2',
         AnimationOptions = {
             EmoteDuration = 4000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mindcontrol"] = {
@@ -7779,7 +7779,7 @@ RES.EN.Customs.General = {
         'Mind Control',
         imageId = 'mindcontrol',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mindcontrol2"] = {
@@ -7788,7 +7788,7 @@ RES.EN.Customs.General = {
         'Mind Control 2',
         imageId = 'mindcontrol2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["model"] = {
@@ -7797,7 +7797,7 @@ RES.EN.Customs.General = {
         'Model Pose Sexy',
         imageId = 'model',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["model2"] = {
@@ -7806,7 +7806,7 @@ RES.EN.Customs.General = {
         'Model Pose 2',
         imageId = 'model2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["model3"] = {
@@ -7815,7 +7815,7 @@ RES.EN.Customs.General = {
         'Model Pose 3',
         imageId = 'model3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["movepose"] = {
@@ -7914,7 +7914,7 @@ RES.EN.Customs.General = {
         'Namaste',
         imageId = 'namaste',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["nervous2"] = {
@@ -7923,7 +7923,7 @@ RES.EN.Customs.General = {
         'Nervous 2',
         imageId = 'nervous2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["nervous3"] = {
@@ -7932,7 +7932,7 @@ RES.EN.Customs.General = {
         'Nervous 3',
         imageId = 'nervous3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["nervous4"] = {
@@ -7949,7 +7949,7 @@ RES.EN.Customs.General = {
         'Nervous',
         imageId = 'nervousa',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["no"] = {
@@ -7959,7 +7959,7 @@ RES.EN.Customs.General = {
         imageId = 'no',
         AnimationOptions = {
             EmoteDuration = 4000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["no2"] = {
@@ -7969,7 +7969,7 @@ RES.EN.Customs.General = {
         imageId = 'no2',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["nosepick"] = {
@@ -7978,7 +7978,7 @@ RES.EN.Customs.General = {
         'Nose Pick',
         imageId = 'nosepick',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["noway"] = {
@@ -7988,7 +7988,7 @@ RES.EN.Customs.General = {
         imageId = 'noway',
         AnimationOptions = {
             EmoteDuration = 1500,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["od"] = {
@@ -8007,7 +8007,7 @@ RES.EN.Customs.General = {
         'OK',
         imageId = 'ok',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["outofbreath"] = {
@@ -8024,7 +8024,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["passout2"] = {
@@ -8035,7 +8035,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["passout3"] = {
@@ -8046,7 +8046,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["passout4"] = {
@@ -8057,7 +8057,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["passout5"] = {
@@ -8068,7 +8068,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["passout6"] = {
@@ -8079,7 +8079,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["passout7"] = {
@@ -8090,7 +8090,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["passout8"] = {
@@ -8101,7 +8101,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["peace"] = {
@@ -8110,7 +8110,7 @@ RES.EN.Customs.General = {
         'Peace',
         imageId = 'peace',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["peace2"] = {
@@ -8119,7 +8119,7 @@ RES.EN.Customs.General = {
         'Peace 2',
         imageId = 'peace2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["peace3"] = {
@@ -8128,7 +8128,7 @@ RES.EN.Customs.General = {
         'Peace 3',
         imageId = 'peace3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["peace4"] = {
@@ -8137,7 +8137,7 @@ RES.EN.Customs.General = {
         'Peace 4',
         imageId = 'peace4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["peace5"] = {
@@ -8146,7 +8146,7 @@ RES.EN.Customs.General = {
         'Peace 5',
         imageId = 'peace5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["peace6"] = {
@@ -8155,7 +8155,7 @@ RES.EN.Customs.General = {
         'Peace 6',
         imageId = 'peace6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["peace7"] = {
@@ -8164,7 +8164,7 @@ RES.EN.Customs.General = {
         'Peace 7',
         imageId = 'peace7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["peacef"] = {
@@ -8173,7 +8173,7 @@ RES.EN.Customs.General = {
         'Peace Female',
         imageId = 'peacef',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pee"] = {
@@ -8223,7 +8223,7 @@ RES.EN.Customs.General = {
                 1.0,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pee3"] = {
@@ -8248,7 +8248,7 @@ RES.EN.Customs.General = {
                 1.0,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["peek"] = {
@@ -8257,7 +8257,7 @@ RES.EN.Customs.General = {
         'Peek',
         imageId = 'peek',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["petting"] = {
@@ -8266,7 +8266,7 @@ RES.EN.Customs.General = {
         'Petting',
         imageId = 'petting',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["picklock"] = {
@@ -8275,7 +8275,7 @@ RES.EN.Customs.General = {
         'Picklock',
         imageId = 'picklock',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pickup"] = {
@@ -8290,7 +8290,7 @@ RES.EN.Customs.General = {
         'Hands in pockets (Hoodie)',
         imageId = 'pockets',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["poface"] = {
@@ -8329,7 +8329,7 @@ RES.EN.Customs.General = {
         'Point',
         imageId = 'point',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pointdown"] = {
@@ -8339,7 +8339,7 @@ RES.EN.Customs.General = {
         imageId = 'pointdown',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pointpose"] = {
@@ -8348,7 +8348,7 @@ RES.EN.Customs.General = {
         'Point Down',
         imageId = 'pointpose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pointright"] = {
@@ -8357,7 +8357,7 @@ RES.EN.Customs.General = {
         'Point Right',
         imageId = 'pointright',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["policecrowd"] = {
@@ -8366,7 +8366,7 @@ RES.EN.Customs.General = {
         'Police Crowd',
         imageId = 'policecrowd',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["policecrowd2"] = {
@@ -8375,7 +8375,7 @@ RES.EN.Customs.General = {
         'Police Crowd 2',
         imageId = 'policecrowd2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecutef"] = {
@@ -8384,7 +8384,7 @@ RES.EN.Customs.General = {
         'Cute Pose Female',
         imageId = 'posecutef',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecutef2"] = {
@@ -8393,7 +8393,7 @@ RES.EN.Customs.General = {
         'Cute Pose Female 2',
         imageId = 'posecutef2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecutef3"] = {
@@ -8402,7 +8402,7 @@ RES.EN.Customs.General = {
         'Cute Pose Female 3',
         imageId = 'posecutef3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecutef4"] = {
@@ -8411,7 +8411,7 @@ RES.EN.Customs.General = {
         'Cute Pose Female 4',
         imageId = 'posecutef4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecutem"] = {
@@ -8420,7 +8420,7 @@ RES.EN.Customs.General = {
         'Cute Pose Male',
         imageId = 'posecutem',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posem"] = {
@@ -8501,7 +8501,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pull"] = {
@@ -8510,7 +8510,7 @@ RES.EN.Customs.General = {
         'Pull',
         imageId = 'pull',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pullover"] = {
@@ -8520,7 +8520,7 @@ RES.EN.Customs.General = {
         imageId = 'pullover',
         AnimationOptions = {
             EmoteDuration = 1300,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["punching"] = {
@@ -8529,7 +8529,7 @@ RES.EN.Customs.General = {
         'Punching',
         imageId = 'punching',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["punching2"] = {
@@ -8546,7 +8546,7 @@ RES.EN.Customs.General = {
         'Push',
         imageId = 'push',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["push2"] = {
@@ -8555,7 +8555,7 @@ RES.EN.Customs.General = {
         'Push 2',
         imageId = 'push2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pushup"] = {
@@ -8564,7 +8564,7 @@ RES.EN.Customs.General = {
         'Pushup',
         imageId = 'pushup',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rabbit"] = {
@@ -8579,7 +8579,7 @@ RES.EN.Customs.General = {
         'Radio',
         imageId = 'radio',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rap"] = {
@@ -8588,7 +8588,7 @@ RES.EN.Customs.General = {
         'Rap / Sing',
         imageId = 'rap',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rawr"] = {
@@ -8597,7 +8597,7 @@ RES.EN.Customs.General = {
         'Rawr',
         imageId = 'rawr',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["relax"] = {
@@ -8608,7 +8608,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 800,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["relax2"] = {
@@ -8619,7 +8619,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 800,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["respect"] = {
@@ -8628,7 +8628,7 @@ RES.EN.Customs.General = {
         'Respect Male',
         imageId = 'respect',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["respectf"] = {
@@ -8637,7 +8637,7 @@ RES.EN.Customs.General = {
         'Respect Female',
         imageId = 'respectf',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["salute"] = {
@@ -8646,7 +8646,7 @@ RES.EN.Customs.General = {
         'Salute',
         imageId = 'salute',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["salute2"] = {
@@ -8655,7 +8655,7 @@ RES.EN.Customs.General = {
         'Salute 2',
         imageId = 'salute2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["salute3"] = {
@@ -8664,7 +8664,7 @@ RES.EN.Customs.General = {
         'Salute 3',
         imageId = 'salute3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sassy"] = {
@@ -8673,7 +8673,7 @@ RES.EN.Customs.General = {
         'Sassy',
         imageId = 'sassy',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["scared"] = {
@@ -8682,7 +8682,7 @@ RES.EN.Customs.General = {
         'Scared',
         imageId = 'scared',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["scared2"] = {
@@ -8691,7 +8691,7 @@ RES.EN.Customs.General = {
         'Scared 2',
         imageId = 'scared2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["scared3"] = {
@@ -8700,7 +8700,7 @@ RES.EN.Customs.General = {
         'Scared 2',
         imageId = 'scared3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["scratch"] = {
@@ -8719,7 +8719,7 @@ RES.EN.Customs.General = {
         'Screw You',
         imageId = 'screwyou',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["scrolling"] = {
@@ -8768,7 +8768,7 @@ RES.EN.Customs.General = {
         'Sexy Pose',
         imageId = 'sexypose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sexypose2"] = {
@@ -8777,7 +8777,7 @@ RES.EN.Customs.General = {
         'Sexy Pose 2',
         imageId = 'sexypose2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sexypose3"] = {
@@ -8786,7 +8786,7 @@ RES.EN.Customs.General = {
         'Sexy Pose 3',
         imageId = 'sexypose3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sexypose4"] = {
@@ -8795,7 +8795,7 @@ RES.EN.Customs.General = {
         'Sexy Pose 4',
         imageId = 'sexypose4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sexypose5"] = {
@@ -8804,7 +8804,7 @@ RES.EN.Customs.General = {
         'Sexy Pose 5',
         imageId = 'sexypose5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sexypose6"] = {
@@ -8813,7 +8813,7 @@ RES.EN.Customs.General = {
         'Sexy Pose 6',
         imageId = 'sexypose6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sexypose7"] = {
@@ -8822,7 +8822,7 @@ RES.EN.Customs.General = {
         'Sexy Pose 7',
         imageId = 'sexypose7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["shaka"] = {
@@ -8831,7 +8831,7 @@ RES.EN.Customs.General = {
         'Shaka \'Hang Loose\'',
         imageId = 'shaka',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shaka2"] = {
@@ -8840,7 +8840,7 @@ RES.EN.Customs.General = {
         'Shaka \'Hang Loose Casual\'',
         imageId = 'shaka2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shakeoff"] = {
@@ -8850,7 +8850,7 @@ RES.EN.Customs.General = {
         imageId = 'shakeoff',
         AnimationOptions = {
             EmoteDuration = 3500,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shoepose"] = {
@@ -8860,7 +8860,7 @@ RES.EN.Customs.General = {
         imageId = 'shoepose',
         AnimationOptions = {
             StartDelay = 240,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["shot"] = {
@@ -8870,7 +8870,7 @@ RES.EN.Customs.General = {
         imageId = 'shot',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["showboobs"] = {
@@ -8899,7 +8899,7 @@ RES.EN.Customs.General = {
         'Shower Enter Female',
         imageId = 'showerf',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["showerf2"] = {
@@ -8908,7 +8908,7 @@ RES.EN.Customs.General = {
         'Shower Female',
         imageId = 'showerf2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["showerf3"] = {
@@ -8917,7 +8917,7 @@ RES.EN.Customs.General = {
         'Shower Female 2',
         imageId = 'showerf3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["showerm"] = {
@@ -8926,7 +8926,7 @@ RES.EN.Customs.General = {
         'Shower Enter Male',
         imageId = 'showerm',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["showerm2"] = {
@@ -8935,7 +8935,7 @@ RES.EN.Customs.General = {
         'Shower Male 2',
         imageId = 'showerm2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["showerm3"] = {
@@ -8944,7 +8944,7 @@ RES.EN.Customs.General = {
         'Shower Male 3',
         imageId = 'showerm3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["showerm4"] = {
@@ -8953,7 +8953,7 @@ RES.EN.Customs.General = {
         'Shower Male 4',
         imageId = 'showerm4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["shrug"] = {
@@ -8963,7 +8963,7 @@ RES.EN.Customs.General = {
         imageId = 'shrug',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shrug2"] = {
@@ -8973,7 +8973,7 @@ RES.EN.Customs.General = {
         imageId = 'shrug2',
         AnimationOptions = {
             EmoteDuration = 1000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sit"] = {
@@ -8983,7 +8983,7 @@ RES.EN.Customs.General = {
         imageId = 'sit',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit10"] = {
@@ -8993,7 +8993,7 @@ RES.EN.Customs.General = {
         imageId = 'sit10',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit2"] = {
@@ -9003,7 +9003,7 @@ RES.EN.Customs.General = {
         imageId = 'sit2',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit3"] = {
@@ -9013,7 +9013,7 @@ RES.EN.Customs.General = {
         imageId = 'sit3',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit4"] = {
@@ -9023,7 +9023,7 @@ RES.EN.Customs.General = {
         imageId = 'sit4',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit5"] = {
@@ -9033,7 +9033,7 @@ RES.EN.Customs.General = {
         imageId = 'sit5',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit6"] = {
@@ -9043,7 +9043,7 @@ RES.EN.Customs.General = {
         imageId = 'sit6',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit7"] = {
@@ -9054,7 +9054,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 900,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit8"] = {
@@ -9064,7 +9064,7 @@ RES.EN.Customs.General = {
         imageId = 'sit8',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sit9"] = {
@@ -9074,7 +9074,7 @@ RES.EN.Customs.General = {
         imageId = 'sit9',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair"] = {
@@ -9084,7 +9084,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair2"] = {
@@ -9094,7 +9094,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair2',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair3"] = {
@@ -9104,7 +9104,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair3',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair4"] = {
@@ -9114,7 +9114,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair4',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair5"] = {
@@ -9124,7 +9124,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair5',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair6"] = {
@@ -9134,7 +9134,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair6',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair7"] = {
@@ -9144,7 +9144,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair7',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchair8"] = {
@@ -9154,7 +9154,7 @@ RES.EN.Customs.General = {
         imageId = 'sitchair8',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitcute"] = {
@@ -9164,7 +9164,7 @@ RES.EN.Customs.General = {
         imageId = 'sitcute',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitdrunk"] = {
@@ -9174,7 +9174,7 @@ RES.EN.Customs.General = {
         imageId = 'sitdrunk',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitfu"] = {
@@ -9184,7 +9184,7 @@ RES.EN.Customs.General = {
         imageId = 'sitfu',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitkylie"] = {
@@ -9204,7 +9204,7 @@ RES.EN.Customs.General = {
         imageId = 'sitlean',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitlean2"] = {
@@ -9214,7 +9214,7 @@ RES.EN.Customs.General = {
         imageId = 'sitlean2',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitlean3"] = {
@@ -9224,7 +9224,7 @@ RES.EN.Customs.General = {
         imageId = 'sitlean3',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitpose"] = {
@@ -9244,7 +9244,7 @@ RES.EN.Customs.General = {
         imageId = 'sitsad',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitsad2"] = {
@@ -9254,7 +9254,7 @@ RES.EN.Customs.General = {
         imageId = 'sitsad2',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitsad3"] = {
@@ -9264,7 +9264,7 @@ RES.EN.Customs.General = {
         imageId = 'sitsad3',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitsad4"] = {
@@ -9275,7 +9275,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 600,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitscared"] = {
@@ -9286,7 +9286,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             ExitEmoteType = 'Exits',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitscared2"] = {
@@ -9297,7 +9297,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             ExitEmoteType = 'Exits',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitscared3"] = {
@@ -9308,7 +9308,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             ExitEmoteType = 'Exits',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sittoilet"] = {
@@ -9318,7 +9318,7 @@ RES.EN.Customs.General = {
         imageId = 'sittoilet',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sittoilet2"] = {
@@ -9328,7 +9328,7 @@ RES.EN.Customs.General = {
         imageId = 'sittoilet2',
         AnimationOptions = {
             ExitEmote = 'offchair',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["situp"] = {
@@ -9337,7 +9337,7 @@ RES.EN.Customs.General = {
         'Sit Up',
         imageId = 'situp',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sleep"] = {
@@ -9349,7 +9349,7 @@ RES.EN.Customs.General = {
             ExitEmote = 'getup',
             ExitEmoteType = 'Exits',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["slide"] = {
@@ -9376,7 +9376,7 @@ RES.EN.Customs.General = {
         'Slow Clap',
         imageId = 'slowclap',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["slowclap2"] = {
@@ -9385,7 +9385,7 @@ RES.EN.Customs.General = {
         'Slow Clap 2',
         imageId = 'slowclap2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["slowclap3"] = {
@@ -9394,7 +9394,7 @@ RES.EN.Customs.General = {
         'Slow Clap 3',
         imageId = 'slowclap3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["slugger"] = {
@@ -9409,7 +9409,7 @@ RES.EN.Customs.General = {
         'Smell',
         imageId = 'smell',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["smokendrink"] = {
@@ -9453,7 +9453,7 @@ RES.EN.Customs.General = {
                 -78.3079,
                 7.947,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["smokengun"] = {
@@ -9489,7 +9489,7 @@ RES.EN.Customs.General = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["snot"] = {
@@ -9499,7 +9499,7 @@ RES.EN.Customs.General = {
         imageId = 'snot',
         AnimationOptions = {
             EmoteDuration = 4500,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["so"] = {
@@ -9519,7 +9519,7 @@ RES.EN.Customs.General = {
         imageId = 'solo_handshake',
         AnimationOptions = {
             EmoteDuration = 3000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["solo_handshake2"] = {
@@ -9529,7 +9529,7 @@ RES.EN.Customs.General = {
         imageId = 'solo_handshake2',
         AnimationOptions = {
             EmoteDuration = 3000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["solo_headbutt"] = {
@@ -9545,7 +9545,7 @@ RES.EN.Customs.General = {
         imageId = 'solo_slap',
         AnimationOptions = {
             EmoteDuration = 2000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["solo_stickup"] = {
@@ -9554,7 +9554,7 @@ RES.EN.Customs.General = {
         'Stick Up',
         imageId = 'solo_stickup',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["specialpose"] = {
@@ -10023,7 +10023,7 @@ RES.EN.Customs.General = {
         'Spider-Man',
         imageId = 'spiderman',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sport"] = {
@@ -10042,7 +10042,7 @@ RES.EN.Customs.General = {
         'Squat Gun Pose - Left',
         imageId = 'squatgunpose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["squatgunpose3"] = {
@@ -10051,7 +10051,7 @@ RES.EN.Customs.General = {
         'Squat Gun Pose 3',
         imageId = 'squatgunpose3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["statue2"] = {
@@ -10060,7 +10060,7 @@ RES.EN.Customs.General = {
         'Statue 2',
         imageId = 'statue2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["statue3"] = {
@@ -10069,7 +10069,7 @@ RES.EN.Customs.General = {
         'Statue 3',
         imageId = 'statue3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stink"] = {
@@ -10078,7 +10078,7 @@ RES.EN.Customs.General = {
         'Stink',
         imageId = 'stink',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stone"] = {
@@ -10097,7 +10097,7 @@ RES.EN.Customs.General = {
         'Stop',
         imageId = 'stop',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stretch"] = {
@@ -10106,7 +10106,7 @@ RES.EN.Customs.General = {
         'Stretch',
         imageId = 'stretch',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stretch2"] = {
@@ -10115,7 +10115,7 @@ RES.EN.Customs.General = {
         'Stretch 2',
         imageId = 'stretch2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stretch3"] = {
@@ -10124,7 +10124,7 @@ RES.EN.Customs.General = {
         'Stretch 3',
         imageId = 'stretch3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stretch4"] = {
@@ -10133,7 +10133,7 @@ RES.EN.Customs.General = {
         'Stretch 4',
         imageId = 'stretch4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stumble"] = {
@@ -10142,7 +10142,7 @@ RES.EN.Customs.General = {
         'Stumble',
         imageId = 'stumble',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stunned"] = {
@@ -10151,7 +10151,7 @@ RES.EN.Customs.General = {
         'Stunned',
         imageId = 'stunned',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sunbathe"] = {
@@ -10162,7 +10162,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sunbathe2"] = {
@@ -10173,7 +10173,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sunbathe3"] = {
@@ -10184,7 +10184,7 @@ RES.EN.Customs.General = {
         AnimationOptions = {
             ExitEmote = 'getup',
             StartDelay = 700,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["superhero"] = {
@@ -10193,7 +10193,7 @@ RES.EN.Customs.General = {
         'Superhero',
         imageId = 'superhero',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["superhero2"] = {
@@ -10202,7 +10202,7 @@ RES.EN.Customs.General = {
         'Superhero 2',
         imageId = 'superhero2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["surrender"] = {
@@ -10212,7 +10212,7 @@ RES.EN.Customs.General = {
         imageId = 'surrender',
         AnimationOptions = {
             ExitEmote = 'surrender_exit',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["surrender2"] = {
@@ -10222,7 +10222,7 @@ RES.EN.Customs.General = {
         imageId = 'surrender2',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["surrender3"] = {
@@ -10232,7 +10232,7 @@ RES.EN.Customs.General = {
         imageId = 'surrender3',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["surrender4"] = {
@@ -10242,7 +10242,7 @@ RES.EN.Customs.General = {
         imageId = 'surrender4',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["surrender5"] = {
@@ -10252,7 +10252,7 @@ RES.EN.Customs.General = {
         imageId = 'surrender5',
         AnimationOptions = {
             ExitEmote = 'surrender_exit',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["surrender6"] = {
@@ -10262,7 +10262,7 @@ RES.EN.Customs.General = {
         imageId = 'surrender6',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["surrender7"] = {
@@ -10272,7 +10272,7 @@ RES.EN.Customs.General = {
         imageId = 'surrender7',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["taichi"] = {
@@ -10281,7 +10281,7 @@ RES.EN.Customs.General = {
         'Tai chi',
         imageId = 'taichi',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["taichi2"] = {
@@ -10298,7 +10298,7 @@ RES.EN.Customs.General = {
         'Think',
         imageId = 'think',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["think2"] = {
@@ -10307,7 +10307,7 @@ RES.EN.Customs.General = {
         'Think 2',
         imageId = 'think2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["think3"] = {
@@ -10316,7 +10316,7 @@ RES.EN.Customs.General = {
         'Think 3',
         imageId = 'think3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["think4"] = {
@@ -10325,7 +10325,7 @@ RES.EN.Customs.General = {
         'Think 4',
         imageId = 'think4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["think5"] = {
@@ -10335,7 +10335,7 @@ RES.EN.Customs.General = {
         imageId = 'think5',
         AnimationOptions = {
             EmoteDuration = 2000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["threaten"] = {
@@ -10344,7 +10344,7 @@ RES.EN.Customs.General = {
         'Threaten',
         imageId = 'threaten',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["thumbsup"] = {
@@ -10353,7 +10353,7 @@ RES.EN.Customs.General = {
         'Thumbs Up',
         imageId = 'thumbsup',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["thumbsup2"] = {
@@ -10362,7 +10362,7 @@ RES.EN.Customs.General = {
         'Thumbs Up 2',
         imageId = 'thumbsup2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["thumbsup3"] = {
@@ -10372,7 +10372,7 @@ RES.EN.Customs.General = {
         imageId = 'thumbsup3',
         AnimationOptions = {
             EmoteDuration = 3000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tighten"] = {
@@ -10382,7 +10382,7 @@ RES.EN.Customs.General = {
         imageId = 'tighten',
         AnimationOptions = {
             ExitEmote = 'getup',
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tpose"] = {
@@ -10391,7 +10391,7 @@ RES.EN.Customs.General = {
         'T Pose',
         imageId = 'tpose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tpose2"] = {
@@ -10400,7 +10400,7 @@ RES.EN.Customs.General = {
         'T Pose 2',
         imageId = 'tpose2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tryclothes"] = {
@@ -10409,7 +10409,7 @@ RES.EN.Customs.General = {
         'Try Clothes',
         imageId = 'tryclothes',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tryclothes2"] = {
@@ -10418,7 +10418,7 @@ RES.EN.Customs.General = {
         'Try Clothes 2',
         imageId = 'tryclothes2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tryclothes3"] = {
@@ -10427,7 +10427,7 @@ RES.EN.Customs.General = {
         'Try Clothes 3',
         imageId = 'tryclothes3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tryclothes4"] = {
@@ -10452,7 +10452,7 @@ RES.EN.Customs.General = {
         'Type',
         imageId = 'type',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["type2"] = {
@@ -10461,7 +10461,7 @@ RES.EN.Customs.General = {
         'Type 2',
         imageId = 'type2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["type3"] = {
@@ -10470,7 +10470,7 @@ RES.EN.Customs.General = {
         'Type 3',
         imageId = 'type3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["type4"] = {
@@ -10479,7 +10479,7 @@ RES.EN.Customs.General = {
         'Type 4',
         imageId = 'type4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["type5"] = {
@@ -10488,7 +10488,7 @@ RES.EN.Customs.General = {
         'Type 5 - Stare',
         imageId = 'type5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["uwu"] = {
@@ -10497,7 +10497,7 @@ RES.EN.Customs.General = {
         'UwU',
         imageId = 'uwu',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["uwu2"] = {
@@ -10506,7 +10506,7 @@ RES.EN.Customs.General = {
         'UwU 2',
         imageId = 'uwu2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["valet"] = {
@@ -10515,7 +10515,7 @@ RES.EN.Customs.General = {
         'Valet',
         imageId = 'valet',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["valet2"] = {
@@ -10524,7 +10524,7 @@ RES.EN.Customs.General = {
         'Valet 2',
         imageId = 'valet2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["valet3"] = {
@@ -10533,7 +10533,7 @@ RES.EN.Customs.General = {
         'Valet 3',
         imageId = 'valet3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vest"] = {
@@ -10542,7 +10542,7 @@ RES.EN.Customs.General = {
         'Hold Vest',
         imageId = 'vest',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vest2"] = {
@@ -10551,7 +10551,7 @@ RES.EN.Customs.General = {
         'Hold Vest 2',
         imageId = 'vest2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vest3"] = {
@@ -10560,7 +10560,7 @@ RES.EN.Customs.General = {
         'Hold Vest 3',
         imageId = 'vest3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vest4"] = {
@@ -10569,7 +10569,7 @@ RES.EN.Customs.General = {
         'Hold Vest 4',
         imageId = 'vest4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vest5"] = {
@@ -10578,7 +10578,7 @@ RES.EN.Customs.General = {
         'Hold Vest 5',
         imageId = 'vest5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vest6"] = {
@@ -10587,7 +10587,7 @@ RES.EN.Customs.General = {
         'Hold Vest 6',
         imageId = 'vest6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait"] = {
@@ -10596,7 +10596,7 @@ RES.EN.Customs.General = {
         'Wait',
         imageId = 'wait',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait10"] = {
@@ -10605,7 +10605,7 @@ RES.EN.Customs.General = {
         'Wait 10',
         imageId = 'wait10',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait11"] = {
@@ -10614,7 +10614,7 @@ RES.EN.Customs.General = {
         'Wait 11',
         imageId = 'wait11',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait12"] = {
@@ -10623,7 +10623,7 @@ RES.EN.Customs.General = {
         'Wait 12',
         imageId = 'wait12',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait13"] = {
@@ -10632,7 +10632,7 @@ RES.EN.Customs.General = {
         'Wait 13',
         imageId = 'wait13',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait2"] = {
@@ -10641,7 +10641,7 @@ RES.EN.Customs.General = {
         'Wait 2',
         imageId = 'wait2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait3"] = {
@@ -10650,7 +10650,7 @@ RES.EN.Customs.General = {
         'Wait 3',
         imageId = 'wait3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait4"] = {
@@ -10659,7 +10659,7 @@ RES.EN.Customs.General = {
         'Wait 4',
         imageId = 'wait4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait5"] = {
@@ -10668,7 +10668,7 @@ RES.EN.Customs.General = {
         'Wait 5',
         imageId = 'wait5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait6"] = {
@@ -10677,7 +10677,7 @@ RES.EN.Customs.General = {
         'Wait 6',
         imageId = 'wait6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait7"] = {
@@ -10686,7 +10686,7 @@ RES.EN.Customs.General = {
         'Wait 7',
         imageId = 'wait7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait8"] = {
@@ -10695,7 +10695,7 @@ RES.EN.Customs.General = {
         'Wait 8',
         imageId = 'wait8',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wait9"] = {
@@ -10704,7 +10704,7 @@ RES.EN.Customs.General = {
         'Wait 9',
         imageId = 'wait9',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wallpose"] = {
@@ -10713,7 +10713,7 @@ RES.EN.Customs.General = {
         'Wall Pose',
         imageId = 'wallpose',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wallpose2"] = {
@@ -10722,7 +10722,7 @@ RES.EN.Customs.General = {
         'Wall Pose 2',
         imageId = 'wallpose2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wallpose3"] = {
@@ -10731,7 +10731,7 @@ RES.EN.Customs.General = {
         'Wall Pose 3',
         imageId = 'wallpose3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wallpose4"] = {
@@ -10740,7 +10740,7 @@ RES.EN.Customs.General = {
         'Wall Pose 4',
         imageId = 'wallpose4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wallpose5"] = {
@@ -10749,7 +10749,7 @@ RES.EN.Customs.General = {
         'Wall Pose 5',
         imageId = 'wallpose5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wank"] = {
@@ -10759,7 +10759,7 @@ RES.EN.Customs.General = {
         imageId = 'wank',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wank2"] = {
@@ -10769,7 +10769,7 @@ RES.EN.Customs.General = {
         imageId = 'wank2',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wank3"] = {
@@ -10779,7 +10779,7 @@ RES.EN.Customs.General = {
         imageId = 'wank3',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wank4"] = {
@@ -10789,7 +10789,7 @@ RES.EN.Customs.General = {
         imageId = 'wank4',
         AdultAnimation = true,
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wank5"] = {
@@ -10807,7 +10807,7 @@ RES.EN.Customs.General = {
         'Warmth',
         imageId = 'warmth',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["watchstripper"] = {
@@ -10826,7 +10826,7 @@ RES.EN.Customs.General = {
         'Wave',
         imageId = 'wave',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave2"] = {
@@ -10835,7 +10835,7 @@ RES.EN.Customs.General = {
         'Wave 2',
         imageId = 'wave2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave3"] = {
@@ -10844,7 +10844,7 @@ RES.EN.Customs.General = {
         'Wave 3',
         imageId = 'wave3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave4"] = {
@@ -10854,7 +10854,7 @@ RES.EN.Customs.General = {
         imageId = 'wave4',
         AnimationOptions = {
             EmoteDuration = 3000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave5"] = {
@@ -10863,7 +10863,7 @@ RES.EN.Customs.General = {
         'Wave 5',
         imageId = 'wave5',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave6"] = {
@@ -10872,7 +10872,7 @@ RES.EN.Customs.General = {
         'Wave 6',
         imageId = 'wave6',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave7"] = {
@@ -10881,7 +10881,7 @@ RES.EN.Customs.General = {
         'Wave 7',
         imageId = 'wave7',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave8"] = {
@@ -10890,7 +10890,7 @@ RES.EN.Customs.General = {
         'Wave 8',
         imageId = 'wave8',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wave9"] = {
@@ -10899,7 +10899,7 @@ RES.EN.Customs.General = {
         'Wave 9',
         imageId = 'wave9',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["welcomeback"] = {
@@ -10927,7 +10927,7 @@ RES.EN.Customs.General = {
         imageId = 'whistle',
         AnimationOptions = {
             EmoteDuration = 1300,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["whistle2"] = {
@@ -10937,7 +10937,7 @@ RES.EN.Customs.General = {
         imageId = 'whistle2',
         AnimationOptions = {
             EmoteDuration = 2000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yeah"] = {
@@ -10946,7 +10946,7 @@ RES.EN.Customs.General = {
         'Yeah',
         imageId = 'yeah',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["yeah2"] = {
@@ -10963,7 +10963,7 @@ RES.EN.Customs.General = {
         'Yoga 2',
         imageId = 'yoga2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombieswipe"] = {
@@ -10996,7 +10996,7 @@ RES.EN.Customs.General = {
         'Zombie Walk',
         imageId = 'zombiewalk',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombiewalk2"] = {
@@ -11005,7 +11005,7 @@ RES.EN.Customs.General = {
         'Zombie Walk 2',
         imageId = 'zombiewalk2',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombiewalk3"] = {
@@ -11014,7 +11014,7 @@ RES.EN.Customs.General = {
         'Zombie Walk 3',
         imageId = 'zombiewalk3',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zombiewalk4"] = {
@@ -11023,7 +11023,7 @@ RES.EN.Customs.General = {
         'Zombie Run - Circle',
         imageId = 'zombiewalk4',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
 }
@@ -11036,7 +11036,7 @@ RES.EN.Customs.PropEmotes = {
         imageId = 'adjustbag',
         AnimationOptions = {
             EmoteDuration = 9500,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["adjustpanel"] = {
@@ -11045,7 +11045,7 @@ RES.EN.Customs.PropEmotes = {
         'Firefighter Pump PSI',
         imageId = 'adjustpanel',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["airportbag"] = {
@@ -11064,7 +11064,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["airportbag2"] = {
@@ -11140,7 +11140,7 @@ RES.EN.Customs.PropEmotes = {
                 -150.5805,
                 46.708,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["airportbag3"] = {
@@ -11159,7 +11159,7 @@ RES.EN.Customs.PropEmotes = {
                 -6.1917,
                 -24.3334,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["apple"] = {
@@ -11178,7 +11178,7 @@ RES.EN.Customs.PropEmotes = {
                 -166.576,
                 8.4572,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["axe"] = {
@@ -11197,7 +11197,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["axe2"] = {
@@ -11216,7 +11216,7 @@ RES.EN.Customs.PropEmotes = {
                 165.0749,
                 13.9114,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["axe3"] = {
@@ -11235,7 +11235,7 @@ RES.EN.Customs.PropEmotes = {
                 163.6144,
                 20.6091,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["axe4"] = {
@@ -11254,7 +11254,7 @@ RES.EN.Customs.PropEmotes = {
                 -20.0,
                 175.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["backpack"] = {
@@ -11273,7 +11273,7 @@ RES.EN.Customs.PropEmotes = {
                 90.0,
                 175.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["baddiegyat"] = {
@@ -11326,7 +11326,7 @@ RES.EN.Customs.PropEmotes = {
                     Value = 7,
                 },
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bagel"] = {
@@ -11345,7 +11345,7 @@ RES.EN.Customs.PropEmotes = {
                 -53.8984,
                 4.8412,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["balloon"] = {
@@ -11364,7 +11364,7 @@ RES.EN.Customs.PropEmotes = {
                 -101.1702,
                 28.0243,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -11384,7 +11384,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 40.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bball2"] = {
@@ -11403,7 +11403,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bball3"] = {
@@ -11422,7 +11422,7 @@ RES.EN.Customs.PropEmotes = {
                 -99.9999,
                 79.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bball4"] = {
@@ -11441,7 +11441,7 @@ RES.EN.Customs.PropEmotes = {
                 -99.9999,
                 79.9999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bball5"] = {
@@ -11460,7 +11460,7 @@ RES.EN.Customs.PropEmotes = {
                 -99.9999,
                 79.9999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bbat"] = {
@@ -11479,7 +11479,7 @@ RES.EN.Customs.PropEmotes = {
                 0.8479,
                 -12.8826,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bbqf"] = {
@@ -11498,7 +11498,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beachbag"] = {
@@ -11517,7 +11517,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 100.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beachbag2"] = {
@@ -11536,7 +11536,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 100.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beachbag3"] = {
@@ -11555,7 +11555,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 100.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beachring"] = {
@@ -11574,7 +11574,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -2.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beans"] = {
@@ -11603,7 +11603,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beer"] = {
@@ -11622,7 +11622,7 @@ RES.EN.Customs.PropEmotes = {
                 15.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beer2"] = {
@@ -11641,7 +11641,7 @@ RES.EN.Customs.PropEmotes = {
                 15.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beer3"] = {
@@ -11660,7 +11660,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beer4"] = {
@@ -11679,7 +11679,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beer5"] = {
@@ -11698,7 +11698,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beerbox"] = {
@@ -11717,7 +11717,7 @@ RES.EN.Customs.PropEmotes = {
                 266.0,
                 48.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beerbox2"] = {
@@ -11736,7 +11736,7 @@ RES.EN.Customs.PropEmotes = {
                 266.0,
                 48.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beerbox3"] = {
@@ -11755,7 +11755,7 @@ RES.EN.Customs.PropEmotes = {
                 266.0,
                 48.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beerbox4"] = {
@@ -11774,7 +11774,7 @@ RES.EN.Customs.PropEmotes = {
                 266.0,
                 60.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beercan3"] = {
@@ -11793,7 +11793,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beerf"] = {
@@ -11812,7 +11812,7 @@ RES.EN.Customs.PropEmotes = {
                 15.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beerf3"] = {
@@ -11831,7 +11831,7 @@ RES.EN.Customs.PropEmotes = {
                 15.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["beerf4"] = {
@@ -11850,7 +11850,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["beerf5"] = {
@@ -11869,7 +11869,7 @@ RES.EN.Customs.PropEmotes = {
                 15.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["beg"] = {
@@ -11888,7 +11888,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beg2"] = {
@@ -11907,7 +11907,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beg3"] = {
@@ -11926,7 +11926,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["beg4"] = {
@@ -11945,7 +11945,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["binoculars"] = {
@@ -11964,7 +11964,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["binoculars2"] = {
@@ -11983,7 +11983,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boba"] = {
@@ -12002,7 +12002,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boba2"] = {
@@ -12021,7 +12021,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boba3"] = {
@@ -12040,7 +12040,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bonesaw"] = {
@@ -12059,7 +12059,7 @@ RES.EN.Customs.PropEmotes = {
                 180.0,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bong"] = {
@@ -12094,7 +12094,7 @@ RES.EN.Customs.PropEmotes = {
                 1.4,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bong2"] = {
@@ -12129,7 +12129,7 @@ RES.EN.Customs.PropEmotes = {
                 1.4,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bong3"] = {
@@ -12166,7 +12166,7 @@ RES.EN.Customs.PropEmotes = {
                 1.4,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bong4"] = {
@@ -12203,7 +12203,7 @@ RES.EN.Customs.PropEmotes = {
                 1.4,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bongos"] = {
@@ -12222,7 +12222,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["book"] = {
@@ -12241,7 +12241,7 @@ RES.EN.Customs.PropEmotes = {
                 180.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bookb"] = {
@@ -12260,7 +12260,7 @@ RES.EN.Customs.PropEmotes = {
                 158.5623,
                 24.708,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bookc"] = {
@@ -12289,7 +12289,7 @@ RES.EN.Customs.PropEmotes = {
                 176.3905,
                 19.3724,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bookd"] = {
@@ -12308,7 +12308,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -15.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["booke"] = {
@@ -12327,7 +12327,7 @@ RES.EN.Customs.PropEmotes = {
                 3.1232,
                 -21.2448,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bookf"] = {
@@ -12347,7 +12347,7 @@ RES.EN.Customs.PropEmotes = {
                 -14.296,
                 28.8727,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["boombox"] = {
@@ -12366,7 +12366,7 @@ RES.EN.Customs.PropEmotes = {
                 263.0,
                 58.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["boombox2"] = {
@@ -12395,7 +12395,7 @@ RES.EN.Customs.PropEmotes = {
                 176.7406,
                 23.019,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bouquet"] = {
@@ -12414,7 +12414,7 @@ RES.EN.Customs.PropEmotes = {
                 121.0529,
                 -11.7724,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["bouquet2"] = {
@@ -12433,7 +12433,7 @@ RES.EN.Customs.PropEmotes = {
                 60.1852,
                 3.4934,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["box"] = {
@@ -12452,7 +12452,7 @@ RES.EN.Customs.PropEmotes = {
                 290.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["brief"] = {
@@ -12471,7 +12471,7 @@ RES.EN.Customs.PropEmotes = {
                 255.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["brief2"] = {
@@ -12490,7 +12490,7 @@ RES.EN.Customs.PropEmotes = {
                 280.0,
                 53.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["broom"] = {
@@ -12509,7 +12509,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["broom2"] = {
@@ -12528,7 +12528,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["broom3"] = {
@@ -12547,7 +12547,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["broom4"] = {
@@ -12566,7 +12566,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["brushteeth"] = {
@@ -12585,7 +12585,7 @@ RES.EN.Customs.PropEmotes = {
                 -159.0,
                 26.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["burger"] = {
@@ -12604,7 +12604,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["burgerpose"] = {
@@ -12633,7 +12633,7 @@ RES.EN.Customs.PropEmotes = {
                 -169.3724,
                 19.6834,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["businessbag"] = {
@@ -12652,7 +12652,7 @@ RES.EN.Customs.PropEmotes = {
                 -54.1834,
                 -88.4424,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["businessbag2"] = {
@@ -12671,7 +12671,7 @@ RES.EN.Customs.PropEmotes = {
                 -54.1834,
                 -88.4424,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cake"] = {
@@ -12690,7 +12690,7 @@ RES.EN.Customs.PropEmotes = {
                 -245.0,
                 2.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cake2"] = {
@@ -12709,7 +12709,7 @@ RES.EN.Customs.PropEmotes = {
                 -162.0,
                 -44.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cake3"] = {
@@ -12728,7 +12728,7 @@ RES.EN.Customs.PropEmotes = {
                 -72.0,
                 -6.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cake4"] = {
@@ -12747,7 +12747,7 @@ RES.EN.Customs.PropEmotes = {
                 -72.0,
                 -6.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cake5"] = {
@@ -12766,7 +12766,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cake6"] = {
@@ -12785,7 +12785,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cake7"] = {
@@ -12804,7 +12804,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cakew"] = {
@@ -12823,7 +12823,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cakew2"] = {
@@ -12842,7 +12842,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cakew3"] = {
@@ -12861,7 +12861,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -160.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cakew4"] = {
@@ -12880,7 +12880,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 180.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cakew5"] = {
@@ -12899,7 +12899,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cakew6"] = {
@@ -12918,7 +12918,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 20.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cakew7"] = {
@@ -12937,7 +12937,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["camera"] = {
@@ -12969,7 +12969,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["camera2"] = {
@@ -13001,7 +13001,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["camera3"] = {
@@ -13033,7 +13033,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["camera4"] = {
@@ -13065,7 +13065,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["camera5"] = {
@@ -13097,7 +13097,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["camera6"] = {
@@ -13116,7 +13116,7 @@ RES.EN.Customs.PropEmotes = {
                 176.0,
                 79.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cameraphotography"] = {
@@ -13148,7 +13148,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["candy"] = {
@@ -13167,7 +13167,7 @@ RES.EN.Customs.PropEmotes = {
                 180.0,
                 -88.099,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["candyapple"] = {
@@ -13186,7 +13186,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -12.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["candycane"] = {
@@ -13205,7 +13205,7 @@ RES.EN.Customs.PropEmotes = {
                 146.0,
                 -5.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["candycaneb"] = {
@@ -13224,7 +13224,7 @@ RES.EN.Customs.PropEmotes = {
                 146.0,
                 -5.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["candycanec"] = {
@@ -13243,7 +13243,7 @@ RES.EN.Customs.PropEmotes = {
                 146.0,
                 -5.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["candycaned"] = {
@@ -13262,7 +13262,7 @@ RES.EN.Customs.PropEmotes = {
                 146.0,
                 -5.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["candycanee"] = {
@@ -13281,7 +13281,7 @@ RES.EN.Customs.PropEmotes = {
                 146.0,
                 -5.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["carryextinguisher"] = {
@@ -13300,7 +13300,7 @@ RES.EN.Customs.PropEmotes = {
                 -178.5954846,
                 4.5961806,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["carryfoodbag"] = {
@@ -13319,7 +13319,7 @@ RES.EN.Customs.PropEmotes = {
                 -79.9999997,
                 110.0651988,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["carryfoodbag2"] = {
@@ -13338,7 +13338,7 @@ RES.EN.Customs.PropEmotes = {
                 -79.9999997,
                 110.0651988,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["carryfoodbag3"] = {
@@ -13357,7 +13357,7 @@ RES.EN.Customs.PropEmotes = {
                 -79.9999997,
                 110.0651988,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["carrypizza"] = {
@@ -13376,7 +13376,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cashbox"] = {
@@ -13395,7 +13395,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -81.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cashcase"] = {
@@ -13414,7 +13414,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cashcase2"] = {
@@ -13433,7 +13433,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cashcase3"] = {
@@ -13452,7 +13452,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cashcase4"] = {
@@ -13471,7 +13471,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cbbox"] = {
@@ -13490,7 +13490,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cbbox2"] = {
@@ -13509,7 +13509,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cbbox3"] = {
@@ -13528,7 +13528,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cbbox4"] = {
@@ -13547,7 +13547,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cbbox5"] = {
@@ -13566,7 +13566,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cbbox6"] = {
@@ -13585,7 +13585,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 1.99,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["champagne"] = {
@@ -13604,7 +13604,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["champagnespray"] = {
@@ -13636,7 +13636,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
             },
             PtfxWait = 500,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["champw"] = {
@@ -13665,7 +13665,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["champw2"] = {
@@ -13684,7 +13684,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["champw3"] = {
@@ -13703,7 +13703,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["chillteq"] = {
@@ -13723,7 +13723,7 @@ RES.EN.Customs.PropEmotes = {
                 2.9283,
                 -12.5092,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cig"] = {
@@ -13758,7 +13758,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cigar"] = {
@@ -13793,7 +13793,7 @@ RES.EN.Customs.PropEmotes = {
                 1.3,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cigar2"] = {
@@ -13828,7 +13828,7 @@ RES.EN.Customs.PropEmotes = {
                 1.5,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["clean"] = {
@@ -13847,7 +13847,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["clean2"] = {
@@ -13866,7 +13866,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["clipboard"] = {
@@ -13885,7 +13885,7 @@ RES.EN.Customs.PropEmotes = {
                 -50.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cocoa"] = {
@@ -13904,7 +13904,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["coffee"] = {
@@ -13923,7 +13923,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["coffeecall"] = {
@@ -13985,7 +13985,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cofpose"] = {
@@ -14014,7 +14014,7 @@ RES.EN.Customs.PropEmotes = {
                 8.0371,
                 17.0945,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["conehead"] = {
@@ -14033,7 +14033,7 @@ RES.EN.Customs.PropEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cop4"] = {
@@ -14052,7 +14052,7 @@ RES.EN.Customs.PropEmotes = {
                 -20.0,
                 180.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["copbeacon"] = {
@@ -14071,7 +14071,7 @@ RES.EN.Customs.PropEmotes = {
                 -20.0,
                 180.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["crackhead"] = {
@@ -14100,7 +14100,7 @@ RES.EN.Customs.PropEmotes = {
                 178.6009,
                 29.9195,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cranialsaw"] = {
@@ -14119,7 +14119,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["croissant"] = {
@@ -14138,7 +14138,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["cup"] = {
@@ -14157,7 +14157,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dbsoda"] = {
@@ -14176,7 +14176,7 @@ RES.EN.Customs.PropEmotes = {
                 180.0,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["desert"] = {
@@ -14195,7 +14195,7 @@ RES.EN.Customs.PropEmotes = {
                 -36.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dig"] = {
@@ -14225,7 +14225,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["digiscan"] = {
@@ -14244,7 +14244,7 @@ RES.EN.Customs.PropEmotes = {
                 2.5616,
                 -15.7909,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["digiscan2"] = {
@@ -14263,7 +14263,7 @@ RES.EN.Customs.PropEmotes = {
                 2.5616,
                 -15.7909,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["digiscan3"] = {
@@ -14282,7 +14282,7 @@ RES.EN.Customs.PropEmotes = {
                 2.5616,
                 -15.7909,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dinner"] = {
@@ -14310,7 +14310,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["doggy"] = {
@@ -14329,7 +14329,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dollar"] = {
@@ -14348,7 +14348,7 @@ RES.EN.Customs.PropEmotes = {
                 -106.9746,
                 1.3733,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["donut"] = {
@@ -14367,7 +14367,7 @@ RES.EN.Customs.PropEmotes = {
                 16.0,
                 60.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["donut2"] = {
@@ -14386,7 +14386,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -1.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["donut3"] = {
@@ -14405,7 +14405,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -1.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["drink"] = {
@@ -14423,7 +14423,7 @@ RES.EN.Customs.PropEmotes = {
                 240.0,
                 -60.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dufbag"] = {
@@ -14442,7 +14442,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -78.99,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dufbag2"] = {
@@ -14461,7 +14461,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -78.99,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["dufbag3"] = {
@@ -14480,7 +14480,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -78.99,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["easter"] = {
@@ -14509,7 +14509,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["easter2"] = {
@@ -14528,7 +14528,7 @@ RES.EN.Customs.PropEmotes = {
                 0.4622,
                 10.8906,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["eat"] = {
@@ -14547,7 +14547,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["edrink"] = {
@@ -14566,7 +14566,7 @@ RES.EN.Customs.PropEmotes = {
                 4.6611,
                 -49.9065,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["edrink2"] = {
@@ -14585,7 +14585,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -110.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["edrink3"] = {
@@ -14604,7 +14604,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 9.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["egobar"] = {
@@ -14623,7 +14623,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["femalemirrorselfie"] = {
@@ -14689,7 +14689,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femalemirrorselfie1"] = {
@@ -14755,7 +14755,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["femscaremask"] = {
@@ -14774,7 +14774,7 @@ RES.EN.Customs.PropEmotes = {
                 -81.9467213,
                 9.0687101,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["femscaremask2"] = {
@@ -14793,7 +14793,7 @@ RES.EN.Customs.PropEmotes = {
                 -81.9467213,
                 9.0687101,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["femscaremask3"] = {
@@ -14812,7 +14812,7 @@ RES.EN.Customs.PropEmotes = {
                 -81.9467213,
                 9.0687101,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fishing1"] = {
@@ -14831,7 +14831,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fishing2"] = {
@@ -14850,7 +14850,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fishing3"] = {
@@ -14869,7 +14869,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["flute"] = {
@@ -14888,7 +14888,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtraya"] = {
@@ -14907,7 +14907,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayb"] = {
@@ -14926,7 +14926,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayc"] = {
@@ -14945,7 +14945,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayd"] = {
@@ -14964,7 +14964,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtraye"] = {
@@ -14983,7 +14983,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayf"] = {
@@ -15012,7 +15012,7 @@ RES.EN.Customs.PropEmotes = {
                 110.2074758,
                 -3.5886263,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayg"] = {
@@ -15041,7 +15041,7 @@ RES.EN.Customs.PropEmotes = {
                 110.2074758,
                 -3.5886263,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayh"] = {
@@ -15070,7 +15070,7 @@ RES.EN.Customs.PropEmotes = {
                 110.2074758,
                 -3.5886263,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayi"] = {
@@ -15099,7 +15099,7 @@ RES.EN.Customs.PropEmotes = {
                 110.2074758,
                 -3.5886263,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayj"] = {
@@ -15118,7 +15118,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayk"] = {
@@ -15137,7 +15137,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayl"] = {
@@ -15156,7 +15156,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtraym"] = {
@@ -15175,7 +15175,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayn"] = {
@@ -15194,7 +15194,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["foodtrayo"] = {
@@ -15213,7 +15213,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["frappe"] = {
@@ -15232,7 +15232,7 @@ RES.EN.Customs.PropEmotes = {
                 -3.9999,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ftorch"] = {
@@ -15251,7 +15251,7 @@ RES.EN.Customs.PropEmotes = {
                 -1.0,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ftorch2"] = {
@@ -15270,7 +15270,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fuel"] = {
@@ -15289,7 +15289,7 @@ RES.EN.Customs.PropEmotes = {
                 -11.2122753,
                 -32.9453021,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["fuel2"] = {
@@ -15308,7 +15308,7 @@ RES.EN.Customs.PropEmotes = {
                 180.0,
                 79.99,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gamer"] = {
@@ -15328,7 +15328,7 @@ RES.EN.Customs.PropEmotes = {
                 -62.957,
                 17.5872,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gamer2"] = {
@@ -15348,7 +15348,7 @@ RES.EN.Customs.PropEmotes = {
                 -72.9699,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gbag"] = {
@@ -15367,7 +15367,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gbin"] = {
@@ -15386,7 +15386,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gbin2"] = {
@@ -15405,7 +15405,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gbin3"] = {
@@ -15424,7 +15424,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gbin4"] = {
@@ -15443,7 +15443,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gbin5"] = {
@@ -15462,7 +15462,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gift"] = {
@@ -15481,7 +15481,7 @@ RES.EN.Customs.PropEmotes = {
                 -157.5768,
                 -27.6738,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gift2"] = {
@@ -15500,7 +15500,7 @@ RES.EN.Customs.PropEmotes = {
                 -157.5768,
                 -27.6738,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["gingerbread"] = {
@@ -15519,7 +15519,7 @@ RES.EN.Customs.PropEmotes = {
                 164.0,
                 -5.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["golfswing"] = {
@@ -15538,7 +15538,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["guitar"] = {
@@ -15557,7 +15557,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitar2"] = {
@@ -15576,7 +15576,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitar3"] = {
@@ -15595,7 +15595,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitar4"] = {
@@ -15614,7 +15614,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitar5"] = {
@@ -15633,7 +15633,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitar6"] = {
@@ -15652,7 +15652,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry"] = {
@@ -15671,7 +15671,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 15.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry2"] = {
@@ -15690,7 +15690,7 @@ RES.EN.Customs.PropEmotes = {
                 5.7251,
                 29.4987,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry3"] = {
@@ -15709,7 +15709,7 @@ RES.EN.Customs.PropEmotes = {
                 5.7251,
                 29.4987,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry4"] = {
@@ -15728,7 +15728,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 21.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry5"] = {
@@ -15747,7 +15747,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 21.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry6"] = {
@@ -15766,7 +15766,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 21.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry7"] = {
@@ -15785,7 +15785,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 21.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry8"] = {
@@ -15804,7 +15804,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 21.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarcarry9"] = {
@@ -15823,7 +15823,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 21.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarelectric"] = {
@@ -15842,7 +15842,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarelectric2"] = {
@@ -15861,7 +15861,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["guitarsit"] = {
@@ -15881,7 +15881,7 @@ RES.EN.Customs.PropEmotes = {
                 166.33,
                 29.759,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["guitarsit2"] = {
@@ -15901,7 +15901,7 @@ RES.EN.Customs.PropEmotes = {
                 166.33,
                 29.759,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["guitarsit3"] = {
@@ -15921,7 +15921,7 @@ RES.EN.Customs.PropEmotes = {
                 166.33,
                 29.759,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["guncase"] = {
@@ -15940,7 +15940,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0,
                 115.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["handbag"] = {
@@ -15959,7 +15959,7 @@ RES.EN.Customs.PropEmotes = {
                 -177.4267,
                 83.0011,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["handbag2"] = {
@@ -15978,7 +15978,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 100.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["heartprop"] = {
@@ -15997,7 +15997,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hitchhike"] = {
@@ -16026,7 +16026,7 @@ RES.EN.Customs.PropEmotes = {
                 117.358,
                 -6.16,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hoe"] = {
@@ -16045,7 +16045,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hoe2"] = {
@@ -16064,7 +16064,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hoe3"] = {
@@ -16083,7 +16083,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hoe4"] = {
@@ -16102,7 +16102,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["holdfw"] = {
@@ -16184,7 +16184,7 @@ RES.EN.Customs.PropEmotes = {
                 0.6,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["holster6"] = {
@@ -16203,7 +16203,7 @@ RES.EN.Customs.PropEmotes = {
                 -8.6822,
                 4.9809,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["holster8"] = {
@@ -16222,7 +16222,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 3.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hotdog"] = {
@@ -16241,7 +16241,7 @@ RES.EN.Customs.PropEmotes = {
                 94.7001,
                 -66.9179,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["hump2"] = {
@@ -16261,7 +16261,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["icecreama"] = {
@@ -16280,7 +16280,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icecreamb"] = {
@@ -16299,7 +16299,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icecreamc"] = {
@@ -16318,7 +16318,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icecreamd"] = {
@@ -16337,7 +16337,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icecreame"] = {
@@ -16356,7 +16356,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icecreamf"] = {
@@ -16375,7 +16375,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icecreamg"] = {
@@ -16394,7 +16394,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icecreamh"] = {
@@ -16413,7 +16413,7 @@ RES.EN.Customs.PropEmotes = {
                 70.0,
                 -203.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["icefishing"] = {
@@ -16432,7 +16432,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 180.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["icefishing2"] = {
@@ -16461,7 +16461,7 @@ RES.EN.Customs.PropEmotes = {
                 90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["idcard"] = {
@@ -16480,7 +16480,7 @@ RES.EN.Customs.PropEmotes = {
                 -88.0171,
                 63.0612,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16500,7 +16500,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 78.999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16520,7 +16520,7 @@ RES.EN.Customs.PropEmotes = {
                 -88.0171,
                 63.0612,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16540,7 +16540,7 @@ RES.EN.Customs.PropEmotes = {
                 -88.0171,
                 63.0612,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16560,7 +16560,7 @@ RES.EN.Customs.PropEmotes = {
                 -88.0171,
                 63.0612,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16580,7 +16580,7 @@ RES.EN.Customs.PropEmotes = {
                 -88.0171,
                 63.0612,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16600,7 +16600,7 @@ RES.EN.Customs.PropEmotes = {
                 -88.0171,
                 63.0612,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16620,7 +16620,7 @@ RES.EN.Customs.PropEmotes = {
                 -176.6694,
                 74.9,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16640,7 +16640,7 @@ RES.EN.Customs.PropEmotes = {
                 -177.8499,
                 23.6377,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
             onFootflag = 'STUCK',
         },
     },
@@ -16661,7 +16661,7 @@ RES.EN.Customs.PropEmotes = {
                 80.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["joint"] = {
@@ -16696,7 +16696,7 @@ RES.EN.Customs.PropEmotes = {
                 1.3,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["joint2"] = {
@@ -16730,7 +16730,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.5,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["k12saw"] = {
@@ -16764,7 +16764,7 @@ RES.EN.Customs.PropEmotes = {
                 1.1,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lawnchair"] = {
@@ -16783,7 +16783,7 @@ RES.EN.Customs.PropEmotes = {
                 -5.0,
                 180.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lawnchair2"] = {
@@ -16802,7 +16802,7 @@ RES.EN.Customs.PropEmotes = {
                 5.0,
                 180.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lawnchair3"] = {
@@ -16821,7 +16821,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 180.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["leafblower"] = {
@@ -16854,7 +16854,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 2000,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["leanphone"] = {
@@ -16907,7 +16907,7 @@ RES.EN.Customs.PropEmotes = {
                     Value = 7,
                 },
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lighter"] = {
@@ -16951,7 +16951,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lighter2"] = {
@@ -16997,7 +16997,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lollipop1"] = {
@@ -17016,7 +17016,7 @@ RES.EN.Customs.PropEmotes = {
                 97.6975,
                 20.9598,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop1b"] = {
@@ -17035,7 +17035,7 @@ RES.EN.Customs.PropEmotes = {
                 97.6975,
                 20.9598,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop1c"] = {
@@ -17054,7 +17054,7 @@ RES.EN.Customs.PropEmotes = {
                 97.6975,
                 20.9598,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop1d"] = {
@@ -17073,7 +17073,7 @@ RES.EN.Customs.PropEmotes = {
                 97.6975,
                 20.9598,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop1e"] = {
@@ -17092,7 +17092,7 @@ RES.EN.Customs.PropEmotes = {
                 97.6975,
                 20.9598,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop1f"] = {
@@ -17111,7 +17111,7 @@ RES.EN.Customs.PropEmotes = {
                 97.6975,
                 20.9598,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop2a"] = {
@@ -17130,7 +17130,7 @@ RES.EN.Customs.PropEmotes = {
                 -128.8559,
                 15.6107,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop2b"] = {
@@ -17149,7 +17149,7 @@ RES.EN.Customs.PropEmotes = {
                 -128.8559,
                 15.6107,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop2c"] = {
@@ -17168,7 +17168,7 @@ RES.EN.Customs.PropEmotes = {
                 -128.8559,
                 15.6107,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop2d"] = {
@@ -17187,7 +17187,7 @@ RES.EN.Customs.PropEmotes = {
                 -128.8559,
                 15.6107,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop2e"] = {
@@ -17206,7 +17206,7 @@ RES.EN.Customs.PropEmotes = {
                 -128.8559,
                 15.6107,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["lollipop3a"] = {
@@ -17226,7 +17226,7 @@ RES.EN.Customs.PropEmotes = {
                 10.0,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["macaroon"] = {
@@ -17245,7 +17245,7 @@ RES.EN.Customs.PropEmotes = {
                 7.0,
                 7.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mafia"] = {
@@ -17289,7 +17289,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["makeitrain"] = {
@@ -17322,7 +17322,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 500,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["malemirrorselfie"] = {
@@ -17388,7 +17388,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malemirrorselfie1"] = {
@@ -17454,7 +17454,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malemirrorselfie2"] = {
@@ -17522,7 +17522,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malemirrorselfie3"] = {
@@ -17588,7 +17588,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malemirrorselfie4"] = {
@@ -17654,7 +17654,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mallet"] = {
@@ -17673,7 +17673,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mallow"] = {
@@ -17692,7 +17692,7 @@ RES.EN.Customs.PropEmotes = {
                 -30.9089,
                 60.0374,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mallow2"] = {
@@ -17711,7 +17711,7 @@ RES.EN.Customs.PropEmotes = {
                 -30.9089,
                 60.0374,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mallow3"] = {
@@ -17730,7 +17730,7 @@ RES.EN.Customs.PropEmotes = {
                 -30.9089,
                 60.0374,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mallow4"] = {
@@ -17749,7 +17749,7 @@ RES.EN.Customs.PropEmotes = {
                 -80.0,
                 9.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mallow5"] = {
@@ -17768,7 +17768,7 @@ RES.EN.Customs.PropEmotes = {
                 -80.0,
                 9.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mallow6"] = {
@@ -17787,7 +17787,7 @@ RES.EN.Customs.PropEmotes = {
                 -80.0,
                 9.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["map"] = {
@@ -17806,7 +17806,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["map2"] = {
@@ -17825,7 +17825,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["maskdown"] = {
@@ -17834,7 +17834,7 @@ RES.EN.Customs.PropEmotes = {
         'Firefighter Mask',
         imageId = 'maskdown',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["masktakeoff"] = {
@@ -17843,7 +17843,7 @@ RES.EN.Customs.PropEmotes = {
         'Take Off Mask',
         imageId = 'masktakeoff',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["maskup"] = {
@@ -17852,7 +17852,7 @@ RES.EN.Customs.PropEmotes = {
         'Firefighter Unmask',
         imageId = 'maskup',
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["meat"] = {
@@ -17871,7 +17871,7 @@ RES.EN.Customs.PropEmotes = {
                 -30.9089,
                 60.0374,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["meat2"] = {
@@ -17890,7 +17890,7 @@ RES.EN.Customs.PropEmotes = {
                 -80.0,
                 9.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["medbag"] = {
@@ -17909,7 +17909,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 -78.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["medbag2"] = {
@@ -17928,7 +17928,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 -78.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["medbox"] = {
@@ -17947,7 +17947,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -81.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["megaphone"] = {
@@ -17966,7 +17966,7 @@ RES.EN.Customs.PropEmotes = {
                 -13.0889,
                 -16.0242,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["megaphone2"] = {
@@ -17985,7 +17985,7 @@ RES.EN.Customs.PropEmotes = {
                 -13.0889,
                 -16.0242,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["megaphone3"] = {
@@ -18004,7 +18004,7 @@ RES.EN.Customs.PropEmotes = {
                 -2.3093,
                 -10.903,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microck"] = {
@@ -18023,7 +18023,7 @@ RES.EN.Customs.PropEmotes = {
                 -91.1712,
                 -3.8249,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microckb"] = {
@@ -18042,7 +18042,7 @@ RES.EN.Customs.PropEmotes = {
                 -13.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microckc"] = {
@@ -18061,7 +18061,7 @@ RES.EN.Customs.PropEmotes = {
                 -91.1712,
                 -3.8249,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microckd"] = {
@@ -18080,7 +18080,7 @@ RES.EN.Customs.PropEmotes = {
                 -91.1712,
                 -3.8249,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microcke"] = {
@@ -18099,7 +18099,7 @@ RES.EN.Customs.PropEmotes = {
                 -93.5253,
                 4.645,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microckf"] = {
@@ -18118,7 +18118,7 @@ RES.EN.Customs.PropEmotes = {
                 51.8164,
                 3.0976,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microckg"] = {
@@ -18137,7 +18137,7 @@ RES.EN.Customs.PropEmotes = {
                 36.3684,
                 -11.7503,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microckh"] = {
@@ -18156,7 +18156,7 @@ RES.EN.Customs.PropEmotes = {
                 -93.5253,
                 4.645,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microcki"] = {
@@ -18175,7 +18175,7 @@ RES.EN.Customs.PropEmotes = {
                 -91.1712,
                 -3.8249,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["microckj"] = {
@@ -18194,7 +18194,7 @@ RES.EN.Customs.PropEmotes = {
                 -91.1712,
                 -3.8249,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mnc"] = {
@@ -18223,7 +18223,7 @@ RES.EN.Customs.PropEmotes = {
                 -176.2526,
                 -28.4674,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mojito"] = {
@@ -18242,7 +18242,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 130.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mop"] = {
@@ -18261,7 +18261,7 @@ RES.EN.Customs.PropEmotes = {
                 10.3568,
                 17.9681,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mop2"] = {
@@ -18280,7 +18280,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshake"] = {
@@ -18299,7 +18299,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakeb"] = {
@@ -18318,7 +18318,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakec"] = {
@@ -18337,7 +18337,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshaked"] = {
@@ -18356,7 +18356,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakee"] = {
@@ -18375,7 +18375,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakef"] = {
@@ -18394,7 +18394,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakeg"] = {
@@ -18413,7 +18413,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakeh"] = {
@@ -18432,7 +18432,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakei"] = {
@@ -18451,7 +18451,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakej"] = {
@@ -18470,7 +18470,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakek"] = {
@@ -18489,7 +18489,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mshakel"] = {
@@ -18508,7 +18508,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 30.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["mugshot"] = {
@@ -18527,7 +18527,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 70.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["murder1"] = {
@@ -18556,7 +18556,7 @@ RES.EN.Customs.PropEmotes = {
                 -51.0,
                 237.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["murder2"] = {
@@ -18585,7 +18585,7 @@ RES.EN.Customs.PropEmotes = {
                 -7.0,
                 237.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["murder3"] = {
@@ -18614,7 +18614,7 @@ RES.EN.Customs.PropEmotes = {
                 182.3,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nailgun"] = {
@@ -18633,7 +18633,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["newsbmic"] = {
@@ -18652,7 +18652,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["newscam"] = {
@@ -18671,7 +18671,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["newsmic"] = {
@@ -18690,7 +18690,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 60.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["newspaper"] = {
@@ -18709,7 +18709,7 @@ RES.EN.Customs.PropEmotes = {
                 3.2712,
                 -10.508,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["newspaper2"] = {
@@ -18728,7 +18728,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0087,
                 0.5,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["newspaper3"] = {
@@ -18747,7 +18747,7 @@ RES.EN.Customs.PropEmotes = {
                 3.2841,
                 -4.7185,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["notepad"] = {
@@ -18776,7 +18776,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["old"] = {
@@ -18852,7 +18852,7 @@ RES.EN.Customs.PropEmotes = {
                 -10.6186,
                 4.7536,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["papers"] = {
@@ -18871,7 +18871,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["party_lighter"] = {
@@ -18890,7 +18890,7 @@ RES.EN.Customs.PropEmotes = {
                 188.0,
                 10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["patrolcar"] = {
@@ -18909,7 +18909,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 100.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["patrolcarl"] = {
@@ -18928,7 +18928,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 100.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["patrolcarr"] = {
@@ -18947,7 +18947,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 100.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["patrolf1"] = {
@@ -18966,7 +18966,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["patrolf2"] = {
@@ -18985,7 +18985,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["patrolf3"] = {
@@ -19004,7 +19004,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["patrolf4"] = {
@@ -19033,7 +19033,7 @@ RES.EN.Customs.PropEmotes = {
                 164.6747,
                 -7.5569,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag"] = {
@@ -19052,7 +19052,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag2"] = {
@@ -19071,7 +19071,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag3"] = {
@@ -19090,7 +19090,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag4"] = {
@@ -19109,7 +19109,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag5"] = {
@@ -19128,7 +19128,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag6"] = {
@@ -19147,7 +19147,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag7"] = {
@@ -19166,7 +19166,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag8"] = {
@@ -19185,7 +19185,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pflag9"] = {
@@ -19204,7 +19204,7 @@ RES.EN.Customs.PropEmotes = {
                 -141.2988,
                 12.3308,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pho"] = {
@@ -19233,7 +19233,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["phone"] = {
@@ -19286,7 +19286,7 @@ RES.EN.Customs.PropEmotes = {
                     Value = 7,
                 },
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["phonecall"] = {
@@ -19339,7 +19339,7 @@ RES.EN.Customs.PropEmotes = {
                     Value = 7,
                 },
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["phonecall2"] = {
@@ -19392,7 +19392,7 @@ RES.EN.Customs.PropEmotes = {
                     Value = 7,
                 },
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pineapple"] = {
@@ -19411,7 +19411,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pizzas"] = {
@@ -19430,7 +19430,7 @@ RES.EN.Customs.PropEmotes = {
                 -66.7427,
                 68.3677,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pizzas2"] = {
@@ -19449,7 +19449,7 @@ RES.EN.Customs.PropEmotes = {
                 -66.7427,
                 68.3677,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pizzas3"] = {
@@ -19468,7 +19468,7 @@ RES.EN.Customs.PropEmotes = {
                 -66.7427,
                 68.3677,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pizzas4"] = {
@@ -19487,7 +19487,7 @@ RES.EN.Customs.PropEmotes = {
                 -66.7427,
                 68.3677,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pizzas5"] = {
@@ -19506,7 +19506,7 @@ RES.EN.Customs.PropEmotes = {
                 -66.7427,
                 68.3677,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pizzaslice"] = {
@@ -19525,7 +19525,7 @@ RES.EN.Customs.PropEmotes = {
                 -66.7427,
                 68.3677,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["poolcue"] = {
@@ -19544,7 +19544,7 @@ RES.EN.Customs.PropEmotes = {
                 -7.2194,
                 3.1642,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["poolcue2"] = {
@@ -19563,7 +19563,7 @@ RES.EN.Customs.PropEmotes = {
                 -1.4526,
                 1.8479,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poolcue3"] = {
@@ -19582,7 +19582,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poolcue4"] = {
@@ -19601,7 +19601,7 @@ RES.EN.Customs.PropEmotes = {
                 14.4214,
                 -13.2854,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poolcue5"] = {
@@ -19620,7 +19620,7 @@ RES.EN.Customs.PropEmotes = {
                 -9.5838,
                 2.9748,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["popcorn"] = {
@@ -19639,7 +19639,7 @@ RES.EN.Customs.PropEmotes = {
                 176.9331,
                 11.9833,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pornmag"] = {
@@ -19659,7 +19659,7 @@ RES.EN.Customs.PropEmotes = {
                 179.2527,
                 13.8804,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pornmag2"] = {
@@ -19679,7 +19679,7 @@ RES.EN.Customs.PropEmotes = {
                 -0.4292,
                 -14.3925,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pornmag3"] = {
@@ -19699,7 +19699,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 22.7007,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["potplant"] = {
@@ -19718,7 +19718,7 @@ RES.EN.Customs.PropEmotes = {
                 290.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["potplant2"] = {
@@ -19737,7 +19737,7 @@ RES.EN.Customs.PropEmotes = {
                 290.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["potplant3"] = {
@@ -19756,7 +19756,7 @@ RES.EN.Customs.PropEmotes = {
                 290.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["present"] = {
@@ -19775,7 +19775,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["propose"] = {
@@ -19794,7 +19794,7 @@ RES.EN.Customs.PropEmotes = {
                 4.4141,
                 -79.3552,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["propose2"] = {
@@ -19813,7 +19813,7 @@ RES.EN.Customs.PropEmotes = {
                 88.4373,
                 -9.8783,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["propose3"] = {
@@ -19832,7 +19832,7 @@ RES.EN.Customs.PropEmotes = {
                 88.4373,
                 -9.8783,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["protest"] = {
@@ -19851,7 +19851,7 @@ RES.EN.Customs.PropEmotes = {
                 5.9142048,
                 -13.9572354,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["protest2"] = {
@@ -19870,7 +19870,7 @@ RES.EN.Customs.PropEmotes = {
                 5.9142048,
                 -13.9572354,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["protest3"] = {
@@ -19889,7 +19889,7 @@ RES.EN.Customs.PropEmotes = {
                 5.914205,
                 -13.957235,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["puke"] = {
@@ -19914,7 +19914,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["puke2"] = {
@@ -19939,7 +19939,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["puke3"] = {
@@ -19964,7 +19964,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["puke4"] = {
@@ -19989,7 +19989,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pump"] = {
@@ -20008,7 +20008,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pump2"] = {
@@ -20027,7 +20027,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pump3"] = {
@@ -20046,7 +20046,7 @@ RES.EN.Customs.PropEmotes = {
                 179.8707,
                 -39.986,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pump4"] = {
@@ -20065,7 +20065,7 @@ RES.EN.Customs.PropEmotes = {
                 179.8707,
                 -39.986,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["pump5"] = {
@@ -20084,7 +20084,7 @@ RES.EN.Customs.PropEmotes = {
                 179.8707,
                 -39.986,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["raiseglass"] = {
@@ -20103,7 +20103,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["raiseglass2"] = {
@@ -20122,7 +20122,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -2.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rake"] = {
@@ -20141,7 +20141,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rake2"] = {
@@ -20160,7 +20160,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rake3"] = {
@@ -20179,7 +20179,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rake4"] = {
@@ -20198,7 +20198,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rap2"] = {
@@ -20217,7 +20217,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 170.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rap3"] = {
@@ -20236,7 +20236,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 170.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rap4"] = {
@@ -20255,7 +20255,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 170.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rap5"] = {
@@ -20275,7 +20275,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 170.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rap6"] = {
@@ -20294,7 +20294,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 170.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["register"] = {
@@ -20313,7 +20313,7 @@ RES.EN.Customs.PropEmotes = {
                 290.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rose"] = {
@@ -20332,7 +20332,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -20.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rose2"] = {
@@ -20351,7 +20351,7 @@ RES.EN.Customs.PropEmotes = {
                 4.564,
                 39.91,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["rose3"] = {
@@ -20370,7 +20370,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 2.99,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sandwich"] = {
@@ -20389,7 +20389,7 @@ RES.EN.Customs.PropEmotes = {
                 16.0,
                 60.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sax"] = {
@@ -20408,7 +20408,7 @@ RES.EN.Customs.PropEmotes = {
                 29.3364,
                 5.9514,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["scalpel"] = {
@@ -20427,7 +20427,7 @@ RES.EN.Customs.PropEmotes = {
                 180.0,
                 -70.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie"] = {
@@ -20493,7 +20493,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie2"] = {
@@ -20559,7 +20559,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie3"] = {
@@ -20625,7 +20625,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie4"] = {
@@ -20691,7 +20691,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie5"] = {
@@ -20757,7 +20757,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie6"] = {
@@ -20823,7 +20823,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie7"] = {
@@ -20889,7 +20889,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie8"] = {
@@ -20955,7 +20955,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfie9"] = {
@@ -21021,7 +21021,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiebbum"] = {
@@ -21087,7 +21087,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecrouch"] = {
@@ -21153,7 +21153,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecrouch2"] = {
@@ -21221,7 +21221,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecrouch3"] = {
@@ -21287,7 +21287,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecrouch4"] = {
@@ -21353,7 +21353,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecute"] = {
@@ -21419,7 +21419,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecute2"] = {
@@ -21485,7 +21485,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecute3"] = {
@@ -21551,7 +21551,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecute4"] = {
@@ -21617,7 +21617,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiecute5"] = {
@@ -21683,7 +21683,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfieegirl"] = {
@@ -21749,7 +21749,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiefloor"] = {
@@ -21817,7 +21817,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiefloor2"] = {
@@ -21885,7 +21885,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiefloor3"] = {
@@ -21962,7 +21962,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -20.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiefu"] = {
@@ -22028,7 +22028,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiefu2"] = {
@@ -22094,7 +22094,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiefu3"] = {
@@ -22173,7 +22173,7 @@ RES.EN.Customs.PropEmotes = {
                 13.7526,
                 2.6457,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiehb"] = {
@@ -22249,7 +22249,7 @@ RES.EN.Customs.PropEmotes = {
                 30.6141,
                 -5.1311,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiehhands"] = {
@@ -22315,7 +22315,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiehigh"] = {
@@ -22381,7 +22381,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfiemale"] = {
@@ -22447,7 +22447,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfiemeh"] = {
@@ -22513,7 +22513,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiepeace"] = {
@@ -22579,7 +22579,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["selfiesexy"] = {
@@ -22645,7 +22645,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesexy2"] = {
@@ -22711,7 +22711,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesexy3"] = {
@@ -22777,7 +22777,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesexy4"] = {
@@ -22843,7 +22843,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesexy5"] = {
@@ -22909,7 +22909,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesit"] = {
@@ -22938,7 +22938,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 10.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesit2"] = {
@@ -23004,7 +23004,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesit3"] = {
@@ -23072,7 +23072,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesit4"] = {
@@ -23138,7 +23138,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesit5"] = {
@@ -23206,7 +23206,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfieslut"] = {
@@ -23273,7 +23273,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiesquat"] = {
@@ -23349,7 +23349,7 @@ RES.EN.Customs.PropEmotes = {
                 -177.9691,
                 9.9938,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiethot"] = {
@@ -23417,7 +23417,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["selfiewine"] = {
@@ -23493,7 +23493,7 @@ RES.EN.Customs.PropEmotes = {
                 -24.7476,
                 13.7795,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shield"] = {
@@ -23512,7 +23512,7 @@ RES.EN.Customs.PropEmotes = {
                 108.17,
                 -17.48,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shield2"] = {
@@ -23531,7 +23531,7 @@ RES.EN.Customs.PropEmotes = {
                 105.38,
                 -10.14,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shit"] = {
@@ -23567,7 +23567,7 @@ RES.EN.Customs.PropEmotes = {
                 1.3,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["shit2"] = {
@@ -23603,7 +23603,7 @@ RES.EN.Customs.PropEmotes = {
                 1.4,
             },
             PtfxWait = 0,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shopbag"] = {
@@ -23622,7 +23622,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shopbag2"] = {
@@ -23641,7 +23641,7 @@ RES.EN.Customs.PropEmotes = {
                 91.19,
                 9.97,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shopbag3"] = {
@@ -23660,7 +23660,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["shopbag4"] = {
@@ -23736,7 +23736,7 @@ RES.EN.Customs.PropEmotes = {
                 -18.1966,
                 -41.2633,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshake"] = {
@@ -23755,7 +23755,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakeb"] = {
@@ -23774,7 +23774,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakec"] = {
@@ -23793,7 +23793,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshaked"] = {
@@ -23812,7 +23812,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakee"] = {
@@ -23831,7 +23831,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakef"] = {
@@ -23850,7 +23850,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakeg"] = {
@@ -23869,7 +23869,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakeh"] = {
@@ -23888,7 +23888,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakei"] = {
@@ -23907,7 +23907,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakej"] = {
@@ -23926,7 +23926,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakek"] = {
@@ -23945,7 +23945,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipshakel"] = {
@@ -23964,7 +23964,7 @@ RES.EN.Customs.PropEmotes = {
                 -165.7841,
                 24.1318,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipsoda"] = {
@@ -23983,7 +23983,7 @@ RES.EN.Customs.PropEmotes = {
                 -25.0367,
                 -27.3898,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipsodab"] = {
@@ -24002,7 +24002,7 @@ RES.EN.Customs.PropEmotes = {
                 -25.0367,
                 -27.3898,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipsodac"] = {
@@ -24021,7 +24021,7 @@ RES.EN.Customs.PropEmotes = {
                 -25.0367,
                 -27.3898,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sipsodad"] = {
@@ -24040,7 +24040,7 @@ RES.EN.Customs.PropEmotes = {
                 -25.0367,
                 -27.3898,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sitchairf"] = {
@@ -24059,7 +24059,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 -40.9999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchairf2"] = {
@@ -24078,7 +24078,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -170.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchairf3"] = {
@@ -24097,7 +24097,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -170.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchairf4"] = {
@@ -24116,7 +24116,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -170.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchairf5"] = {
@@ -24135,7 +24135,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -170.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchairf6"] = {
@@ -24164,7 +24164,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 9.0999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchairf7"] = {
@@ -24193,7 +24193,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 10.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sitchairf8"] = {
@@ -24222,7 +24222,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 10.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sittv"] = {
@@ -24241,7 +24241,7 @@ RES.EN.Customs.PropEmotes = {
                 -109.544,
                 18.717,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skatehold"] = {
@@ -24270,7 +24270,7 @@ RES.EN.Customs.PropEmotes = {
                 -112.2983,
                 -86.1199,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["skatehold2"] = {
@@ -24289,7 +24289,7 @@ RES.EN.Customs.PropEmotes = {
                 175.3526,
                 49.7964,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["skatehold3"] = {
@@ -24308,7 +24308,7 @@ RES.EN.Customs.PropEmotes = {
                 28.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skatehold4"] = {
@@ -24337,7 +24337,7 @@ RES.EN.Customs.PropEmotes = {
                 -112.2983,
                 -86.1199,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["skatehold5"] = {
@@ -24356,7 +24356,7 @@ RES.EN.Customs.PropEmotes = {
                 175.3526,
                 49.7964,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["skatehold6"] = {
@@ -24375,7 +24375,7 @@ RES.EN.Customs.PropEmotes = {
                 28.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skatehold7"] = {
@@ -24394,7 +24394,7 @@ RES.EN.Customs.PropEmotes = {
                 -13.1506,
                 -33.6511,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["skatehold8"] = {
@@ -24413,7 +24413,7 @@ RES.EN.Customs.PropEmotes = {
                 -13.1506,
                 -33.6511,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["skatekneel"] = {
@@ -24432,7 +24432,7 @@ RES.EN.Customs.PropEmotes = {
                 4.4024,
                 -16.913,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skatekneel2"] = {
@@ -24451,7 +24451,7 @@ RES.EN.Customs.PropEmotes = {
                 4.4024,
                 -16.913,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skatesit"] = {
@@ -24470,7 +24470,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skatesit2"] = {
@@ -24489,7 +24489,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["smoke2"] = {
@@ -24523,7 +24523,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["smoke3"] = {
@@ -24557,7 +24557,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["smoke4"] = {
@@ -24591,7 +24591,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["smoke5"] = {
@@ -24625,7 +24625,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["smoke6"] = {
@@ -24659,7 +24659,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sms"] = {
@@ -24727,7 +24727,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sms2"] = {
@@ -24795,7 +24795,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sms3"] = {
@@ -24863,7 +24863,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sms4"] = {
@@ -24931,7 +24931,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sms5"] = {
@@ -24999,7 +24999,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["smssit"] = {
@@ -25067,7 +25067,7 @@ RES.EN.Customs.PropEmotes = {
                 1.0,
             },
             PtfxWait = 200,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["soda"] = {
@@ -25086,7 +25086,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 130.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda2"] = {
@@ -25105,7 +25105,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 160.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda3"] = {
@@ -25124,7 +25124,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda4"] = {
@@ -25143,7 +25143,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda5"] = {
@@ -25162,7 +25162,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda6"] = {
@@ -25181,7 +25181,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda7"] = {
@@ -25200,7 +25200,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda8"] = {
@@ -25219,7 +25219,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 80.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["soda9"] = {
@@ -25238,7 +25238,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 130.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sodafu"] = {
@@ -25257,7 +25257,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -69.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["sodafu2"] = {
@@ -25276,7 +25276,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["squatcash"] = {
@@ -25295,7 +25295,7 @@ RES.EN.Customs.PropEmotes = {
                 -164.7312,
                 25.2203,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["squatgunpose2"] = {
@@ -25314,7 +25314,7 @@ RES.EN.Customs.PropEmotes = {
                 -6.9836,
                 23.6186,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["squatmask"] = {
@@ -25333,7 +25333,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["squatmask1"] = {
@@ -25352,7 +25352,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["squatmask2"] = {
@@ -25371,7 +25371,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ssign"] = {
@@ -25390,7 +25390,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign2"] = {
@@ -25409,7 +25409,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign3"] = {
@@ -25428,7 +25428,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign4"] = {
@@ -25447,7 +25447,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign5"] = {
@@ -25466,7 +25466,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign6"] = {
@@ -25485,7 +25485,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign7"] = {
@@ -25504,7 +25504,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign8"] = {
@@ -25523,7 +25523,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["ssign9"] = {
@@ -25542,7 +25542,7 @@ RES.EN.Customs.PropEmotes = {
                 145.0627869,
                 -4.4318885,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stealtv"] = {
@@ -25561,7 +25561,7 @@ RES.EN.Customs.PropEmotes = {
                 168.9069,
                 84.2402,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stickbutterfly"] = {
@@ -25580,7 +25580,7 @@ RES.EN.Customs.PropEmotes = {
                 90.0,
                 -25.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stickhummingbird"] = {
@@ -25599,7 +25599,7 @@ RES.EN.Customs.PropEmotes = {
                 90.0,
                 -25.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stire"] = {
@@ -25618,7 +25618,7 @@ RES.EN.Customs.PropEmotes = {
                 -80.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stire2"] = {
@@ -25637,7 +25637,7 @@ RES.EN.Customs.PropEmotes = {
                 -80.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stonerbabepose"] = {
@@ -25656,7 +25656,7 @@ RES.EN.Customs.PropEmotes = {
                 170.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["stopsign"] = {
@@ -25675,7 +25675,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -50.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stopsign2"] = {
@@ -25694,7 +25694,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 120.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stopsign3"] = {
@@ -25713,7 +25713,7 @@ RES.EN.Customs.PropEmotes = {
                 -180.0,
                 59.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["stopsign4"] = {
@@ -25732,7 +25732,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -59.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["study"] = {
@@ -25752,7 +25752,7 @@ RES.EN.Customs.PropEmotes = {
                 -145.7418,
                 -79.576,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["suitcase"] = {
@@ -25771,7 +25771,7 @@ RES.EN.Customs.PropEmotes = {
                 266.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["suitcase2"] = {
@@ -25790,7 +25790,7 @@ RES.EN.Customs.PropEmotes = {
                 280.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["summon"] = {
@@ -25809,7 +25809,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["summon2"] = {
@@ -25828,7 +25828,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["surfboard"] = {
@@ -25847,7 +25847,7 @@ RES.EN.Customs.PropEmotes = {
                 176.1446,
                 -2.15,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["syringe"] = {
@@ -25866,7 +25866,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -50.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tablet"] = {
@@ -25885,7 +25885,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tablet2"] = {
@@ -25904,7 +25904,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["taco"] = {
@@ -25923,7 +25923,7 @@ RES.EN.Customs.PropEmotes = {
                 -105.0251,
                 55.7779,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tag"] = {
@@ -25942,7 +25942,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tag2"] = {
@@ -25961,7 +25961,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tag3"] = {
@@ -25980,7 +25980,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tag4"] = {
@@ -25999,7 +25999,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tag5"] = {
@@ -26018,7 +26018,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tag6"] = {
@@ -26037,7 +26037,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tag7"] = {
@@ -26056,7 +26056,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["teddy"] = {
@@ -26075,7 +26075,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tennisplay"] = {
@@ -26104,7 +26104,7 @@ RES.EN.Customs.PropEmotes = {
                 3.8782324,
                 6.588224,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["tire"] = {
@@ -26123,7 +26123,7 @@ RES.EN.Customs.PropEmotes = {
                 -55.0,
                 150.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["toolbox"] = {
@@ -26142,7 +26142,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["toolbox2"] = {
@@ -26161,7 +26161,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["toolbox3"] = {
@@ -26180,7 +26180,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["toolbox4"] = {
@@ -26199,7 +26199,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["umbrella"] = {
@@ -26219,7 +26219,7 @@ RES.EN.Customs.PropEmotes = {
                 10.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["umbrella2"] = {
@@ -26239,7 +26239,7 @@ RES.EN.Customs.PropEmotes = {
                 -150.9605721,
                 57.3374916,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["umbrella3"] = {
@@ -26259,7 +26259,7 @@ RES.EN.Customs.PropEmotes = {
                 -6.7284,
                 -0.9319,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["umbrella4"] = {
@@ -26279,7 +26279,7 @@ RES.EN.Customs.PropEmotes = {
                 -1.7343,
                 9.9656,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vape"] = {
@@ -26314,7 +26314,7 @@ RES.EN.Customs.PropEmotes = {
                 1.4,
             },
             PtfxWait = 0.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vape2"] = {
@@ -26349,7 +26349,7 @@ RES.EN.Customs.PropEmotes = {
                 1.4,
             },
             PtfxWait = 1.8,
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vlog"] = {
@@ -26368,7 +26368,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vlog2"] = {
@@ -26387,7 +26387,7 @@ RES.EN.Customs.PropEmotes = {
                 110.0,
                 -11.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["vulture"] = {
@@ -26406,7 +26406,7 @@ RES.EN.Customs.PropEmotes = {
                 180.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["watchstripper2"] = {
@@ -26426,7 +26426,7 @@ RES.EN.Customs.PropEmotes = {
                 81.7098,
                 -39.2734,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["water"] = {
@@ -26445,7 +26445,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -40.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["weedbrick"] = {
@@ -26464,7 +26464,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.0,
                 90.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["weedbrick2"] = {
@@ -26483,7 +26483,7 @@ RES.EN.Customs.PropEmotes = {
                 290.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["weedbucket"] = {
@@ -26502,7 +26502,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["weights"] = {
@@ -26521,7 +26521,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["weights2"] = {
@@ -26540,7 +26540,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["weights3"] = {
@@ -26559,7 +26559,7 @@ RES.EN.Customs.PropEmotes = {
                 90.0,
                 -79.9999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weights4"] = {
@@ -26588,7 +26588,7 @@ RES.EN.Customs.PropEmotes = {
                 90.0,
                 -79.9999,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weights7"] = {
@@ -26607,7 +26607,7 @@ RES.EN.Customs.PropEmotes = {
                 -51.8805,
                 54.3903,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell"] = {
@@ -26626,7 +26626,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell2"] = {
@@ -26645,7 +26645,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell3"] = {
@@ -26664,7 +26664,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell4"] = {
@@ -26683,7 +26683,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell5"] = {
@@ -26702,7 +26702,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell6"] = {
@@ -26721,7 +26721,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell7"] = {
@@ -26740,7 +26740,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["weightsbarbell8"] = {
@@ -26759,7 +26759,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["whiskey"] = {
@@ -26778,7 +26778,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["whiskeyb"] = {
@@ -26797,7 +26797,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["whiskeyb2"] = {
@@ -26816,7 +26816,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["whiskeyb3"] = {
@@ -26835,7 +26835,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wine"] = {
@@ -26854,7 +26854,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -10.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wine2"] = {
@@ -26873,7 +26873,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wine3"] = {
@@ -26892,7 +26892,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wt"] = {
@@ -26911,7 +26911,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wt2"] = {
@@ -26930,7 +26930,7 @@ RES.EN.Customs.PropEmotes = {
                 3.7058,
                 -23.2367,
             },
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["wt3"] = {
@@ -26949,7 +26949,7 @@ RES.EN.Customs.PropEmotes = {
                 3.7058,
                 -23.2367,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["wt4"] = {
@@ -26968,7 +26968,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 -59.9999,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["xmascc"] = {
@@ -26987,7 +26987,7 @@ RES.EN.Customs.PropEmotes = {
                 87.6716,
                 30.054,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["xmascc2"] = {
@@ -27006,7 +27006,7 @@ RES.EN.Customs.PropEmotes = {
                 -90.1809,
                 66.3689,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["xmasic"] = {
@@ -27035,7 +27035,7 @@ RES.EN.Customs.PropEmotes = {
                 20.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["xmasmug"] = {
@@ -27054,7 +27054,7 @@ RES.EN.Customs.PropEmotes = {
                 137.0,
                 9.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["xmasmug2"] = {
@@ -27073,7 +27073,7 @@ RES.EN.Customs.PropEmotes = {
                 137.0,
                 9.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["xmassf"] = {
@@ -27092,7 +27092,7 @@ RES.EN.Customs.PropEmotes = {
                 0.0,
                 0.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
     ["xmaswine"] = {
@@ -27111,7 +27111,7 @@ RES.EN.Customs.PropEmotes = {
                 -47.0,
                 7.0,
             },
-            onFootFlag = Config.AnimFlag.MOVING,
+            onFootFlag = Config.AnimFlagNumbers.Moving,
         },
     },
 }
