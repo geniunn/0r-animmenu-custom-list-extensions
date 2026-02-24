@@ -71,7 +71,7 @@ Make sure all files are fully replaced before restarting your server.
 - Chocoholic Animations
 - [CrunchyCat](https://www.gta5-mods.com/users/crunchycat)
 - [KayKayMods](https://discord.gg/5bYQVWVaxG)
-- [MonkeyWhisper](https://github.com/MonkeyWhisper) and Project [Sloth](https://github.com/Project-Sloth)
+- [MonkeyWhisper](https://github.com/MonkeyWhisper) and [Project Sloth](https://github.com/Project-Sloth)
 - [Brummieee](https://forum.cfx.re/u/brummieee_maps/summary)
 - [Dark Animations.](https://www.gta5-mods.com/users/Darks%20Animations)
 - [-EcLiPsE-](https://www.gta5-mods.com/users/-EcLiPsE-) for allowing me to implement [Improved Prop Sets](https://www.gta5-mods.com/misc/improved-propsets-meta) and [GTA Online Biker Idle Anims](https://www.gta5-mods.com/misc/bike-idle-animations)
