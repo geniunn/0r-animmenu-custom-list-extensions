@@ -1,3 +1,8 @@
+Big thanks to [alberttheprince](https://github.com/alberttheprince) for the work put into [rpemotes-reborn](https://github.com/alberttheprince/rpemotes-reborn).
+
+Really appreciate the effort and time behind this project. It clearly adds value to the RP experience.
+Keep up the great work 👏
+
 If you were previously using RP Emotes or another emote menu, and you now want to use RP Emote animations with 0r-animationmenu, please follow the steps below.
 
 First download files and please follow these steps:
