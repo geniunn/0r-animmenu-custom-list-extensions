@@ -29199,4 +29199,1845 @@ RES.FR.Customs.PlacedEmotes = {}
 
 RES.FR.Customs.Extra = {}
 
-RES.FR.Customs.Gang = {}
+RES.FR.Customs.Gang = {
+    ["1901"] = {
+        "1901@2assist",
+        "2assist_clip",
+        "1901",
+        imageId = "1901",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["20"] = {
+        "20sout@2assist",
+        "2assist_clip",
+        "20'",
+        imageId = "20sout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction54"] = {
+        "2a_armoryrobbery@animation",
+        "2a_armoryrobbery_clip",
+        "Interaction",
+        imageId = "2aarmoryrobbery",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arp1"] = {
+        "2a_arpparty1@animation",
+        "2a_arpparty1_clip",
+        "ARP 1",
+        imageId = "2aarpparty1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arp22"] = {
+        "2a_arpparty2@animation",
+        "2a_arpparty2_clip",
+        "ARP 2",
+        imageId = "2aarpparty2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arp2v2"] = {
+        "2a_arpparty2v2@animation",
+        "2a_arpparty2v2_clip",
+        "ARP 2 v2",
+        imageId = "2aarpparty2v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction60"] = {
+        "2a_beenready@animation",
+        "2assist_clip",
+        "Interaction",
+        imageId = "2abeenready",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arme"] = {
+        "2a_blicky@animation",
+        "2assist_clip",
+        "Arme",
+        imageId = "2ablicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction41"] = {
+        "2a_caughtoffguard1@animation",
+        "2a_caughtoffguard1_clip",
+        "Interaction 1",
+        imageId = "2acaughtoffguard1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction55"] = {
+        "2a_caughtoffguard2@animation",
+        "2a_caughtoffguard2_clip",
+        "Interaction 2",
+        imageId = "2acaughtoffguard2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction62"] = {
+        "2a_caughtoffguard3@animation",
+        "2a_caughtoffguard3_clip",
+        "Interaction 3",
+        imageId = "2acaughtoffguard3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["detente"] = {
+        "2a_clicky@animation",
+        "2assist_clip",
+        "Detente",
+        imageId = "2aclicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["un"] = {
+        "2a_crackdafive@animation",
+        "2assist_clip",
+        "Un",
+        imageId = "2acrackdafive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["balle2"] = {
+        "2a_dumpin@animation",
+        "2a_dumpin_clip",
+        "Balle",
+        imageId = "2adumpin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arriere"] = {
+        "2a_getback@animation",
+        "2a_getback_clip",
+        "Arriere",
+        imageId = "2agetback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction46"] = {
+        "2a_gettinsturdy@animation",
+        "2assist_clip",
+        "Interaction",
+        imageId = "2agettinsturdy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction69"] = {
+        "2a_grabdajuice@animation",
+        "2a_grabdajuice_clip",
+        "Interaction",
+        imageId = "2agrabdajuice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction1"] = {
+        "2a_lightitup1@animation",
+        "2a_lightitup1_clip",
+        "Interaction 1",
+        imageId = "2alightitup1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction22"] = {
+        "2a_lightitup2@animation",
+        "2a_lightitup2_clip",
+        "Interaction 2",
+        imageId = "2alightitup2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nouveau"] = {
+        "2a_newkicks@animation",
+        "2a_newkicks_clip",
+        "Nouveau",
+        imageId = "2anewkicks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ouvrir"] = {
+        "2a_openthatup@animation",
+        "2a_openthatup_clip",
+        "Ouvrir",
+        imageId = "2aopenthatup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["marionnette1"] = {
+        "2a_puppet1@animation",
+        "2a_puppet1_clip",
+        "Marionnette 1",
+        imageId = "2apuppet1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["marionnette1v2"] = {
+        "2a_puppet1v2@animation",
+        "2a_puppet1v2_clip",
+        "Marionnette 1 v2",
+        imageId = "2apuppet1v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["marionnette2"] = {
+        "2a_puppet2@animation",
+        "2a_puppet2_clip",
+        "Marionnette 2",
+        imageId = "2apuppet2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mode"] = {
+        "2a_settrends@animation",
+        "2a_settrends_clip",
+        "Mode",
+        imageId = "2asettrends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction68"] = {
+        "2ashyglock@animation",
+        "2ashyglock_clip",
+        "Interaction",
+        imageId = "2ashyglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction58"] = {
+        "2a_spotsum@animation",
+        "2a_spotsum_clip",
+        "Interaction",
+        imageId = "2aspotsum",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["avec"] = {
+        "2assistchillbottle@animation",
+        "2assistchillbottle_clip",
+        "Avec",
+        imageId = "2assistchillbottle",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arp"] = {
+        "2assistlazyarphold@animation",
+        "2assistlazyarphold_clip",
+        "ARP",
+        imageId = "2assistlazyarphold",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction43"] = {
+        "2assistmakkholding@animation",
+        "2assistmakkholding_clip",
+        "Interaction",
+        imageId = "2assistmakkholding",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arreter"] = {
+        "2a_standstill@animation",
+        "2a_standstill_clip",
+        "Arreter",
+        imageId = "2astandstill",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction27"] = {
+        "2a_stayonten@animation",
+        "2assist_clip",
+        "Interaction",
+        imageId = "2astayonten",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction73"] = {
+        "2a_threathymn@animation",
+        "2assist_clip",
+        "Interaction",
+        imageId = "2athreathymn",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction64"] = {
+        "2a_throwdashell@animation",
+        "2a_throwdashell_clip",
+        "Interaction",
+        imageId = "2athrowdashell",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction48"] = {
+        "2a_tiredofdissin@animation",
+        "2assist_clip",
+        "Interaction",
+        imageId = "2atiredofdissin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction63"] = {
+        "2a_violenceanthem@animation",
+        "2assist_clip",
+        "Interaction",
+        imageId = "2aviolenceanthem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction"] = {
+        "31days@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "31days",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["50balle"] = {
+        "50shots@2assist",
+        "2assist_clip",
+        "50 Balle",
+        imageId = "50shots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["matin5"] = {
+        "5am@2assist",
+        "2assist_clip",
+        "Matin 5",
+        imageId = "5am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["matin6"] = {
+        "6am@2assist",
+        "2assist_clip",
+        "Matin 6",
+        imageId = "6am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction82"] = {
+        "8pm@2assist",
+        "2assist_clip",
+        "Interaction 8",
+        imageId = "8pm",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction10"] = {
+        "ahhh@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "ahhh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arpglockposition"] = {
+        "arpglockpose1@wecnarvaalo",
+        "arpglockpose1_clip",
+        "ARP & Glock Position",
+        imageId = "arpglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["arp2"] = {
+        "arplullaby@2assist",
+        "2assist_clip",
+        "ARP",
+        imageId = "arplullaby",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction78"] = {
+        "backfromthedead@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "backfromthedead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction39"] = {
+        "bap@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "bap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction84"] = {
+        "beamem@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "beamem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction8"] = {
+        "blackin@sinay",
+        "sinay_clip",
+        "Interaction",
+        imageId = "blackin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction14"] = {
+        "blamma@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "blamma",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction83"] = {
+        "blank@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "blank",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction81"] = {
+        "blowabag@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "blowabag",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["police"] = {
+        "blues@2assist",
+        "2assist_clip",
+        "(Police/)",
+        imageId = "blues",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction80"] = {
+        "bmary@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "bmary",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rue1"] = {
+        "brawl1@2assist",
+        "2assist_clip",
+        "Rue 1",
+        imageId = "brawl1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rue2"] = {
+        "brawl2@2assist",
+        "2assist_clip",
+        "Rue 2",
+        imageId = "brawl2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction33"] = {
+        "bullyer@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "bullyer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction21"] = {
+        "busted@sinay",
+        "sinay_clip",
+        "Interaction",
+        imageId = "busted",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction79"] = {
+        "buttonaddict@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "buttonaddict",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction5"] = {
+        "cantgetridofit@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "cantgetridofit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["attraperca"] = {
+        "catchdat@2assist",
+        "2assist_clip",
+        "Attraper ca",
+        imageId = "catchdat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["alapoursuitedelargent"] = {
+        "chasethemoney@sinay",
+        "sinay_clip",
+        "A la poursuite de largent",
+        imageId = "chasethemoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["controle"] = {
+        "checkup@2assist",
+        "2assist_clip",
+        "Controle",
+        imageId = "checkup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["signe"] = {
+        "chiraqsign1@wecnarvaalo",
+        "chiraqsign1_clip",
+        "Signe",
+        imageId = "chiraqsign",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction19"] = {
+        "clearer@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "clearer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["itenir"] = {
+        "clutchondareap@2assist",
+        "2assist_clip",
+        "'i Tenir",
+        imageId = "clutchondareap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction7"] = {
+        "coolin@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "coolin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction37"] = {
+        "crash@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "crash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["actionaction21"] = {
+        "crashdummy@2assist",
+        "2assist_clip",
+        "",
+        imageId = "crashdummy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction28"] = {
+        "crasher@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "crasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["accroupi"] = {
+        "crouchdracofck1@wecnarvaalo",
+        "crouchdracofck1_clip",
+        "Accroupi",
+        imageId = "crouchdracofuck",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction50"] = {
+        "didmytime@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "didmytime",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["coupfaire"] = {
+        "doahit@2assist",
+        "2assist_clip",
+        "Coup Faire",
+        imageId = "doahit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction88"] = {
+        "dodgenohollow@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "dodgenohollow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["faire"] = {
+        "doinigh@2assist",
+        "2assist_clip",
+        "Faire",
+        imageId = "doinigh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction77"] = {
+        "doubledat@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "doubledat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["doublearmeposition"] = {
+        "doublegunpose@wecnarvaalo",
+        "doublegunpose_clip",
+        "Double Arme Position",
+        imageId = "doublegunpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction85"] = {
+        "dremontcity@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "dremontcity",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction12"] = {
+        "drench1@2assist",
+        "2assist_clip",
+        "Interaction 1",
+        imageId = "drench1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction23"] = {
+        "drench2@2assist",
+        "2assist_clip",
+        "Interaction 2",
+        imageId = "drench2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction32"] = {
+        "drench3@2assist",
+        "2assist_clip",
+        "Interaction 3",
+        imageId = "drench3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction42"] = {
+        "drench4@2assist",
+        "2assist_clip",
+        "Interaction 4",
+        imageId = "drench4",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["entreedanselelieu"] = {
+        "dropin@sinay",
+        "sinay_clip",
+        "Entree danse le lieu",
+        imageId = "dropin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["enduotelephone"] = {
+        "duoarmphone@wecnarvaalo",
+        "duoarmphone_clip",
+        "En duo & Telephone",
+        imageId = "duoarmphone",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enduogdkposition"] = {
+        "duogdkpose@wecnarvaalo",
+        "duogdkpose_clip",
+        "En duo GDK Position",
+        imageId = "duogdkpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enduoarme"] = {
+        "duoglockfacepose1@wecnarvaalo",
+        "duoglockfacepose1_clip",
+        "En duo Arme",
+        imageId = "duoglockfacepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enduoglockposition"] = {
+        "duoglockpose@wecnarvaalo",
+        "duoglockpose_clip",
+        "En duo Glock Position",
+        imageId = "duoglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enduol"] = {
+        "duoldisspose@wecnarvaalo",
+        "duoldisspose_clip",
+        "En duo L",
+        imageId = "duoldisspose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enduoposition"] = {
+        "duomicrodracpose@wecnarvaalo",
+        "duomicrodracpose_clip",
+        "En duo Position",
+        imageId = "duomicrodracpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enduocigaretteattente"] = {
+        "duosmokeidlepose1@wecnarvaalo",
+        "duosmokeidlepose1_clip",
+        "En duo Cigarette Attente",
+        imageId = "duosmokeidlepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enduocigaretteposition"] = {
+        "duosmokepose@wecnarvaalo",
+        "duosmokepose_clip",
+        "En duo Cigarette Position",
+        imageId = "duosmokepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction31"] = {
+        "evil@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "evil",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction6"] = {
+        "fein@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "fein",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction67"] = {
+        "finalcutout@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "finalcutout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction30"] = {
+        "flavors@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "flavors",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["frimer"] = {
+        "flexin@sinay",
+        "sinay_clip",
+        "Frimer",
+        imageId = "flexin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction4"] = {
+        "fluent@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "fluent",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tares"] = {
+        "freaks@2assist",
+        "2assist_clip",
+        "Tares",
+        imageId = "freaks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["aller"] = {
+        "freaksonem@2assist",
+        "2assist_clip",
+        "Aller",
+        imageId = "freaksonem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction45"] = {
+        "freestee@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "freestee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["lesamis"] = {
+        "friends@fra@ig_1",
+        "base_idle",
+        "Les amis",
+        imageId = "friends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["faire12"] = {
+        "fuckda12@sinay",
+        "sinay_clip",
+        "Faire 12",
+        imageId = "fuckda12",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["defoncerles"] = {
+        "fuckemup@sinay",
+        "sinay_clip",
+        "Defoncer les",
+        imageId = "fuckemup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gdkmalediction"] = {
+        "gdkcurse@2assist",
+        "2assist_clip",
+        "GDK Malediction",
+        imageId = "gdkcurse",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gdk"] = {
+        "gdkextendopose@wecnarvaalo",
+        "gdkextendopose_clip",
+        "GDK",
+        imageId = "gdkextendopose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["gdkselfie"] = {
+        "gdkselfiepose@wecnarvaalo",
+        "gdkselfiepose_clip",
+        "GDK Selfie",
+        imageId = "gdkselfiepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["actionactionaction4"] = {
+        "geekedup@2assist",
+        "2assist_clip",
+        "",
+        imageId = "geekedup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction57"] = {
+        "generationalrun@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "generationalrun",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["enduoselfie"] = {
+        "girlduoselfie@wecnarvaalo",
+        "girlduoselfie_clip",
+        "En duo Selfie",
+        imageId = "girlduoselfie",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["skimasquedonner"] = {
+        "giveaskii@sinay",
+        "sinay_clip",
+        "Ski masque Donner",
+        imageId = "giveaskii",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["glockposition"] = {
+        "glockpose@wecnarvaalo",
+        "glockpose_clip",
+        "Glock Position",
+        imageId = "glockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction76"] = {
+        "goodfellow@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "goodfellow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["argentherbe"] = {
+        "gotgreens@2assist",
+        "2assist_clip",
+        "(Argent/Herbe)",
+        imageId = "gotgreens",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction89"] = {
+        "grinchmode@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "grinchmode",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction71"] = {
+        "hardthoughts@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "hardthoughts",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction29"] = {
+        "hardy@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "hardy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction72"] = {
+        "headtaps@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "headtaps",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction26"] = {
+        "here@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "here",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tenir"] = {
+        "holdtheblixk@sinay",
+        "sinay_clip",
+        "Tenir",
+        imageId = "holdtheblixk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["balle"] = {
+        "hollowsherehollowsthere@2assist",
+        "2assist_clip",
+        "Balle",
+        imageId = "hollowsherehollowsthere",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction25"] = {
+        "hurt@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "hurt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["position"] = {
+        "kayflockpose@wecnarvaalo",
+        "kayflockpose_clip",
+        "Position",
+        imageId = "kayflockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ktstechposition"] = {
+        "ktsvontechpose@wecnarvaalo",
+        "ktsvontechpose_clip",
+        "KTS Tech Position",
+        imageId = "ktsvontechpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["lagangsigne"] = {
+        "ladiss@wecnarvaalo",
+        "ladiss_clip",
+        "LA Gang Signe",
+        imageId = "ladisspose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["faireposition"] = {
+        "leanwbloodpose@wecnarvaalo",
+        "leanwbloodpose_clip",
+        "Faire Position",
+        imageId = "leanwbloodpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["leslaisserpourmorts"] = {
+        "leaveemdead@sinay",
+        "sinay_clip",
+        "Les laisser pour morts",
+        imageId = "leaveemdead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction75"] = {
+        "likedat@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "likedat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction44"] = {
+        "lookmyback@animation",
+        "lookmyback_clip",
+        "Interaction",
+        imageId = "lookmyback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tare"] = {
+        "maniac@2assist",
+        "2assist_clip",
+        "Tare",
+        imageId = "maniac",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction24"] = {
+        "marathon@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "marathon",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["herbe"] = {
+        "maryjane@2assist",
+        "2assist_clip",
+        "(Herbe)",
+        imageId = "maryjane",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction74"] = {
+        "massiveincomes@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "massiveincomes",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction18"] = {
+        "memories@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "memories",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mia"] = {
+        "mia@2assist",
+        "2assist_clip",
+        "(MIA)",
+        imageId = "mia",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction90"] = {
+        "mickeycobra@wecnarvaalo",
+        "mickeycobra_clip",
+        "Interaction",
+        imageId = "mickeycobra",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["assis"] = {
+        "mickeycobrasit@wecnarvaalo",
+        "mickeycobrasit_clip",
+        "Assis",
+        imageId = "mickeycobrasit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["mnp"] = {
+        "mnp@2assist",
+        "2assist_clip",
+        "MNP",
+        imageId = "mnp",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["msb2glock"] = {
+        "msb2glock@wecnarvaalo",
+        "msb2glock_clip",
+        "MSB 2 Glock",
+        imageId = "msb2glock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["fairecigarette"] = {
+        "mwithdracblunt@wecnarvaalo",
+        "mwithdracblunt_clip",
+        "Faire Cigarette",
+        imageId = "mwithdracblunt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["nouvellemarque"] = {
+        "newbrand@sinay",
+        "sinay_clip",
+        "Nouvelle marque",
+        imageId = "newbrand",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cauchemars"] = {
+        "nightmares@2assist",
+        "2assist_clip",
+        "Cauchemars",
+        imageId = "nightmares",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction87"] = {
+        "nolame@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "nolame",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ancienglockposition"] = {
+        "oldglock1@wecnarvaalo",
+        "oldglock1_clip",
+        "Ancien Glock Position",
+        imageId = "oldglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ancientelephoneposition"] = {
+        "oldphone@wecnarvaalo",
+        "oldphone_clip",
+        "Ancien Telephone Position",
+        imageId = "oldphonepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["danselequartier"] = {
+        "ondaturf@sinay",
+        "sinay_clip",
+        "Danse le quartier",
+        imageId = "ondaturf",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction20"] = {
+        "onhots@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "onhots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["uniquementnous"] = {
+        "onlyus@2assist",
+        "2assist_clip",
+        "Uniquement Nous",
+        imageId = "onlyus",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction47"] = {
+        "outtheroof@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "outtheroof",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["pilulesfaireargent"] = {
+        "pillmoney@sinay",
+        "sinay_clip",
+        "Pilules faire argent",
+        imageId = "pillmoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction66"] = {
+        "playball@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "playball",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["fairelefou"] = {
+        "playcrazy@sinay",
+        "sinay_clip",
+        "Faire le fou",
+        imageId = "playcrazy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tapemencinq"] = {
+        "popfive@2assist",
+        "2assist_clip",
+        "Tape - men - cinq",
+        imageId = "popfive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["specialgdk"] = {
+        "privategdk@2assist",
+        "2assist_clip",
+        "Special GDK",
+        imageId = "privategdk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction34"] = {
+        "rainypeeski@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "rainypeeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction61"] = {
+        "readytodump@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "readytodump",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction17"] = {
+        "reckless@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "reckless",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction49"] = {
+        "repentedcrasher@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "repentedcrasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction59"] = {
+        "rightchoice@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "rightchoice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["fairepop"] = {
+        "rocknpop@2assist",
+        "2assist_clip",
+        "Faire Pop",
+        imageId = "rocknpop",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction36"] = {
+        "ross@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "ross",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction86"] = {
+        "rtht@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "rtht",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["poursuivreles"] = {
+        "runemdown@animation",
+        "runemdown_clip",
+        "Poursuivre les",
+        imageId = "runemdown",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["poursuivreles2"] = {
+        "runemdown2@animation",
+        "runemdown2_clip",
+        "Poursuivre les 2",
+        imageId = "runemdown2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction16"] = {
+        "scora@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "scora",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction53"] = {
+        "sheddintears@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "sheddintears",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["montrer"] = {
+        "showthegear@sinay",
+        "sinay_clip",
+        "Montrer",
+        imageId = "showthegear",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["assisverrecacher"] = {
+        "sitdodgecup1@wecnarvaalo",
+        "sitdodgecup1_clip",
+        "Assis Verre Cacher",
+        imageId = "sitdodgecup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["assis3"] = {
+        "sitfckglock@wecnarvaalo",
+        "sitfckglock_clip",
+        "Assis",
+        imageId = "sitfckglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["assissappuyerglock"] = {
+        "sitleanglock@wecnarvaalo",
+        "sitleanglock_clip",
+        "Assis Sappuyer (Glock)",
+        imageId = "sitleanglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["assis2"] = {
+        "sitonbench@wecnarvaalo",
+        "sitonbench_clip",
+        "Assis",
+        imageId = "sitonbench",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["assisdoublearme"] = {
+        "sitw2glock1@wecnarvaalo",
+        "sitw2glock1_clip",
+        "Assis Double Arme",
+        imageId = "sitwithtwoglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction15"] = {
+        "smacker@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "smacker",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["soldat"] = {
+        "soldier@2assist",
+        "2assist_clip",
+        "Soldat",
+        imageId = "soldier",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction3"] = {
+        "spender@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "spender",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["entournantarmetenir"] = {
+        "spinholdglock@wecnarvaalo",
+        "spinholdglock_clip",
+        "En tournant Arme Tenir",
+        imageId = "spinholdglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["entournantgdkselfie"] = {
+        "spinselfiegdk@wecnarvaalo",
+        "spinselfiegdk_clip",
+        "En tournant GDK Selfie",
+        imageId = "spinselfiegdk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["arpavecentournantselfie"] = {
+        "spinselfieholdarp@wecnarvaalo",
+        "spinselfieholdarp_clip",
+        "ARP avec En tournant Selfie",
+        imageId = "spinselfieholdarp",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction35"] = {
+        "splash@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "splash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["guetteur"] = {
+        "spotta@2assist",
+        "2assist_clip",
+        "Guetteur",
+        imageId = "spotta",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sprayeur"] = {
+        "spraytruster@2assist",
+        "2assist_clip",
+        "Sprayeur",
+        imageId = "spraytruster",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction65"] = {
+        "sticks@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "sticks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["secouer"] = {
+        "swinga@2assist",
+        "2assist_clip",
+        "Secouer",
+        imageId = "swinga",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tech9"] = {
+        "tech9car@wecnarvaalo",
+        "tech9car_clip",
+        "Tech9",
+        imageId = "tech9car",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["3glockposition"] = {
+        "3poseglock1@wecnarvaalo",
+        "3poseglock1_clip",
+        "3 Glock Position",
+        imageId = "threeglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction56"] = {
+        "timetickin@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "timetickin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction52"] = {
+        "toodeep@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "toodeep",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ennuis"] = {
+        "troubles@2assist",
+        "2assist_clip",
+        "Ennuis",
+        imageId = "troubles",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction13"] = {
+        "trust@sinay",
+        "sinay_clip",
+        "Interaction",
+        imageId = "trust",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction70"] = {
+        "trynamaintain@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "trynamaintain",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction9"] = {
+        "tweaka@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "tweaka",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["doublearme"] = {
+        "2guncar@wecnarvaalo",
+        "2guncar_clip",
+        "Double Arme",
+        imageId = "twoguncarpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction11"] = {
+        "veeski@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "veeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction51"] = {
+        "walkbypioneer@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "walkbypioneer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["main"] = {
+        "walkhandpocketpose@wecnarvaalo",
+        "walkhandpocketpose_clip",
+        "Main",
+        imageId = "walkhandpocketpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["enmarchantselfie"] = {
+        "walkwithglockselfie@wecnarvaalo",
+        "walkwithglockselfie_clip",
+        "En marchant Selfie",
+        imageId = "walkwithglockselfie",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["interaction38"] = {
+        "wentsilly@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "wentsilly",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction40"] = {
+        "whathefelt@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "whathefelt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cetaitquoica"] = {
+        "whatitwas@2assist",
+        "2assist_clip",
+        "Cetait quoi CA",
+        imageId = "whatitwas",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["interaction2"] = {
+        "whispers@2assist",
+        "2assist_clip",
+        "Interaction",
+        imageId = "whispers",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tusais"] = {
+        "yktv@2assist",
+        "2assist_clip",
+        "Tu sais",
+        imageId = "yktv",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["faire2"] = {
+        "youngnturnt@2assist",
+        "2assist_clip",
+        "Faire",
+        imageId = "youngnturnt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+}

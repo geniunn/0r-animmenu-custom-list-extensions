@@ -29199,4 +29199,1845 @@ RES.CS.Customs.PlacedEmotes = {}
 
 RES.CS.Customs.Extra = {}
 
-RES.CS.Customs.Gang = {}
+RES.CS.Customs.Gang = {
+    ["1901"] = {
+        "1901@2assist",
+        "2assist_clip",
+        "1901",
+        imageId = "1901",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["31dni"] = {
+        "31days@2assist",
+        "2assist_clip",
+        "31 dní",
+        imageId = "31days",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["50vystrelu"] = {
+        "50shots@2assist",
+        "2assist_clip",
+        "50 výstřelů",
+        imageId = "50shots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["5rano"] = {
+        "5am@2assist",
+        "2assist_clip",
+        "5 ráno",
+        imageId = "5am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["6rano"] = {
+        "6am@2assist",
+        "2assist_clip",
+        "6 ráno",
+        imageId = "6am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["8vecer"] = {
+        "8pm@2assist",
+        "2assist_clip",
+        "8 večer",
+        imageId = "8pm",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ahhh"] = {
+        "ahhh@2assist",
+        "2assist_clip",
+        "Ahhh",
+        imageId = "ahhh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arpparty1"] = {
+        "2a_arpparty1@animation",
+        "2a_arpparty1_clip",
+        "ARP párty 1",
+        imageId = "2aarpparty1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arpparty2"] = {
+        "2a_arpparty2@animation",
+        "2a_arpparty2_clip",
+        "ARP párty 2",
+        imageId = "2aarpparty2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arpparty2v2"] = {
+        "2a_arpparty2v2@animation",
+        "2a_arpparty2v2_clip",
+        "ARP párty 2 v2",
+        imageId = "2aarpparty2v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arpsotacenimselfie"] = {
+        "spinselfieholdarp@wecnarvaalo",
+        "spinselfieholdarp_clip",
+        "ARP s Otáčením Selfie",
+        imageId = "spinselfieholdarp",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["bap"] = {
+        "bap@2assist",
+        "2assist_clip",
+        "Bap",
+        imageId = "bap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bezohledny"] = {
+        "reckless@2assist",
+        "2assist_clip",
+        "Bezohledný",
+        imageId = "reckless",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["blackout"] = {
+        "blackin@sinay",
+        "sinay_clip",
+        "Blackout",
+        imageId = "blackin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bolest"] = {
+        "hurt@2assist",
+        "2assist_clip",
+        "Bolest",
+        imageId = "hurt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["budvestrehu"] = {
+        "2a_stayonten@animation",
+        "2assist_clip",
+        "Buď ve střehu",
+        imageId = "2astayonten",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bum"] = {
+        "blamma@2assist",
+        "2assist_clip",
+        "Bum!",
+        imageId = "blamma",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["byljsempripraven"] = {
+        "2a_beenready@animation",
+        "2assist_clip",
+        "Byl jsem připraven",
+        imageId = "2abeenready",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["castika"] = {
+        "timetickin@2assist",
+        "2assist_clip",
+        "Čas tiká",
+        imageId = "timetickin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["chill"] = {
+        "coolin@2assist",
+        "2assist_clip",
+        "Chill",
+        imageId = "coolin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["chillslahvi"] = {
+        "2assistchillbottle@animation",
+        "2assistchillbottle_clip",
+        "Chill s lahví",
+        imageId = "2assistchillbottle",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["chuzesrukouvkapse"] = {
+        "walkhandpocketpose@wecnarvaalo",
+        "walkhandpocketpose_clip",
+        "Chůze s rukou v kapse",
+        imageId = "walkhandpocketpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["chycen"] = {
+        "busted@sinay",
+        "sinay_clip",
+        "Chycen",
+        imageId = "busted",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["chytto"] = {
+        "catchdat@2assist",
+        "2assist_clip",
+        "Chyť to",
+        imageId = "catchdat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cistic"] = {
+        "clearer@2assist",
+        "2assist_clip",
+        "Čistič",
+        imageId = "clearer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cocitil"] = {
+        "whathefelt@2assist",
+        "2assist_clip",
+        "Co cítil",
+        imageId = "whathefelt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cotobylo"] = {
+        "whatitwas@2assist",
+        "2assist_clip",
+        "Co to bylo",
+        imageId = "whatitwas",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["datlyzarskoumasku"] = {
+        "giveaskii@sinay",
+        "sinay_clip",
+        "Dát lyžařskou masku",
+        imageId = "giveaskii",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["destivo"] = {
+        "rainypeeski@2assist",
+        "2assist_clip",
+        "Deštivo",
+        imageId = "rainypeeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["dlouhahlaven"] = {
+        "sticks@2assist",
+        "2assist_clip",
+        "Dlouhá hlaveň",
+        imageId = "sticks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["dobrykamos"] = {
+        "goodfellow@2assist",
+        "2assist_clip",
+        "Dobrý kámoš",
+        imageId = "goodfellow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["dracoacigareta"] = {
+        "mwithdracblunt@wecnarvaalo",
+        "mwithdracblunt_clip",
+        "Draco a Cigareta",
+        imageId = "mwithdracblunt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["drtic"] = {
+        "crasher@2assist",
+        "2assist_clip",
+        "Drtič",
+        imageId = "crasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["drzenimakk"] = {
+        "2assistmakkholding@animation",
+        "2assistmakkholding_clip",
+        "Držení Makk",
+        imageId = "2assistmakkholding",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["drzetsmrtku"] = {
+        "clutchondareap@2assist",
+        "2assist_clip",
+        "Držet smrtku",
+        imageId = "clutchondareap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["drzetzbran"] = {
+        "holdtheblixk@sinay",
+        "sinay_clip",
+        "Držet zbraň",
+        imageId = "holdtheblixk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["duocigaretacekani"] = {
+        "duosmokeidlepose1@wecnarvaalo",
+        "duosmokeidlepose1_clip",
+        "Duo Cigareta Čekání",
+        imageId = "duosmokeidlepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["duolgesto"] = {
+        "duoldisspose@wecnarvaalo",
+        "duoldisspose_clip",
+        "Duo L Gesto",
+        imageId = "duoldisspose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["duopazetelefon"] = {
+        "duoarmphone@wecnarvaalo",
+        "duoarmphone_clip",
+        "Duo Paže & Telefon",
+        imageId = "duoarmphone",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["duozbrankobliceji"] = {
+        "duoglockfacepose1@wecnarvaalo",
+        "duoglockfacepose1_clip",
+        "Duo Zbraň K obličeji",
+        imageId = "duoglockfacepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["duvera"] = {
+        "trust@sinay",
+        "sinay_clip",
+        "Důvěra",
+        imageId = "trust",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["dvacitkyvenku"] = {
+        "20sout@2assist",
+        "2assist_clip",
+        "Dvacítky venku",
+        imageId = "20sout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["fackovac"] = {
+        "smacker@2assist",
+        "2assist_clip",
+        "Fackovač",
+        imageId = "smacker",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["finalnistrih"] = {
+        "finalcutout@2assist",
+        "2assist_clip",
+        "Finální střih",
+        imageId = "finalcutout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gdkdlouhyzasobnik"] = {
+        "gdkextendopose@wecnarvaalo",
+        "gdkextendopose_clip",
+        "GDK dlouhý zásobník",
+        imageId = "gdkextendopose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["gdkkletba"] = {
+        "gdkcurse@2assist",
+        "2assist_clip",
+        "GDK kletba",
+        imageId = "gdkcurse",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gdkselfie"] = {
+        "gdkselfiepose@wecnarvaalo",
+        "gdkselfiepose_clip",
+        "GDK selfie",
+        imageId = "gdkselfiepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["generacnibeh"] = {
+        "generationalrun@2assist",
+        "2assist_clip",
+        "Generační běh",
+        imageId = "generationalrun",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gestonapolicii12"] = {
+        "fuckda12@sinay",
+        "sinay_clip",
+        "Gesto na policii (12)",
+        imageId = "fuckda12",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["grinchrezim"] = {
+        "grinchmode@2assist",
+        "2assist_clip",
+        "Grinch režim",
+        imageId = "grinchmode",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hoditnabojnici"] = {
+        "2a_throwdashell@animation",
+        "2a_throwdashell_clip",
+        "Hodit nábojnici",
+        imageId = "2athrowdashell",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["holkyduoselfie"] = {
+        "girlduoselfie@wecnarvaalo",
+        "girlduoselfie_clip",
+        "Holky: duo selfie",
+        imageId = "girlduoselfie",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["houpani"] = {
+        "swinga@2assist",
+        "2assist_clip",
+        "Houpání",
+        imageId = "swinga",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hratblazna"] = {
+        "playcrazy@sinay",
+        "sinay_clip",
+        "Hrát blázna",
+        imageId = "playcrazy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hrazacina"] = {
+        "playball@2assist",
+        "2assist_clip",
+        "Hra začíná",
+        imageId = "playball",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hymnahrozby"] = {
+        "2a_threathymn@animation",
+        "2assist_clip",
+        "Hymna hrozby",
+        imageId = "2athreathymn",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hymnanasili"] = {
+        "2a_violenceanthem@animation",
+        "2assist_clip",
+        "Hymna násilí",
+        imageId = "2aviolenceanthem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["jdiponich"] = {
+        "freaksonem@2assist",
+        "2assist_clip",
+        "Jdi po nich",
+        imageId = "freaksonem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["jenmy"] = {
+        "onlyus@2assist",
+        "2assist_clip",
+        "Jen my",
+        imageId = "onlyus",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kajicisedrtic"] = {
+        "repentedcrasher@2assist",
+        "2assist_clip",
+        "Kající se drtič",
+        imageId = "repentedcrasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["klikanispouste"] = {
+        "2a_clicky@animation",
+        "2assist_clip",
+        "Klikání spouště",
+        imageId = "2aclicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kontrola"] = {
+        "checkup@2assist",
+        "2assist_clip",
+        "Kontrola",
+        imageId = "checkup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["krvavamary"] = {
+        "bmary@2assist",
+        "2assist_clip",
+        "Krvavá Mary",
+        imageId = "bmary",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kryjmizada"] = {
+        "lookmyback@animation",
+        "lookmyback_clip",
+        "Kryj mi záda",
+        imageId = "lookmyback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["laganggesto"] = {
+        "ladiss@wecnarvaalo",
+        "ladiss_clip",
+        "LA gang gesto",
+        imageId = "ladisspose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["linedrzeniarp"] = {
+        "2assistlazyarphold@animation",
+        "2assistlazyarphold_clip",
+        "Líné držení ARP",
+        imageId = "2assistlazyarphold",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["loupezzbrojnice"] = {
+        "2a_armoryrobbery@animation",
+        "2a_armoryrobbery_clip",
+        "Loupež zbrojnice",
+        imageId = "2aarmoryrobbery",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["loutka1"] = {
+        "2a_puppet1@animation",
+        "2a_puppet1_clip",
+        "Loutka 1",
+        imageId = "2apuppet1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["loutka1v2"] = {
+        "2a_puppet1v2@animation",
+        "2a_puppet1v2_clip",
+        "Loutka 1 v2",
+        imageId = "2apuppet1v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["loutka2"] = {
+        "2a_puppet2@animation",
+        "2a_puppet2_clip",
+        "Loutka 2",
+        imageId = "2apuppet2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["luzrinesmidovnitr"] = {
+        "nolame@2assist",
+        "2assist_clip",
+        "Lůzři nesmí dovnitř",
+        imageId = "nolame",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["machrovani"] = {
+        "flexin@sinay",
+        "sinay_clip",
+        "Machrování",
+        imageId = "flexin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["magor"] = {
+        "maniac@2assist",
+        "2assist_clip",
+        "Magor",
+        imageId = "maniac",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["magorove"] = {
+        "freaks@2assist",
+        "2assist_clip",
+        "Magorové",
+        imageId = "freaks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mamzelenyprachytrava"] = {
+        "gotgreens@2assist",
+        "2assist_clip",
+        "Mám zelený (prachy/tráva)",
+        imageId = "gotgreens",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["maraton"] = {
+        "marathon@2assist",
+        "2assist_clip",
+        "Maraton",
+        imageId = "marathon",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["maryjanetrava"] = {
+        "maryjane@2assist",
+        "2assist_clip",
+        "Mary Jane (tráva)",
+        imageId = "maryjane",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mestodremont"] = {
+        "dremontcity@2assist",
+        "2assist_clip",
+        "Město Dremont",
+        imageId = "dremontcity",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mickeycobrapostoj"] = {
+        "mickeycobra@wecnarvaalo",
+        "mickeycobra_clip",
+        "Mickey Cobra Postoj",
+        imageId = "mickeycobra",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["mladyarozjety"] = {
+        "youngnturnt@2assist",
+        "2assist_clip",
+        "Mladý a rozjetý",
+        imageId = "youngnturnt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mnp"] = {
+        "mnp@2assist",
+        "2assist_clip",
+        "MNP",
+        imageId = "mnp",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mochluboko"] = {
+        "toodeep@2assist",
+        "2assist_clip",
+        "Moc hluboko",
+        imageId = "toodeep",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["modripoliciesmutek"] = {
+        "blues@2assist",
+        "2assist_clip",
+        "Modří (policie/smutek)",
+        imageId = "blues",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["msb2glock"] = {
+        "msb2glock@wecnarvaalo",
+        "msb2glock_clip",
+        "MSB 2 Glock",
+        imageId = "msb2glock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["nabuzenyhype"] = {
+        "geekedup@2assist",
+        "2assist_clip",
+        "Nabuzený (hype)",
+        imageId = "geekedup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["naraz"] = {
+        "crash@2assist",
+        "2assist_clip",
+        "Náraz",
+        imageId = "crash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["narovinu"] = {
+        "rtht@2assist",
+        "2assist_clip",
+        "Na rovinu",
+        imageId = "rtht",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nasvemuzemi"] = {
+        "ondaturf@sinay",
+        "sinay_clip",
+        "Na svém území",
+        imageId = "ondaturf",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nazhavem"] = {
+        "onhots@2assist",
+        "2assist_clip",
+        "Na žhavém",
+        imageId = "onhots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nechatjemrtve"] = {
+        "leaveemdead@sinay",
+        "sinay_clip",
+        "Nechat je mrtvé",
+        imageId = "leaveemdead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nemuzusetohozbavit"] = {
+        "cantgetridofit@2assist",
+        "2assist_clip",
+        "Nemůžu se toho zbavit",
+        imageId = "cantgetridofit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["neniuniku"] = {
+        "dodgenohollow@2assist",
+        "2assist_clip",
+        "Není úniku",
+        imageId = "dodgenohollow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nezvestnymia"] = {
+        "mia@2assist",
+        "2assist_clip",
+        "Nezvěstný (MIA)",
+        imageId = "mia",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nocnimury"] = {
+        "nightmares@2assist",
+        "2assist_clip",
+        "Noční můry",
+        imageId = "nightmares",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["novaznacka"] = {
+        "newbrand@sinay",
+        "sinay_clip",
+        "Nová značka",
+        imageId = "newbrand",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["noveboty"] = {
+        "2a_newkicks@animation",
+        "2a_newkicks_clip",
+        "Nové boty",
+        imageId = "2anewkicks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["obetobetniberanek"] = {
+        "crashdummy@2assist",
+        "2assist_clip",
+        "Oběť (obětní beránek)",
+        imageId = "crashdummy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["odplata"] = {
+        "2a_getback@animation",
+        "2a_getback_clip",
+        "Odplata",
+        imageId = "2agetback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["odpykaljsemsito"] = {
+        "didmytime@2assist",
+        "2assist_clip",
+        "Odpykal jsem si to",
+        imageId = "didmytime",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["otacenimgdkselfie"] = {
+        "spinselfiegdk@wecnarvaalo",
+        "spinselfiegdk_clip",
+        "Otáčením GDK Selfie",
+        imageId = "spinselfiegdk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["otacenimzbrandrzet"] = {
+        "spinholdglock@wecnarvaalo",
+        "spinholdglock_clip",
+        "Otáčením Zbraň Držet",
+        imageId = "spinholdglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["otevrito"] = {
+        "2a_openthatup@animation",
+        "2a_openthatup_clip",
+        "Otevři to",
+        imageId = "2aopenthatup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["pilulkyaprachy"] = {
+        "pillmoney@sinay",
+        "sinay_clip",
+        "Pilulky a prachy",
+        imageId = "pillmoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["plachyglock"] = {
+        "2ashyglock@animation",
+        "2ashyglock_clip",
+        "Plachý Glock",
+        imageId = "2ashyglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["placnoutpetku"] = {
+        "popfive@2assist",
+        "2assist_clip",
+        "Plácnout pětku",
+        imageId = "popfive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["placnoutpetku2"] = {
+        "2a_crackdafive@animation",
+        "2assist_clip",
+        "Plácnout pětku",
+        imageId = "2acrackdafive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["plynuly"] = {
+        "fluent@2assist",
+        "2assist_clip",
+        "Plynulý",
+        imageId = "fluent",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["podrepdracoanadavka"] = {
+        "crouchdracofck1@wecnarvaalo",
+        "crouchdracofck1_clip",
+        "Podřep: Draco a nadávka",
+        imageId = "crouchdracofuck",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["popadnoutpiti"] = {
+        "2a_grabdajuice@animation",
+        "2a_grabdajuice_clip",
+        "Popadnout pití",
+        imageId = "2agrabdajuice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["potize"] = {
+        "troubles@2assist",
+        "2assist_clip",
+        "Potíže",
+        imageId = "troubles",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["poulicnibitka1"] = {
+        "brawl1@2assist",
+        "2assist_clip",
+        "Pouliční bitka 1",
+        imageId = "brawl1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["poulicnibitka2"] = {
+        "brawl2@2assist",
+        "2assist_clip",
+        "Pouliční bitka 2",
+        imageId = "brawl2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["poza3glock"] = {
+        "3poseglock1@wecnarvaalo",
+        "3poseglock1_clip",
+        "Póza: 3 Glock",
+        imageId = "threeglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaarpglock"] = {
+        "arpglockpose1@wecnarvaalo",
+        "arpglockpose1_clip",
+        "Póza: ARP & Glock",
+        imageId = "arpglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaduocigareta"] = {
+        "duosmokepose@wecnarvaalo",
+        "duosmokepose_clip",
+        "Póza: Duo Cigareta",
+        imageId = "duosmokepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaduodraco"] = {
+        "duomicrodracpose@wecnarvaalo",
+        "duomicrodracpose_clip",
+        "Póza: Duo Draco",
+        imageId = "duomicrodracpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaduogdk"] = {
+        "duogdkpose@wecnarvaalo",
+        "duogdkpose_clip",
+        "Póza: Duo GDK",
+        imageId = "duogdkpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaduoglock"] = {
+        "duoglockpose@wecnarvaalo",
+        "duoglockpose_clip",
+        "Póza: Duo Glock",
+        imageId = "duoglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozadvezbrane"] = {
+        "doublegunpose@wecnarvaalo",
+        "doublegunpose_clip",
+        "Póza: Dvě zbraně",
+        imageId = "doublegunpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaglock"] = {
+        "glockpose@wecnarvaalo",
+        "glockpose_clip",
+        "Póza: Glock",
+        imageId = "glockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozakayflock"] = {
+        "kayflockpose@wecnarvaalo",
+        "kayflockpose_clip",
+        "Póza: Kay Flock",
+        imageId = "kayflockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaktsvontech"] = {
+        "ktsvontechpose@wecnarvaalo",
+        "ktsvontechpose_clip",
+        "Póza: KTS Von Tech",
+        imageId = "ktsvontechpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozaleanakrev"] = {
+        "leanwbloodpose@wecnarvaalo",
+        "leanwbloodpose_clip",
+        "Póza: Lean a krev",
+        imageId = "leanwbloodpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozastaryglock"] = {
+        "oldglock1@wecnarvaalo",
+        "oldglock1_clip",
+        "Póza: Starý Glock",
+        imageId = "oldglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozastarytelefon"] = {
+        "oldphone@wecnarvaalo",
+        "oldphone_clip",
+        "Póza: Starý Telefon",
+        imageId = "oldphonepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pozorovatel"] = {
+        "spotta@2assist",
+        "2assist_clip",
+        "Pozorovatel",
+        imageId = "spotta",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["pratele"] = {
+        "friends@fra@ig_1",
+        "base_idle",
+        "Přátelé",
+        imageId = "friends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["prazdnypohled"] = {
+        "blank@2assist",
+        "2assist_clip",
+        "Prázdný pohled",
+        imageId = "blank",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["prichute"] = {
+        "flavors@2assist",
+        "2assist_clip",
+        "Příchutě",
+        imageId = "flavors",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["prichuzisezbraniselfie"] = {
+        "walkwithglockselfie@wecnarvaalo",
+        "walkwithglockselfie_clip",
+        "Při chůzi Se zbraní Selfie",
+        imageId = "walkwithglockselfie",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["pripravenstrilet"] = {
+        "readytodump@2assist",
+        "2assist_clip",
+        "Připraven střílet",
+        imageId = "readytodump",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["promoceny1"] = {
+        "drench1@2assist",
+        "2assist_clip",
+        "Promočený 1",
+        imageId = "drench1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["promoceny2"] = {
+        "drench2@2assist",
+        "2assist_clip",
+        "Promočený 2",
+        imageId = "drench2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["promoceny3"] = {
+        "drench3@2assist",
+        "2assist_clip",
+        "Promočený 3",
+        imageId = "drench3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["promoceny4"] = {
+        "drench4@2assist",
+        "2assist_clip",
+        "Promočený 4",
+        imageId = "drench4",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["prukopnickachuze"] = {
+        "walkbypioneer@2assist",
+        "2assist_clip",
+        "Průkopnická chůze",
+        imageId = "walkbypioneer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ranydohlavy"] = {
+        "headtaps@2assist",
+        "2assist_clip",
+        "Rány do hlavy",
+        imageId = "headtaps",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rockapop"] = {
+        "rocknpop@2assist",
+        "2assist_clip",
+        "Rock a Pop",
+        imageId = "rocknpop",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ronitslzy"] = {
+        "sheddintears@2assist",
+        "2assist_clip",
+        "Ronit slzy",
+        imageId = "sheddintears",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ross"] = {
+        "ross@2assist",
+        "2assist_clip",
+        "Ross",
+        imageId = "ross",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rozjetnoc"] = {
+        "doinigh@2assist",
+        "2assist_clip",
+        "Rozjet noc",
+        imageId = "doinigh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rozjetto1"] = {
+        "2a_lightitup1@animation",
+        "2a_lightitup1_clip",
+        "Rozjet to 1",
+        imageId = "2alightitup1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rozjetto2"] = {
+        "2a_lightitup2@animation",
+        "2a_lightitup2_clip",
+        "Rozjet to 2",
+        imageId = "2alightitup2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sedetnalavicce"] = {
+        "sitonbench@wecnarvaalo",
+        "sitonbench_clip",
+        "Sedět na lavičce",
+        imageId = "sitonbench",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["sedmickeycobra"] = {
+        "mickeycobrasit@wecnarvaalo",
+        "mickeycobrasit_clip",
+        "Sed: Mickey Cobra",
+        imageId = "mickeycobrasit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["sepoty"] = {
+        "whispers@2assist",
+        "2assist_clip",
+        "Šepoty",
+        imageId = "whispers",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sikanator"] = {
+        "bullyer@2assist",
+        "2assist_clip",
+        "Šikanátor",
+        imageId = "bullyer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["skorer"] = {
+        "scora@2assist",
+        "2assist_clip",
+        "Skorer",
+        imageId = "scora",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["snazimseudrzet"] = {
+        "trynamaintain@2assist",
+        "2assist_clip",
+        "Snažím se udržet",
+        imageId = "trynamaintain",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["specialnigdk"] = {
+        "privategdk@2assist",
+        "2assist_clip",
+        "Speciální GDK",
+        imageId = "privategdk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["splouch"] = {
+        "splash@2assist",
+        "2assist_clip",
+        "Šplouch",
+        imageId = "splash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["spravnavolba"] = {
+        "rightchoice@2assist",
+        "2assist_clip",
+        "Správná volba",
+        imageId = "rightchoice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sprejar"] = {
+        "spraytruster@2assist",
+        "2assist_clip",
+        "Sprejař",
+        imageId = "spraytruster",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["statnamiste"] = {
+        "2a_standstill@animation",
+        "2a_standstill_clip",
+        "Stát na místě",
+        imageId = "2astandstill",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sturdytanec"] = {
+        "2a_gettinsturdy@animation",
+        "2assist_clip",
+        "Sturdy Tanec",
+        imageId = "2agettinsturdy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sundatje"] = {
+        "runemdown@animation",
+        "runemdown_clip",
+        "Sundat je",
+        imageId = "runemdown",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sundatje2"] = {
+        "runemdown2@animation",
+        "runemdown2_clip",
+        "Sundat je 2",
+        imageId = "runemdown2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tady"] = {
+        "here@2assist",
+        "2assist_clip",
+        "Tady",
+        imageId = "here",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["takhle"] = {
+        "likedat@2assist",
+        "2assist_clip",
+        "Takhle",
+        imageId = "likedat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tezkemyslenky"] = {
+        "hardthoughts@2assist",
+        "2assist_clip",
+        "Těžké myšlenky",
+        imageId = "hardthoughts",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tirek"] = {
+        "tweaka@2assist",
+        "2assist_clip",
+        "Tirek",
+        imageId = "tweaka",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tvrdy"] = {
+        "hardy@2assist",
+        "2assist_clip",
+        "Tvrdý",
+        imageId = "hardy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["udavattrendy"] = {
+        "2a_settrends@animation",
+        "2a_settrends_clip",
+        "Udávat trendy",
+        imageId = "2asettrends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["udelatzasah"] = {
+        "doahit@2assist",
+        "2assist_clip",
+        "Udělat zásah",
+        imageId = "doahit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ukazatvybavu"] = {
+        "showthegear@sinay",
+        "sinay_clip",
+        "Ukázat výbavu",
+        imageId = "showthegear",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ukolebavkaarp"] = {
+        "arplullaby@2assist",
+        "2assist_clip",
+        "Ukolébavka ARP",
+        imageId = "arplullaby",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["utracec"] = {
+        "spender@2assist",
+        "2assist_clip",
+        "Utráceč",
+        imageId = "spender",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["uzmenebavidissy"] = {
+        "2a_tiredofdissin@animation",
+        "2assist_clip",
+        "Už mě nebaví dissy",
+        imageId = "2atiredofdissin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vautedvezbrane"] = {
+        "2guncar@wecnarvaalo",
+        "2guncar_clip",
+        "V autě Dvě zbraně",
+        imageId = "twoguncarpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["vautetech9"] = {
+        "tech9car@wecnarvaalo",
+        "tech9car_clip",
+        "V autě Tech9",
+        imageId = "tech9car",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["veeski"] = {
+        "veeski@2assist",
+        "2assist_clip",
+        "Veeski",
+        imageId = "veeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["velkeprijmy"] = {
+        "massiveincomes@2assist",
+        "2assist_clip",
+        "Velké příjmy",
+        imageId = "massiveincomes",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["visto"] = {
+        "yktv@2assist",
+        "2assist_clip",
+        "Víš to",
+        imageId = "yktv",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vojak"] = {
+        "soldier@2assist",
+        "2assist_clip",
+        "Voják",
+        imageId = "soldier",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["volnystyl"] = {
+        "freestee@2assist",
+        "2assist_clip",
+        "Volný styl",
+        imageId = "freestee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vsededvezbrane"] = {
+        "sitw2glock1@wecnarvaalo",
+        "sitw2glock1_clip",
+        "V sedě dvě zbraně",
+        imageId = "sitwithtwoglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["vsedeglockanadavka"] = {
+        "sitfckglock@wecnarvaalo",
+        "sitfckglock_clip",
+        "V sedě: Glock a nadávka",
+        imageId = "sitfckglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["vsedeoprenyglock"] = {
+        "sitleanglock@wecnarvaalo",
+        "sitleanglock_clip",
+        "V sedě opřený (Glock)",
+        imageId = "sitleanglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["vsedeschovatkelimek"] = {
+        "sitdodgecup1@wecnarvaalo",
+        "sitdodgecup1_clip",
+        "V sedě schovat kelímek",
+        imageId = "sitdodgecup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["vsimnoutsi"] = {
+        "2a_spotsum@animation",
+        "2a_spotsum_clip",
+        "Všimnout si",
+        imageId = "2aspotsum",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vstup"] = {
+        "dropin@sinay",
+        "sinay_clip",
+        "Vstup",
+        imageId = "dropin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vsudenaboje"] = {
+        "hollowsherehollowsthere@2assist",
+        "2assist_clip",
+        "Všude náboje",
+        imageId = "hollowsherehollowsthere",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vyhazetprachy"] = {
+        "blowabag@2assist",
+        "2assist_clip",
+        "Vyházet prachy",
+        imageId = "blowabag",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vysypatzasobnik"] = {
+        "2a_dumpin@animation",
+        "2a_dumpin_clip",
+        "Vysypat zásobník",
+        imageId = "2adumpin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vzpominky"] = {
+        "memories@2assist",
+        "2assist_clip",
+        "Vzpomínky",
+        imageId = "memories",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zamirit"] = {
+        "beamem@2assist",
+        "2assist_clip",
+        "Zamířit",
+        imageId = "beamem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zapenezi"] = {
+        "chasethemoney@sinay",
+        "sinay_clip",
+        "Za penězi",
+        imageId = "chasethemoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zaskocen1"] = {
+        "2a_caughtoffguard1@animation",
+        "2a_caughtoffguard1_clip",
+        "Zaskočen 1",
+        imageId = "2acaughtoffguard1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zaskocen2"] = {
+        "2a_caughtoffguard2@animation",
+        "2a_caughtoffguard2_clip",
+        "Zaskočen 2",
+        imageId = "2acaughtoffguard2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zaskocen3"] = {
+        "2a_caughtoffguard3@animation",
+        "2a_caughtoffguard3_clip",
+        "Zaskočen 3",
+        imageId = "2acaughtoffguard3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zavislak"] = {
+        "fein@2assist",
+        "2assist_clip",
+        "Závislák",
+        imageId = "fein",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zavislynaspousti"] = {
+        "buttonaddict@2assist",
+        "2assist_clip",
+        "Závislý na spoušti",
+        imageId = "buttonaddict",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zblaznilse"] = {
+        "wentsilly@2assist",
+        "2assist_clip",
+        "Zbláznil se",
+        imageId = "wentsilly",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zbranblicky"] = {
+        "2a_blicky@animation",
+        "2assist_clip",
+        "Zbraň (Blicky)",
+        imageId = "2ablicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zdvojnasobto"] = {
+        "doubledat@2assist",
+        "2assist_clip",
+        "Zdvojnásob to",
+        imageId = "doubledat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zestrechyven"] = {
+        "outtheroof@2assist",
+        "2assist_clip",
+        "Ze střechy ven",
+        imageId = "outtheroof",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zlo"] = {
+        "evil@2assist",
+        "2assist_clip",
+        "Zlo",
+        imageId = "evil",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["znakchiraq"] = {
+        "chiraqsign1@wecnarvaalo",
+        "chiraqsign1_clip",
+        "Znak Chiraq",
+        imageId = "chiraqsign",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["znicje"] = {
+        "fuckemup@sinay",
+        "sinay_clip",
+        "Znič je",
+        imageId = "fuckemup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zpatkyzmrtvych"] = {
+        "backfromthedead@2assist",
+        "2assist_clip",
+        "Zpátky z mrtvých",
+        imageId = "backfromthedead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+}

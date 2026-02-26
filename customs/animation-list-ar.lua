@@ -28832,4 +28832,1845 @@ RES.AR.Customs.PlacedEmotes = {}
 
 RES.AR.Customs.Extra = {}
 
-RES.AR.Customs.Gang = {}
+RES.AR.Customs.Gang = {
+    ["1901"] = {
+        "1901@2assist",
+        "2assist_clip",
+        "1901",
+        imageId = "1901",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["20_للخارج"] = {
+        "20sout@2assist",
+        "2assist_clip",
+        "٢٠ للخارج",
+        imageId = "20sout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جيبهانيليك_سويغونو"] = {
+        "2a_armoryrobbery@animation",
+        "2a_armoryrobbery_clip",
+        "جيبهانيليك سويغونو",
+        imageId = "2aarmoryrobbery",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ار_بي_بارتيسي_1"] = {
+        "2a_arpparty1@animation",
+        "2a_arpparty1_clip",
+        "آر بي بارتيسي ١",
+        imageId = "2aarpparty1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ار_بي_بارتيسي_2"] = {
+        "2a_arpparty2@animation",
+        "2a_arpparty2_clip",
+        "آر بي بارتيسي ٢",
+        imageId = "2aarpparty2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ار_بي_بارتيسي_2_ف_2"] = {
+        "2a_arpparty2v2@animation",
+        "2a_arpparty2v2_clip",
+        "آر بي بارتيسي ٢ ف ٢",
+        imageId = "2aarpparty2v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["دوندين_هازىر"] = {
+        "2a_beenready@animation",
+        "2assist_clip",
+        "دوندين هازىر",
+        imageId = "2abeenready",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["يمانيت_بليجكي"] = {
+        "2a_blicky@animation",
+        "2assist_clip",
+        "يمانيت (بليجكي)",
+        imageId = "2ablicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اكاوجهتوفف_حارس_1"] = {
+        "2a_caughtoffguard1@animation",
+        "2a_caughtoffguard1_clip",
+        "٢ اكاوجهتوفف حارس ١",
+        imageId = "2acaughtoffguard1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اكاوجهتوفف_حارس_2"] = {
+        "2a_caughtoffguard2@animation",
+        "2a_caughtoffguard2_clip",
+        "٢ اكاوجهتوفف حارس ٢",
+        imageId = "2acaughtoffguard2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اكاوجهتوفف_حارس_3"] = {
+        "2a_caughtoffguard3@animation",
+        "2a_caughtoffguard3_clip",
+        "٢ اكاوجهتوفف حارس ٣",
+        imageId = "2acaughtoffguard3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["تيتيك_سيسي"] = {
+        "2a_clicky@animation",
+        "2assist_clip",
+        "تيتيك سيسي",
+        imageId = "2aclicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["صفق_كفا_2"] = {
+        "2a_crackdafive@animation",
+        "2assist_clip",
+        "صفق كفا",
+        imageId = "2acrackdafive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["رصاصة_بوشالتما"] = {
+        "2a_dumpin@animation",
+        "2a_dumpin_clip",
+        "رصاصة بوشالتما",
+        imageId = "2adumpin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اجيت_خلف"] = {
+        "2a_getback@animation",
+        "2a_getback_clip",
+        "٢ اجيت خلف",
+        imageId = "2agetback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ستوردي_رقصة"] = {
+        "2a_gettinsturdy@animation",
+        "2assist_clip",
+        "ستوردي رقصة",
+        imageId = "2agettinsturdy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["يتشيجيغي_كاب"] = {
+        "2a_grabdajuice@animation",
+        "2a_grabdajuice_clip",
+        "يتشيجيغي كاب",
+        imageId = "2agrabdajuice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اليجهتيت_اعلى_1"] = {
+        "2a_lightitup1@animation",
+        "2a_lightitup1_clip",
+        "٢ اليجهتيت أعلى ١",
+        imageId = "2alightitup1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اليجهتيت_اعلى_2"] = {
+        "2a_lightitup2@animation",
+        "2a_lightitup2_clip",
+        "٢ اليجهتيت أعلى ٢",
+        imageId = "2alightitup2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جديد_اياككابىلار"] = {
+        "2a_newkicks@animation",
+        "2a_newkicks_clip",
+        "جديد اياككابىلار",
+        imageId = "2anewkicks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_فتح_تهات_اعلى"] = {
+        "2a_openthatup@animation",
+        "2a_openthatup_clip",
+        "٢ فتح تهات أعلى",
+        imageId = "2aopenthatup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["دمية_تحكم"] = {
+        "2a_puppet1@animation",
+        "2a_puppet1_clip",
+        "دمية / تحكم",
+        imageId = "2apuppet1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["دمية_تحكم_2"] = {
+        "2a_puppet1v2@animation",
+        "2a_puppet1v2_clip",
+        "دمية / تحكم ٢",
+        imageId = "2apuppet1v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اعلى_بيت_2"] = {
+        "2a_puppet2@animation",
+        "2a_puppet2_clip",
+        "٢ أعلى بيت ٢",
+        imageId = "2apuppet2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["موضة_يكونو"] = {
+        "2a_settrends@animation",
+        "2a_settrends_clip",
+        "موضة يكونو",
+        imageId = "2asettrends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وتانغافتح_مسلح"] = {
+        "2ashyglock@animation",
+        "2ashyglock_clip",
+        "وتانغافتح مسلح",
+        imageId = "2ashyglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["غطويلي_كيستير"] = {
+        "2a_spotsum@animation",
+        "2a_spotsum_clip",
+        "غطويلي كيستير",
+        imageId = "2aspotsum",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["زجاجة_مع_تاكىلماجا"] = {
+        "2assistchillbottle@animation",
+        "2assistchillbottle_clip",
+        "زجاجة مع تاكىلماجا",
+        imageId = "2assistchillbottle",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اسسيستلازيارب_امساك"] = {
+        "2assistlazyarphold@animation",
+        "2assistlazyarphold_clip",
+        "٢ اسسيستلازيارب إمساك",
+        imageId = "2assistlazyarphold",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اسسيستماكك_امساك_ينج"] = {
+        "2assistmakkholding@animation",
+        "2assistmakkholding_clip",
+        "٢ اسسيستماكك إمساك ينج",
+        imageId = "2assistmakkholding",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_وقوف_ستيلل"] = {
+        "2a_standstill@animation",
+        "2a_standstill_clip",
+        "٢ وقوف ستيلل",
+        imageId = "2astandstill",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2astayonten"] = {
+        "2a_stayonten@animation",
+        "2assist_clip",
+        "2astayonten",
+        imageId = "2astayonten",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_اتهر_اكل_هيمن"] = {
+        "2a_threathymn@animation",
+        "2assist_clip",
+        "٢ اتهر أكل هيمن",
+        imageId = "2athreathymn",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["كوفان_فىرل"] = {
+        "2a_throwdashell@animation",
+        "2a_throwdashell_clip",
+        "كوفان فىرل",
+        imageId = "2athrowdashell",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_2"] = {
+        "2a_tiredofdissin@animation",
+        "2assist_clip",
+        "٢ ٢",
+        imageId = "2atiredofdissin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["شيدديت_مارشى"] = {
+        "2a_violenceanthem@animation",
+        "2assist_clip",
+        "شيدديت مارشى",
+        imageId = "2aviolenceanthem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["31_يوما"] = {
+        "31days@2assist",
+        "2assist_clip",
+        "٣١ يوما",
+        imageId = "31days",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["50_طلقة"] = {
+        "50shots@2assist",
+        "2assist_clip",
+        "٥٠ طلقة",
+        imageId = "50shots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["الخامسة_صباحا"] = {
+        "5am@2assist",
+        "2assist_clip",
+        "الخامسة صباحا",
+        imageId = "5am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["السادسة_صباحا"] = {
+        "6am@2assist",
+        "2assist_clip",
+        "السادسة صباحا",
+        imageId = "6am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["الثامنة_مساء"] = {
+        "8pm@2assist",
+        "2assist_clip",
+        "الثامنة مساء",
+        imageId = "8pm",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["اه"] = {
+        "ahhh@2assist",
+        "2assist_clip",
+        "آه!",
+        imageId = "ahhh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_ار_بي_وغلوك"] = {
+        "arpglockpose1@wecnarvaalo",
+        "arpglockpose1_clip",
+        "وضعية آر بي وغلوك",
+        imageId = "arpglockpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["تهويدة_ار_اند_بي"] = {
+        "arplullaby@2assist",
+        "2assist_clip",
+        "تهويدة آر أند بي",
+        imageId = "arplullaby",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["عايد_من_الموت"] = {
+        "backfromthedead@2assist",
+        "2assist_clip",
+        "عائد من الموت",
+        imageId = "backfromthedead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bap"] = {
+        "bap@2assist",
+        "2assist_clip",
+        "bap",
+        imageId = "bap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["صوب"] = {
+        "beamem@2assist",
+        "2assist_clip",
+        "صوب",
+        imageId = "beamem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["blackin"] = {
+        "blackin@sinay",
+        "sinay_clip",
+        "blackin",
+        imageId = "blackin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["blamma"] = {
+        "blamma@2assist",
+        "2assist_clip",
+        "blamma",
+        imageId = "blamma",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["نظرة_فارغة"] = {
+        "blank@2assist",
+        "2assist_clip",
+        "نظرة فارغة",
+        imageId = "blank",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["اصرف_المال"] = {
+        "blowabag@2assist",
+        "2assist_clip",
+        "اصرف المال",
+        imageId = "blowabag",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["الزرق"] = {
+        "blues@2assist",
+        "2assist_clip",
+        "الزرق",
+        imageId = "blues",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ماري_الدامية"] = {
+        "bmary@2assist",
+        "2assist_clip",
+        "ماري الدامية",
+        imageId = "bmary",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["شجار_شارع_1"] = {
+        "brawl1@2assist",
+        "2assist_clip",
+        "شجار شارع ١",
+        imageId = "brawl1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["شجار_شارع_2"] = {
+        "brawl2@2assist",
+        "2assist_clip",
+        "شجار شارع ٢",
+        imageId = "brawl2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["متنمر"] = {
+        "bullyer@2assist",
+        "2assist_clip",
+        "متنمر",
+        imageId = "bullyer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["تم_القبض_عليه"] = {
+        "busted@sinay",
+        "sinay_clip",
+        "تم القبض عليه",
+        imageId = "busted",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مدمن_الازرار"] = {
+        "buttonaddict@2assist",
+        "2assist_clip",
+        "مدمن الأزرار",
+        imageId = "buttonaddict",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["لا_استطيع_التخلص_منه"] = {
+        "cantgetridofit@2assist",
+        "2assist_clip",
+        "لا أستطيع التخلص منه",
+        imageId = "cantgetridofit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["امسك_هذا"] = {
+        "catchdat@2assist",
+        "2assist_clip",
+        "أمسك هذا",
+        imageId = "catchdat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مال_بيشيندي"] = {
+        "chasethemoney@sinay",
+        "sinay_clip",
+        "مال بيشيندي",
+        imageId = "chasethemoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["فحص"] = {
+        "checkup@2assist",
+        "2assist_clip",
+        "فحص",
+        imageId = "checkup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جهيراق_اشارة"] = {
+        "chiraqsign1@wecnarvaalo",
+        "chiraqsign1_clip",
+        "جهيراق إشارة",
+        imageId = "chiraqsign",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["منظف"] = {
+        "clearer@2assist",
+        "2assist_clip",
+        "منظف",
+        imageId = "clearer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["امسك_بعزراييل"] = {
+        "clutchondareap@2assist",
+        "2assist_clip",
+        "أمسك بعزرائيل",
+        imageId = "clutchondareap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مسترخ"] = {
+        "coolin@2assist",
+        "2assist_clip",
+        "مسترخ",
+        imageId = "coolin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["تحطم"] = {
+        "crash@2assist",
+        "2assist_clip",
+        "تحطم",
+        imageId = "crash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["دمية_تصادم"] = {
+        "crashdummy@2assist",
+        "2assist_clip",
+        "دمية تصادم",
+        imageId = "crashdummy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مدمر"] = {
+        "crasher@2assist",
+        "2assist_clip",
+        "مدمر",
+        imageId = "crasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مقرفص_دراكو_شتيمة"] = {
+        "crouchdracofck1@wecnarvaalo",
+        "crouchdracofck1_clip",
+        "مقرفص دراكو شتيمة",
+        imageId = "crouchdracofuck",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["قضيت_عقوبتي"] = {
+        "didmytime@2assist",
+        "2assist_clip",
+        "قضيت عقوبتي",
+        imageId = "didmytime",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ضرب"] = {
+        "doahit@2assist",
+        "2assist_clip",
+        "ضرب",
+        imageId = "doahit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["تفادى_الرصاص"] = {
+        "dodgenohollow@2assist",
+        "2assist_clip",
+        "تفادى الرصاص",
+        imageId = "dodgenohollow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ليلا"] = {
+        "doinigh@2assist",
+        "2assist_clip",
+        "ليلا",
+        imageId = "doinigh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["doubledat"] = {
+        "doubledat@2assist",
+        "2assist_clip",
+        "doubledat",
+        imageId = "doubledat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_سلاح_مزدوج"] = {
+        "doublegunpose@wecnarvaalo",
+        "doublegunpose_clip",
+        "وضعية سلاح مزدوج",
+        imageId = "doublegunpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مدينة_دريمونت"] = {
+        "dremontcity@2assist",
+        "2assist_clip",
+        "مدينة دريمونت",
+        imageId = "dremontcity",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مبلل_تماما_1"] = {
+        "drench1@2assist",
+        "2assist_clip",
+        "مبلل تماما ١",
+        imageId = "drench1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مبلل_تماما_2"] = {
+        "drench2@2assist",
+        "2assist_clip",
+        "مبلل تماما ٢",
+        imageId = "drench2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مبلل_تماما_3"] = {
+        "drench3@2assist",
+        "2assist_clip",
+        "مبلل تماما ٣",
+        imageId = "drench3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مبلل_تماما_4"] = {
+        "drench4@2assist",
+        "2assist_clip",
+        "مبلل تماما ٤",
+        imageId = "drench4",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ميكانا_غيريش"] = {
+        "dropin@sinay",
+        "sinay_clip",
+        "ميكانا غيريش",
+        imageId = "dropin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ثنايي_ذراع_هاتف"] = {
+        "duoarmphone@wecnarvaalo",
+        "duoarmphone_clip",
+        "ثنائي ذراع هاتف",
+        imageId = "duoarmphone",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_ثنائية_مع_جي_دي_كيه"] = {
+        "duogdkpose@wecnarvaalo",
+        "duogdkpose_clip",
+        "وضعية ثنائية مع جي دي كيه",
+        imageId = "duogdkpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ثنايي_سلاح_على_الوجه"] = {
+        "duoglockfacepose1@wecnarvaalo",
+        "duoglockfacepose1_clip",
+        "ثنائي سلاح على الوجه",
+        imageId = "duoglockfacepose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_ثنائية_مع_غلوك"] = {
+        "duoglockpose@wecnarvaalo",
+        "duoglockpose_clip",
+        "وضعية ثنائية مع غلوك",
+        imageId = "duoglockpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["قديم_اهانةوضعية"] = {
+        "duoldisspose@wecnarvaalo",
+        "duoldisspose_clip",
+        "قديم اهانةوضعية",
+        imageId = "duoldisspose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_ثنائية_مع_دراكو"] = {
+        "duomicrodracpose@wecnarvaalo",
+        "duomicrodracpose_clip",
+        "وضعية ثنائية مع دراكو",
+        imageId = "duomicrodracpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["duosmokeidlepose"] = {
+        "duosmokeidlepose1@wecnarvaalo",
+        "duosmokeidlepose1_clip",
+        "duosmokeidlepose",
+        imageId = "duosmokeidlepose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_ثنائية_مع_سيجارة"] = {
+        "duosmokepose@wecnarvaalo",
+        "duosmokepose_clip",
+        "وضعية ثنائية مع سيجارة",
+        imageId = "duosmokepose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["شر"] = {
+        "evil@2assist",
+        "2assist_clip",
+        "شر",
+        imageId = "evil",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["fein"] = {
+        "fein@2assist",
+        "2assist_clip",
+        "fein",
+        imageId = "fein",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["القطع_النهايي"] = {
+        "finalcutout@2assist",
+        "2assist_clip",
+        "القطع النهائي",
+        imageId = "finalcutout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مصافحة_مميزة"] = {
+        "flavors@2assist",
+        "2assist_clip",
+        "مصافحة مميزة",
+        imageId = "flavors",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["هواء_ما"] = {
+        "flexin@sinay",
+        "sinay_clip",
+        "هواء ما",
+        imageId = "flexin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["fluent"] = {
+        "fluent@2assist",
+        "2assist_clip",
+        "fluent",
+        imageId = "fluent",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["freaks"] = {
+        "freaks@2assist",
+        "2assist_clip",
+        "freaks",
+        imageId = "freaks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["freaksonem"] = {
+        "freaksonem@2assist",
+        "2assist_clip",
+        "freaksonem",
+        imageId = "freaksonem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["اسلوب_حر"] = {
+        "freestee@2assist",
+        "2assist_clip",
+        "أسلوب حر",
+        imageId = "freestee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["friends"] = {
+        "friends@fra@ig_1",
+        "base_idle",
+        "friends",
+        imageId = "friends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["اشارة_ضد_الشرطة_12"] = {
+        "fuckda12@sinay",
+        "sinay_clip",
+        "إشارة ضد الشرطة ١٢",
+        imageId = "fuckda12",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["فوككيم_اعلى"] = {
+        "fuckemup@sinay",
+        "sinay_clip",
+        "فوككيم أعلى",
+        imageId = "fuckemup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["لعنة_جي_دي_كيه"] = {
+        "gdkcurse@2assist",
+        "2assist_clip",
+        "لعنة جي دي كيه",
+        imageId = "gdkcurse",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جي_دي_كيه_طويل_مخزن"] = {
+        "gdkextendopose@wecnarvaalo",
+        "gdkextendopose_clip",
+        "جي دي كيه طويل مخزن",
+        imageId = "gdkextendopose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جي_دي_كيه_سيلفي"] = {
+        "gdkselfiepose@wecnarvaalo",
+        "gdkselfiepose_clip",
+        "جي دي كيه سيلفي",
+        imageId = "gdkselfiepose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["منتش"] = {
+        "geekedup@2assist",
+        "2assist_clip",
+        "منتش",
+        imageId = "geekedup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جري_الاجيال"] = {
+        "generationalrun@2assist",
+        "2assist_clip",
+        "جري الأجيال",
+        imageId = "generationalrun",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["بن_سيلفي_ثنايي"] = {
+        "girlduoselfie@wecnarvaalo",
+        "girlduoselfie_clip",
+        "بن سيلفي ثنائي",
+        imageId = "girlduoselfie",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["كاياك_قناعيسي_اعط"] = {
+        "giveaskii@sinay",
+        "sinay_clip",
+        "كاياك قناعيسي أعط",
+        imageId = "giveaskii",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_غلوك"] = {
+        "glockpose@wecnarvaalo",
+        "glockpose_clip",
+        "وضعية غلوك",
+        imageId = "glockpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["صديق_طيب"] = {
+        "goodfellow@2assist",
+        "2assist_clip",
+        "صديق طيب",
+        imageId = "goodfellow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["معي_فلوس"] = {
+        "gotgreens@2assist",
+        "2assist_clip",
+        "معي فلوس",
+        imageId = "gotgreens",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضع_غرينش"] = {
+        "grinchmode@2assist",
+        "2assist_clip",
+        "وضع غرينش",
+        imageId = "grinchmode",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["افكار_عميقة"] = {
+        "hardthoughts@2assist",
+        "2assist_clip",
+        "أفكار عميقة",
+        imageId = "hardthoughts",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["قاس"] = {
+        "hardy@2assist",
+        "2assist_clip",
+        "قاس",
+        imageId = "hardy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ربتات_على_الراس"] = {
+        "headtaps@2assist",
+        "2assist_clip",
+        "ربتات على الرأس",
+        imageId = "headtaps",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["here"] = {
+        "here@2assist",
+        "2assist_clip",
+        "here",
+        imageId = "here",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["امساك_تهيبليكسك"] = {
+        "holdtheblixk@sinay",
+        "sinay_clip",
+        "إمساك تهيبليكسك",
+        imageId = "holdtheblixk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["رصاص_في_كل_مكان"] = {
+        "hollowsherehollowsthere@2assist",
+        "2assist_clip",
+        "رصاص في كل مكان",
+        imageId = "hollowsherehollowsthere",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["الم"] = {
+        "hurt@2assist",
+        "2assist_clip",
+        "الم",
+        imageId = "hurt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["كاي_فلوك_وضعية"] = {
+        "kayflockpose@wecnarvaalo",
+        "kayflockpose_clip",
+        "كاي فلوك وضعية",
+        imageId = "kayflockpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["كي_تي_اس_فون_تيك_وضعية"] = {
+        "ktsvontechpose@wecnarvaalo",
+        "ktsvontechpose_clip",
+        "كي تي إس فون تيك وضعية",
+        imageId = "ktsvontechpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ال_ايه_اشارة_عصابة"] = {
+        "ladiss@wecnarvaalo",
+        "ladiss_clip",
+        "إل إيه إشارة عصابة",
+        imageId = "ladisspose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["اتكاء_مع_دم"] = {
+        "leanwbloodpose@wecnarvaalo",
+        "leanwbloodpose_clip",
+        "اتكاء مع دم",
+        imageId = "leanwbloodpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ليافييم_ميت"] = {
+        "leaveemdead@sinay",
+        "sinay_clip",
+        "ليافييم ميت",
+        imageId = "leaveemdead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["likedat"] = {
+        "likedat@2assist",
+        "2assist_clip",
+        "likedat",
+        imageId = "likedat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["نظرة_خلف"] = {
+        "lookmyback@animation",
+        "lookmyback_clip",
+        "نظرة خلف",
+        imageId = "lookmyback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["maniac"] = {
+        "maniac@2assist",
+        "2assist_clip",
+        "maniac",
+        imageId = "maniac",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["marathon"] = {
+        "marathon@2assist",
+        "2assist_clip",
+        "marathon",
+        imageId = "marathon",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ماري_جين"] = {
+        "maryjane@2assist",
+        "2assist_clip",
+        "ماري جين",
+        imageId = "maryjane",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مداخيل_ضخمة"] = {
+        "massiveincomes@2assist",
+        "2assist_clip",
+        "مداخيل ضخمة",
+        imageId = "massiveincomes",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ذكريات"] = {
+        "memories@2assist",
+        "2assist_clip",
+        "ذكريات",
+        imageId = "memories",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["2_3"] = {
+        "mia@2assist",
+        "2assist_clip",
+        "٢ ٣",
+        imageId = "mia",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ميكيي_كوبرا_وقفة"] = {
+        "mickeycobra@wecnarvaalo",
+        "mickeycobra_clip",
+        "ميكيي كوبرا وقفة",
+        imageId = "mickeycobra",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ميككييكوبرا_جلوس"] = {
+        "mickeycobrasit@wecnarvaalo",
+        "mickeycobrasit_clip",
+        "ميككييكوبرا جلوس",
+        imageId = "mickeycobrasit",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ام_ان_بي"] = {
+        "mnp@2assist",
+        "2assist_clip",
+        "إم إن بي",
+        imageId = "mnp",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ام_اس_بي_2_غلوك"] = {
+        "msb2glock@wecnarvaalo",
+        "msb2glock_clip",
+        "إم إس بي ٢ غلوك",
+        imageId = "msb2glock",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مع_دراكبلونت"] = {
+        "mwithdracblunt@wecnarvaalo",
+        "mwithdracblunt_clip",
+        "مع دراكبلونت",
+        imageId = "mwithdracblunt",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جديد_مخلف"] = {
+        "newbrand@sinay",
+        "sinay_clip",
+        "جديد مخلف",
+        imageId = "newbrand",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["كوابيس"] = {
+        "nightmares@2assist",
+        "2assist_clip",
+        "كوابيس",
+        imageId = "nightmares",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["لا_اعذار"] = {
+        "nolame@2assist",
+        "2assist_clip",
+        "لا أعذار",
+        imageId = "nolame",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["قديم_وضعية_غلوك"] = {
+        "oldglock1@wecnarvaalo",
+        "oldglock1_clip",
+        "قديم وضعية غلوك",
+        imageId = "oldglockpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["هاتف_قديم"] = {
+        "oldphone@wecnarvaalo",
+        "oldphone_clip",
+        "هاتف قديم",
+        imageId = "oldphonepose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ondaturf"] = {
+        "ondaturf@sinay",
+        "sinay_clip",
+        "ondaturf",
+        imageId = "ondaturf",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["على_الساخن"] = {
+        "onhots@2assist",
+        "2assist_clip",
+        "على الساخن",
+        imageId = "onhots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["فقط_نحن"] = {
+        "onlyus@2assist",
+        "2assist_clip",
+        "فقط نحن",
+        imageId = "onlyus",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["الخروج_عبر_السقف"] = {
+        "outtheroof@2assist",
+        "2assist_clip",
+        "الخروج عبر السقف",
+        imageId = "outtheroof",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["هاب_و_مال"] = {
+        "pillmoney@sinay",
+        "sinay_clip",
+        "هاب و مال",
+        imageId = "pillmoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["لنبدا_اللعب"] = {
+        "playball@2assist",
+        "2assist_clip",
+        "لنبدأ اللعب",
+        imageId = "playball",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ديلي_تاكليدي"] = {
+        "playcrazy@sinay",
+        "sinay_clip",
+        "ديلي تاكليدي",
+        imageId = "playcrazy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["صفق_كفا"] = {
+        "popfive@2assist",
+        "2assist_clip",
+        "صفق كفا",
+        imageId = "popfive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جي_دي_كيه_الخاص"] = {
+        "privategdk@2assist",
+        "2assist_clip",
+        "جي دي كيه الخاص",
+        imageId = "privategdk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rainypeeski"] = {
+        "rainypeeski@2assist",
+        "2assist_clip",
+        "rainypeeski",
+        imageId = "rainypeeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جاهز_للتفريغ"] = {
+        "readytodump@2assist",
+        "2assist_clip",
+        "جاهز للتفريغ",
+        imageId = "readytodump",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["reckless"] = {
+        "reckless@2assist",
+        "2assist_clip",
+        "reckless",
+        imageId = "reckless",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["فدايي_تايب"] = {
+        "repentedcrasher@2assist",
+        "2assist_clip",
+        "فدائي تائب",
+        imageId = "repentedcrasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["الاختيار_الصحيح"] = {
+        "rightchoice@2assist",
+        "2assist_clip",
+        "الاختيار الصحيح",
+        imageId = "rightchoice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["روك_وبوب"] = {
+        "rocknpop@2assist",
+        "2assist_clip",
+        "روك وبوب",
+        imageId = "rocknpop",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ross"] = {
+        "ross@2assist",
+        "2assist_clip",
+        "ross",
+        imageId = "ross",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["كلام_صادق"] = {
+        "rtht@2assist",
+        "2assist_clip",
+        "كلام صادق",
+        imageId = "rtht",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ركض_اسفل"] = {
+        "runemdown@animation",
+        "runemdown_clip",
+        "ركض أسفل",
+        imageId = "runemdown",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ركض_اسفل_2"] = {
+        "runemdown2@animation",
+        "runemdown2_clip",
+        "ركض أسفل ٢",
+        imageId = "runemdown2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["هداف"] = {
+        "scora@2assist",
+        "2assist_clip",
+        "هداف",
+        imageId = "scora",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ذرف_الدموع"] = {
+        "sheddintears@2assist",
+        "2assist_clip",
+        "ذرف الدموع",
+        imageId = "sheddintears",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["يكيبمانى_ار"] = {
+        "showthegear@sinay",
+        "sinay_clip",
+        "يكيبمانى أر",
+        imageId = "showthegear",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جلوس_دودجيك_اعلى"] = {
+        "sitdodgecup1@wecnarvaalo",
+        "sitdodgecup1_clip",
+        "جلوس دودجيك أعلى",
+        imageId = "sitdodgecup",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جلوس_فككجلوكك"] = {
+        "sitfckglock@wecnarvaalo",
+        "sitfckglock_clip",
+        "جلوس فككجلوكك",
+        imageId = "sitfckglock",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جلوس_اتكاء_جلوكك"] = {
+        "sitleanglock@wecnarvaalo",
+        "sitleanglock_clip",
+        "جلوس اتكاء جلوكك",
+        imageId = "sitleanglock",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جلوس_على_المقعد"] = {
+        "sitonbench@wecnarvaalo",
+        "sitonbench_clip",
+        "جلوس على المقعد",
+        imageId = "sitonbench",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["جلوس_مع_تووجلوكك"] = {
+        "sitw2glock1@wecnarvaalo",
+        "sitw2glock1_clip",
+        "جلوس مع تووجلوكك",
+        imageId = "sitwithtwoglock",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["smacker"] = {
+        "smacker@2assist",
+        "2assist_clip",
+        "smacker",
+        imageId = "smacker",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["soldier"] = {
+        "soldier@2assist",
+        "2assist_clip",
+        "soldier",
+        imageId = "soldier",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["spender"] = {
+        "spender@2assist",
+        "2assist_clip",
+        "spender",
+        imageId = "spender",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["امساك_الغلوك_اثناء_الدوران"] = {
+        "spinholdglock@wecnarvaalo",
+        "spinholdglock_clip",
+        "إمساك الغلوك أثناء الدوران",
+        imageId = "spinholdglock",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["اثناء_الدوران_جي_دي_كيه_سيلفي"] = {
+        "spinselfiegdk@wecnarvaalo",
+        "spinselfiegdk_clip",
+        "أثناء الدوران جي دي كيه سيلفي",
+        imageId = "spinselfiegdk",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["سيلفي_مع_ار_بي_اثناء_الدوران"] = {
+        "spinselfieholdarp@wecnarvaalo",
+        "spinselfieholdarp_clip",
+        "سيلفي مع آر بي أثناء الدوران",
+        imageId = "spinselfieholdarp",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["splash"] = {
+        "splash@2assist",
+        "2assist_clip",
+        "splash",
+        imageId = "splash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["spotta"] = {
+        "spotta@2assist",
+        "2assist_clip",
+        "spotta",
+        imageId = "spotta",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["يثق_بالرش"] = {
+        "spraytruster@2assist",
+        "2assist_clip",
+        "يثق بالرش",
+        imageId = "spraytruster",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["سبطانة_طويلة"] = {
+        "sticks@2assist",
+        "2assist_clip",
+        "سبطانة طويلة",
+        imageId = "sticks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["لوح"] = {
+        "swinga@2assist",
+        "2assist_clip",
+        "لوح",
+        imageId = "swinga",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["في_السيارة_تيك_9"] = {
+        "tech9car@wecnarvaalo",
+        "tech9car_clip",
+        "في السيارة تيك ٩",
+        imageId = "tech9car",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["وضعية_ثلاث_مسدسات_غلوك"] = {
+        "3poseglock1@wecnarvaalo",
+        "3poseglock1_clip",
+        "وضعية ثلاث مسدسات غلوك",
+        imageId = "threeglockpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["الوقت_يمضي"] = {
+        "timetickin@2assist",
+        "2assist_clip",
+        "الوقت يمضي",
+        imageId = "timetickin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["عميق_جدا"] = {
+        "toodeep@2assist",
+        "2assist_clip",
+        "عميق جداً",
+        imageId = "toodeep",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["troubles"] = {
+        "troubles@2assist",
+        "2assist_clip",
+        "troubles",
+        imageId = "troubles",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["trust"] = {
+        "trust@sinay",
+        "sinay_clip",
+        "trust",
+        imageId = "trust",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["احاول_الصمود"] = {
+        "trynamaintain@2assist",
+        "2assist_clip",
+        "أحاول الصمود",
+        imageId = "trynamaintain",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["صاح"] = {
+        "tweaka@2assist",
+        "2assist_clip",
+        "صاح",
+        imageId = "tweaka",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["في_السيارة_سلاح_مزدوج"] = {
+        "2guncar@wecnarvaalo",
+        "2guncar_clip",
+        "في السيارة سلاح مزدوج",
+        imageId = "twoguncarpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["veeski"] = {
+        "veeski@2assist",
+        "2assist_clip",
+        "veeski",
+        imageId = "veeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["امش_كالرايد"] = {
+        "walkbypioneer@2assist",
+        "2assist_clip",
+        "امش كالرائد",
+        imageId = "walkbypioneer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["اليد_في_الجيب_مشي"] = {
+        "walkhandpocketpose@wecnarvaalo",
+        "walkhandpocketpose_clip",
+        "اليد في الجيب مشي",
+        imageId = "walkhandpocketpose",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["مشي_مع_جلوكك_سيلفي"] = {
+        "walkwithglockselfie@wecnarvaalo",
+        "walkwithglockselfie_clip",
+        "مشي مع جلوكك سيلفي",
+        imageId = "walkwithglockselfie",
+        AnimationOptions = {
+            fixHeading = true,
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["تصرف_أحمق"] = {
+        "wentsilly@2assist",
+        "2assist_clip",
+        "تصرف أحمق",
+        imageId = "wentsilly",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ماذا_شعر"] = {
+        "whathefelt@2assist",
+        "2assist_clip",
+        "ماذا شعر",
+        imageId = "whathefelt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ما_كان_ذلك"] = {
+        "whatitwas@2assist",
+        "2assist_clip",
+        "ما كان ذلك",
+        imageId = "whatitwas",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["whispers"] = {
+        "whispers@2assist",
+        "2assist_clip",
+        "whispers",
+        imageId = "whispers",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["انت_تعرف"] = {
+        "yktv@2assist",
+        "2assist_clip",
+        "أنت تعرف",
+        imageId = "yktv",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["شاب_ومتحمس"] = {
+        "youngnturnt@2assist",
+        "2assist_clip",
+        "شاب ومتحمس",
+        imageId = "youngnturnt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+}

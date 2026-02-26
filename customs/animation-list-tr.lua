@@ -29199,4 +29199,1845 @@ RES.TR.Customs.PlacedEmotes = {}
 
 RES.TR.Customs.Extra = {}
 
-RES.TR.Customs.Gang = {}
+RES.TR.Customs.Gang = {
+    ["1901"] = {
+        "1901@2assist",
+        "2assist_clip",
+        "1901",
+        imageId = "1901",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["20liklerdisari"] = {
+        "20sout@2assist",
+        "2assist_clip",
+        "20'likler Dışarı",
+        imageId = "20sout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["31gun"] = {
+        "31days@2assist",
+        "2assist_clip",
+        "31 Gün",
+        imageId = "31days",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["3glockpozu"] = {
+        "3poseglock1@wecnarvaalo",
+        "3poseglock1_clip",
+        "3 Glock Pozu",
+        imageId = "threeglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["50mermi"] = {
+        "50shots@2assist",
+        "2assist_clip",
+        "50 Mermi",
+        imageId = "50shots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["aci"] = {
+        "hurt@2assist",
+        "2assist_clip",
+        "Acı",
+        imageId = "hurt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["acorayi"] = {
+        "2a_openthatup@animation",
+        "2a_openthatup_clip",
+        "Aç Orayı",
+        imageId = "2aopenthatup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ahhh"] = {
+        "ahhh@2assist",
+        "2assist_clip",
+        "Ahhh",
+        imageId = "ahhh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["akici"] = {
+        "fluent@2assist",
+        "2assist_clip",
+        "Akıcı",
+        imageId = "fluent",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["aksam8"] = {
+        "8pm@2assist",
+        "2assist_clip",
+        "Akşam 8",
+        imageId = "8pm",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["anilar"] = {
+        "memories@2assist",
+        "2assist_clip",
+        "Anılar",
+        imageId = "memories",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["aractaciftsilah"] = {
+        "2guncar@wecnarvaalo",
+        "2guncar_clip",
+        "Araçta Çift Silah",
+        imageId = "twoguncarpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["aractatech9"] = {
+        "tech9car@wecnarvaalo",
+        "tech9car_clip",
+        "Araçta Tech9",
+        imageId = "tech9car",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["arkadaslar"] = {
+        "friends@fra@ig_1",
+        "base_idle",
+        "Arkadaşlar",
+        imageId = "friends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arkamikolla"] = {
+        "lookmyback@animation",
+        "lookmyback_clip",
+        "Arkamı Kolla",
+        imageId = "lookmyback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arpglockpozu"] = {
+        "arpglockpose1@wecnarvaalo",
+        "arpglockpose1_clip",
+        "ARP & Glock Pozu",
+        imageId = "arpglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["arpiledonerekselfie"] = {
+        "spinselfieholdarp@wecnarvaalo",
+        "spinselfieholdarp_clip",
+        "ARP ile Dönerek Selfie",
+        imageId = "spinselfieholdarp",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["arpninnisi"] = {
+        "arplullaby@2assist",
+        "2assist_clip",
+        "ARP Ninnisi",
+        imageId = "arplullaby",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arppartisi1"] = {
+        "2a_arpparty1@animation",
+        "2a_arpparty1_clip",
+        "ARP Partisi 1",
+        imageId = "2aarpparty1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arppartisi2"] = {
+        "2a_arpparty2@animation",
+        "2a_arpparty2_clip",
+        "ARP Partisi 2",
+        imageId = "2aarpparty2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["arppartisi2v2"] = {
+        "2a_arpparty2v2@animation",
+        "2a_arpparty2v2_clip",
+        "ARP Partisi 2 v2",
+        imageId = "2aarpparty2v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["asker"] = {
+        "soldier@2assist",
+        "2assist_clip",
+        "Asker",
+        imageId = "soldier",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["atesle1"] = {
+        "2a_lightitup1@animation",
+        "2a_lightitup1_clip",
+        "Ateşle 1",
+        imageId = "2alightitup1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["atesle2"] = {
+        "2a_lightitup2@animation",
+        "2a_lightitup2_clip",
+        "Ateşle 2",
+        imageId = "2alightitup2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["atesli"] = {
+        "onhots@2assist",
+        "2assist_clip",
+        "Ateşli",
+        imageId = "onhots",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["azrailitut"] = {
+        "clutchondareap@2assist",
+        "2assist_clip",
+        "Azrail'i Tut",
+        imageId = "clutchondareap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["banktaotur"] = {
+        "sitonbench@wecnarvaalo",
+        "sitonbench_clip",
+        "Bankta Otur",
+        imageId = "sitonbench",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["bap"] = {
+        "bap@2assist",
+        "2assist_clip",
+        "Bap",
+        imageId = "bap",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bedavastil"] = {
+        "freestee@2assist",
+        "2assist_clip",
+        "Bedava Stil",
+        imageId = "freestee",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["belalar"] = {
+        "troubles@2assist",
+        "2assist_clip",
+        "Belalar",
+        imageId = "troubles",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bespatlat"] = {
+        "popfive@2assist",
+        "2assist_clip",
+        "Beş Patlat",
+        imageId = "popfive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["biliyorsun"] = {
+        "yktv@2assist",
+        "2assist_clip",
+        "Biliyorsun",
+        imageId = "yktv",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bosbakis"] = {
+        "blank@2assist",
+        "2assist_clip",
+        "Boş Bakış",
+        imageId = "blank",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["bunungibi"] = {
+        "likedat@2assist",
+        "2assist_clip",
+        "Bunun Gibi",
+        imageId = "likedat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["burada"] = {
+        "here@2assist",
+        "2assist_clip",
+        "Burada",
+        imageId = "here",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["buyukgelirler"] = {
+        "massiveincomes@2assist",
+        "2assist_clip",
+        "Büyük Gelirler",
+        imageId = "massiveincomes",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cakbirbeslik"] = {
+        "2a_crackdafive@animation",
+        "2assist_clip",
+        "Çak Bir Beşlik",
+        imageId = "2acrackdafive",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["carpisma"] = {
+        "crash@2assist",
+        "2assist_clip",
+        "Çarpışma",
+        imageId = "crash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["catidandisari"] = {
+        "outtheroof@2assist",
+        "2assist_clip",
+        "Çatıdan Dışarı",
+        imageId = "outtheroof",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cephaneliksoygunu"] = {
+        "2a_armoryrobbery@animation",
+        "2a_armoryrobbery_clip",
+        "Cephanelik Soygunu",
+        imageId = "2aarmoryrobbery",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cesitler"] = {
+        "flavors@2assist",
+        "2assist_clip",
+        "Çeşitler",
+        imageId = "flavors",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cezamicektim"] = {
+        "didmytime@2assist",
+        "2assist_clip",
+        "Cezamı Çektim",
+        imageId = "didmytime",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["chiraqisareti"] = {
+        "chiraqsign1@wecnarvaalo",
+        "chiraqsign1_clip",
+        "Chiraq İşareti",
+        imageId = "chiraqsign",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ciftsilahpozu"] = {
+        "doublegunpose@wecnarvaalo",
+        "doublegunpose_clip",
+        "Çift Silah Pozu",
+        imageId = "doublegunpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["cildirdi"] = {
+        "wentsilly@2assist",
+        "2assist_clip",
+        "Çıldırdı",
+        imageId = "wentsilly",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["cokderin"] = {
+        "toodeep@2assist",
+        "2assist_clip",
+        "Çok Derin",
+        imageId = "toodeep",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["comelmisdracokufur"] = {
+        "crouchdracofck1@wecnarvaalo",
+        "crouchdracofck1_clip",
+        "Çömelmiş Draco Küfür",
+        imageId = "crouchdracofuck",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["dayanmayacalisiyorum"] = {
+        "trynamaintain@2assist",
+        "2assist_clip",
+        "Dayanmaya Çalışıyorum",
+        imageId = "trynamaintain",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["delitaklidi"] = {
+        "playcrazy@sinay",
+        "sinay_clip",
+        "Deli Taklidi",
+        imageId = "playcrazy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["derindusunceler"] = {
+        "hardthoughts@2assist",
+        "2assist_clip",
+        "Derin Düşünceler",
+        imageId = "hardthoughts",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["disslesmektenbiktim"] = {
+        "2a_tiredofdissin@animation",
+        "2assist_clip",
+        "Dissleşmekten Bıktım",
+        imageId = "2atiredofdissin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["dogrusecim"] = {
+        "rightchoice@2assist",
+        "2assist_clip",
+        "Doğru Seçim",
+        imageId = "rightchoice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["donerekgdkselfie"] = {
+        "spinselfiegdk@wecnarvaalo",
+        "spinselfiegdk_clip",
+        "Dönerek GDK Selfie",
+        imageId = "spinselfiegdk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["donereksilahtut"] = {
+        "spinholdglock@wecnarvaalo",
+        "spinholdglock_clip",
+        "Dönerek Silah Tut",
+        imageId = "spinholdglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["dracovesigara"] = {
+        "mwithdracblunt@wecnarvaalo",
+        "mwithdracblunt_clip",
+        "Draco ve Sigara",
+        imageId = "mwithdracblunt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["dremontsehri"] = {
+        "dremontcity@2assist",
+        "2assist_clip",
+        "Dremont Şehri",
+        imageId = "dremontcity",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["dugmebagimlisi"] = {
+        "buttonaddict@2assist",
+        "2assist_clip",
+        "Düğme Bağımlısı",
+        imageId = "buttonaddict",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["dundenhazir"] = {
+        "2a_beenready@animation",
+        "2assist_clip",
+        "Dünden Hazır",
+        imageId = "2abeenready",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ekipmanigoster"] = {
+        "showthegear@sinay",
+        "sinay_clip",
+        "Ekipmanı Göster",
+        imageId = "showthegear",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["elicepteyurume"] = {
+        "walkhandpocketpose@wecnarvaalo",
+        "walkhandpocketpose_clip",
+        "Eli Cepte Yürüme",
+        imageId = "walkhandpocketpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["emanetblicky"] = {
+        "2a_blicky@animation",
+        "2assist_clip",
+        "Emanet (Blicky)",
+        imageId = "2ablicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["emanetitut"] = {
+        "holdtheblixk@sinay",
+        "sinay_clip",
+        "Emaneti Tut",
+        imageId = "holdtheblixk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["eskiglockpozu"] = {
+        "oldglock1@wecnarvaalo",
+        "oldglock1_clip",
+        "Eski Glock Pozu",
+        imageId = "oldglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["eskitelefonpozu"] = {
+        "oldphone@wecnarvaalo",
+        "oldphone_clip",
+        "Eski Telefon Pozu",
+        imageId = "oldphonepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["eziklergiremez"] = {
+        "nolame@2assist",
+        "2assist_clip",
+        "Ezikler Giremez",
+        imageId = "nolame",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["fedaikurban"] = {
+        "crashdummy@2assist",
+        "2assist_clip",
+        "Fedai (Kurban)",
+        imageId = "crashdummy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["fisiltilar"] = {
+        "whispers@2assist",
+        "2assist_clip",
+        "Fısıltılar",
+        imageId = "whispers",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gdklaneti"] = {
+        "gdkcurse@2assist",
+        "2assist_clip",
+        "GDK Laneti",
+        imageId = "gdkcurse",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gdkselfie"] = {
+        "gdkselfiepose@wecnarvaalo",
+        "gdkselfiepose_clip",
+        "GDK Selfie",
+        imageId = "gdkselfiepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["gdkuzunsarjor"] = {
+        "gdkextendopose@wecnarvaalo",
+        "gdkextendopose_clip",
+        "GDK Uzun Şarjör",
+        imageId = "gdkextendopose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["geceyiyap"] = {
+        "doinigh@2assist",
+        "2assist_clip",
+        "Geceyi Yap",
+        imageId = "doinigh",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gencvehizli"] = {
+        "youngnturnt@2assist",
+        "2assist_clip",
+        "Genç ve Hızlı",
+        imageId = "youngnturnt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gercekkonus"] = {
+        "rtht@2assist",
+        "2assist_clip",
+        "Gerçek Konuş",
+        imageId = "rtht",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gericekil"] = {
+        "2a_getback@animation",
+        "2a_getback_clip",
+        "Geri Çekil",
+        imageId = "2agetback",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["glockpozu"] = {
+        "glockpose@wecnarvaalo",
+        "glockpose_clip",
+        "Glock Pozu",
+        imageId = "glockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["gozcu"] = {
+        "spotta@2assist",
+        "2assist_clip",
+        "Gözcü",
+        imageId = "spotta",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gozunekestir"] = {
+        "2a_spotsum@animation",
+        "2a_spotsum_clip",
+        "Gözüne Kestir",
+        imageId = "2aspotsum",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["gozyasidokme"] = {
+        "sheddintears@2assist",
+        "2assist_clip",
+        "Gözyaşı Dökme",
+        imageId = "sheddintears",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["grinchmodu"] = {
+        "grinchmode@2assist",
+        "2assist_clip",
+        "Grinch Modu",
+        imageId = "grinchmode",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["guven"] = {
+        "trust@sinay",
+        "sinay_clip",
+        "Güven",
+        imageId = "trust",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hapvepara"] = {
+        "pillmoney@sinay",
+        "sinay_clip",
+        "Hap ve Para",
+        imageId = "pillmoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["harca"] = {
+        "spender@2assist",
+        "2assist_clip",
+        "Harca",
+        imageId = "spender",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hareketsizdur"] = {
+        "2a_standstill@animation",
+        "2a_standstill_clip",
+        "Hareketsiz Dur",
+        imageId = "2astandstill",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["havaatma"] = {
+        "flexin@sinay",
+        "sinay_clip",
+        "Hava Atma",
+        imageId = "flexin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hazirliksizyakalanma1"] = {
+        "2a_caughtoffguard1@animation",
+        "2a_caughtoffguard1_clip",
+        "Hazırlıksız Yakalanma 1",
+        imageId = "2acaughtoffguard1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hazirliksizyakalanma2"] = {
+        "2a_caughtoffguard2@animation",
+        "2a_caughtoffguard2_clip",
+        "Hazırlıksız Yakalanma 2",
+        imageId = "2acaughtoffguard2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["hazirliksizyakalanma3"] = {
+        "2a_caughtoffguard3@animation",
+        "2a_caughtoffguard3_clip",
+        "Hazırlıksız Yakalanma 3",
+        imageId = "2acaughtoffguard3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["heryermermi"] = {
+        "hollowsherehollowsthere@2assist",
+        "2assist_clip",
+        "Her Yer Mermi",
+        imageId = "hollowsherehollowsthere",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["icecegikap"] = {
+        "2a_grabdajuice@animation",
+        "2a_grabdajuice_clip",
+        "İçeceği Kap",
+        imageId = "2agrabdajuice",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ikilidracopozu"] = {
+        "duomicrodracpose@wecnarvaalo",
+        "duomicrodracpose_clip",
+        "İkili Draco Pozu",
+        imageId = "duomicrodracpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikiligdkpozu"] = {
+        "duogdkpose@wecnarvaalo",
+        "duogdkpose_clip",
+        "İkili GDK Pozu",
+        imageId = "duogdkpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikiliglockpozu"] = {
+        "duoglockpose@wecnarvaalo",
+        "duoglockpose_clip",
+        "İkili Glock Pozu",
+        imageId = "duoglockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikilikoltelefon"] = {
+        "duoarmphone@wecnarvaalo",
+        "duoarmphone_clip",
+        "İkili Kol & Telefon",
+        imageId = "duoarmphone",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikililhareketi"] = {
+        "duoldisspose@wecnarvaalo",
+        "duoldisspose_clip",
+        "İkili L Hareketi",
+        imageId = "duoldisspose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikilisigarabekleme"] = {
+        "duosmokeidlepose1@wecnarvaalo",
+        "duosmokeidlepose1_clip",
+        "İkili Sigara Bekleme",
+        imageId = "duosmokeidlepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikilisigarapozu"] = {
+        "duosmokepose@wecnarvaalo",
+        "duosmokepose_clip",
+        "İkili Sigara Pozu",
+        imageId = "duosmokepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikilisilahyuze"] = {
+        "duoglockfacepose1@wecnarvaalo",
+        "duoglockfacepose1_clip",
+        "İkili Silah Yüze",
+        imageId = "duoglockfacepose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["ikiyekatla"] = {
+        "doubledat@2assist",
+        "2assist_clip",
+        "İkiye Katla",
+        imageId = "doubledat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["istekli"] = {
+        "fein@2assist",
+        "2assist_clip",
+        "İstekli",
+        imageId = "fein",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["iyidost"] = {
+        "goodfellow@2assist",
+        "2assist_clip",
+        "İyi Dost",
+        imageId = "goodfellow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kabuslar"] = {
+        "nightmares@2assist",
+        "2assist_clip",
+        "Kabuslar",
+        imageId = "nightmares",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kacisyok"] = {
+        "dodgenohollow@2assist",
+        "2assist_clip",
+        "Kaçış Yok",
+        imageId = "dodgenohollow",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kafasiguzelhype"] = {
+        "geekedup@2assist",
+        "2assist_clip",
+        "Kafası Güzel (Hype)",
+        imageId = "geekedup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kafavurusu"] = {
+        "headtaps@2assist",
+        "2assist_clip",
+        "Kafa Vuruşu",
+        imageId = "headtaps",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kanlimary"] = {
+        "bmary@2assist",
+        "2assist_clip",
+        "Kanlı Mary",
+        imageId = "bmary",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["karartma"] = {
+        "blackin@sinay",
+        "sinay_clip",
+        "Karartma",
+        imageId = "blackin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kayakmaskesiver"] = {
+        "giveaskii@sinay",
+        "sinay_clip",
+        "Kayak Maskesi Ver",
+        imageId = "giveaskii",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["kayflockpozu"] = {
+        "kayflockpose@wecnarvaalo",
+        "kayflockpose_clip",
+        "Kay Flock Pozu",
+        imageId = "kayflockpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["kayipmia"] = {
+        "mia@2assist",
+        "2assist_clip",
+        "Kayıp (MIA)",
+        imageId = "mia",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kizlarikiliselfie"] = {
+        "girlduoselfie@wecnarvaalo",
+        "girlduoselfie_clip",
+        "Kızlar İkili Selfie",
+        imageId = "girlduoselfie",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["kontrol"] = {
+        "checkup@2assist",
+        "2assist_clip",
+        "Kontrol",
+        imageId = "checkup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kotuluk"] = {
+        "evil@2assist",
+        "2assist_clip",
+        "Kötülük",
+        imageId = "evil",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kovalaonlari"] = {
+        "runemdown@animation",
+        "runemdown_clip",
+        "Kovala Onları",
+        imageId = "runemdown",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kovalaonlari2"] = {
+        "runemdown2@animation",
+        "runemdown2_clip",
+        "Kovala Onları 2",
+        imageId = "runemdown2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kovanfirlat"] = {
+        "2a_throwdashell@animation",
+        "2a_throwdashell_clip",
+        "Kovan Fırlat",
+        imageId = "2athrowdashell",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ktsvontechpozu"] = {
+        "ktsvontechpose@wecnarvaalo",
+        "ktsvontechpose_clip",
+        "KTS Von Tech Pozu",
+        imageId = "ktsvontechpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["kukla1"] = {
+        "2a_puppet1@animation",
+        "2a_puppet1_clip",
+        "Kukla 1",
+        imageId = "2apuppet1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kukla1v2"] = {
+        "2a_puppet1v2@animation",
+        "2a_puppet1v2_clip",
+        "Kukla 1 v2",
+        imageId = "2apuppet1v2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kukla2"] = {
+        "2a_puppet2@animation",
+        "2a_puppet2_clip",
+        "Kukla 2",
+        imageId = "2apuppet2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["kurtulamiyorum"] = {
+        "cantgetridofit@2assist",
+        "2assist_clip",
+        "Kurtulamıyorum",
+        imageId = "cantgetridofit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["laceteisareti"] = {
+        "ladiss@wecnarvaalo",
+        "ladiss_clip",
+        "LA Çete İşareti",
+        imageId = "ladisspose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["yaslanmavekanpozu"] = {
+        "leanwbloodpose@wecnarvaalo",
+        "leanwbloodpose_clip",
+        "Yaslanma ve Kan Pozu",
+        imageId = "leanwbloodpose",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["mahallede"] = {
+        "ondaturf@sinay",
+        "sinay_clip",
+        "Mahallede",
+        imageId = "ondaturf",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mahvetonlari"] = {
+        "fuckemup@sinay",
+        "sinay_clip",
+        "Mahvet Onları",
+        imageId = "fuckemup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["makktutusu"] = {
+        "2assistmakkholding@animation",
+        "2assistmakkholding_clip",
+        "Makk Tutuşu",
+        imageId = "2assistmakkholding",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["manyak"] = {
+        "maniac@2assist",
+        "2assist_clip",
+        "Manyak",
+        imageId = "maniac",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["manyaklar"] = {
+        "freaks@2assist",
+        "2assist_clip",
+        "Manyaklar",
+        imageId = "freaks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["maraton"] = {
+        "marathon@2assist",
+        "2assist_clip",
+        "Maraton",
+        imageId = "marathon",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["maryjaneot"] = {
+        "maryjane@2assist",
+        "2assist_clip",
+        "Mary Jane (Ot)",
+        imageId = "maryjane",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mavilerpolishuzun"] = {
+        "blues@2assist",
+        "2assist_clip",
+        "Maviler (Polis/Hüzün)",
+        imageId = "blues",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mekanagiris"] = {
+        "dropin@sinay",
+        "sinay_clip",
+        "Mekana Giriş",
+        imageId = "dropin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mermibosaltma"] = {
+        "2a_dumpin@animation",
+        "2a_dumpin_clip",
+        "Mermi Boşaltma",
+        imageId = "2adumpin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["mickeycobradurusu"] = {
+        "mickeycobra@wecnarvaalo",
+        "mickeycobra_clip",
+        "Mickey Cobra Duruşu",
+        imageId = "mickeycobra",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["mickeycobraoturusu"] = {
+        "mickeycobrasit@wecnarvaalo",
+        "mickeycobrasit_clip",
+        "Mickey Cobra Oturuşu",
+        imageId = "mickeycobrasit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["mnp"] = {
+        "mnp@2assist",
+        "2assist_clip",
+        "MNP",
+        imageId = "mnp",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["modaikonu"] = {
+        "2a_settrends@animation",
+        "2a_settrends_clip",
+        "Moda İkonu",
+        imageId = "2asettrends",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["msb2glock"] = {
+        "msb2glock@wecnarvaalo",
+        "msb2glock_clip",
+        "MSB 2 Glock",
+        imageId = "msb2glock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["nehissetti"] = {
+        "whathefelt@2assist",
+        "2assist_clip",
+        "Ne Hissetti",
+        imageId = "whathefelt",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nesilkosusu"] = {
+        "generationalrun@2assist",
+        "2assist_clip",
+        "Nesil Koşusu",
+        imageId = "generationalrun",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["neydio"] = {
+        "whatitwas@2assist",
+        "2assist_clip",
+        "Neydi O",
+        imageId = "whatitwas",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["nisanal"] = {
+        "beamem@2assist",
+        "2assist_clip",
+        "Nişan Al",
+        imageId = "beamem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["olumdendondu"] = {
+        "backfromthedead@2assist",
+        "2assist_clip",
+        "Ölümden Döndü",
+        imageId = "backfromthedead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["olumeterket"] = {
+        "leaveemdead@sinay",
+        "sinay_clip",
+        "Ölüme Terk Et",
+        imageId = "leaveemdead",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["oncuyuruyusu"] = {
+        "walkbypioneer@2assist",
+        "2assist_clip",
+        "Öncü Yürüyüşü",
+        imageId = "walkbypioneer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["oturarakbardaksakla"] = {
+        "sitdodgecup1@wecnarvaalo",
+        "sitdodgecup1_clip",
+        "Oturarak Bardak Sakla",
+        imageId = "sitdodgecup",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["oturarakciftsilah"] = {
+        "sitw2glock1@wecnarvaalo",
+        "sitw2glock1_clip",
+        "Oturarak Çift Silah",
+        imageId = "sitwithtwoglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["oturaraksilahlikufur"] = {
+        "sitfckglock@wecnarvaalo",
+        "sitfckglock_clip",
+        "Oturarak Silahlı Küfür",
+        imageId = "sitfckglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["oturarakyaslanglock"] = {
+        "sitleanglock@wecnarvaalo",
+        "sitleanglock_clip",
+        "Oturarak Yaslan (Glock)",
+        imageId = "sitleanglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["oyunbaslasin"] = {
+        "playball@2assist",
+        "2assist_clip",
+        "Oyun Başlasın",
+        imageId = "playball",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ozelgdk"] = {
+        "privategdk@2assist",
+        "2assist_clip",
+        "Özel GDK",
+        imageId = "privategdk",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["parapesinde"] = {
+        "chasethemoney@sinay",
+        "sinay_clip",
+        "Para Peşinde",
+        imageId = "chasethemoney",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["parayiez"] = {
+        "blowabag@2assist",
+        "2assist_clip",
+        "Parayı Ez",
+        imageId = "blowabag",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["patlayici"] = {
+        "blamma@2assist",
+        "2assist_clip",
+        "Patlayıcı",
+        imageId = "blamma",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["pervasiz"] = {
+        "reckless@2assist",
+        "2assist_clip",
+        "Pervasız",
+        imageId = "reckless",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["polisehareketcek12"] = {
+        "fuckda12@sinay",
+        "sinay_clip",
+        "Polise Hareket Çek 12",
+        imageId = "fuckda12",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rahatarptutusu"] = {
+        "2assistlazyarphold@animation",
+        "2assistlazyarphold_clip",
+        "Rahat ARP Tutuşu",
+        imageId = "2assistlazyarphold",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["rockvepop"] = {
+        "rocknpop@2assist",
+        "2assist_clip",
+        "Rock ve Pop",
+        imageId = "rocknpop",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ross"] = {
+        "ross@2assist",
+        "2assist_clip",
+        "Ross",
+        imageId = "ross",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sabah5"] = {
+        "5am@2assist",
+        "2assist_clip",
+        "Sabah 5",
+        imageId = "5am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sabah6"] = {
+        "6am@2assist",
+        "2assist_clip",
+        "Sabah 6",
+        imageId = "6am",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sadecebiz"] = {
+        "onlyus@2assist",
+        "2assist_clip",
+        "Sadece Biz",
+        imageId = "onlyus",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["salla"] = {
+        "swinga@2assist",
+        "2assist_clip",
+        "Salla",
+        imageId = "swinga",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["serinleme"] = {
+        "coolin@2assist",
+        "2assist_clip",
+        "Serinleme",
+        imageId = "coolin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sert"] = {
+        "hardy@2assist",
+        "2assist_clip",
+        "Sert",
+        imageId = "hardy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sicrat"] = {
+        "splash@2assist",
+        "2assist_clip",
+        "Sıçrat",
+        imageId = "splash",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["siddetmarsi"] = {
+        "2a_violenceanthem@animation",
+        "2assist_clip",
+        "Şiddet Marşı",
+        imageId = "2aviolenceanthem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sikmayahazir"] = {
+        "readytodump@2assist",
+        "2assist_clip",
+        "Sıkmaya Hazır",
+        imageId = "readytodump",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sirilsiklam1"] = {
+        "drench1@2assist",
+        "2assist_clip",
+        "Sırılsıklam 1",
+        imageId = "drench1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sirilsiklam2"] = {
+        "drench2@2assist",
+        "2assist_clip",
+        "Sırılsıklam 2",
+        imageId = "drench2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sirilsiklam3"] = {
+        "drench3@2assist",
+        "2assist_clip",
+        "Sırılsıklam 3",
+        imageId = "drench3",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sirilsiklam4"] = {
+        "drench4@2assist",
+        "2assist_clip",
+        "Sırılsıklam 4",
+        imageId = "drench4",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["siseiletakilmaca"] = {
+        "2assistchillbottle@animation",
+        "2assistchillbottle_clip",
+        "Şişe ile Takılmaca",
+        imageId = "2assistchillbottle",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["skorer"] = {
+        "scora@2assist",
+        "2assist_clip",
+        "Skorer",
+        imageId = "scora",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sokakkavgasi1"] = {
+        "brawl1@2assist",
+        "2assist_clip",
+        "Sokak Kavgası 1",
+        imageId = "brawl1",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sokakkavgasi2"] = {
+        "brawl2@2assist",
+        "2assist_clip",
+        "Sokak Kavgası 2",
+        imageId = "brawl2",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sonkesim"] = {
+        "finalcutout@2assist",
+        "2assist_clip",
+        "Son Kesim",
+        imageId = "finalcutout",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["spreyci"] = {
+        "spraytruster@2assist",
+        "2assist_clip",
+        "Spreyci",
+        imageId = "spraytruster",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["sturdydansi"] = {
+        "2a_gettinsturdy@animation",
+        "2assist_clip",
+        "Sturdy Dansı",
+        imageId = "2agettinsturdy",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tehditmarsi"] = {
+        "2a_threathymn@animation",
+        "2assist_clip",
+        "Tehdit Marşı",
+        imageId = "2athreathymn",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["temizleyici"] = {
+        "clearer@2assist",
+        "2assist_clip",
+        "Temizleyici",
+        imageId = "clearer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tetiksesi"] = {
+        "2a_clicky@animation",
+        "2assist_clip",
+        "Tetik Sesi",
+        imageId = "2aclicky",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tetiktesin"] = {
+        "2a_stayonten@animation",
+        "2assist_clip",
+        "Tetiktesin",
+        imageId = "2astayonten",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tirek"] = {
+        "tweaka@2assist",
+        "2assist_clip",
+        "Tirek",
+        imageId = "tweaka",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tokatlayan"] = {
+        "smacker@2assist",
+        "2assist_clip",
+        "Tokatlayan",
+        imageId = "smacker",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["tovbekarfedai"] = {
+        "repentedcrasher@2assist",
+        "2assist_clip",
+        "Tövbekar Fedai",
+        imageId = "repentedcrasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["ustunegit"] = {
+        "freaksonem@2assist",
+        "2assist_clip",
+        "Üstüne Git",
+        imageId = "freaksonem",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["utangacsilahli"] = {
+        "2ashyglock@animation",
+        "2ashyglock_clip",
+        "Utangaç Silahlı",
+        imageId = "2ashyglock",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["uzunnamlu"] = {
+        "sticks@2assist",
+        "2assist_clip",
+        "Uzun Namlu",
+        imageId = "sticks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["veeski"] = {
+        "veeski@2assist",
+        "2assist_clip",
+        "Veeski",
+        imageId = "veeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["vurgunyap"] = {
+        "doahit@2assist",
+        "2assist_clip",
+        "Vurgun Yap",
+        imageId = "doahit",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yagmurlu"] = {
+        "rainypeeski@2assist",
+        "2assist_clip",
+        "Yağmurlu",
+        imageId = "rainypeeski",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yakalabunu"] = {
+        "catchdat@2assist",
+        "2assist_clip",
+        "Yakala Bunu",
+        imageId = "catchdat",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yakalandi"] = {
+        "busted@sinay",
+        "sinay_clip",
+        "Yakalandı",
+        imageId = "busted",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yeniayakkabilar"] = {
+        "2a_newkicks@animation",
+        "2a_newkicks_clip",
+        "Yeni Ayakkabılar",
+        imageId = "2anewkicks",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yenimarka"] = {
+        "newbrand@sinay",
+        "sinay_clip",
+        "Yeni Marka",
+        imageId = "newbrand",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yesillerparaot"] = {
+        "gotgreens@2assist",
+        "2assist_clip",
+        "Yeşiller (Para/Ot)",
+        imageId = "gotgreens",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yikici"] = {
+        "crasher@2assist",
+        "2assist_clip",
+        "Yıkıcı",
+        imageId = "crasher",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["yururkensilahliselfie"] = {
+        "walkwithglockselfie@wecnarvaalo",
+        "walkwithglockselfie_clip",
+        "Yürürken Silahlı Selfie",
+        imageId = "walkwithglockselfie",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+            fixHeading = true,
+        },
+    },
+    ["zamanisliyor"] = {
+        "timetickin@2assist",
+        "2assist_clip",
+        "Zaman İşliyor",
+        imageId = "timetickin",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+    ["zorba"] = {
+        "bullyer@2assist",
+        "2assist_clip",
+        "Zorba",
+        imageId = "bullyer",
+        AnimationOptions = {
+            onFootFlag = Config.AnimFlag.LOOP,
+        },
+    },
+}
