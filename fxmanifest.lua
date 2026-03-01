@@ -31,6 +31,7 @@ client_scripts {
 	'client/*.lua'
 }
 server_scripts {
+    'server/main.js',
     'server/*.lua'
 }
 ui_page 'html/index.html'
