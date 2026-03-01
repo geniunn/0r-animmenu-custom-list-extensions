@@ -29206,7 +29206,7 @@ RES.CS.Customs.Gang = {
         "1901",
         imageId = "1901",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["31dni"] = {
@@ -29215,7 +29215,7 @@ RES.CS.Customs.Gang = {
         "31 dní",
         imageId = "31days",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["50vystrelu"] = {
@@ -29224,7 +29224,7 @@ RES.CS.Customs.Gang = {
         "50 výstřelů",
         imageId = "50shots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["5rano"] = {
@@ -29233,7 +29233,7 @@ RES.CS.Customs.Gang = {
         "5 ráno",
         imageId = "5am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["6rano"] = {
@@ -29242,7 +29242,7 @@ RES.CS.Customs.Gang = {
         "6 ráno",
         imageId = "6am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["8vecer"] = {
@@ -29251,7 +29251,7 @@ RES.CS.Customs.Gang = {
         "8 večer",
         imageId = "8pm",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ahhh"] = {
@@ -29260,7 +29260,7 @@ RES.CS.Customs.Gang = {
         "Ahhh",
         imageId = "ahhh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arpparty1"] = {
@@ -29269,7 +29269,7 @@ RES.CS.Customs.Gang = {
         "ARP párty 1",
         imageId = "2aarpparty1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arpparty2"] = {
@@ -29278,7 +29278,7 @@ RES.CS.Customs.Gang = {
         "ARP párty 2",
         imageId = "2aarpparty2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arpparty2v2"] = {
@@ -29287,7 +29287,7 @@ RES.CS.Customs.Gang = {
         "ARP párty 2 v2",
         imageId = "2aarpparty2v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arpsotacenimselfie"] = {
@@ -29296,7 +29296,7 @@ RES.CS.Customs.Gang = {
         "ARP s Otáčením Selfie",
         imageId = "spinselfieholdarp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29306,7 +29306,7 @@ RES.CS.Customs.Gang = {
         "Bap",
         imageId = "bap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bezohledny"] = {
@@ -29315,7 +29315,7 @@ RES.CS.Customs.Gang = {
         "Bezohledný",
         imageId = "reckless",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["blackout"] = {
@@ -29324,7 +29324,7 @@ RES.CS.Customs.Gang = {
         "Blackout",
         imageId = "blackin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bolest"] = {
@@ -29333,7 +29333,7 @@ RES.CS.Customs.Gang = {
         "Bolest",
         imageId = "hurt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["budvestrehu"] = {
@@ -29342,7 +29342,7 @@ RES.CS.Customs.Gang = {
         "Buď ve střehu",
         imageId = "2astayonten",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bum"] = {
@@ -29351,7 +29351,7 @@ RES.CS.Customs.Gang = {
         "Bum!",
         imageId = "blamma",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["byljsempripraven"] = {
@@ -29360,7 +29360,7 @@ RES.CS.Customs.Gang = {
         "Byl jsem připraven",
         imageId = "2abeenready",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["castika"] = {
@@ -29369,7 +29369,7 @@ RES.CS.Customs.Gang = {
         "Čas tiká",
         imageId = "timetickin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["chill"] = {
@@ -29378,7 +29378,7 @@ RES.CS.Customs.Gang = {
         "Chill",
         imageId = "coolin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["chillslahvi"] = {
@@ -29387,7 +29387,7 @@ RES.CS.Customs.Gang = {
         "Chill s lahví",
         imageId = "2assistchillbottle",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["chuzesrukouvkapse"] = {
@@ -29396,7 +29396,7 @@ RES.CS.Customs.Gang = {
         "Chůze s rukou v kapse",
         imageId = "walkhandpocketpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29406,7 +29406,7 @@ RES.CS.Customs.Gang = {
         "Chycen",
         imageId = "busted",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["chytto"] = {
@@ -29415,7 +29415,7 @@ RES.CS.Customs.Gang = {
         "Chyť to",
         imageId = "catchdat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cistic"] = {
@@ -29424,7 +29424,7 @@ RES.CS.Customs.Gang = {
         "Čistič",
         imageId = "clearer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cocitil"] = {
@@ -29433,7 +29433,7 @@ RES.CS.Customs.Gang = {
         "Co cítil",
         imageId = "whathefelt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cotobylo"] = {
@@ -29442,7 +29442,7 @@ RES.CS.Customs.Gang = {
         "Co to bylo",
         imageId = "whatitwas",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["datlyzarskoumasku"] = {
@@ -29451,7 +29451,7 @@ RES.CS.Customs.Gang = {
         "Dát lyžařskou masku",
         imageId = "giveaskii",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29461,7 +29461,7 @@ RES.CS.Customs.Gang = {
         "Deštivo",
         imageId = "rainypeeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dlouhahlaven"] = {
@@ -29470,7 +29470,7 @@ RES.CS.Customs.Gang = {
         "Dlouhá hlaveň",
         imageId = "sticks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dobrykamos"] = {
@@ -29479,7 +29479,7 @@ RES.CS.Customs.Gang = {
         "Dobrý kámoš",
         imageId = "goodfellow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dracoacigareta"] = {
@@ -29488,7 +29488,7 @@ RES.CS.Customs.Gang = {
         "Draco a Cigareta",
         imageId = "mwithdracblunt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29498,7 +29498,7 @@ RES.CS.Customs.Gang = {
         "Drtič",
         imageId = "crasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["drzenimakk"] = {
@@ -29507,7 +29507,7 @@ RES.CS.Customs.Gang = {
         "Držení Makk",
         imageId = "2assistmakkholding",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["drzetsmrtku"] = {
@@ -29516,7 +29516,7 @@ RES.CS.Customs.Gang = {
         "Držet smrtku",
         imageId = "clutchondareap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["drzetzbran"] = {
@@ -29525,7 +29525,7 @@ RES.CS.Customs.Gang = {
         "Držet zbraň",
         imageId = "holdtheblixk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duocigaretacekani"] = {
@@ -29534,7 +29534,7 @@ RES.CS.Customs.Gang = {
         "Duo Cigareta Čekání",
         imageId = "duosmokeidlepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29544,7 +29544,7 @@ RES.CS.Customs.Gang = {
         "Duo L Gesto",
         imageId = "duoldisspose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29554,7 +29554,7 @@ RES.CS.Customs.Gang = {
         "Duo Paže & Telefon",
         imageId = "duoarmphone",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29564,7 +29564,7 @@ RES.CS.Customs.Gang = {
         "Duo Zbraň K obličeji",
         imageId = "duoglockfacepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29574,7 +29574,7 @@ RES.CS.Customs.Gang = {
         "Důvěra",
         imageId = "trust",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dvacitkyvenku"] = {
@@ -29583,7 +29583,7 @@ RES.CS.Customs.Gang = {
         "Dvacítky venku",
         imageId = "20sout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fackovac"] = {
@@ -29592,7 +29592,7 @@ RES.CS.Customs.Gang = {
         "Fackovač",
         imageId = "smacker",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["finalnistrih"] = {
@@ -29601,7 +29601,7 @@ RES.CS.Customs.Gang = {
         "Finální střih",
         imageId = "finalcutout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gdkdlouhyzasobnik"] = {
@@ -29610,7 +29610,7 @@ RES.CS.Customs.Gang = {
         "GDK dlouhý zásobník",
         imageId = "gdkextendopose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29620,7 +29620,7 @@ RES.CS.Customs.Gang = {
         "GDK kletba",
         imageId = "gdkcurse",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gdkselfie"] = {
@@ -29629,7 +29629,7 @@ RES.CS.Customs.Gang = {
         "GDK selfie",
         imageId = "gdkselfiepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29639,7 +29639,7 @@ RES.CS.Customs.Gang = {
         "Generační běh",
         imageId = "generationalrun",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gestonapolicii12"] = {
@@ -29648,7 +29648,7 @@ RES.CS.Customs.Gang = {
         "Gesto na policii (12)",
         imageId = "fuckda12",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["grinchrezim"] = {
@@ -29657,7 +29657,7 @@ RES.CS.Customs.Gang = {
         "Grinch režim",
         imageId = "grinchmode",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hoditnabojnici"] = {
@@ -29666,7 +29666,7 @@ RES.CS.Customs.Gang = {
         "Hodit nábojnici",
         imageId = "2athrowdashell",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["holkyduoselfie"] = {
@@ -29675,7 +29675,7 @@ RES.CS.Customs.Gang = {
         "Holky: duo selfie",
         imageId = "girlduoselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29685,7 +29685,7 @@ RES.CS.Customs.Gang = {
         "Houpání",
         imageId = "swinga",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hratblazna"] = {
@@ -29694,7 +29694,7 @@ RES.CS.Customs.Gang = {
         "Hrát blázna",
         imageId = "playcrazy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hrazacina"] = {
@@ -29703,7 +29703,7 @@ RES.CS.Customs.Gang = {
         "Hra začíná",
         imageId = "playball",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hymnahrozby"] = {
@@ -29712,7 +29712,7 @@ RES.CS.Customs.Gang = {
         "Hymna hrozby",
         imageId = "2athreathymn",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hymnanasili"] = {
@@ -29721,7 +29721,7 @@ RES.CS.Customs.Gang = {
         "Hymna násilí",
         imageId = "2aviolenceanthem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["jdiponich"] = {
@@ -29730,7 +29730,7 @@ RES.CS.Customs.Gang = {
         "Jdi po nich",
         imageId = "freaksonem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["jenmy"] = {
@@ -29739,7 +29739,7 @@ RES.CS.Customs.Gang = {
         "Jen my",
         imageId = "onlyus",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kajicisedrtic"] = {
@@ -29748,7 +29748,7 @@ RES.CS.Customs.Gang = {
         "Kající se drtič",
         imageId = "repentedcrasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["klikanispouste"] = {
@@ -29757,7 +29757,7 @@ RES.CS.Customs.Gang = {
         "Klikání spouště",
         imageId = "2aclicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kontrola"] = {
@@ -29766,7 +29766,7 @@ RES.CS.Customs.Gang = {
         "Kontrola",
         imageId = "checkup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["krvavamary"] = {
@@ -29775,7 +29775,7 @@ RES.CS.Customs.Gang = {
         "Krvavá Mary",
         imageId = "bmary",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kryjmizada"] = {
@@ -29784,7 +29784,7 @@ RES.CS.Customs.Gang = {
         "Kryj mi záda",
         imageId = "lookmyback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["laganggesto"] = {
@@ -29793,7 +29793,7 @@ RES.CS.Customs.Gang = {
         "LA gang gesto",
         imageId = "ladisspose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29803,7 +29803,7 @@ RES.CS.Customs.Gang = {
         "Líné držení ARP",
         imageId = "2assistlazyarphold",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["loupezzbrojnice"] = {
@@ -29812,7 +29812,7 @@ RES.CS.Customs.Gang = {
         "Loupež zbrojnice",
         imageId = "2aarmoryrobbery",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["loutka1"] = {
@@ -29821,7 +29821,7 @@ RES.CS.Customs.Gang = {
         "Loutka 1",
         imageId = "2apuppet1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["loutka1v2"] = {
@@ -29830,7 +29830,7 @@ RES.CS.Customs.Gang = {
         "Loutka 1 v2",
         imageId = "2apuppet1v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["loutka2"] = {
@@ -29839,7 +29839,7 @@ RES.CS.Customs.Gang = {
         "Loutka 2",
         imageId = "2apuppet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["luzrinesmidovnitr"] = {
@@ -29848,7 +29848,7 @@ RES.CS.Customs.Gang = {
         "Lůzři nesmí dovnitř",
         imageId = "nolame",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["machrovani"] = {
@@ -29857,7 +29857,7 @@ RES.CS.Customs.Gang = {
         "Machrování",
         imageId = "flexin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["magor"] = {
@@ -29866,7 +29866,7 @@ RES.CS.Customs.Gang = {
         "Magor",
         imageId = "maniac",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["magorove"] = {
@@ -29875,7 +29875,7 @@ RES.CS.Customs.Gang = {
         "Magorové",
         imageId = "freaks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mamzelenyprachytrava"] = {
@@ -29884,7 +29884,7 @@ RES.CS.Customs.Gang = {
         "Mám zelený (prachy/tráva)",
         imageId = "gotgreens",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maraton"] = {
@@ -29893,7 +29893,7 @@ RES.CS.Customs.Gang = {
         "Maraton",
         imageId = "marathon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maryjanetrava"] = {
@@ -29902,7 +29902,7 @@ RES.CS.Customs.Gang = {
         "Mary Jane (tráva)",
         imageId = "maryjane",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mestodremont"] = {
@@ -29911,7 +29911,7 @@ RES.CS.Customs.Gang = {
         "Město Dremont",
         imageId = "dremontcity",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mickeycobrapostoj"] = {
@@ -29920,7 +29920,7 @@ RES.CS.Customs.Gang = {
         "Mickey Cobra Postoj",
         imageId = "mickeycobra",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29930,7 +29930,7 @@ RES.CS.Customs.Gang = {
         "Mladý a rozjetý",
         imageId = "youngnturnt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mnp"] = {
@@ -29939,7 +29939,7 @@ RES.CS.Customs.Gang = {
         "MNP",
         imageId = "mnp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mochluboko"] = {
@@ -29948,7 +29948,7 @@ RES.CS.Customs.Gang = {
         "Moc hluboko",
         imageId = "toodeep",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modripoliciesmutek"] = {
@@ -29957,7 +29957,7 @@ RES.CS.Customs.Gang = {
         "Modří (policie/smutek)",
         imageId = "blues",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["msb2glock"] = {
@@ -29966,7 +29966,7 @@ RES.CS.Customs.Gang = {
         "MSB 2 Glock",
         imageId = "msb2glock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29976,7 +29976,7 @@ RES.CS.Customs.Gang = {
         "Nabuzený (hype)",
         imageId = "geekedup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["naraz"] = {
@@ -29985,7 +29985,7 @@ RES.CS.Customs.Gang = {
         "Náraz",
         imageId = "crash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["narovinu"] = {
@@ -29994,7 +29994,7 @@ RES.CS.Customs.Gang = {
         "Na rovinu",
         imageId = "rtht",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nasvemuzemi"] = {
@@ -30003,7 +30003,7 @@ RES.CS.Customs.Gang = {
         "Na svém území",
         imageId = "ondaturf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nazhavem"] = {
@@ -30012,7 +30012,7 @@ RES.CS.Customs.Gang = {
         "Na žhavém",
         imageId = "onhots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nechatjemrtve"] = {
@@ -30021,7 +30021,7 @@ RES.CS.Customs.Gang = {
         "Nechat je mrtvé",
         imageId = "leaveemdead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nemuzusetohozbavit"] = {
@@ -30030,7 +30030,7 @@ RES.CS.Customs.Gang = {
         "Nemůžu se toho zbavit",
         imageId = "cantgetridofit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["neniuniku"] = {
@@ -30039,7 +30039,7 @@ RES.CS.Customs.Gang = {
         "Není úniku",
         imageId = "dodgenohollow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nezvestnymia"] = {
@@ -30048,7 +30048,7 @@ RES.CS.Customs.Gang = {
         "Nezvěstný (MIA)",
         imageId = "mia",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nocnimury"] = {
@@ -30057,7 +30057,7 @@ RES.CS.Customs.Gang = {
         "Noční můry",
         imageId = "nightmares",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["novaznacka"] = {
@@ -30066,7 +30066,7 @@ RES.CS.Customs.Gang = {
         "Nová značka",
         imageId = "newbrand",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["noveboty"] = {
@@ -30075,7 +30075,7 @@ RES.CS.Customs.Gang = {
         "Nové boty",
         imageId = "2anewkicks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["obetobetniberanek"] = {
@@ -30084,7 +30084,7 @@ RES.CS.Customs.Gang = {
         "Oběť (obětní beránek)",
         imageId = "crashdummy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["odplata"] = {
@@ -30093,7 +30093,7 @@ RES.CS.Customs.Gang = {
         "Odplata",
         imageId = "2agetback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["odpykaljsemsito"] = {
@@ -30102,7 +30102,7 @@ RES.CS.Customs.Gang = {
         "Odpykal jsem si to",
         imageId = "didmytime",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["otacenimgdkselfie"] = {
@@ -30111,7 +30111,7 @@ RES.CS.Customs.Gang = {
         "Otáčením GDK Selfie",
         imageId = "spinselfiegdk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30121,7 +30121,7 @@ RES.CS.Customs.Gang = {
         "Otáčením Zbraň Držet",
         imageId = "spinholdglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30131,7 +30131,7 @@ RES.CS.Customs.Gang = {
         "Otevři to",
         imageId = "2aopenthatup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pilulkyaprachy"] = {
@@ -30140,7 +30140,7 @@ RES.CS.Customs.Gang = {
         "Pilulky a prachy",
         imageId = "pillmoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["plachyglock"] = {
@@ -30149,7 +30149,7 @@ RES.CS.Customs.Gang = {
         "Plachý Glock",
         imageId = "2ashyglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["placnoutpetku"] = {
@@ -30158,7 +30158,7 @@ RES.CS.Customs.Gang = {
         "Plácnout pětku",
         imageId = "popfive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["placnoutpetku2"] = {
@@ -30167,7 +30167,7 @@ RES.CS.Customs.Gang = {
         "Plácnout pětku",
         imageId = "2acrackdafive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["plynuly"] = {
@@ -30176,7 +30176,7 @@ RES.CS.Customs.Gang = {
         "Plynulý",
         imageId = "fluent",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["podrepdracoanadavka"] = {
@@ -30185,7 +30185,7 @@ RES.CS.Customs.Gang = {
         "Podřep: Draco a nadávka",
         imageId = "crouchdracofuck",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30195,7 +30195,7 @@ RES.CS.Customs.Gang = {
         "Popadnout pití",
         imageId = "2agrabdajuice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["potize"] = {
@@ -30204,7 +30204,7 @@ RES.CS.Customs.Gang = {
         "Potíže",
         imageId = "troubles",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poulicnibitka1"] = {
@@ -30213,7 +30213,7 @@ RES.CS.Customs.Gang = {
         "Pouliční bitka 1",
         imageId = "brawl1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poulicnibitka2"] = {
@@ -30222,7 +30222,7 @@ RES.CS.Customs.Gang = {
         "Pouliční bitka 2",
         imageId = "brawl2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["poza3glock"] = {
@@ -30231,7 +30231,7 @@ RES.CS.Customs.Gang = {
         "Póza: 3 Glock",
         imageId = "threeglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30241,7 +30241,7 @@ RES.CS.Customs.Gang = {
         "Póza: ARP & Glock",
         imageId = "arpglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30251,7 +30251,7 @@ RES.CS.Customs.Gang = {
         "Póza: Duo Cigareta",
         imageId = "duosmokepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30261,7 +30261,7 @@ RES.CS.Customs.Gang = {
         "Póza: Duo Draco",
         imageId = "duomicrodracpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30271,7 +30271,7 @@ RES.CS.Customs.Gang = {
         "Póza: Duo GDK",
         imageId = "duogdkpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30281,7 +30281,7 @@ RES.CS.Customs.Gang = {
         "Póza: Duo Glock",
         imageId = "duoglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30291,7 +30291,7 @@ RES.CS.Customs.Gang = {
         "Póza: Dvě zbraně",
         imageId = "doublegunpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30301,7 +30301,7 @@ RES.CS.Customs.Gang = {
         "Póza: Glock",
         imageId = "glockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30311,7 +30311,7 @@ RES.CS.Customs.Gang = {
         "Póza: Kay Flock",
         imageId = "kayflockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30321,7 +30321,7 @@ RES.CS.Customs.Gang = {
         "Póza: KTS Von Tech",
         imageId = "ktsvontechpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30331,7 +30331,7 @@ RES.CS.Customs.Gang = {
         "Póza: Lean a krev",
         imageId = "leanwbloodpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30341,7 +30341,7 @@ RES.CS.Customs.Gang = {
         "Póza: Starý Glock",
         imageId = "oldglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30351,7 +30351,7 @@ RES.CS.Customs.Gang = {
         "Póza: Starý Telefon",
         imageId = "oldphonepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30361,7 +30361,7 @@ RES.CS.Customs.Gang = {
         "Pozorovatel",
         imageId = "spotta",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pratele"] = {
@@ -30370,7 +30370,7 @@ RES.CS.Customs.Gang = {
         "Přátelé",
         imageId = "friends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["prazdnypohled"] = {
@@ -30379,7 +30379,7 @@ RES.CS.Customs.Gang = {
         "Prázdný pohled",
         imageId = "blank",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["prichute"] = {
@@ -30388,7 +30388,7 @@ RES.CS.Customs.Gang = {
         "Příchutě",
         imageId = "flavors",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["prichuzisezbraniselfie"] = {
@@ -30397,7 +30397,7 @@ RES.CS.Customs.Gang = {
         "Při chůzi Se zbraní Selfie",
         imageId = "walkwithglockselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30407,7 +30407,7 @@ RES.CS.Customs.Gang = {
         "Připraven střílet",
         imageId = "readytodump",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["promoceny1"] = {
@@ -30416,7 +30416,7 @@ RES.CS.Customs.Gang = {
         "Promočený 1",
         imageId = "drench1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["promoceny2"] = {
@@ -30425,7 +30425,7 @@ RES.CS.Customs.Gang = {
         "Promočený 2",
         imageId = "drench2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["promoceny3"] = {
@@ -30434,7 +30434,7 @@ RES.CS.Customs.Gang = {
         "Promočený 3",
         imageId = "drench3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["promoceny4"] = {
@@ -30443,7 +30443,7 @@ RES.CS.Customs.Gang = {
         "Promočený 4",
         imageId = "drench4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["prukopnickachuze"] = {
@@ -30452,7 +30452,7 @@ RES.CS.Customs.Gang = {
         "Průkopnická chůze",
         imageId = "walkbypioneer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ranydohlavy"] = {
@@ -30461,7 +30461,7 @@ RES.CS.Customs.Gang = {
         "Rány do hlavy",
         imageId = "headtaps",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rockapop"] = {
@@ -30470,7 +30470,7 @@ RES.CS.Customs.Gang = {
         "Rock a Pop",
         imageId = "rocknpop",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ronitslzy"] = {
@@ -30479,7 +30479,7 @@ RES.CS.Customs.Gang = {
         "Ronit slzy",
         imageId = "sheddintears",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ross"] = {
@@ -30488,7 +30488,7 @@ RES.CS.Customs.Gang = {
         "Ross",
         imageId = "ross",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rozjetnoc"] = {
@@ -30497,7 +30497,7 @@ RES.CS.Customs.Gang = {
         "Rozjet noc",
         imageId = "doinigh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rozjetto1"] = {
@@ -30506,7 +30506,7 @@ RES.CS.Customs.Gang = {
         "Rozjet to 1",
         imageId = "2alightitup1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rozjetto2"] = {
@@ -30515,7 +30515,7 @@ RES.CS.Customs.Gang = {
         "Rozjet to 2",
         imageId = "2alightitup2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sedetnalavicce"] = {
@@ -30524,7 +30524,7 @@ RES.CS.Customs.Gang = {
         "Sedět na lavičce",
         imageId = "sitonbench",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30534,7 +30534,7 @@ RES.CS.Customs.Gang = {
         "Sed: Mickey Cobra",
         imageId = "mickeycobrasit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30544,7 +30544,7 @@ RES.CS.Customs.Gang = {
         "Šepoty",
         imageId = "whispers",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sikanator"] = {
@@ -30553,7 +30553,7 @@ RES.CS.Customs.Gang = {
         "Šikanátor",
         imageId = "bullyer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skorer"] = {
@@ -30562,7 +30562,7 @@ RES.CS.Customs.Gang = {
         "Skorer",
         imageId = "scora",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["snazimseudrzet"] = {
@@ -30571,7 +30571,7 @@ RES.CS.Customs.Gang = {
         "Snažím se udržet",
         imageId = "trynamaintain",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["specialnigdk"] = {
@@ -30580,7 +30580,7 @@ RES.CS.Customs.Gang = {
         "Speciální GDK",
         imageId = "privategdk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["splouch"] = {
@@ -30589,7 +30589,7 @@ RES.CS.Customs.Gang = {
         "Šplouch",
         imageId = "splash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["spravnavolba"] = {
@@ -30598,7 +30598,7 @@ RES.CS.Customs.Gang = {
         "Správná volba",
         imageId = "rightchoice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sprejar"] = {
@@ -30607,7 +30607,7 @@ RES.CS.Customs.Gang = {
         "Sprejař",
         imageId = "spraytruster",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["statnamiste"] = {
@@ -30616,7 +30616,7 @@ RES.CS.Customs.Gang = {
         "Stát na místě",
         imageId = "2astandstill",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sturdytanec"] = {
@@ -30625,7 +30625,7 @@ RES.CS.Customs.Gang = {
         "Sturdy Tanec",
         imageId = "2agettinsturdy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sundatje"] = {
@@ -30634,7 +30634,7 @@ RES.CS.Customs.Gang = {
         "Sundat je",
         imageId = "runemdown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sundatje2"] = {
@@ -30643,7 +30643,7 @@ RES.CS.Customs.Gang = {
         "Sundat je 2",
         imageId = "runemdown2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tady"] = {
@@ -30652,7 +30652,7 @@ RES.CS.Customs.Gang = {
         "Tady",
         imageId = "here",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["takhle"] = {
@@ -30661,7 +30661,7 @@ RES.CS.Customs.Gang = {
         "Takhle",
         imageId = "likedat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tezkemyslenky"] = {
@@ -30670,7 +30670,7 @@ RES.CS.Customs.Gang = {
         "Těžké myšlenky",
         imageId = "hardthoughts",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tirek"] = {
@@ -30679,7 +30679,7 @@ RES.CS.Customs.Gang = {
         "Tirek",
         imageId = "tweaka",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tvrdy"] = {
@@ -30688,7 +30688,7 @@ RES.CS.Customs.Gang = {
         "Tvrdý",
         imageId = "hardy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["udavattrendy"] = {
@@ -30697,7 +30697,7 @@ RES.CS.Customs.Gang = {
         "Udávat trendy",
         imageId = "2asettrends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["udelatzasah"] = {
@@ -30706,7 +30706,7 @@ RES.CS.Customs.Gang = {
         "Udělat zásah",
         imageId = "doahit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ukazatvybavu"] = {
@@ -30715,7 +30715,7 @@ RES.CS.Customs.Gang = {
         "Ukázat výbavu",
         imageId = "showthegear",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ukolebavkaarp"] = {
@@ -30724,7 +30724,7 @@ RES.CS.Customs.Gang = {
         "Ukolébavka ARP",
         imageId = "arplullaby",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["utracec"] = {
@@ -30733,7 +30733,7 @@ RES.CS.Customs.Gang = {
         "Utráceč",
         imageId = "spender",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["uzmenebavidissy"] = {
@@ -30742,7 +30742,7 @@ RES.CS.Customs.Gang = {
         "Už mě nebaví dissy",
         imageId = "2atiredofdissin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vautedvezbrane"] = {
@@ -30751,7 +30751,7 @@ RES.CS.Customs.Gang = {
         "V autě Dvě zbraně",
         imageId = "twoguncarpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30761,7 +30761,7 @@ RES.CS.Customs.Gang = {
         "V autě Tech9",
         imageId = "tech9car",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30771,7 +30771,7 @@ RES.CS.Customs.Gang = {
         "Veeski",
         imageId = "veeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["velkeprijmy"] = {
@@ -30780,7 +30780,7 @@ RES.CS.Customs.Gang = {
         "Velké příjmy",
         imageId = "massiveincomes",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["visto"] = {
@@ -30789,7 +30789,7 @@ RES.CS.Customs.Gang = {
         "Víš to",
         imageId = "yktv",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vojak"] = {
@@ -30798,7 +30798,7 @@ RES.CS.Customs.Gang = {
         "Voják",
         imageId = "soldier",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["volnystyl"] = {
@@ -30807,7 +30807,7 @@ RES.CS.Customs.Gang = {
         "Volný styl",
         imageId = "freestee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vsededvezbrane"] = {
@@ -30816,7 +30816,7 @@ RES.CS.Customs.Gang = {
         "V sedě dvě zbraně",
         imageId = "sitwithtwoglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30826,7 +30826,7 @@ RES.CS.Customs.Gang = {
         "V sedě: Glock a nadávka",
         imageId = "sitfckglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30836,7 +30836,7 @@ RES.CS.Customs.Gang = {
         "V sedě opřený (Glock)",
         imageId = "sitleanglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30846,7 +30846,7 @@ RES.CS.Customs.Gang = {
         "V sedě schovat kelímek",
         imageId = "sitdodgecup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30856,7 +30856,7 @@ RES.CS.Customs.Gang = {
         "Všimnout si",
         imageId = "2aspotsum",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vstup"] = {
@@ -30865,7 +30865,7 @@ RES.CS.Customs.Gang = {
         "Vstup",
         imageId = "dropin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vsudenaboje"] = {
@@ -30874,7 +30874,7 @@ RES.CS.Customs.Gang = {
         "Všude náboje",
         imageId = "hollowsherehollowsthere",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vyhazetprachy"] = {
@@ -30883,7 +30883,7 @@ RES.CS.Customs.Gang = {
         "Vyházet prachy",
         imageId = "blowabag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vysypatzasobnik"] = {
@@ -30892,7 +30892,7 @@ RES.CS.Customs.Gang = {
         "Vysypat zásobník",
         imageId = "2adumpin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vzpominky"] = {
@@ -30901,7 +30901,7 @@ RES.CS.Customs.Gang = {
         "Vzpomínky",
         imageId = "memories",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zamirit"] = {
@@ -30910,7 +30910,7 @@ RES.CS.Customs.Gang = {
         "Zamířit",
         imageId = "beamem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zapenezi"] = {
@@ -30919,7 +30919,7 @@ RES.CS.Customs.Gang = {
         "Za penězi",
         imageId = "chasethemoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zaskocen1"] = {
@@ -30928,7 +30928,7 @@ RES.CS.Customs.Gang = {
         "Zaskočen 1",
         imageId = "2acaughtoffguard1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zaskocen2"] = {
@@ -30937,7 +30937,7 @@ RES.CS.Customs.Gang = {
         "Zaskočen 2",
         imageId = "2acaughtoffguard2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zaskocen3"] = {
@@ -30946,7 +30946,7 @@ RES.CS.Customs.Gang = {
         "Zaskočen 3",
         imageId = "2acaughtoffguard3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zavislak"] = {
@@ -30955,7 +30955,7 @@ RES.CS.Customs.Gang = {
         "Závislák",
         imageId = "fein",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zavislynaspousti"] = {
@@ -30964,7 +30964,7 @@ RES.CS.Customs.Gang = {
         "Závislý na spoušti",
         imageId = "buttonaddict",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zblaznilse"] = {
@@ -30973,7 +30973,7 @@ RES.CS.Customs.Gang = {
         "Zbláznil se",
         imageId = "wentsilly",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zbranblicky"] = {
@@ -30982,7 +30982,7 @@ RES.CS.Customs.Gang = {
         "Zbraň (Blicky)",
         imageId = "2ablicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zdvojnasobto"] = {
@@ -30991,7 +30991,7 @@ RES.CS.Customs.Gang = {
         "Zdvojnásob to",
         imageId = "doubledat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zestrechyven"] = {
@@ -31000,7 +31000,7 @@ RES.CS.Customs.Gang = {
         "Ze střechy ven",
         imageId = "outtheroof",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zlo"] = {
@@ -31009,7 +31009,7 @@ RES.CS.Customs.Gang = {
         "Zlo",
         imageId = "evil",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["znakchiraq"] = {
@@ -31018,7 +31018,7 @@ RES.CS.Customs.Gang = {
         "Znak Chiraq",
         imageId = "chiraqsign",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -31028,7 +31028,7 @@ RES.CS.Customs.Gang = {
         "Znič je",
         imageId = "fuckemup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zpatkyzmrtvych"] = {
@@ -31037,7 +31037,7 @@ RES.CS.Customs.Gang = {
         "Zpátky z mrtvých",
         imageId = "backfromthedead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
 }

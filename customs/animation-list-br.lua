@@ -29206,7 +29206,7 @@ RES.BR.Customs.Gang = {
         "1901",
         imageId = "1901",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["notasde20parafora"] = {
@@ -29215,7 +29215,7 @@ RES.BR.Customs.Gang = {
         "notas de 20 para fora",
         imageId = "20sout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["assaltoaoarsenal"] = {
@@ -29224,7 +29224,7 @@ RES.BR.Customs.Gang = {
         "Assalto ao arsenal",
         imageId = "2aarmoryrobbery",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["festaarp1"] = {
@@ -29233,7 +29233,7 @@ RES.BR.Customs.Gang = {
         "Festa ARP 1",
         imageId = "2aarpparty1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["festaarp2"] = {
@@ -29242,7 +29242,7 @@ RES.BR.Customs.Gang = {
         "Festa ARP 2",
         imageId = "2aarpparty2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["festaarp2v2"] = {
@@ -29251,7 +29251,7 @@ RES.BR.Customs.Gang = {
         "Festa ARP 2 v 2",
         imageId = "2aarpparty2v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["prontodesdeontem"] = {
@@ -29260,7 +29260,7 @@ RES.BR.Customs.Gang = {
         "Pronto desde ontem",
         imageId = "2abeenready",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["armablicky"] = {
@@ -29269,7 +29269,7 @@ RES.BR.Customs.Gang = {
         "Arma (Blicky)",
         imageId = "2ablicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["desprevenidoapanhado1"] = {
@@ -29278,7 +29278,7 @@ RES.BR.Customs.Gang = {
         "Desprevenido apanhado 1",
         imageId = "2acaughtoffguard1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["desprevenidoapanhado2"] = {
@@ -29287,7 +29287,7 @@ RES.BR.Customs.Gang = {
         "Desprevenido apanhado 2",
         imageId = "2acaughtoffguard2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["desprevenidoapanhado3"] = {
@@ -29296,7 +29296,7 @@ RES.BR.Customs.Gang = {
         "Desprevenido apanhado 3",
         imageId = "2acaughtoffguard3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["somdogatilho"] = {
@@ -29305,7 +29305,7 @@ RES.BR.Customs.Gang = {
         "Som do gatilho",
         imageId = "2aclicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bateaqui2"] = {
@@ -29314,7 +29314,7 @@ RES.BR.Customs.Gang = {
         "Bate aqui",
         imageId = "2acrackdafive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["esvaziarcarregador"] = {
@@ -29323,7 +29323,7 @@ RES.BR.Customs.Gang = {
         "Esvaziar carregador",
         imageId = "2adumpin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["recuar"] = {
@@ -29332,7 +29332,7 @@ RES.BR.Customs.Gang = {
         "Recuar",
         imageId = "2agetback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dancasturdy"] = {
@@ -29341,7 +29341,7 @@ RES.BR.Customs.Gang = {
         "Danca Sturdy",
         imageId = "2agettinsturdy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["copodebebida"] = {
@@ -29350,7 +29350,7 @@ RES.BR.Customs.Gang = {
         "Copo de bebida",
         imageId = "2agrabdajuice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["comfogo1"] = {
@@ -29359,7 +29359,7 @@ RES.BR.Customs.Gang = {
         "Com fogo 1",
         imageId = "2alightitup1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["comfogo2"] = {
@@ -29368,7 +29368,7 @@ RES.BR.Customs.Gang = {
         "Com fogo 2",
         imageId = "2alightitup2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sapatosnovos"] = {
@@ -29377,7 +29377,7 @@ RES.BR.Customs.Gang = {
         "Sapatos novos",
         imageId = "2anewkicks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["abreisso"] = {
@@ -29386,7 +29386,7 @@ RES.BR.Customs.Gang = {
         "Abre isso",
         imageId = "2aopenthatup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["marioneta1"] = {
@@ -29395,7 +29395,7 @@ RES.BR.Customs.Gang = {
         "Marioneta 1",
         imageId = "2apuppet1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["marioneta1v2"] = {
@@ -29404,7 +29404,7 @@ RES.BR.Customs.Gang = {
         "Marioneta 1 v 2",
         imageId = "2apuppet1v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["marioneta2"] = {
@@ -29413,7 +29413,7 @@ RES.BR.Customs.Gang = {
         "Marioneta 2",
         imageId = "2apuppet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modaicone"] = {
@@ -29422,7 +29422,7 @@ RES.BR.Customs.Gang = {
         "Moda icone",
         imageId = "2asettrends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["armadoetimido"] = {
@@ -29431,7 +29431,7 @@ RES.BR.Customs.Gang = {
         "Armado e timido",
         imageId = "2ashyglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ficardeolho"] = {
@@ -29440,7 +29440,7 @@ RES.BR.Customs.Gang = {
         "Ficar de olho",
         imageId = "2aspotsum",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["brincandocomagarrafa"] = {
@@ -29449,7 +29449,7 @@ RES.BR.Customs.Gang = {
         "Brincando com a garrafa",
         imageId = "2assistchillbottle",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["descontraidoaseguraraarp"] = {
@@ -29458,7 +29458,7 @@ RES.BR.Customs.Gang = {
         "Descontraido a segurar a ARP",
         imageId = "2assistlazyarphold",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["segurandoamac"] = {
@@ -29467,7 +29467,7 @@ RES.BR.Customs.Gang = {
         "Segurando a MAC",
         imageId = "2assistmakkholding",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ficarimovel"] = {
@@ -29476,7 +29476,7 @@ RES.BR.Customs.Gang = {
         "Ficar imovel",
         imageId = "2astandstill",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dededonogatilho"] = {
@@ -29485,7 +29485,7 @@ RES.BR.Customs.Gang = {
         "De dedo no gatilho",
         imageId = "2astayonten",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hinodeameaca"] = {
@@ -29494,7 +29494,7 @@ RES.BR.Customs.Gang = {
         "Hino de ameaca",
         imageId = "2athreathymn",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["atirarcartucho"] = {
@@ -29503,7 +29503,7 @@ RES.BR.Customs.Gang = {
         "Atirar cartucho",
         imageId = "2athrowdashell",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fartodediss"] = {
@@ -29512,7 +29512,7 @@ RES.BR.Customs.Gang = {
         "Farto de diss",
         imageId = "2atiredofdissin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hinodaviolencia"] = {
@@ -29521,7 +29521,7 @@ RES.BR.Customs.Gang = {
         "Hino da violencia",
         imageId = "2aviolenceanthem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["31dias"] = {
@@ -29530,7 +29530,7 @@ RES.BR.Customs.Gang = {
         "31 dias",
         imageId = "31days",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["50tiros"] = {
@@ -29539,7 +29539,7 @@ RES.BR.Customs.Gang = {
         "50 tiros",
         imageId = "50shots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["5damanha"] = {
@@ -29548,7 +29548,7 @@ RES.BR.Customs.Gang = {
         "5 da manha",
         imageId = "5am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["6damanha"] = {
@@ -29557,7 +29557,7 @@ RES.BR.Customs.Gang = {
         "6 da manha",
         imageId = "6am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["8danoite"] = {
@@ -29566,7 +29566,7 @@ RES.BR.Customs.Gang = {
         "8 da noite",
         imageId = "8pm",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ahhh"] = {
@@ -29575,7 +29575,7 @@ RES.BR.Customs.Gang = {
         "Ahhh",
         imageId = "ahhh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecomarpglock"] = {
@@ -29584,7 +29584,7 @@ RES.BR.Customs.Gang = {
         "Pose com ARP & Glock",
         imageId = "arpglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29594,7 +29594,7 @@ RES.BR.Customs.Gang = {
         "Cancao de embalar (ARP)",
         imageId = "arplullaby",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["damortevoltou"] = {
@@ -29603,7 +29603,7 @@ RES.BR.Customs.Gang = {
         "Da morte voltou",
         imageId = "backfromthedead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bap"] = {
@@ -29612,7 +29612,7 @@ RES.BR.Customs.Gang = {
         "Bap",
         imageId = "bap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["apontar"] = {
@@ -29621,7 +29621,7 @@ RES.BR.Customs.Gang = {
         "Apontar",
         imageId = "beamem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["escurecimento"] = {
@@ -29630,7 +29630,7 @@ RES.BR.Customs.Gang = {
         "Escurecimento",
         imageId = "blackin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["explosivo"] = {
@@ -29639,7 +29639,7 @@ RES.BR.Customs.Gang = {
         "Explosivo",
         imageId = "blamma",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["olharvazio"] = {
@@ -29648,7 +29648,7 @@ RES.BR.Customs.Gang = {
         "Olhar vazio",
         imageId = "blank",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["estouraissodinheiro"] = {
@@ -29657,7 +29657,7 @@ RES.BR.Customs.Gang = {
         "Estoura isso dinheiro",
         imageId = "blowabag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["azuispoliciatristeza"] = {
@@ -29666,7 +29666,7 @@ RES.BR.Customs.Gang = {
         "Azuis (Policia/Tristeza)",
         imageId = "blues",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bloodymary"] = {
@@ -29675,7 +29675,7 @@ RES.BR.Customs.Gang = {
         "Bloody Mary",
         imageId = "bmary",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["brigaderua1"] = {
@@ -29684,7 +29684,7 @@ RES.BR.Customs.Gang = {
         "Briga de rua 1",
         imageId = "brawl1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["brigaderua2"] = {
@@ -29693,7 +29693,7 @@ RES.BR.Customs.Gang = {
         "Briga de rua 2",
         imageId = "brawl2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["valentao"] = {
@@ -29702,7 +29702,7 @@ RES.BR.Customs.Gang = {
         "Valentao",
         imageId = "bullyer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["apanhado"] = {
@@ -29711,7 +29711,7 @@ RES.BR.Customs.Gang = {
         "Apanhado",
         imageId = "busted",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["botaoviciado"] = {
@@ -29720,7 +29720,7 @@ RES.BR.Customs.Gang = {
         "Botao viciado",
         imageId = "buttonaddict",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["naoconsigoescapar"] = {
@@ -29729,7 +29729,7 @@ RES.BR.Customs.Gang = {
         "Nao consigo escapar",
         imageId = "cantgetridofit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["apanhaisto"] = {
@@ -29738,7 +29738,7 @@ RES.BR.Customs.Gang = {
         "Apanha isto",
         imageId = "catchdat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["atrasdodinheiro"] = {
@@ -29747,7 +29747,7 @@ RES.BR.Customs.Gang = {
         "Atras do dinheiro",
         imageId = "chasethemoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["verificacao"] = {
@@ -29756,7 +29756,7 @@ RES.BR.Customs.Gang = {
         "Verificacao",
         imageId = "checkup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sinaldechiraq"] = {
@@ -29765,7 +29765,7 @@ RES.BR.Customs.Gang = {
         "Sinal de Chiraq",
         imageId = "chiraqsign",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29775,7 +29775,7 @@ RES.BR.Customs.Gang = {
         "Limpador",
         imageId = "clearer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["agarrarissoceifeiro"] = {
@@ -29784,7 +29784,7 @@ RES.BR.Customs.Gang = {
         "Agarrar isso Ceifeiro",
         imageId = "clutchondareap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["descontraindo"] = {
@@ -29793,7 +29793,7 @@ RES.BR.Customs.Gang = {
         "Descontraindo",
         imageId = "coolin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["colisao"] = {
@@ -29802,7 +29802,7 @@ RES.BR.Customs.Gang = {
         "Colisao",
         imageId = "crash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bonecodepancada"] = {
@@ -29811,7 +29811,7 @@ RES.BR.Customs.Gang = {
         "Boneco de pancada",
         imageId = "crashdummy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["devastador"] = {
@@ -29820,7 +29820,7 @@ RES.BR.Customs.Gang = {
         "Devastador",
         imageId = "crasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["agachadodracoinsulto"] = {
@@ -29829,7 +29829,7 @@ RES.BR.Customs.Gang = {
         "Agachado Draco insulto",
         imageId = "crouchdracofuck",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29839,7 +29839,7 @@ RES.BR.Customs.Gang = {
         "Ja cumpri minha pena",
         imageId = "didmytime",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fazerumgolpe"] = {
@@ -29848,7 +29848,7 @@ RES.BR.Customs.Gang = {
         "Fazer um golpe",
         imageId = "doahit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["semfuga"] = {
@@ -29857,7 +29857,7 @@ RES.BR.Customs.Gang = {
         "Sem fuga",
         imageId = "dodgenohollow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["curtindoanoite"] = {
@@ -29866,7 +29866,7 @@ RES.BR.Customs.Gang = {
         "Curtindo a noite",
         imageId = "doinigh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dobra"] = {
@@ -29875,7 +29875,7 @@ RES.BR.Customs.Gang = {
         "Dobra",
         imageId = "doubledat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecomduasarmas"] = {
@@ -29884,7 +29884,7 @@ RES.BR.Customs.Gang = {
         "Pose com duas armas",
         imageId = "doublegunpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29894,7 +29894,7 @@ RES.BR.Customs.Gang = {
         "Cidade de Dremont",
         imageId = "dremontcity",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["encharcado1"] = {
@@ -29903,7 +29903,7 @@ RES.BR.Customs.Gang = {
         "Encharcado 1",
         imageId = "drench1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["encharcado2"] = {
@@ -29912,7 +29912,7 @@ RES.BR.Customs.Gang = {
         "Encharcado 2",
         imageId = "drench2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["encharcado3"] = {
@@ -29921,7 +29921,7 @@ RES.BR.Customs.Gang = {
         "Encharcado 3",
         imageId = "drench3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["encharcado4"] = {
@@ -29930,7 +29930,7 @@ RES.BR.Customs.Gang = {
         "Encharcado 4",
         imageId = "drench4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["entradanolocal"] = {
@@ -29939,7 +29939,7 @@ RES.BR.Customs.Gang = {
         "Entrada no local",
         imageId = "dropin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["emduplabracocelular"] = {
@@ -29948,7 +29948,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: braco & celular",
         imageId = "duoarmphone",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29958,7 +29958,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: GDK pose",
         imageId = "duogdkpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29968,7 +29968,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: arma ao rosto",
         imageId = "duoglockfacepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29978,7 +29978,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: Glock pose",
         imageId = "duoglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29988,7 +29988,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: gesto em L",
         imageId = "duoldisspose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29998,7 +29998,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: Draco pose",
         imageId = "duomicrodracpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30008,7 +30008,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: cigarro a espera",
         imageId = "duosmokeidlepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30018,7 +30018,7 @@ RES.BR.Customs.Gang = {
         "Em dupla: cigarro pose",
         imageId = "duosmokepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30028,7 +30028,7 @@ RES.BR.Customs.Gang = {
         "Maldade",
         imageId = "evil",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["disposto"] = {
@@ -30037,7 +30037,7 @@ RES.BR.Customs.Gang = {
         "Disposto",
         imageId = "fein",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cortefinal"] = {
@@ -30046,7 +30046,7 @@ RES.BR.Customs.Gang = {
         "Corte final",
         imageId = "finalcutout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["variedades"] = {
@@ -30055,7 +30055,7 @@ RES.BR.Customs.Gang = {
         "Variedades",
         imageId = "flavors",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["exibirse"] = {
@@ -30064,7 +30064,7 @@ RES.BR.Customs.Gang = {
         "Exibir-se",
         imageId = "flexin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fluido"] = {
@@ -30073,7 +30073,7 @@ RES.BR.Customs.Gang = {
         "Fluido",
         imageId = "fluent",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["malucos"] = {
@@ -30082,7 +30082,7 @@ RES.BR.Customs.Gang = {
         "Malucos",
         imageId = "freaks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vaiparacima"] = {
@@ -30091,7 +30091,7 @@ RES.BR.Customs.Gang = {
         "Vai para cima",
         imageId = "freaksonem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["estilolivre"] = {
@@ -30100,7 +30100,7 @@ RES.BR.Customs.Gang = {
         "Estilo livre",
         imageId = "freestee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["amigos"] = {
@@ -30109,7 +30109,7 @@ RES.BR.Customs.Gang = {
         "Amigos",
         imageId = "friends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mandarissodedoapolicia12"] = {
@@ -30118,7 +30118,7 @@ RES.BR.Customs.Gang = {
         "Mandar isso dedo a policia 12",
         imageId = "fuckda12",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["acabacomeles"] = {
@@ -30127,7 +30127,7 @@ RES.BR.Customs.Gang = {
         "Acaba com eles",
         imageId = "fuckemup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maldicaogdk"] = {
@@ -30136,7 +30136,7 @@ RES.BR.Customs.Gang = {
         "Maldicao GDK",
         imageId = "gdkcurse",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["carregadoralongadogdk"] = {
@@ -30145,7 +30145,7 @@ RES.BR.Customs.Gang = {
         "Carregador alongado GDK",
         imageId = "gdkextendopose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30155,7 +30155,7 @@ RES.BR.Customs.Gang = {
         "GDK Selfie",
         imageId = "gdkselfiepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30165,7 +30165,7 @@ RES.BR.Customs.Gang = {
         "Bem chapado (hype)",
         imageId = "geekedup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["geracaocorrida"] = {
@@ -30174,7 +30174,7 @@ RES.BR.Customs.Gang = {
         "Geracao corrida",
         imageId = "generationalrun",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["garotasselfieemdupla"] = {
@@ -30183,7 +30183,7 @@ RES.BR.Customs.Gang = {
         "Garotas: selfie em dupla",
         imageId = "girlduoselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30193,7 +30193,7 @@ RES.BR.Customs.Gang = {
         "Dar mascara de ski",
         imageId = "giveaskii",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30203,7 +30203,7 @@ RES.BR.Customs.Gang = {
         "Pose com Glock",
         imageId = "glockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30213,7 +30213,7 @@ RES.BR.Customs.Gang = {
         "Bom Dost",
         imageId = "goodfellow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["verdesdinheiroerva"] = {
@@ -30222,7 +30222,7 @@ RES.BR.Customs.Gang = {
         "Verdes (Dinheiro/Erva)",
         imageId = "gotgreens",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modogrinch"] = {
@@ -30231,7 +30231,7 @@ RES.BR.Customs.Gang = {
         "Modo Grinch",
         imageId = "grinchmode",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pensamentosprofundos"] = {
@@ -30240,7 +30240,7 @@ RES.BR.Customs.Gang = {
         "Pensamentos profundos",
         imageId = "hardthoughts",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pararo"] = {
@@ -30249,7 +30249,7 @@ RES.BR.Customs.Gang = {
         "Pararo",
         imageId = "hardy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cabecada"] = {
@@ -30258,7 +30258,7 @@ RES.BR.Customs.Gang = {
         "Cabecada",
         imageId = "headtaps",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aqui"] = {
@@ -30267,7 +30267,7 @@ RES.BR.Customs.Gang = {
         "Aqui",
         imageId = "here",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["seguraraarma"] = {
@@ -30276,7 +30276,7 @@ RES.BR.Customs.Gang = {
         "Segurar a arma",
         imageId = "holdtheblixk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["balasportodoissolado"] = {
@@ -30285,7 +30285,7 @@ RES.BR.Customs.Gang = {
         "Balas por todo isso lado",
         imageId = "hollowsherehollowsthere",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dor"] = {
@@ -30294,7 +30294,7 @@ RES.BR.Customs.Gang = {
         "Dor",
         imageId = "hurt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecomkayflock"] = {
@@ -30303,7 +30303,7 @@ RES.BR.Customs.Gang = {
         "Pose com kay Flock",
         imageId = "kayflockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30313,7 +30313,7 @@ RES.BR.Customs.Gang = {
         "Pose com KTS Von Tech",
         imageId = "ktsvontechpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30323,7 +30323,7 @@ RES.BR.Customs.Gang = {
         "Sinal de LA gangue",
         imageId = "ladisspose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30333,7 +30333,7 @@ RES.BR.Customs.Gang = {
         "Pose com lean e sangue",
         imageId = "leanwbloodpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30343,7 +30343,7 @@ RES.BR.Customs.Gang = {
         "Deixar para morrer",
         imageId = "leaveemdead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["assim"] = {
@@ -30352,7 +30352,7 @@ RES.BR.Customs.Gang = {
         "Assim",
         imageId = "likedat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cobremeascostas"] = {
@@ -30361,7 +30361,7 @@ RES.BR.Customs.Gang = {
         "Cobre-me as costas",
         imageId = "lookmyback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maniaco"] = {
@@ -30370,7 +30370,7 @@ RES.BR.Customs.Gang = {
         "Maniaco",
         imageId = "maniac",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maratona"] = {
@@ -30379,7 +30379,7 @@ RES.BR.Customs.Gang = {
         "Maratona",
         imageId = "marathon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maryjaneerva"] = {
@@ -30388,7 +30388,7 @@ RES.BR.Customs.Gang = {
         "Mary Jane (Erva)",
         imageId = "maryjane",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["grandesganhos"] = {
@@ -30397,7 +30397,7 @@ RES.BR.Customs.Gang = {
         "Grandes ganhos",
         imageId = "massiveincomes",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["memorias"] = {
@@ -30406,7 +30406,7 @@ RES.BR.Customs.Gang = {
         "Memorias",
         imageId = "memories",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["desaparecidomia"] = {
@@ -30415,7 +30415,7 @@ RES.BR.Customs.Gang = {
         "Desaparecido (MIA)",
         imageId = "mia",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mickeycobraposturadepe"] = {
@@ -30424,7 +30424,7 @@ RES.BR.Customs.Gang = {
         "Mickey Cobra postura de pe",
         imageId = "mickeycobra",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30434,7 +30434,7 @@ RES.BR.Customs.Gang = {
         "Mickey Cobra postura sentado",
         imageId = "mickeycobrasit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30444,7 +30444,7 @@ RES.BR.Customs.Gang = {
         "MNP",
         imageId = "mnp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["msb2glock"] = {
@@ -30453,7 +30453,7 @@ RES.BR.Customs.Gang = {
         "MSB 2 Glock",
         imageId = "msb2glock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30463,7 +30463,7 @@ RES.BR.Customs.Gang = {
         "Draco e cigarro",
         imageId = "mwithdracblunt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30473,7 +30473,7 @@ RES.BR.Customs.Gang = {
         "Marca nova",
         imageId = "newbrand",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pesadelos"] = {
@@ -30482,7 +30482,7 @@ RES.BR.Customs.Gang = {
         "Pesadelos",
         imageId = "nightmares",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fracosnaoentram"] = {
@@ -30491,7 +30491,7 @@ RES.BR.Customs.Gang = {
         "Fracos nao entram",
         imageId = "nolame",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["posecomantigaglock"] = {
@@ -30500,7 +30500,7 @@ RES.BR.Customs.Gang = {
         "Pose com antiga Glock",
         imageId = "oldglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30510,7 +30510,7 @@ RES.BR.Customs.Gang = {
         "Pose com antiga celular",
         imageId = "oldphonepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30520,7 +30520,7 @@ RES.BR.Customs.Gang = {
         "No bairro",
         imageId = "ondaturf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ardente"] = {
@@ -30529,7 +30529,7 @@ RES.BR.Customs.Gang = {
         "Ardente",
         imageId = "onhots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sonos"] = {
@@ -30538,7 +30538,7 @@ RES.BR.Customs.Gang = {
         "So nos",
         imageId = "onlyus",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dotelhadoparafora"] = {
@@ -30547,7 +30547,7 @@ RES.BR.Customs.Gang = {
         "Do telhado para fora",
         imageId = "outtheroof",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["comprimidosedinheiro"] = {
@@ -30556,7 +30556,7 @@ RES.BR.Customs.Gang = {
         "Comprimidos e dinheiro",
         imageId = "pillmoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["quecomeceissojogo"] = {
@@ -30565,7 +30565,7 @@ RES.BR.Customs.Gang = {
         "Que comece isso jogo",
         imageId = "playball",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fingirsedemaluco"] = {
@@ -30574,7 +30574,7 @@ RES.BR.Customs.Gang = {
         "Fingir-se de maluco",
         imageId = "playcrazy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bateaqui"] = {
@@ -30583,7 +30583,7 @@ RES.BR.Customs.Gang = {
         "Bate aqui",
         imageId = "popfive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["especialgdk"] = {
@@ -30592,7 +30592,7 @@ RES.BR.Customs.Gang = {
         "Especial GDK",
         imageId = "privategdk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["chuvoso"] = {
@@ -30601,7 +30601,7 @@ RES.BR.Customs.Gang = {
         "Chuvoso",
         imageId = "rainypeeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["prontoparadisparar"] = {
@@ -30610,7 +30610,7 @@ RES.BR.Customs.Gang = {
         "Pronto para disparar",
         imageId = "readytodump",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["imprudente"] = {
@@ -30619,7 +30619,7 @@ RES.BR.Customs.Gang = {
         "Imprudente",
         imageId = "reckless",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arrependidocarrasco"] = {
@@ -30628,7 +30628,7 @@ RES.BR.Customs.Gang = {
         "Arrependido carrasco",
         imageId = "repentedcrasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["certaescolha"] = {
@@ -30637,7 +30637,7 @@ RES.BR.Customs.Gang = {
         "Certa escolha",
         imageId = "rightchoice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rockepop"] = {
@@ -30646,7 +30646,7 @@ RES.BR.Customs.Gang = {
         "Rock e Pop",
         imageId = "rocknpop",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ross"] = {
@@ -30655,7 +30655,7 @@ RES.BR.Customs.Gang = {
         "Ross",
         imageId = "ross",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["verdadefala"] = {
@@ -30664,7 +30664,7 @@ RES.BR.Customs.Gang = {
         "Verdade fala",
         imageId = "rtht",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["persegueos"] = {
@@ -30673,7 +30673,7 @@ RES.BR.Customs.Gang = {
         "Persegue-os",
         imageId = "runemdown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["persegueos2"] = {
@@ -30682,7 +30682,7 @@ RES.BR.Customs.Gang = {
         "Persegue-os 2",
         imageId = "runemdown2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["marcador"] = {
@@ -30691,7 +30691,7 @@ RES.BR.Customs.Gang = {
         "Marcador",
         imageId = "scora",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["lagrimaderrama"] = {
@@ -30700,7 +30700,7 @@ RES.BR.Customs.Gang = {
         "Lagrima derrama",
         imageId = "sheddintears",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mostrarequipamento"] = {
@@ -30709,7 +30709,7 @@ RES.BR.Customs.Gang = {
         "Mostrar equipamento",
         imageId = "showthegear",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sentadoaesconderissocopo"] = {
@@ -30718,7 +30718,7 @@ RES.BR.Customs.Gang = {
         "Sentado a esconder isso copo",
         imageId = "sitdodgecup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30728,7 +30728,7 @@ RES.BR.Customs.Gang = {
         "Sentado armado insulto",
         imageId = "sitfckglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30738,7 +30738,7 @@ RES.BR.Customs.Gang = {
         "Sentado encostar (Glock)",
         imageId = "sitleanglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30748,7 +30748,7 @@ RES.BR.Customs.Gang = {
         "Sentar no banco",
         imageId = "sitonbench",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30758,7 +30758,7 @@ RES.BR.Customs.Gang = {
         "Sentado duas armas",
         imageId = "sitwithtwoglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30768,7 +30768,7 @@ RES.BR.Customs.Gang = {
         "Da estalos",
         imageId = "smacker",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["militar"] = {
@@ -30777,7 +30777,7 @@ RES.BR.Customs.Gang = {
         "Militar",
         imageId = "soldier",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gastador"] = {
@@ -30786,7 +30786,7 @@ RES.BR.Customs.Gang = {
         "Gastador",
         imageId = "spender",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rodandosegurandoaarma"] = {
@@ -30795,7 +30795,7 @@ RES.BR.Customs.Gang = {
         "Rodando, segurando a arma",
         imageId = "spinholdglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30805,7 +30805,7 @@ RES.BR.Customs.Gang = {
         "Girando GDK Selfie",
         imageId = "spinselfiegdk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30815,7 +30815,7 @@ RES.BR.Customs.Gang = {
         "Selfie a rodar com ARP",
         imageId = "spinselfieholdarp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30825,7 +30825,7 @@ RES.BR.Customs.Gang = {
         "Salpicar",
         imageId = "splash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sentinela"] = {
@@ -30834,7 +30834,7 @@ RES.BR.Customs.Gang = {
         "Sentinela",
         imageId = "spotta",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["grafiteiro"] = {
@@ -30843,7 +30843,7 @@ RES.BR.Customs.Gang = {
         "Grafiteiro",
         imageId = "spraytruster",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["armalonga"] = {
@@ -30852,7 +30852,7 @@ RES.BR.Customs.Gang = {
         "Arma longa",
         imageId = "sticks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["abanar"] = {
@@ -30861,7 +30861,7 @@ RES.BR.Customs.Gang = {
         "Abanar",
         imageId = "swinga",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nocarrocomtech9"] = {
@@ -30870,7 +30870,7 @@ RES.BR.Customs.Gang = {
         "No carro com Tech 9",
         imageId = "tech9car",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30880,7 +30880,7 @@ RES.BR.Customs.Gang = {
         "Pose com 3 Glock",
         imageId = "threeglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30890,7 +30890,7 @@ RES.BR.Customs.Gang = {
         "Tempo esta a passar",
         imageId = "timetickin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["demasiadoprofundo"] = {
@@ -30899,7 +30899,7 @@ RES.BR.Customs.Gang = {
         "Demasiado profundo",
         imageId = "toodeep",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["problemas"] = {
@@ -30908,7 +30908,7 @@ RES.BR.Customs.Gang = {
         "Problemas",
         imageId = "troubles",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["confianca"] = {
@@ -30917,7 +30917,7 @@ RES.BR.Customs.Gang = {
         "Confianca",
         imageId = "trust",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aguentarestouatentar"] = {
@@ -30926,7 +30926,7 @@ RES.BR.Customs.Gang = {
         "Aguentar estou a tentar",
         imageId = "trynamaintain",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["alterado"] = {
@@ -30935,7 +30935,7 @@ RES.BR.Customs.Gang = {
         "Alterado",
         imageId = "tweaka",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nocarrocomduasarmas"] = {
@@ -30944,7 +30944,7 @@ RES.BR.Customs.Gang = {
         "No carro com duas armas",
         imageId = "twoguncarpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30954,7 +30954,7 @@ RES.BR.Customs.Gang = {
         "Veeski",
         imageId = "veeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pioneirocaminhada"] = {
@@ -30963,7 +30963,7 @@ RES.BR.Customs.Gang = {
         "Pioneiro caminhada",
         imageId = "walkbypioneer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maonobolsoandar"] = {
@@ -30972,7 +30972,7 @@ RES.BR.Customs.Gang = {
         "Mao no bolso andar",
         imageId = "walkhandpocketpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30982,7 +30982,7 @@ RES.BR.Customs.Gang = {
         "Andando armado Selfie",
         imageId = "walkwithglockselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30992,7 +30992,7 @@ RES.BR.Customs.Gang = {
         "Enlouqueceu",
         imageId = "wentsilly",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["issoqueelesentiu"] = {
@@ -31001,7 +31001,7 @@ RES.BR.Customs.Gang = {
         "isso que ele sentiu",
         imageId = "whathefelt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["issoquefoiisso"] = {
@@ -31010,7 +31010,7 @@ RES.BR.Customs.Gang = {
         "isso que foi isso?",
         imageId = "whatitwas",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sussurros"] = {
@@ -31019,7 +31019,7 @@ RES.BR.Customs.Gang = {
         "Sussurros",
         imageId = "whispers",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["jasabes"] = {
@@ -31028,7 +31028,7 @@ RES.BR.Customs.Gang = {
         "Ja sabes",
         imageId = "yktv",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["jovemeacelerado"] = {
@@ -31037,7 +31037,7 @@ RES.BR.Customs.Gang = {
         "Jovem e acelerado",
         imageId = "youngnturnt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
 }

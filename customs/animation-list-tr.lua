@@ -29206,7 +29206,7 @@ RES.TR.Customs.Gang = {
         "1901",
         imageId = "1901",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["20liklerdisari"] = {
@@ -29215,7 +29215,7 @@ RES.TR.Customs.Gang = {
         "20'likler Dışarı",
         imageId = "20sout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["31gun"] = {
@@ -29224,7 +29224,7 @@ RES.TR.Customs.Gang = {
         "31 Gün",
         imageId = "31days",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["3glockpozu"] = {
@@ -29233,7 +29233,7 @@ RES.TR.Customs.Gang = {
         "3 Glock Pozu",
         imageId = "threeglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29243,7 +29243,7 @@ RES.TR.Customs.Gang = {
         "50 Mermi",
         imageId = "50shots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aci"] = {
@@ -29252,7 +29252,7 @@ RES.TR.Customs.Gang = {
         "Acı",
         imageId = "hurt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["acorayi"] = {
@@ -29261,7 +29261,7 @@ RES.TR.Customs.Gang = {
         "Aç Orayı",
         imageId = "2aopenthatup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ahhh"] = {
@@ -29270,7 +29270,7 @@ RES.TR.Customs.Gang = {
         "Ahhh",
         imageId = "ahhh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["akici"] = {
@@ -29279,7 +29279,7 @@ RES.TR.Customs.Gang = {
         "Akıcı",
         imageId = "fluent",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aksam8"] = {
@@ -29288,7 +29288,7 @@ RES.TR.Customs.Gang = {
         "Akşam 8",
         imageId = "8pm",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["anilar"] = {
@@ -29297,7 +29297,7 @@ RES.TR.Customs.Gang = {
         "Anılar",
         imageId = "memories",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["aractaciftsilah"] = {
@@ -29306,7 +29306,7 @@ RES.TR.Customs.Gang = {
         "Araçta Çift Silah",
         imageId = "twoguncarpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29316,7 +29316,7 @@ RES.TR.Customs.Gang = {
         "Araçta Tech9",
         imageId = "tech9car",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29326,7 +29326,7 @@ RES.TR.Customs.Gang = {
         "Arkadaşlar",
         imageId = "friends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arkamikolla"] = {
@@ -29335,7 +29335,7 @@ RES.TR.Customs.Gang = {
         "Arkamı Kolla",
         imageId = "lookmyback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arpglockpozu"] = {
@@ -29344,7 +29344,7 @@ RES.TR.Customs.Gang = {
         "ARP & Glock Pozu",
         imageId = "arpglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29354,7 +29354,7 @@ RES.TR.Customs.Gang = {
         "ARP ile Dönerek Selfie",
         imageId = "spinselfieholdarp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29364,7 +29364,7 @@ RES.TR.Customs.Gang = {
         "ARP Ninnisi",
         imageId = "arplullaby",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arppartisi1"] = {
@@ -29373,7 +29373,7 @@ RES.TR.Customs.Gang = {
         "ARP Partisi 1",
         imageId = "2aarpparty1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arppartisi2"] = {
@@ -29382,7 +29382,7 @@ RES.TR.Customs.Gang = {
         "ARP Partisi 2",
         imageId = "2aarpparty2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["arppartisi2v2"] = {
@@ -29391,7 +29391,7 @@ RES.TR.Customs.Gang = {
         "ARP Partisi 2 v2",
         imageId = "2aarpparty2v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["asker"] = {
@@ -29400,7 +29400,7 @@ RES.TR.Customs.Gang = {
         "Asker",
         imageId = "soldier",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["atesle1"] = {
@@ -29409,7 +29409,7 @@ RES.TR.Customs.Gang = {
         "Ateşle 1",
         imageId = "2alightitup1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["atesle2"] = {
@@ -29418,7 +29418,7 @@ RES.TR.Customs.Gang = {
         "Ateşle 2",
         imageId = "2alightitup2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["atesli"] = {
@@ -29427,7 +29427,7 @@ RES.TR.Customs.Gang = {
         "Ateşli",
         imageId = "onhots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["azrailitut"] = {
@@ -29436,7 +29436,7 @@ RES.TR.Customs.Gang = {
         "Azrail'i Tut",
         imageId = "clutchondareap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["banktaotur"] = {
@@ -29445,7 +29445,7 @@ RES.TR.Customs.Gang = {
         "Bankta Otur",
         imageId = "sitonbench",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29455,7 +29455,7 @@ RES.TR.Customs.Gang = {
         "Bap",
         imageId = "bap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bedavastil"] = {
@@ -29464,7 +29464,7 @@ RES.TR.Customs.Gang = {
         "Bedava Stil",
         imageId = "freestee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["belalar"] = {
@@ -29473,7 +29473,7 @@ RES.TR.Customs.Gang = {
         "Belalar",
         imageId = "troubles",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bespatlat"] = {
@@ -29482,7 +29482,7 @@ RES.TR.Customs.Gang = {
         "Beş Patlat",
         imageId = "popfive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["biliyorsun"] = {
@@ -29491,7 +29491,7 @@ RES.TR.Customs.Gang = {
         "Biliyorsun",
         imageId = "yktv",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bosbakis"] = {
@@ -29500,7 +29500,7 @@ RES.TR.Customs.Gang = {
         "Boş Bakış",
         imageId = "blank",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bunungibi"] = {
@@ -29509,7 +29509,7 @@ RES.TR.Customs.Gang = {
         "Bunun Gibi",
         imageId = "likedat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["burada"] = {
@@ -29518,7 +29518,7 @@ RES.TR.Customs.Gang = {
         "Burada",
         imageId = "here",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["buyukgelirler"] = {
@@ -29527,7 +29527,7 @@ RES.TR.Customs.Gang = {
         "Büyük Gelirler",
         imageId = "massiveincomes",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cakbirbeslik"] = {
@@ -29536,7 +29536,7 @@ RES.TR.Customs.Gang = {
         "Çak Bir Beşlik",
         imageId = "2acrackdafive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["carpisma"] = {
@@ -29545,7 +29545,7 @@ RES.TR.Customs.Gang = {
         "Çarpışma",
         imageId = "crash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["catidandisari"] = {
@@ -29554,7 +29554,7 @@ RES.TR.Customs.Gang = {
         "Çatıdan Dışarı",
         imageId = "outtheroof",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cephaneliksoygunu"] = {
@@ -29563,7 +29563,7 @@ RES.TR.Customs.Gang = {
         "Cephanelik Soygunu",
         imageId = "2aarmoryrobbery",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cesitler"] = {
@@ -29572,7 +29572,7 @@ RES.TR.Customs.Gang = {
         "Çeşitler",
         imageId = "flavors",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cezamicektim"] = {
@@ -29581,7 +29581,7 @@ RES.TR.Customs.Gang = {
         "Cezamı Çektim",
         imageId = "didmytime",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["chiraqisareti"] = {
@@ -29590,7 +29590,7 @@ RES.TR.Customs.Gang = {
         "Chiraq İşareti",
         imageId = "chiraqsign",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29600,7 +29600,7 @@ RES.TR.Customs.Gang = {
         "Çift Silah Pozu",
         imageId = "doublegunpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29610,7 +29610,7 @@ RES.TR.Customs.Gang = {
         "Çıldırdı",
         imageId = "wentsilly",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["cokderin"] = {
@@ -29619,7 +29619,7 @@ RES.TR.Customs.Gang = {
         "Çok Derin",
         imageId = "toodeep",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["comelmisdracokufur"] = {
@@ -29628,7 +29628,7 @@ RES.TR.Customs.Gang = {
         "Çömelmiş Draco Küfür",
         imageId = "crouchdracofuck",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29638,7 +29638,7 @@ RES.TR.Customs.Gang = {
         "Dayanmaya Çalışıyorum",
         imageId = "trynamaintain",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["delitaklidi"] = {
@@ -29647,7 +29647,7 @@ RES.TR.Customs.Gang = {
         "Deli Taklidi",
         imageId = "playcrazy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["derindusunceler"] = {
@@ -29656,7 +29656,7 @@ RES.TR.Customs.Gang = {
         "Derin Düşünceler",
         imageId = "hardthoughts",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["disslesmektenbiktim"] = {
@@ -29665,7 +29665,7 @@ RES.TR.Customs.Gang = {
         "Dissleşmekten Bıktım",
         imageId = "2atiredofdissin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dogrusecim"] = {
@@ -29674,7 +29674,7 @@ RES.TR.Customs.Gang = {
         "Doğru Seçim",
         imageId = "rightchoice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["donerekgdkselfie"] = {
@@ -29683,7 +29683,7 @@ RES.TR.Customs.Gang = {
         "Dönerek GDK Selfie",
         imageId = "spinselfiegdk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29693,7 +29693,7 @@ RES.TR.Customs.Gang = {
         "Dönerek Silah Tut",
         imageId = "spinholdglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29703,7 +29703,7 @@ RES.TR.Customs.Gang = {
         "Draco ve Sigara",
         imageId = "mwithdracblunt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29713,7 +29713,7 @@ RES.TR.Customs.Gang = {
         "Dremont Şehri",
         imageId = "dremontcity",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dugmebagimlisi"] = {
@@ -29722,7 +29722,7 @@ RES.TR.Customs.Gang = {
         "Düğme Bağımlısı",
         imageId = "buttonaddict",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["dundenhazir"] = {
@@ -29731,7 +29731,7 @@ RES.TR.Customs.Gang = {
         "Dünden Hazır",
         imageId = "2abeenready",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ekipmanigoster"] = {
@@ -29740,7 +29740,7 @@ RES.TR.Customs.Gang = {
         "Ekipmanı Göster",
         imageId = "showthegear",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["elicepteyurume"] = {
@@ -29749,7 +29749,7 @@ RES.TR.Customs.Gang = {
         "Eli Cepte Yürüme",
         imageId = "walkhandpocketpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29759,7 +29759,7 @@ RES.TR.Customs.Gang = {
         "Emanet (Blicky)",
         imageId = "2ablicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["emanetitut"] = {
@@ -29768,7 +29768,7 @@ RES.TR.Customs.Gang = {
         "Emaneti Tut",
         imageId = "holdtheblixk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["eskiglockpozu"] = {
@@ -29777,7 +29777,7 @@ RES.TR.Customs.Gang = {
         "Eski Glock Pozu",
         imageId = "oldglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29787,7 +29787,7 @@ RES.TR.Customs.Gang = {
         "Eski Telefon Pozu",
         imageId = "oldphonepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29797,7 +29797,7 @@ RES.TR.Customs.Gang = {
         "Ezikler Giremez",
         imageId = "nolame",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fedaikurban"] = {
@@ -29806,7 +29806,7 @@ RES.TR.Customs.Gang = {
         "Fedai (Kurban)",
         imageId = "crashdummy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fisiltilar"] = {
@@ -29815,7 +29815,7 @@ RES.TR.Customs.Gang = {
         "Fısıltılar",
         imageId = "whispers",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gdklaneti"] = {
@@ -29824,7 +29824,7 @@ RES.TR.Customs.Gang = {
         "GDK Laneti",
         imageId = "gdkcurse",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gdkselfie"] = {
@@ -29833,7 +29833,7 @@ RES.TR.Customs.Gang = {
         "GDK Selfie",
         imageId = "gdkselfiepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29843,7 +29843,7 @@ RES.TR.Customs.Gang = {
         "GDK Uzun Şarjör",
         imageId = "gdkextendopose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29853,7 +29853,7 @@ RES.TR.Customs.Gang = {
         "Geceyi Yap",
         imageId = "doinigh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gencvehizli"] = {
@@ -29862,7 +29862,7 @@ RES.TR.Customs.Gang = {
         "Genç ve Hızlı",
         imageId = "youngnturnt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gercekkonus"] = {
@@ -29871,7 +29871,7 @@ RES.TR.Customs.Gang = {
         "Gerçek Konuş",
         imageId = "rtht",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gericekil"] = {
@@ -29880,7 +29880,7 @@ RES.TR.Customs.Gang = {
         "Geri Çekil",
         imageId = "2agetback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["glockpozu"] = {
@@ -29889,7 +29889,7 @@ RES.TR.Customs.Gang = {
         "Glock Pozu",
         imageId = "glockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -29899,7 +29899,7 @@ RES.TR.Customs.Gang = {
         "Gözcü",
         imageId = "spotta",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gozunekestir"] = {
@@ -29908,7 +29908,7 @@ RES.TR.Customs.Gang = {
         "Gözüne Kestir",
         imageId = "2aspotsum",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["gozyasidokme"] = {
@@ -29917,7 +29917,7 @@ RES.TR.Customs.Gang = {
         "Gözyaşı Dökme",
         imageId = "sheddintears",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["grinchmodu"] = {
@@ -29926,7 +29926,7 @@ RES.TR.Customs.Gang = {
         "Grinch Modu",
         imageId = "grinchmode",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["guven"] = {
@@ -29935,7 +29935,7 @@ RES.TR.Customs.Gang = {
         "Güven",
         imageId = "trust",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hapvepara"] = {
@@ -29944,7 +29944,7 @@ RES.TR.Customs.Gang = {
         "Hap ve Para",
         imageId = "pillmoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["harca"] = {
@@ -29953,7 +29953,7 @@ RES.TR.Customs.Gang = {
         "Harca",
         imageId = "spender",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hareketsizdur"] = {
@@ -29962,7 +29962,7 @@ RES.TR.Customs.Gang = {
         "Hareketsiz Dur",
         imageId = "2astandstill",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["havaatma"] = {
@@ -29971,7 +29971,7 @@ RES.TR.Customs.Gang = {
         "Hava Atma",
         imageId = "flexin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hazirliksizyakalanma1"] = {
@@ -29980,7 +29980,7 @@ RES.TR.Customs.Gang = {
         "Hazırlıksız Yakalanma 1",
         imageId = "2acaughtoffguard1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hazirliksizyakalanma2"] = {
@@ -29989,7 +29989,7 @@ RES.TR.Customs.Gang = {
         "Hazırlıksız Yakalanma 2",
         imageId = "2acaughtoffguard2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["hazirliksizyakalanma3"] = {
@@ -29998,7 +29998,7 @@ RES.TR.Customs.Gang = {
         "Hazırlıksız Yakalanma 3",
         imageId = "2acaughtoffguard3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["heryermermi"] = {
@@ -30007,7 +30007,7 @@ RES.TR.Customs.Gang = {
         "Her Yer Mermi",
         imageId = "hollowsherehollowsthere",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["icecegikap"] = {
@@ -30016,7 +30016,7 @@ RES.TR.Customs.Gang = {
         "İçeceği Kap",
         imageId = "2agrabdajuice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ikilidracopozu"] = {
@@ -30025,7 +30025,7 @@ RES.TR.Customs.Gang = {
         "İkili Draco Pozu",
         imageId = "duomicrodracpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30035,7 +30035,7 @@ RES.TR.Customs.Gang = {
         "İkili GDK Pozu",
         imageId = "duogdkpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30045,7 +30045,7 @@ RES.TR.Customs.Gang = {
         "İkili Glock Pozu",
         imageId = "duoglockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30055,7 +30055,7 @@ RES.TR.Customs.Gang = {
         "İkili Kol & Telefon",
         imageId = "duoarmphone",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30065,7 +30065,7 @@ RES.TR.Customs.Gang = {
         "İkili L Hareketi",
         imageId = "duoldisspose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30075,7 +30075,7 @@ RES.TR.Customs.Gang = {
         "İkili Sigara Bekleme",
         imageId = "duosmokeidlepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30085,7 +30085,7 @@ RES.TR.Customs.Gang = {
         "İkili Sigara Pozu",
         imageId = "duosmokepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30095,7 +30095,7 @@ RES.TR.Customs.Gang = {
         "İkili Silah Yüze",
         imageId = "duoglockfacepose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30105,7 +30105,7 @@ RES.TR.Customs.Gang = {
         "İkiye Katla",
         imageId = "doubledat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["istekli"] = {
@@ -30114,7 +30114,7 @@ RES.TR.Customs.Gang = {
         "İstekli",
         imageId = "fein",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["iyidost"] = {
@@ -30123,7 +30123,7 @@ RES.TR.Customs.Gang = {
         "İyi Dost",
         imageId = "goodfellow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kabuslar"] = {
@@ -30132,7 +30132,7 @@ RES.TR.Customs.Gang = {
         "Kabuslar",
         imageId = "nightmares",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kacisyok"] = {
@@ -30141,7 +30141,7 @@ RES.TR.Customs.Gang = {
         "Kaçış Yok",
         imageId = "dodgenohollow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kafasiguzelhype"] = {
@@ -30150,7 +30150,7 @@ RES.TR.Customs.Gang = {
         "Kafası Güzel (Hype)",
         imageId = "geekedup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kafavurusu"] = {
@@ -30159,7 +30159,7 @@ RES.TR.Customs.Gang = {
         "Kafa Vuruşu",
         imageId = "headtaps",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kanlimary"] = {
@@ -30168,7 +30168,7 @@ RES.TR.Customs.Gang = {
         "Kanlı Mary",
         imageId = "bmary",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["karartma"] = {
@@ -30177,7 +30177,7 @@ RES.TR.Customs.Gang = {
         "Karartma",
         imageId = "blackin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kayakmaskesiver"] = {
@@ -30186,7 +30186,7 @@ RES.TR.Customs.Gang = {
         "Kayak Maskesi Ver",
         imageId = "giveaskii",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30196,7 +30196,7 @@ RES.TR.Customs.Gang = {
         "Kay Flock Pozu",
         imageId = "kayflockpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30206,7 +30206,7 @@ RES.TR.Customs.Gang = {
         "Kayıp (MIA)",
         imageId = "mia",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kizlarikiliselfie"] = {
@@ -30215,7 +30215,7 @@ RES.TR.Customs.Gang = {
         "Kızlar İkili Selfie",
         imageId = "girlduoselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30225,7 +30225,7 @@ RES.TR.Customs.Gang = {
         "Kontrol",
         imageId = "checkup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kotuluk"] = {
@@ -30234,7 +30234,7 @@ RES.TR.Customs.Gang = {
         "Kötülük",
         imageId = "evil",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kovalaonlari"] = {
@@ -30243,7 +30243,7 @@ RES.TR.Customs.Gang = {
         "Kovala Onları",
         imageId = "runemdown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kovalaonlari2"] = {
@@ -30252,7 +30252,7 @@ RES.TR.Customs.Gang = {
         "Kovala Onları 2",
         imageId = "runemdown2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kovanfirlat"] = {
@@ -30261,7 +30261,7 @@ RES.TR.Customs.Gang = {
         "Kovan Fırlat",
         imageId = "2athrowdashell",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ktsvontechpozu"] = {
@@ -30270,7 +30270,7 @@ RES.TR.Customs.Gang = {
         "KTS Von Tech Pozu",
         imageId = "ktsvontechpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30280,7 +30280,7 @@ RES.TR.Customs.Gang = {
         "Kukla 1",
         imageId = "2apuppet1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kukla1v2"] = {
@@ -30289,7 +30289,7 @@ RES.TR.Customs.Gang = {
         "Kukla 1 v2",
         imageId = "2apuppet1v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kukla2"] = {
@@ -30298,7 +30298,7 @@ RES.TR.Customs.Gang = {
         "Kukla 2",
         imageId = "2apuppet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["kurtulamiyorum"] = {
@@ -30307,7 +30307,7 @@ RES.TR.Customs.Gang = {
         "Kurtulamıyorum",
         imageId = "cantgetridofit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["laceteisareti"] = {
@@ -30316,7 +30316,7 @@ RES.TR.Customs.Gang = {
         "LA Çete İşareti",
         imageId = "ladisspose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30326,7 +30326,7 @@ RES.TR.Customs.Gang = {
         "Yaslanma ve Kan Pozu",
         imageId = "leanwbloodpose",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30336,7 +30336,7 @@ RES.TR.Customs.Gang = {
         "Mahallede",
         imageId = "ondaturf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mahvetonlari"] = {
@@ -30345,7 +30345,7 @@ RES.TR.Customs.Gang = {
         "Mahvet Onları",
         imageId = "fuckemup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["makktutusu"] = {
@@ -30354,7 +30354,7 @@ RES.TR.Customs.Gang = {
         "Makk Tutuşu",
         imageId = "2assistmakkholding",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["manyak"] = {
@@ -30363,7 +30363,7 @@ RES.TR.Customs.Gang = {
         "Manyak",
         imageId = "maniac",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["manyaklar"] = {
@@ -30372,7 +30372,7 @@ RES.TR.Customs.Gang = {
         "Manyaklar",
         imageId = "freaks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maraton"] = {
@@ -30381,7 +30381,7 @@ RES.TR.Customs.Gang = {
         "Maraton",
         imageId = "marathon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maryjaneot"] = {
@@ -30390,7 +30390,7 @@ RES.TR.Customs.Gang = {
         "Mary Jane (Ot)",
         imageId = "maryjane",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mavilerpolishuzun"] = {
@@ -30399,7 +30399,7 @@ RES.TR.Customs.Gang = {
         "Maviler (Polis/Hüzün)",
         imageId = "blues",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mekanagiris"] = {
@@ -30408,7 +30408,7 @@ RES.TR.Customs.Gang = {
         "Mekana Giriş",
         imageId = "dropin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mermibosaltma"] = {
@@ -30417,7 +30417,7 @@ RES.TR.Customs.Gang = {
         "Mermi Boşaltma",
         imageId = "2adumpin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["mickeycobradurusu"] = {
@@ -30426,7 +30426,7 @@ RES.TR.Customs.Gang = {
         "Mickey Cobra Duruşu",
         imageId = "mickeycobra",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30436,7 +30436,7 @@ RES.TR.Customs.Gang = {
         "Mickey Cobra Oturuşu",
         imageId = "mickeycobrasit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30446,7 +30446,7 @@ RES.TR.Customs.Gang = {
         "MNP",
         imageId = "mnp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["modaikonu"] = {
@@ -30455,7 +30455,7 @@ RES.TR.Customs.Gang = {
         "Moda İkonu",
         imageId = "2asettrends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["msb2glock"] = {
@@ -30464,7 +30464,7 @@ RES.TR.Customs.Gang = {
         "MSB 2 Glock",
         imageId = "msb2glock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30474,7 +30474,7 @@ RES.TR.Customs.Gang = {
         "Ne Hissetti",
         imageId = "whathefelt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nesilkosusu"] = {
@@ -30483,7 +30483,7 @@ RES.TR.Customs.Gang = {
         "Nesil Koşusu",
         imageId = "generationalrun",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["neydio"] = {
@@ -30492,7 +30492,7 @@ RES.TR.Customs.Gang = {
         "Neydi O",
         imageId = "whatitwas",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["nisanal"] = {
@@ -30501,7 +30501,7 @@ RES.TR.Customs.Gang = {
         "Nişan Al",
         imageId = "beamem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["olumdendondu"] = {
@@ -30510,7 +30510,7 @@ RES.TR.Customs.Gang = {
         "Ölümden Döndü",
         imageId = "backfromthedead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["olumeterket"] = {
@@ -30519,7 +30519,7 @@ RES.TR.Customs.Gang = {
         "Ölüme Terk Et",
         imageId = "leaveemdead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["oncuyuruyusu"] = {
@@ -30528,7 +30528,7 @@ RES.TR.Customs.Gang = {
         "Öncü Yürüyüşü",
         imageId = "walkbypioneer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["oturarakbardaksakla"] = {
@@ -30537,7 +30537,7 @@ RES.TR.Customs.Gang = {
         "Oturarak Bardak Sakla",
         imageId = "sitdodgecup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30547,7 +30547,7 @@ RES.TR.Customs.Gang = {
         "Oturarak Çift Silah",
         imageId = "sitwithtwoglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30557,7 +30557,7 @@ RES.TR.Customs.Gang = {
         "Oturarak Silahlı Küfür",
         imageId = "sitfckglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30567,7 +30567,7 @@ RES.TR.Customs.Gang = {
         "Oturarak Yaslan (Glock)",
         imageId = "sitleanglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -30577,7 +30577,7 @@ RES.TR.Customs.Gang = {
         "Oyun Başlasın",
         imageId = "playball",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ozelgdk"] = {
@@ -30586,7 +30586,7 @@ RES.TR.Customs.Gang = {
         "Özel GDK",
         imageId = "privategdk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["parapesinde"] = {
@@ -30595,7 +30595,7 @@ RES.TR.Customs.Gang = {
         "Para Peşinde",
         imageId = "chasethemoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["parayiez"] = {
@@ -30604,7 +30604,7 @@ RES.TR.Customs.Gang = {
         "Parayı Ez",
         imageId = "blowabag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["patlayici"] = {
@@ -30613,7 +30613,7 @@ RES.TR.Customs.Gang = {
         "Patlayıcı",
         imageId = "blamma",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["pervasiz"] = {
@@ -30622,7 +30622,7 @@ RES.TR.Customs.Gang = {
         "Pervasız",
         imageId = "reckless",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["polisehareketcek12"] = {
@@ -30631,7 +30631,7 @@ RES.TR.Customs.Gang = {
         "Polise Hareket Çek 12",
         imageId = "fuckda12",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rahatarptutusu"] = {
@@ -30640,7 +30640,7 @@ RES.TR.Customs.Gang = {
         "Rahat ARP Tutuşu",
         imageId = "2assistlazyarphold",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rockvepop"] = {
@@ -30649,7 +30649,7 @@ RES.TR.Customs.Gang = {
         "Rock ve Pop",
         imageId = "rocknpop",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ross"] = {
@@ -30658,7 +30658,7 @@ RES.TR.Customs.Gang = {
         "Ross",
         imageId = "ross",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sabah5"] = {
@@ -30667,7 +30667,7 @@ RES.TR.Customs.Gang = {
         "Sabah 5",
         imageId = "5am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sabah6"] = {
@@ -30676,7 +30676,7 @@ RES.TR.Customs.Gang = {
         "Sabah 6",
         imageId = "6am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sadecebiz"] = {
@@ -30685,7 +30685,7 @@ RES.TR.Customs.Gang = {
         "Sadece Biz",
         imageId = "onlyus",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["salla"] = {
@@ -30694,7 +30694,7 @@ RES.TR.Customs.Gang = {
         "Salla",
         imageId = "swinga",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["serinleme"] = {
@@ -30703,7 +30703,7 @@ RES.TR.Customs.Gang = {
         "Serinleme",
         imageId = "coolin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sert"] = {
@@ -30712,7 +30712,7 @@ RES.TR.Customs.Gang = {
         "Sert",
         imageId = "hardy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sicrat"] = {
@@ -30721,7 +30721,7 @@ RES.TR.Customs.Gang = {
         "Sıçrat",
         imageId = "splash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["siddetmarsi"] = {
@@ -30730,7 +30730,7 @@ RES.TR.Customs.Gang = {
         "Şiddet Marşı",
         imageId = "2aviolenceanthem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sikmayahazir"] = {
@@ -30739,7 +30739,7 @@ RES.TR.Customs.Gang = {
         "Sıkmaya Hazır",
         imageId = "readytodump",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirilsiklam1"] = {
@@ -30748,7 +30748,7 @@ RES.TR.Customs.Gang = {
         "Sırılsıklam 1",
         imageId = "drench1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirilsiklam2"] = {
@@ -30757,7 +30757,7 @@ RES.TR.Customs.Gang = {
         "Sırılsıklam 2",
         imageId = "drench2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirilsiklam3"] = {
@@ -30766,7 +30766,7 @@ RES.TR.Customs.Gang = {
         "Sırılsıklam 3",
         imageId = "drench3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sirilsiklam4"] = {
@@ -30775,7 +30775,7 @@ RES.TR.Customs.Gang = {
         "Sırılsıklam 4",
         imageId = "drench4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["siseiletakilmaca"] = {
@@ -30784,7 +30784,7 @@ RES.TR.Customs.Gang = {
         "Şişe ile Takılmaca",
         imageId = "2assistchillbottle",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["skorer"] = {
@@ -30793,7 +30793,7 @@ RES.TR.Customs.Gang = {
         "Skorer",
         imageId = "scora",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sokakkavgasi1"] = {
@@ -30802,7 +30802,7 @@ RES.TR.Customs.Gang = {
         "Sokak Kavgası 1",
         imageId = "brawl1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sokakkavgasi2"] = {
@@ -30811,7 +30811,7 @@ RES.TR.Customs.Gang = {
         "Sokak Kavgası 2",
         imageId = "brawl2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sonkesim"] = {
@@ -30820,7 +30820,7 @@ RES.TR.Customs.Gang = {
         "Son Kesim",
         imageId = "finalcutout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["spreyci"] = {
@@ -30829,7 +30829,7 @@ RES.TR.Customs.Gang = {
         "Spreyci",
         imageId = "spraytruster",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["sturdydansi"] = {
@@ -30838,7 +30838,7 @@ RES.TR.Customs.Gang = {
         "Sturdy Dansı",
         imageId = "2agettinsturdy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tehditmarsi"] = {
@@ -30847,7 +30847,7 @@ RES.TR.Customs.Gang = {
         "Tehdit Marşı",
         imageId = "2athreathymn",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["temizleyici"] = {
@@ -30856,7 +30856,7 @@ RES.TR.Customs.Gang = {
         "Temizleyici",
         imageId = "clearer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tetiksesi"] = {
@@ -30865,7 +30865,7 @@ RES.TR.Customs.Gang = {
         "Tetik Sesi",
         imageId = "2aclicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tetiktesin"] = {
@@ -30874,7 +30874,7 @@ RES.TR.Customs.Gang = {
         "Tetiktesin",
         imageId = "2astayonten",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tirek"] = {
@@ -30883,7 +30883,7 @@ RES.TR.Customs.Gang = {
         "Tirek",
         imageId = "tweaka",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tokatlayan"] = {
@@ -30892,7 +30892,7 @@ RES.TR.Customs.Gang = {
         "Tokatlayan",
         imageId = "smacker",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["tovbekarfedai"] = {
@@ -30901,7 +30901,7 @@ RES.TR.Customs.Gang = {
         "Tövbekar Fedai",
         imageId = "repentedcrasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ustunegit"] = {
@@ -30910,7 +30910,7 @@ RES.TR.Customs.Gang = {
         "Üstüne Git",
         imageId = "freaksonem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["utangacsilahli"] = {
@@ -30919,7 +30919,7 @@ RES.TR.Customs.Gang = {
         "Utangaç Silahlı",
         imageId = "2ashyglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["uzunnamlu"] = {
@@ -30928,7 +30928,7 @@ RES.TR.Customs.Gang = {
         "Uzun Namlu",
         imageId = "sticks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["veeski"] = {
@@ -30937,7 +30937,7 @@ RES.TR.Customs.Gang = {
         "Veeski",
         imageId = "veeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["vurgunyap"] = {
@@ -30946,7 +30946,7 @@ RES.TR.Customs.Gang = {
         "Vurgun Yap",
         imageId = "doahit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yagmurlu"] = {
@@ -30955,7 +30955,7 @@ RES.TR.Customs.Gang = {
         "Yağmurlu",
         imageId = "rainypeeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yakalabunu"] = {
@@ -30964,7 +30964,7 @@ RES.TR.Customs.Gang = {
         "Yakala Bunu",
         imageId = "catchdat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yakalandi"] = {
@@ -30973,7 +30973,7 @@ RES.TR.Customs.Gang = {
         "Yakalandı",
         imageId = "busted",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yeniayakkabilar"] = {
@@ -30982,7 +30982,7 @@ RES.TR.Customs.Gang = {
         "Yeni Ayakkabılar",
         imageId = "2anewkicks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yenimarka"] = {
@@ -30991,7 +30991,7 @@ RES.TR.Customs.Gang = {
         "Yeni Marka",
         imageId = "newbrand",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yesillerparaot"] = {
@@ -31000,7 +31000,7 @@ RES.TR.Customs.Gang = {
         "Yeşiller (Para/Ot)",
         imageId = "gotgreens",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yikici"] = {
@@ -31009,7 +31009,7 @@ RES.TR.Customs.Gang = {
         "Yıkıcı",
         imageId = "crasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["yururkensilahliselfie"] = {
@@ -31018,7 +31018,7 @@ RES.TR.Customs.Gang = {
         "Yürürken Silahlı Selfie",
         imageId = "walkwithglockselfie",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
             fixHeading = true,
         },
     },
@@ -31028,7 +31028,7 @@ RES.TR.Customs.Gang = {
         "Zaman İşliyor",
         imageId = "timetickin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["zorba"] = {
@@ -31037,7 +31037,7 @@ RES.TR.Customs.Gang = {
         "Zorba",
         imageId = "bullyer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
 }

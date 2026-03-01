@@ -28839,7 +28839,7 @@ RES.AR.Customs.Gang = {
         "1901",
         imageId = "1901",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["20_للخارج"] = {
@@ -28848,7 +28848,7 @@ RES.AR.Customs.Gang = {
         "٢٠ للخارج",
         imageId = "20sout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جيبهانيليك_سويغونو"] = {
@@ -28857,7 +28857,7 @@ RES.AR.Customs.Gang = {
         "جيبهانيليك سويغونو",
         imageId = "2aarmoryrobbery",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ار_بي_بارتيسي_1"] = {
@@ -28866,7 +28866,7 @@ RES.AR.Customs.Gang = {
         "آر بي بارتيسي ١",
         imageId = "2aarpparty1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ار_بي_بارتيسي_2"] = {
@@ -28875,7 +28875,7 @@ RES.AR.Customs.Gang = {
         "آر بي بارتيسي ٢",
         imageId = "2aarpparty2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ار_بي_بارتيسي_2_ف_2"] = {
@@ -28884,7 +28884,7 @@ RES.AR.Customs.Gang = {
         "آر بي بارتيسي ٢ ف ٢",
         imageId = "2aarpparty2v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["دوندين_هازىر"] = {
@@ -28893,7 +28893,7 @@ RES.AR.Customs.Gang = {
         "دوندين هازىر",
         imageId = "2abeenready",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["يمانيت_بليجكي"] = {
@@ -28902,7 +28902,7 @@ RES.AR.Customs.Gang = {
         "يمانيت (بليجكي)",
         imageId = "2ablicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اكاوجهتوفف_حارس_1"] = {
@@ -28911,7 +28911,7 @@ RES.AR.Customs.Gang = {
         "٢ اكاوجهتوفف حارس ١",
         imageId = "2acaughtoffguard1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اكاوجهتوفف_حارس_2"] = {
@@ -28920,7 +28920,7 @@ RES.AR.Customs.Gang = {
         "٢ اكاوجهتوفف حارس ٢",
         imageId = "2acaughtoffguard2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اكاوجهتوفف_حارس_3"] = {
@@ -28929,7 +28929,7 @@ RES.AR.Customs.Gang = {
         "٢ اكاوجهتوفف حارس ٣",
         imageId = "2acaughtoffguard3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["تيتيك_سيسي"] = {
@@ -28938,7 +28938,7 @@ RES.AR.Customs.Gang = {
         "تيتيك سيسي",
         imageId = "2aclicky",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["صفق_كفا_2"] = {
@@ -28947,7 +28947,7 @@ RES.AR.Customs.Gang = {
         "صفق كفا",
         imageId = "2acrackdafive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["رصاصة_بوشالتما"] = {
@@ -28956,7 +28956,7 @@ RES.AR.Customs.Gang = {
         "رصاصة بوشالتما",
         imageId = "2adumpin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اجيت_خلف"] = {
@@ -28965,7 +28965,7 @@ RES.AR.Customs.Gang = {
         "٢ اجيت خلف",
         imageId = "2agetback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ستوردي_رقصة"] = {
@@ -28974,7 +28974,7 @@ RES.AR.Customs.Gang = {
         "ستوردي رقصة",
         imageId = "2agettinsturdy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["يتشيجيغي_كاب"] = {
@@ -28983,7 +28983,7 @@ RES.AR.Customs.Gang = {
         "يتشيجيغي كاب",
         imageId = "2agrabdajuice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اليجهتيت_اعلى_1"] = {
@@ -28992,7 +28992,7 @@ RES.AR.Customs.Gang = {
         "٢ اليجهتيت أعلى ١",
         imageId = "2alightitup1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اليجهتيت_اعلى_2"] = {
@@ -29001,7 +29001,7 @@ RES.AR.Customs.Gang = {
         "٢ اليجهتيت أعلى ٢",
         imageId = "2alightitup2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جديد_اياككابىلار"] = {
@@ -29010,7 +29010,7 @@ RES.AR.Customs.Gang = {
         "جديد اياككابىلار",
         imageId = "2anewkicks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_فتح_تهات_اعلى"] = {
@@ -29019,7 +29019,7 @@ RES.AR.Customs.Gang = {
         "٢ فتح تهات أعلى",
         imageId = "2aopenthatup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["دمية_تحكم"] = {
@@ -29028,7 +29028,7 @@ RES.AR.Customs.Gang = {
         "دمية / تحكم",
         imageId = "2apuppet1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["دمية_تحكم_2"] = {
@@ -29037,7 +29037,7 @@ RES.AR.Customs.Gang = {
         "دمية / تحكم ٢",
         imageId = "2apuppet1v2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اعلى_بيت_2"] = {
@@ -29046,7 +29046,7 @@ RES.AR.Customs.Gang = {
         "٢ أعلى بيت ٢",
         imageId = "2apuppet2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["موضة_يكونو"] = {
@@ -29055,7 +29055,7 @@ RES.AR.Customs.Gang = {
         "موضة يكونو",
         imageId = "2asettrends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وتانغافتح_مسلح"] = {
@@ -29064,7 +29064,7 @@ RES.AR.Customs.Gang = {
         "وتانغافتح مسلح",
         imageId = "2ashyglock",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["غطويلي_كيستير"] = {
@@ -29073,7 +29073,7 @@ RES.AR.Customs.Gang = {
         "غطويلي كيستير",
         imageId = "2aspotsum",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["زجاجة_مع_تاكىلماجا"] = {
@@ -29082,7 +29082,7 @@ RES.AR.Customs.Gang = {
         "زجاجة مع تاكىلماجا",
         imageId = "2assistchillbottle",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اسسيستلازيارب_امساك"] = {
@@ -29091,7 +29091,7 @@ RES.AR.Customs.Gang = {
         "٢ اسسيستلازيارب إمساك",
         imageId = "2assistlazyarphold",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اسسيستماكك_امساك_ينج"] = {
@@ -29100,7 +29100,7 @@ RES.AR.Customs.Gang = {
         "٢ اسسيستماكك إمساك ينج",
         imageId = "2assistmakkholding",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_وقوف_ستيلل"] = {
@@ -29109,7 +29109,7 @@ RES.AR.Customs.Gang = {
         "٢ وقوف ستيلل",
         imageId = "2astandstill",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2astayonten"] = {
@@ -29118,7 +29118,7 @@ RES.AR.Customs.Gang = {
         "2astayonten",
         imageId = "2astayonten",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_اتهر_اكل_هيمن"] = {
@@ -29127,7 +29127,7 @@ RES.AR.Customs.Gang = {
         "٢ اتهر أكل هيمن",
         imageId = "2athreathymn",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["كوفان_فىرل"] = {
@@ -29136,7 +29136,7 @@ RES.AR.Customs.Gang = {
         "كوفان فىرل",
         imageId = "2athrowdashell",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_2"] = {
@@ -29145,7 +29145,7 @@ RES.AR.Customs.Gang = {
         "٢ ٢",
         imageId = "2atiredofdissin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["شيدديت_مارشى"] = {
@@ -29154,7 +29154,7 @@ RES.AR.Customs.Gang = {
         "شيدديت مارشى",
         imageId = "2aviolenceanthem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["31_يوما"] = {
@@ -29163,7 +29163,7 @@ RES.AR.Customs.Gang = {
         "٣١ يوما",
         imageId = "31days",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["50_طلقة"] = {
@@ -29172,7 +29172,7 @@ RES.AR.Customs.Gang = {
         "٥٠ طلقة",
         imageId = "50shots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["الخامسة_صباحا"] = {
@@ -29181,7 +29181,7 @@ RES.AR.Customs.Gang = {
         "الخامسة صباحا",
         imageId = "5am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["السادسة_صباحا"] = {
@@ -29190,7 +29190,7 @@ RES.AR.Customs.Gang = {
         "السادسة صباحا",
         imageId = "6am",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["الثامنة_مساء"] = {
@@ -29199,7 +29199,7 @@ RES.AR.Customs.Gang = {
         "الثامنة مساء",
         imageId = "8pm",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["اه"] = {
@@ -29208,7 +29208,7 @@ RES.AR.Customs.Gang = {
         "آه!",
         imageId = "ahhh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_ار_بي_وغلوك"] = {
@@ -29218,7 +29218,7 @@ RES.AR.Customs.Gang = {
         imageId = "arpglockpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["تهويدة_ار_اند_بي"] = {
@@ -29227,7 +29227,7 @@ RES.AR.Customs.Gang = {
         "تهويدة آر أند بي",
         imageId = "arplullaby",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["عايد_من_الموت"] = {
@@ -29236,7 +29236,7 @@ RES.AR.Customs.Gang = {
         "عائد من الموت",
         imageId = "backfromthedead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["bap"] = {
@@ -29245,7 +29245,7 @@ RES.AR.Customs.Gang = {
         "bap",
         imageId = "bap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["صوب"] = {
@@ -29254,7 +29254,7 @@ RES.AR.Customs.Gang = {
         "صوب",
         imageId = "beamem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["blackin"] = {
@@ -29263,7 +29263,7 @@ RES.AR.Customs.Gang = {
         "blackin",
         imageId = "blackin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["blamma"] = {
@@ -29272,7 +29272,7 @@ RES.AR.Customs.Gang = {
         "blamma",
         imageId = "blamma",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["نظرة_فارغة"] = {
@@ -29281,7 +29281,7 @@ RES.AR.Customs.Gang = {
         "نظرة فارغة",
         imageId = "blank",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["اصرف_المال"] = {
@@ -29290,7 +29290,7 @@ RES.AR.Customs.Gang = {
         "اصرف المال",
         imageId = "blowabag",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["الزرق"] = {
@@ -29299,7 +29299,7 @@ RES.AR.Customs.Gang = {
         "الزرق",
         imageId = "blues",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ماري_الدامية"] = {
@@ -29308,7 +29308,7 @@ RES.AR.Customs.Gang = {
         "ماري الدامية",
         imageId = "bmary",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["شجار_شارع_1"] = {
@@ -29317,7 +29317,7 @@ RES.AR.Customs.Gang = {
         "شجار شارع ١",
         imageId = "brawl1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["شجار_شارع_2"] = {
@@ -29326,7 +29326,7 @@ RES.AR.Customs.Gang = {
         "شجار شارع ٢",
         imageId = "brawl2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["متنمر"] = {
@@ -29335,7 +29335,7 @@ RES.AR.Customs.Gang = {
         "متنمر",
         imageId = "bullyer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["تم_القبض_عليه"] = {
@@ -29344,7 +29344,7 @@ RES.AR.Customs.Gang = {
         "تم القبض عليه",
         imageId = "busted",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مدمن_الازرار"] = {
@@ -29353,7 +29353,7 @@ RES.AR.Customs.Gang = {
         "مدمن الأزرار",
         imageId = "buttonaddict",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["لا_استطيع_التخلص_منه"] = {
@@ -29362,7 +29362,7 @@ RES.AR.Customs.Gang = {
         "لا أستطيع التخلص منه",
         imageId = "cantgetridofit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["امسك_هذا"] = {
@@ -29371,7 +29371,7 @@ RES.AR.Customs.Gang = {
         "أمسك هذا",
         imageId = "catchdat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مال_بيشيندي"] = {
@@ -29380,7 +29380,7 @@ RES.AR.Customs.Gang = {
         "مال بيشيندي",
         imageId = "chasethemoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["فحص"] = {
@@ -29389,7 +29389,7 @@ RES.AR.Customs.Gang = {
         "فحص",
         imageId = "checkup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جهيراق_اشارة"] = {
@@ -29399,7 +29399,7 @@ RES.AR.Customs.Gang = {
         imageId = "chiraqsign",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["منظف"] = {
@@ -29408,7 +29408,7 @@ RES.AR.Customs.Gang = {
         "منظف",
         imageId = "clearer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["امسك_بعزراييل"] = {
@@ -29417,7 +29417,7 @@ RES.AR.Customs.Gang = {
         "أمسك بعزرائيل",
         imageId = "clutchondareap",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مسترخ"] = {
@@ -29426,7 +29426,7 @@ RES.AR.Customs.Gang = {
         "مسترخ",
         imageId = "coolin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["تحطم"] = {
@@ -29435,7 +29435,7 @@ RES.AR.Customs.Gang = {
         "تحطم",
         imageId = "crash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["دمية_تصادم"] = {
@@ -29444,7 +29444,7 @@ RES.AR.Customs.Gang = {
         "دمية تصادم",
         imageId = "crashdummy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مدمر"] = {
@@ -29453,7 +29453,7 @@ RES.AR.Customs.Gang = {
         "مدمر",
         imageId = "crasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مقرفص_دراكو_شتيمة"] = {
@@ -29463,7 +29463,7 @@ RES.AR.Customs.Gang = {
         imageId = "crouchdracofuck",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["قضيت_عقوبتي"] = {
@@ -29472,7 +29472,7 @@ RES.AR.Customs.Gang = {
         "قضيت عقوبتي",
         imageId = "didmytime",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ضرب"] = {
@@ -29481,7 +29481,7 @@ RES.AR.Customs.Gang = {
         "ضرب",
         imageId = "doahit",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["تفادى_الرصاص"] = {
@@ -29490,7 +29490,7 @@ RES.AR.Customs.Gang = {
         "تفادى الرصاص",
         imageId = "dodgenohollow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ليلا"] = {
@@ -29499,7 +29499,7 @@ RES.AR.Customs.Gang = {
         "ليلا",
         imageId = "doinigh",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["doubledat"] = {
@@ -29508,7 +29508,7 @@ RES.AR.Customs.Gang = {
         "doubledat",
         imageId = "doubledat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_سلاح_مزدوج"] = {
@@ -29518,7 +29518,7 @@ RES.AR.Customs.Gang = {
         imageId = "doublegunpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مدينة_دريمونت"] = {
@@ -29527,7 +29527,7 @@ RES.AR.Customs.Gang = {
         "مدينة دريمونت",
         imageId = "dremontcity",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مبلل_تماما_1"] = {
@@ -29536,7 +29536,7 @@ RES.AR.Customs.Gang = {
         "مبلل تماما ١",
         imageId = "drench1",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مبلل_تماما_2"] = {
@@ -29545,7 +29545,7 @@ RES.AR.Customs.Gang = {
         "مبلل تماما ٢",
         imageId = "drench2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مبلل_تماما_3"] = {
@@ -29554,7 +29554,7 @@ RES.AR.Customs.Gang = {
         "مبلل تماما ٣",
         imageId = "drench3",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مبلل_تماما_4"] = {
@@ -29563,7 +29563,7 @@ RES.AR.Customs.Gang = {
         "مبلل تماما ٤",
         imageId = "drench4",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ميكانا_غيريش"] = {
@@ -29572,7 +29572,7 @@ RES.AR.Customs.Gang = {
         "ميكانا غيريش",
         imageId = "dropin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ثنايي_ذراع_هاتف"] = {
@@ -29582,7 +29582,7 @@ RES.AR.Customs.Gang = {
         imageId = "duoarmphone",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_ثنائية_مع_جي_دي_كيه"] = {
@@ -29592,7 +29592,7 @@ RES.AR.Customs.Gang = {
         imageId = "duogdkpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ثنايي_سلاح_على_الوجه"] = {
@@ -29602,7 +29602,7 @@ RES.AR.Customs.Gang = {
         imageId = "duoglockfacepose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_ثنائية_مع_غلوك"] = {
@@ -29612,7 +29612,7 @@ RES.AR.Customs.Gang = {
         imageId = "duoglockpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["قديم_اهانةوضعية"] = {
@@ -29622,7 +29622,7 @@ RES.AR.Customs.Gang = {
         imageId = "duoldisspose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_ثنائية_مع_دراكو"] = {
@@ -29632,7 +29632,7 @@ RES.AR.Customs.Gang = {
         imageId = "duomicrodracpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["duosmokeidlepose"] = {
@@ -29642,7 +29642,7 @@ RES.AR.Customs.Gang = {
         imageId = "duosmokeidlepose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_ثنائية_مع_سيجارة"] = {
@@ -29652,7 +29652,7 @@ RES.AR.Customs.Gang = {
         imageId = "duosmokepose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["شر"] = {
@@ -29661,7 +29661,7 @@ RES.AR.Customs.Gang = {
         "شر",
         imageId = "evil",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fein"] = {
@@ -29670,7 +29670,7 @@ RES.AR.Customs.Gang = {
         "fein",
         imageId = "fein",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["القطع_النهايي"] = {
@@ -29679,7 +29679,7 @@ RES.AR.Customs.Gang = {
         "القطع النهائي",
         imageId = "finalcutout",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مصافحة_مميزة"] = {
@@ -29688,7 +29688,7 @@ RES.AR.Customs.Gang = {
         "مصافحة مميزة",
         imageId = "flavors",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["هواء_ما"] = {
@@ -29697,7 +29697,7 @@ RES.AR.Customs.Gang = {
         "هواء ما",
         imageId = "flexin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["fluent"] = {
@@ -29706,7 +29706,7 @@ RES.AR.Customs.Gang = {
         "fluent",
         imageId = "fluent",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["freaks"] = {
@@ -29715,7 +29715,7 @@ RES.AR.Customs.Gang = {
         "freaks",
         imageId = "freaks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["freaksonem"] = {
@@ -29724,7 +29724,7 @@ RES.AR.Customs.Gang = {
         "freaksonem",
         imageId = "freaksonem",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["اسلوب_حر"] = {
@@ -29733,7 +29733,7 @@ RES.AR.Customs.Gang = {
         "أسلوب حر",
         imageId = "freestee",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["friends"] = {
@@ -29742,7 +29742,7 @@ RES.AR.Customs.Gang = {
         "friends",
         imageId = "friends",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["اشارة_ضد_الشرطة_12"] = {
@@ -29751,7 +29751,7 @@ RES.AR.Customs.Gang = {
         "إشارة ضد الشرطة ١٢",
         imageId = "fuckda12",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["فوككيم_اعلى"] = {
@@ -29760,7 +29760,7 @@ RES.AR.Customs.Gang = {
         "فوككيم أعلى",
         imageId = "fuckemup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["لعنة_جي_دي_كيه"] = {
@@ -29769,7 +29769,7 @@ RES.AR.Customs.Gang = {
         "لعنة جي دي كيه",
         imageId = "gdkcurse",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جي_دي_كيه_طويل_مخزن"] = {
@@ -29779,7 +29779,7 @@ RES.AR.Customs.Gang = {
         imageId = "gdkextendopose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جي_دي_كيه_سيلفي"] = {
@@ -29789,7 +29789,7 @@ RES.AR.Customs.Gang = {
         imageId = "gdkselfiepose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["منتش"] = {
@@ -29798,7 +29798,7 @@ RES.AR.Customs.Gang = {
         "منتش",
         imageId = "geekedup",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جري_الاجيال"] = {
@@ -29807,7 +29807,7 @@ RES.AR.Customs.Gang = {
         "جري الأجيال",
         imageId = "generationalrun",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["بن_سيلفي_ثنايي"] = {
@@ -29817,7 +29817,7 @@ RES.AR.Customs.Gang = {
         imageId = "girlduoselfie",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["كاياك_قناعيسي_اعط"] = {
@@ -29827,7 +29827,7 @@ RES.AR.Customs.Gang = {
         imageId = "giveaskii",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_غلوك"] = {
@@ -29837,7 +29837,7 @@ RES.AR.Customs.Gang = {
         imageId = "glockpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["صديق_طيب"] = {
@@ -29846,7 +29846,7 @@ RES.AR.Customs.Gang = {
         "صديق طيب",
         imageId = "goodfellow",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["معي_فلوس"] = {
@@ -29855,7 +29855,7 @@ RES.AR.Customs.Gang = {
         "معي فلوس",
         imageId = "gotgreens",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضع_غرينش"] = {
@@ -29864,7 +29864,7 @@ RES.AR.Customs.Gang = {
         "وضع غرينش",
         imageId = "grinchmode",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["افكار_عميقة"] = {
@@ -29873,7 +29873,7 @@ RES.AR.Customs.Gang = {
         "أفكار عميقة",
         imageId = "hardthoughts",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["قاس"] = {
@@ -29882,7 +29882,7 @@ RES.AR.Customs.Gang = {
         "قاس",
         imageId = "hardy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ربتات_على_الراس"] = {
@@ -29891,7 +29891,7 @@ RES.AR.Customs.Gang = {
         "ربتات على الرأس",
         imageId = "headtaps",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["here"] = {
@@ -29900,7 +29900,7 @@ RES.AR.Customs.Gang = {
         "here",
         imageId = "here",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["امساك_تهيبليكسك"] = {
@@ -29909,7 +29909,7 @@ RES.AR.Customs.Gang = {
         "إمساك تهيبليكسك",
         imageId = "holdtheblixk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["رصاص_في_كل_مكان"] = {
@@ -29918,7 +29918,7 @@ RES.AR.Customs.Gang = {
         "رصاص في كل مكان",
         imageId = "hollowsherehollowsthere",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["الم"] = {
@@ -29927,7 +29927,7 @@ RES.AR.Customs.Gang = {
         "الم",
         imageId = "hurt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["كاي_فلوك_وضعية"] = {
@@ -29937,7 +29937,7 @@ RES.AR.Customs.Gang = {
         imageId = "kayflockpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["كي_تي_اس_فون_تيك_وضعية"] = {
@@ -29947,7 +29947,7 @@ RES.AR.Customs.Gang = {
         imageId = "ktsvontechpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ال_ايه_اشارة_عصابة"] = {
@@ -29957,7 +29957,7 @@ RES.AR.Customs.Gang = {
         imageId = "ladisspose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["اتكاء_مع_دم"] = {
@@ -29967,7 +29967,7 @@ RES.AR.Customs.Gang = {
         imageId = "leanwbloodpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ليافييم_ميت"] = {
@@ -29976,7 +29976,7 @@ RES.AR.Customs.Gang = {
         "ليافييم ميت",
         imageId = "leaveemdead",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["likedat"] = {
@@ -29985,7 +29985,7 @@ RES.AR.Customs.Gang = {
         "likedat",
         imageId = "likedat",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["نظرة_خلف"] = {
@@ -29994,7 +29994,7 @@ RES.AR.Customs.Gang = {
         "نظرة خلف",
         imageId = "lookmyback",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["maniac"] = {
@@ -30003,7 +30003,7 @@ RES.AR.Customs.Gang = {
         "maniac",
         imageId = "maniac",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["marathon"] = {
@@ -30012,7 +30012,7 @@ RES.AR.Customs.Gang = {
         "marathon",
         imageId = "marathon",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ماري_جين"] = {
@@ -30021,7 +30021,7 @@ RES.AR.Customs.Gang = {
         "ماري جين",
         imageId = "maryjane",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مداخيل_ضخمة"] = {
@@ -30030,7 +30030,7 @@ RES.AR.Customs.Gang = {
         "مداخيل ضخمة",
         imageId = "massiveincomes",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ذكريات"] = {
@@ -30039,7 +30039,7 @@ RES.AR.Customs.Gang = {
         "ذكريات",
         imageId = "memories",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["2_3"] = {
@@ -30048,7 +30048,7 @@ RES.AR.Customs.Gang = {
         "٢ ٣",
         imageId = "mia",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ميكيي_كوبرا_وقفة"] = {
@@ -30058,7 +30058,7 @@ RES.AR.Customs.Gang = {
         imageId = "mickeycobra",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ميككييكوبرا_جلوس"] = {
@@ -30068,7 +30068,7 @@ RES.AR.Customs.Gang = {
         imageId = "mickeycobrasit",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ام_ان_بي"] = {
@@ -30077,7 +30077,7 @@ RES.AR.Customs.Gang = {
         "إم إن بي",
         imageId = "mnp",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ام_اس_بي_2_غلوك"] = {
@@ -30087,7 +30087,7 @@ RES.AR.Customs.Gang = {
         imageId = "msb2glock",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مع_دراكبلونت"] = {
@@ -30097,7 +30097,7 @@ RES.AR.Customs.Gang = {
         imageId = "mwithdracblunt",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جديد_مخلف"] = {
@@ -30106,7 +30106,7 @@ RES.AR.Customs.Gang = {
         "جديد مخلف",
         imageId = "newbrand",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["كوابيس"] = {
@@ -30115,7 +30115,7 @@ RES.AR.Customs.Gang = {
         "كوابيس",
         imageId = "nightmares",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["لا_اعذار"] = {
@@ -30124,7 +30124,7 @@ RES.AR.Customs.Gang = {
         "لا أعذار",
         imageId = "nolame",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["قديم_وضعية_غلوك"] = {
@@ -30134,7 +30134,7 @@ RES.AR.Customs.Gang = {
         imageId = "oldglockpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["هاتف_قديم"] = {
@@ -30144,7 +30144,7 @@ RES.AR.Customs.Gang = {
         imageId = "oldphonepose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ondaturf"] = {
@@ -30153,7 +30153,7 @@ RES.AR.Customs.Gang = {
         "ondaturf",
         imageId = "ondaturf",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["على_الساخن"] = {
@@ -30162,7 +30162,7 @@ RES.AR.Customs.Gang = {
         "على الساخن",
         imageId = "onhots",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["فقط_نحن"] = {
@@ -30171,7 +30171,7 @@ RES.AR.Customs.Gang = {
         "فقط نحن",
         imageId = "onlyus",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["الخروج_عبر_السقف"] = {
@@ -30180,7 +30180,7 @@ RES.AR.Customs.Gang = {
         "الخروج عبر السقف",
         imageId = "outtheroof",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["هاب_و_مال"] = {
@@ -30189,7 +30189,7 @@ RES.AR.Customs.Gang = {
         "هاب و مال",
         imageId = "pillmoney",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["لنبدا_اللعب"] = {
@@ -30198,7 +30198,7 @@ RES.AR.Customs.Gang = {
         "لنبدأ اللعب",
         imageId = "playball",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ديلي_تاكليدي"] = {
@@ -30207,7 +30207,7 @@ RES.AR.Customs.Gang = {
         "ديلي تاكليدي",
         imageId = "playcrazy",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["صفق_كفا"] = {
@@ -30216,7 +30216,7 @@ RES.AR.Customs.Gang = {
         "صفق كفا",
         imageId = "popfive",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جي_دي_كيه_الخاص"] = {
@@ -30225,7 +30225,7 @@ RES.AR.Customs.Gang = {
         "جي دي كيه الخاص",
         imageId = "privategdk",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["rainypeeski"] = {
@@ -30234,7 +30234,7 @@ RES.AR.Customs.Gang = {
         "rainypeeski",
         imageId = "rainypeeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جاهز_للتفريغ"] = {
@@ -30243,7 +30243,7 @@ RES.AR.Customs.Gang = {
         "جاهز للتفريغ",
         imageId = "readytodump",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["reckless"] = {
@@ -30252,7 +30252,7 @@ RES.AR.Customs.Gang = {
         "reckless",
         imageId = "reckless",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["فدايي_تايب"] = {
@@ -30261,7 +30261,7 @@ RES.AR.Customs.Gang = {
         "فدائي تائب",
         imageId = "repentedcrasher",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["الاختيار_الصحيح"] = {
@@ -30270,7 +30270,7 @@ RES.AR.Customs.Gang = {
         "الاختيار الصحيح",
         imageId = "rightchoice",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["روك_وبوب"] = {
@@ -30279,7 +30279,7 @@ RES.AR.Customs.Gang = {
         "روك وبوب",
         imageId = "rocknpop",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ross"] = {
@@ -30288,7 +30288,7 @@ RES.AR.Customs.Gang = {
         "ross",
         imageId = "ross",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["كلام_صادق"] = {
@@ -30297,7 +30297,7 @@ RES.AR.Customs.Gang = {
         "كلام صادق",
         imageId = "rtht",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ركض_اسفل"] = {
@@ -30306,7 +30306,7 @@ RES.AR.Customs.Gang = {
         "ركض أسفل",
         imageId = "runemdown",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ركض_اسفل_2"] = {
@@ -30315,7 +30315,7 @@ RES.AR.Customs.Gang = {
         "ركض أسفل ٢",
         imageId = "runemdown2",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["هداف"] = {
@@ -30324,7 +30324,7 @@ RES.AR.Customs.Gang = {
         "هداف",
         imageId = "scora",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ذرف_الدموع"] = {
@@ -30333,7 +30333,7 @@ RES.AR.Customs.Gang = {
         "ذرف الدموع",
         imageId = "sheddintears",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["يكيبمانى_ار"] = {
@@ -30342,7 +30342,7 @@ RES.AR.Customs.Gang = {
         "يكيبمانى أر",
         imageId = "showthegear",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جلوس_دودجيك_اعلى"] = {
@@ -30352,7 +30352,7 @@ RES.AR.Customs.Gang = {
         imageId = "sitdodgecup",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جلوس_فككجلوكك"] = {
@@ -30362,7 +30362,7 @@ RES.AR.Customs.Gang = {
         imageId = "sitfckglock",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جلوس_اتكاء_جلوكك"] = {
@@ -30372,7 +30372,7 @@ RES.AR.Customs.Gang = {
         imageId = "sitleanglock",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جلوس_على_المقعد"] = {
@@ -30382,7 +30382,7 @@ RES.AR.Customs.Gang = {
         imageId = "sitonbench",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["جلوس_مع_تووجلوكك"] = {
@@ -30392,7 +30392,7 @@ RES.AR.Customs.Gang = {
         imageId = "sitwithtwoglock",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["smacker"] = {
@@ -30401,7 +30401,7 @@ RES.AR.Customs.Gang = {
         "smacker",
         imageId = "smacker",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["soldier"] = {
@@ -30410,7 +30410,7 @@ RES.AR.Customs.Gang = {
         "soldier",
         imageId = "soldier",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["spender"] = {
@@ -30419,7 +30419,7 @@ RES.AR.Customs.Gang = {
         "spender",
         imageId = "spender",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["امساك_الغلوك_اثناء_الدوران"] = {
@@ -30429,7 +30429,7 @@ RES.AR.Customs.Gang = {
         imageId = "spinholdglock",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["اثناء_الدوران_جي_دي_كيه_سيلفي"] = {
@@ -30439,7 +30439,7 @@ RES.AR.Customs.Gang = {
         imageId = "spinselfiegdk",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["سيلفي_مع_ار_بي_اثناء_الدوران"] = {
@@ -30449,7 +30449,7 @@ RES.AR.Customs.Gang = {
         imageId = "spinselfieholdarp",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["splash"] = {
@@ -30458,7 +30458,7 @@ RES.AR.Customs.Gang = {
         "splash",
         imageId = "splash",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["spotta"] = {
@@ -30467,7 +30467,7 @@ RES.AR.Customs.Gang = {
         "spotta",
         imageId = "spotta",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["يثق_بالرش"] = {
@@ -30476,7 +30476,7 @@ RES.AR.Customs.Gang = {
         "يثق بالرش",
         imageId = "spraytruster",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["سبطانة_طويلة"] = {
@@ -30485,7 +30485,7 @@ RES.AR.Customs.Gang = {
         "سبطانة طويلة",
         imageId = "sticks",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["لوح"] = {
@@ -30494,7 +30494,7 @@ RES.AR.Customs.Gang = {
         "لوح",
         imageId = "swinga",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["في_السيارة_تيك_9"] = {
@@ -30504,7 +30504,7 @@ RES.AR.Customs.Gang = {
         imageId = "tech9car",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["وضعية_ثلاث_مسدسات_غلوك"] = {
@@ -30514,7 +30514,7 @@ RES.AR.Customs.Gang = {
         imageId = "threeglockpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["الوقت_يمضي"] = {
@@ -30523,7 +30523,7 @@ RES.AR.Customs.Gang = {
         "الوقت يمضي",
         imageId = "timetickin",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["عميق_جدا"] = {
@@ -30532,7 +30532,7 @@ RES.AR.Customs.Gang = {
         "عميق جداً",
         imageId = "toodeep",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["troubles"] = {
@@ -30541,7 +30541,7 @@ RES.AR.Customs.Gang = {
         "troubles",
         imageId = "troubles",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["trust"] = {
@@ -30550,7 +30550,7 @@ RES.AR.Customs.Gang = {
         "trust",
         imageId = "trust",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["احاول_الصمود"] = {
@@ -30559,7 +30559,7 @@ RES.AR.Customs.Gang = {
         "أحاول الصمود",
         imageId = "trynamaintain",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["صاح"] = {
@@ -30568,7 +30568,7 @@ RES.AR.Customs.Gang = {
         "صاح",
         imageId = "tweaka",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["في_السيارة_سلاح_مزدوج"] = {
@@ -30578,7 +30578,7 @@ RES.AR.Customs.Gang = {
         imageId = "twoguncarpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["veeski"] = {
@@ -30587,7 +30587,7 @@ RES.AR.Customs.Gang = {
         "veeski",
         imageId = "veeski",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["امش_كالرايد"] = {
@@ -30596,7 +30596,7 @@ RES.AR.Customs.Gang = {
         "امش كالرائد",
         imageId = "walkbypioneer",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["اليد_في_الجيب_مشي"] = {
@@ -30606,7 +30606,7 @@ RES.AR.Customs.Gang = {
         imageId = "walkhandpocketpose",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["مشي_مع_جلوكك_سيلفي"] = {
@@ -30616,7 +30616,7 @@ RES.AR.Customs.Gang = {
         imageId = "walkwithglockselfie",
         AnimationOptions = {
             fixHeading = true,
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["تصرف_أحمق"] = {
@@ -30625,7 +30625,7 @@ RES.AR.Customs.Gang = {
         "تصرف أحمق",
         imageId = "wentsilly",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ماذا_شعر"] = {
@@ -30634,7 +30634,7 @@ RES.AR.Customs.Gang = {
         "ماذا شعر",
         imageId = "whathefelt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["ما_كان_ذلك"] = {
@@ -30643,7 +30643,7 @@ RES.AR.Customs.Gang = {
         "ما كان ذلك",
         imageId = "whatitwas",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["whispers"] = {
@@ -30652,7 +30652,7 @@ RES.AR.Customs.Gang = {
         "whispers",
         imageId = "whispers",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["انت_تعرف"] = {
@@ -30661,7 +30661,7 @@ RES.AR.Customs.Gang = {
         "أنت تعرف",
         imageId = "yktv",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
     ["شاب_ومتحمس"] = {
@@ -30670,7 +30670,7 @@ RES.AR.Customs.Gang = {
         "شاب ومتحمس",
         imageId = "youngnturnt",
         AnimationOptions = {
-            onFootFlag = Config.AnimFlag.LOOP,
+            onFootFlag = Config.AnimFlagNumbers.Loop,
         },
     },
 }
