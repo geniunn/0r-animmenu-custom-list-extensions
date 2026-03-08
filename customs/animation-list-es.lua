@@ -31320,7 +31320,7 @@ RES.ES.Customs.Gang = {
     },
 }
 
-RES.ES.Customs.ERPEmotes = {
+RES.ES.Customs.EEmotes = {
     ["013Anim"] = {
         "cowgirl@sinkra",
         "cowgirl_clip",
