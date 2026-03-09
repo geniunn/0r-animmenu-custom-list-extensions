@@ -1,3 +1,5 @@
+Watch [**documentation video**](https://www.youtube.com/watch?v=Hg9mRvgmiZc)
+
 **Big thanks to [alberttheprince](https://github.com/alberttheprince) for the work put into [rpemotes-reborn](https://github.com/alberttheprince/rpemotes-reborn).**
 
 Really appreciate the effort and time behind this project. It clearly adds value to the RP experience.
